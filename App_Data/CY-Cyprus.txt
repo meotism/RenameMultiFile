@@ -1,0 +1,1128 @@
+CY	5521		Famagusta	FA	Acheritou						
+CY	5500		Famagusta	FA	Achna						
+CY	5560		Famagusta	FA	Afanteia - Ornithi						
+CY	5330		Famagusta	FA	Agia Napa						
+CY	5391		Famagusta	FA	Agia Thekla						
+CY	5870		Famagusta	FA	Agia Trias						
+CY	5820		Famagusta	FA	Agios Andronikos Karpasias						
+CY	5761		Famagusta	FA	Agios Andronikos Trikomou						
+CY	5651		Famagusta	FA	Agios Chariton						
+CY	5721		Famagusta	FA	Agios Efstathios						
+CY	5872		Famagusta	FA	Agios Filon						
+CY	5520		Famagusta	FA	Agios Georgios Acheritou						
+CY	5720		Famagusta	FA	Agios Georgios Ammochostou						
+CY	5762		Famagusta	FA	Agios Iakovos						
+CY	5722		Famagusta	FA	Agios Ilias						
+CY	5620		Famagusta	FA	Agios Nikolaos Ammochostou						
+CY	5621		Famagusta	FA	Agios Sergios						
+CY	5821		Famagusta	FA	Agios Symeon						
+CY	5723		Famagusta	FA	Agios Theodoros Ammochostou						
+CY	5871		Famagusta	FA	Agios Therissos						
+CY	5800		Famagusta	FA	Aigialousa						
+CY	5750		Famagusta	FA	Akanthou						
+CY	5623		Famagusta	FA	Aloda						
+CY	5000		Famagusta	FA	Ammochostos						
+CY	5652		Famagusta	FA	Angastina						
+CY	5763		Famagusta	FA	Ardana						
+CY	5724		Famagusta	FA	Arnadi						
+CY	5622		Famagusta	FA	Artemi						
+CY	5561		Famagusta	FA	Asseia (Askeia)						
+CY	5725		Famagusta	FA	Avgolida						
+CY	5510		Famagusta	FA	Avgorou						
+CY	5731		Famagusta	FA	Bogazi						
+CY	5878		Famagusta	FA	Chelones						
+CY	5523		Famagusta	FA	Dasaki Achnas						
+CY	5765		Famagusta	FA	Davlos						
+CY	5380		Famagusta	FA	Deryneia						
+CY	5627		Famagusta	FA	Egkomi Ammochostou						
+CY	5824		Famagusta	FA	Eptakomi						
+CY	5771		Famagusta	FA	Flamoudi						
+CY	5350		Famagusta	FA	Frenaros						
+CY	5624		Famagusta	FA	Gaidouras (Nea Sparti)						
+CY	5825		Famagusta	FA	Galateia						
+CY	5874		Famagusta	FA	Galinoporni						
+CY	5727		Famagusta	FA	Gastria						
+CY	5655		Famagusta	FA	Genagra						
+CY	5764		Famagusta	FA	Gerani						
+CY	5625		Famagusta	FA	Goufes						
+CY	5626		Famagusta	FA	Gypsou						
+CY	5563		Famagusta	FA	Kalopsida						
+CY	5766		Famagusta	FA	Kantara						
+CY	5370		Famagusta	FA	Kato Deryneia						
+CY	5654		Famagusta	FA	Kiados (Tziaos)						
+CY	5656		Famagusta	FA	Knodara						
+CY	5826		Famagusta	FA	Koilanemos						
+CY	5827		Famagusta	FA	Koma Tou Gialou						
+CY	5828		Famagusta	FA	Komi (Komi Kepir)						
+CY	5564		Famagusta	FA	Kontea						
+CY	5657		Famagusta	FA	Kornokipos						
+CY	5875		Famagusta	FA	Koroveia						
+CY	5565		Famagusta	FA	Kouklia Ammochostou						
+CY	5767		Famagusta	FA	Krideia						
+CY	5728		Famagusta	FA	Lapathos						
+CY	5600		Famagusta	FA	Lefkonoiko						
+CY	5829		Famagusta	FA	Leonarisso						
+CY	5628		Famagusta	FA	Limnia						
+CY	5320		Famagusta	FA	Liopetri						
+CY	5729		Famagusta	FA	Livadia Ammochostou						
+CY	5540		Famagusta	FA	Lysi						
+CY	5830		Famagusta	FA	Lythragkomi						
+CY	5566		Famagusta	FA	Makrasyka						
+CY	5768		Famagusta	FA	Mandres Ammochostou						
+CY	5629		Famagusta	FA	Maratha						
+CY	5650		Famagusta	FA	Marathovounos						
+CY	5831		Famagusta	FA	Melanarga						
+CY	5630		Famagusta	FA	Melounta						
+CY	5631		Famagusta	FA	Milia Ammochostou						
+CY	5730		Famagusta	FA	Monarga						
+CY	5524		Famagusta	FA	Moni Agiou Kendea						
+CY	5873		Famagusta	FA	Moni Apostolou Andrea						
+CY	5632		Famagusta	FA	Moni Apostolou Varnava						
+CY	5877		Famagusta	FA	Moni Panagias Eleousas						
+CY	5658		Famagusta	FA	Mousoulita						
+CY	5832		Famagusta	FA	Neta						
+CY	5769		Famagusta	FA	Ovgoros						
+CY	5280		Famagusta	FA	Ovgoros						
+CY	5281		Famagusta	FA	Ovgoros						
+CY	5282		Famagusta	FA	Ovgoros						
+CY	5283		Famagusta	FA	Ovgoros						
+CY	5284		Famagusta	FA	Ovgoros						
+CY	5285		Famagusta	FA	Ovgoros						
+CY	5286		Famagusta	FA	Ovgoros						
+CY	5288		Famagusta	FA	Ovgoros						
+CY	5289		Famagusta	FA	Ovgoros						
+CY	5290		Famagusta	FA	Ovgoros						
+CY	5291		Famagusta	FA	Ovgoros						
+CY	5292		Famagusta	FA	Ovgoros						
+CY	5295		Famagusta	FA	Ovgoros						
+CY	5296		Famagusta	FA	Ovgoros						
+CY	5297		Famagusta	FA	Paralimni						
+CY	5732		Famagusta	FA	Patriki						
+CY	5633		Famagusta	FA	Peristerona Ammochostou						
+CY	5733		Famagusta	FA	Perivolia Trikomou						
+CY	5634		Famagusta	FA	Pigi						
+CY	5770		Famagusta	FA	Platani						
+CY	5833		Famagusta	FA	Platanissos						
+CY	5635		Famagusta	FA	Prastio Ammochostou						
+CY	5661		Famagusta	FA	Psyllatos						
+CY	5659		Famagusta	FA	Pyrga Ammochostou						
+CY	5850		Famagusta	FA	Rizokarpaso						
+CY	5636		Famagusta	FA	Salamina						
+CY	5637		Famagusta	FA	Santalaris						
+CY	5567		Famagusta	FA	Sinta						
+CY	5390		Famagusta	FA	Sotira Ammochostou						
+CY	5734		Famagusta	FA	Spathariko						
+CY	5876		Famagusta	FA	Stathmos Koroveias						
+CY	5568		Famagusta	FA	Strongylos						
+CY	5525		Famagusta	FA	Strovili						
+CY	5638		Famagusta	FA	Stylloi						
+CY	5735		Famagusta	FA	Sygkrasi						
+CY	5834		Famagusta	FA	Tavrou						
+CY	5700		Famagusta	FA	Trikomo						
+CY	5660		Famagusta	FA	Trypimeni						
+CY	5823		Famagusta	FA	Vasili						
+CY	5562		Famagusta	FA	Vatili						
+CY	5653		Famagusta	FA	Vitsada						
+CY	5726		Famagusta	FA	Vokolida						
+CY	5822		Famagusta	FA	Vothylakas						
+CY	5522		Famagusta	FA	Vrysoules						
+CY	9610		Kyrenia	KY	Agia Eirini Keryneias						
+CY	9560		Kyrenia	KY	Agios Amvrosios Keryneias						
+CY	9500		Kyrenia	KY	Agios Epiktitos						
+CY	9611		Kyrenia	KY	Agios Ermolaos						
+CY	9390		Kyrenia	KY	Agios Georgios Keryneias						
+CY	9541		Kyrenia	KY	Agirda						
+CY	9612		Kyrenia	KY	Agridaki						
+CY	9570		Kyrenia	KY	Armenomonastiro						
+CY	9613		Kyrenia	KY	Asomatos Keryneias						
+CY	9514		Kyrenia	KY	Belapais						
+CY	9576		Kyrenia	KY	Chalefka						
+CY	9577		Kyrenia	KY	Charkeia (Chartseia)						
+CY	9614		Kyrenia	KY	Diorios						
+CY	9632		Kyrenia	KY	Elia Keryneias						
+CY	9551		Kyrenia	KY	Fota						
+CY	9639		Kyrenia	KY	Ftericha						
+CY	9571		Kyrenia	KY	Kalograia						
+CY	9615		Kyrenia	KY	Kampyli						
+CY	9512		Kyrenia	KY	Karakoumi						
+CY	9200		Kyrenia	KY	Karavas						
+CY	9513		Kyrenia	KY	Karmi						
+CY	9616		Kyrenia	KY	Karpaseia						
+CY	9530		Kyrenia	KY	Kato Dikomo						
+CY	9511		Kyrenia	KY	Kazafani						
+CY	9000		Kyrenia	KY	Keryneia						
+CY	9543		Kyrenia	KY	Kioumourtziou						
+CY	9572		Kyrenia	KY	Klepini						
+CY	9617		Kyrenia	KY	Kontemenos						
+CY	9618		Kyrenia	KY	Kormakitis						
+CY	9544		Kyrenia	KY	Koutsoventis						
+CY	9545		Kyrenia	KY	Krini						
+CY	9300		Kyrenia	KY	Lapithos						
+CY	9619		Kyrenia	KY	Larnakas Lapithou						
+CY	9633		Kyrenia	KY	Livera						
+CY	9634		Kyrenia	KY	Moni Acheiropoiitou						
+CY	9546		Kyrenia	KY	Moni Agiou Chrysostomou						
+CY	9621		Kyrenia	KY	Moni Agiou Panteleimonos						
+CY	9573		Kyrenia	KY	Moni Antifoniti						
+CY	9574		Kyrenia	KY	Moni Panagias Melandrinas						
+CY	9635		Kyrenia	KY	Motides						
+CY	9600		Kyrenia	KY	Myrtou						
+CY	9547		Kyrenia	KY	Onisia						
+CY	9636		Kyrenia	KY	Orga						
+CY	9637		Kyrenia	KY	Palaiosofos						
+CY	9638		Kyrenia	KY	Panagra						
+CY	9540		Kyrenia	KY	Pano Dikomo						
+CY	9548		Kyrenia	KY	Pyleri						
+CY	9549		Kyrenia	KY	Sichari						
+CY	9550		Kyrenia	KY	Stathmos Bogaziou						
+CY	9620		Kyrenia	KY	Sysklipos						
+CY	9515		Kyrenia	KY	Templos						
+CY	9510		Kyrenia	KY	Thermeia						
+CY	9575		Kyrenia	KY	Trapeza						
+CY	9516		Kyrenia	KY	Trimithi						
+CY	9631		Kyrenia	KY	Vasileia						
+CY	9630		Kyrenia	KY	Vavylas						
+CY	9542		Kyrenia	KY	Vouno						
+CY	7641		Larnaca	LA	Agia Anna						
+CY	7711		Larnaca	LA	Agioi Vavatsinias						
+CY	7730		Larnaca	LA	Agios Theodoros Larnakas						
+CY	7572		Larnaca	LA	Alaminos						
+CY	7570		Larnaca	LA	Alethriko						
+CY	7573		Larnaca	LA	Anafotida						
+CY	6370		Larnaca	LA	Anglikos Stratos Dekeleias						
+CY	7571		Larnaca	LA	Anglisides						
+CY	7574		Larnaca	LA	Aplanta						
+CY	7100		Larnaca	LA	Aplanta						
+CY	7101		Larnaca	LA	Aplanta						
+CY	7102		Larnaca	LA	Aplanta						
+CY	7103		Larnaca	LA	Aplanta						
+CY	7104		Larnaca	LA	Aplanta						
+CY	7105		Larnaca	LA	Aradippou						
+CY	7620		Larnaca	LA	Arsos Larnakas						
+CY	7600		Larnaca	LA	Athienou						
+CY	7501		Larnaca	LA	Avdellero						
+CY	7741		Larnaca	LA	Choirokoitia						
+CY	7502		Larnaca	LA	Dekeleia						
+CY	7642		Larnaca	LA	Delikipos						
+CY	7722		Larnaca	LA	Drapeia						
+CY	7020		Larnaca	LA	Dromolaxia						
+CY	7733		Larnaca	LA	Kalavasos						
+CY	7643		Larnaca	LA	Kalo Chorio Larnakas						
+CY	7714		Larnaca	LA	Kato Drys						
+CY	7710		Larnaca	LA	Kato Lefkara						
+CY	7503		Larnaca	LA	Kellia						
+CY	7550		Larnaca	LA	Kiti						
+CY	7575		Larnaca	LA	Kivisili						
+CY	7576		Larnaca	LA	Klavdia						
+CY	7735		Larnaca	LA	Kofinou						
+CY	7640		Larnaca	LA	Kornos						
+CY	7621		Larnaca	LA	Kosi						
+CY	7715		Larnaca	LA	Lageia						
+CY	6010		Larnaca	LA	Lageia						
+CY	6011		Larnaca	LA	Lageia						
+CY	6012		Larnaca	LA	Lageia						
+CY	6013		Larnaca	LA	Lageia						
+CY	6015		Larnaca	LA	Lageia						
+CY	6016		Larnaca	LA	Lageia						
+CY	6017		Larnaca	LA	Lageia						
+CY	6018		Larnaca	LA	Lageia						
+CY	6019		Larnaca	LA	Lageia						
+CY	6020		Larnaca	LA	Lageia						
+CY	6021		Larnaca	LA	Lageia						
+CY	6022		Larnaca	LA	Lageia						
+CY	6023		Larnaca	LA	Lageia						
+CY	6025		Larnaca	LA	Lageia						
+CY	6026		Larnaca	LA	Lageia						
+CY	6027		Larnaca	LA	Lageia						
+CY	6028		Larnaca	LA	Lageia						
+CY	6030		Larnaca	LA	Lageia						
+CY	6031		Larnaca	LA	Lageia						
+CY	6035		Larnaca	LA	Lageia						
+CY	6036		Larnaca	LA	Lageia						
+CY	6037		Larnaca	LA	Lageia						
+CY	6040		Larnaca	LA	Lageia						
+CY	6041		Larnaca	LA	Lageia						
+CY	6042		Larnaca	LA	Lageia						
+CY	6043		Larnaca	LA	Lageia						
+CY	6045		Larnaca	LA	Lageia						
+CY	6046		Larnaca	LA	Lageia						
+CY	6047		Larnaca	LA	Lageia						
+CY	6050		Larnaca	LA	Lageia						
+CY	6051		Larnaca	LA	Lageia						
+CY	6052		Larnaca	LA	Lageia						
+CY	6053		Larnaca	LA	Lageia						
+CY	6055		Larnaca	LA	Lageia						
+CY	6056		Larnaca	LA	Lageia						
+CY	6057		Larnaca	LA	Lageia						
+CY	6058		Larnaca	LA	Lageia						
+CY	6059		Larnaca	LA	Lageia						
+CY	6060		Larnaca	LA	Larnaka						
+CY	7060		Larnaca	LA	Livadia Larnakas						
+CY	7736		Larnaca	LA	Mari						
+CY	7737		Larnaca	LA	Maroni						
+CY	7577		Larnaca	LA	Mazotos						
+CY	7716		Larnaca	LA	Melini						
+CY	7622		Larnaca	LA	Melouseia						
+CY	7000		Larnaca	LA	Meneou						
+CY	7578		Larnaca	LA	Menogeia						
+CY	7644		Larnaca	LA	Moni Agias Theklis						
+CY	7650		Larnaca	LA	Moni Agias Varvaras						
+CY	7717		Larnaca	LA	Moni Agiou Mina						
+CY	7509		Larnaca	LA	Moni Metamorfoseos						
+CY	7646		Larnaca	LA	Moni Panagias Galaktotrofousas						
+CY	7645		Larnaca	LA	Moni Stavrovouniou						
+CY	7647		Larnaca	LA	Mosfiloti						
+CY	7718		Larnaca	LA	Odou						
+CY	7719		Larnaca	LA	Ora						
+CY	7530		Larnaca	LA	Ormideia						
+CY	7700		Larnaca	LA	Pano Lefkara						
+CY	7721		Larnaca	LA	Parsata						
+CY	7504		Larnaca	LA	Pergamos						
+CY	7560		Larnaca	LA	Perivolia Larnakas						
+CY	7623		Larnaca	LA	Petrofani						
+CY	7743		Larnaca	LA	Psematismenos						
+CY	7649		Larnaca	LA	Psevdas						
+CY	7080		Larnaca	LA	Pyla						
+CY	7081		Larnaca	LA	Pyla Touristiki Periochi						
+CY	7648		Larnaca	LA	Pyrga Larnakas						
+CY	7731		Larnaca	LA	Skarinou						
+CY	7561		Larnaca	LA	Softades						
+CY	7742		Larnaca	LA	Stathmos Choirokoitias						
+CY	7734		Larnaca	LA	Stathmos Kalavasou						
+CY	7732		Larnaca	LA	Stathmos Skarinou						
+CY	7562		Larnaca	LA	Tersefanou						
+CY	7740		Larnaca	LA	Tochni						
+CY	7624		Larnaca	LA	Tremetousia						
+CY	7505		Larnaca	LA	Troulloi						
+CY	7738		Larnaca	LA	Vasiliko						
+CY	7712		Larnaca	LA	Vavatsinia						
+CY	7713		Larnaca	LA	Vavla						
+CY	7040		Larnaca	LA	Voroklini						
+CY	7041		Larnaca	LA	Voroklini Tourist Area						
+CY	7520		Larnaca	LA	Xylofagou						
+CY	7510		Larnaca	LA	Xylotymvou						
+CY	7739		Larnaca	LA	Zygi						
+CY	4710		Limassol	LI	Agios Amvrosios Lemesou						
+CY	4100		Limassol	LI	Agios Amvrosios Lemesou						
+CY	4101		Limassol	LI	Agios Amvrosios Lemesou						
+CY	4102		Limassol	LI	Agios Amvrosios Lemesou						
+CY	4103		Limassol	LI	Agios Amvrosios Lemesou						
+CY	4104		Limassol	LI	Agios Amvrosios Lemesou						
+CY	4105		Limassol	LI	Agios Amvrosios Lemesou						
+CY	4106		Limassol	LI	Agios Amvrosios Lemesou						
+CY	4107		Limassol	LI	Agios Amvrosios Lemesou						
+CY	4108		Limassol	LI	Agios Athanasios						
+CY	4842		Limassol	LI	Agios Dimitrios						
+CY	4740		Limassol	LI	Agios Georgios Lemesou						
+CY	4871		Limassol	LI	Agios Ioannis Lemesou						
+CY	4561		Limassol	LI	Agios Konstantinos						
+CY	4741		Limassol	LI	Agios Mamas						
+CY	4562		Limassol	LI	Agios Pavlos						
+CY	4870		Limassol	LI	Agios Theodoros Lemesou						
+CY	4711		Limassol	LI	Agios Therapon						
+CY	4606		Limassol	LI	Agios Thomas						
+CY	4521		Limassol	LI	Agios Tychon						
+CY	4532		Limassol	LI	Agios Tychon Touristiki Periochi						
+CY	4872		Limassol	LI	Agridia						
+CY	4860		Limassol	LI	Agros						
+CY	4501		Limassol	LI	Akapnou						
+CY	4640		Limassol	LI	Akrotiri						
+CY	4522		Limassol	LI	Akrounta						
+CY	4528		Limassol	LI	Akti Kyverniti						
+CY	4712		Limassol	LI	Alassa						
+CY	4602		Limassol	LI	Alektora						
+CY	4603		Limassol	LI	Anogyra						
+CY	4541		Limassol	LI	Apesia						
+CY	4542		Limassol	LI	Apsiou						
+CY	4563		Limassol	LI	Arakapas						
+CY	4523		Limassol	LI	Armenochori						
+CY	4770		Limassol	LI	Arsos Lemesou						
+CY	4502		Limassol	LI	Asgata						
+CY	4645		Limassol	LI	Asomatos Lemesou						
+CY	4567		Limassol	LI	Athrakos						
+CY	4600		Limassol	LI	Avdimou						
+CY	4875		Limassol	LI	Chandria						
+CY	4841		Limassol	LI	Dasiko Kolegio Kyprou						
+CY	4564		Limassol	LI	Dierona						
+CY	4774		Limassol	LI	Dora						
+CY	4750		Limassol	LI	Doros						
+CY	4873		Limassol	LI	Dymes						
+CY	4620		Limassol	LI	Episkopi Lemesou						
+CY	4506		Limassol	LI	Eptagoneia						
+CY	4630		Limassol	LI	Erimi						
+CY	4551		Limassol	LI	Fasoula Lemesou						
+CY	4653		Limassol	LI	Fasouri						
+CY	4814		Limassol	LI	Foini						
+CY	4530		Limassol	LI	Foinikaria						
+CY	4543		Limassol	LI	Gerasa						
+CY	4040		Limassol	LI	Gerasa						
+CY	4041		Limassol	LI	Gerasa						
+CY	4042		Limassol	LI	Gerasa						
+CY	4043		Limassol	LI	Gerasa						
+CY	4044		Limassol	LI	Gerasa						
+CY	4045		Limassol	LI	Gerasa						
+CY	4046		Limassol	LI	Gerasa						
+CY	4047		Limassol	LI	Gerasa						
+CY	4048		Limassol	LI	Gerasa						
+CY	4049		Limassol	LI	Germasogeia						
+CY	4773		Limassol	LI	Gerovasa (Trozena)						
+CY	4566		Limassol	LI	Kalo Chorio Lemesou						
+CY	4843		Limassol	LI	Kaminaria						
+CY	4631		Limassol	LI	Kantou						
+CY	4544		Limassol	LI	Kapileio						
+CY	4810		Limassol	LI	Kato Amiantos						
+CY	4714		Limassol	LI	Kato Kivides						
+CY	4874		Limassol	LI	Kato Mylos						
+CY	4815		Limassol	LI	Kato Platres						
+CY	4150		Limassol	LI	Kato Platres						
+CY	4151		Limassol	LI	Kato Platres						
+CY	4152		Limassol	LI	Kato Platres						
+CY	4153		Limassol	LI	Kato Platres						
+CY	4154		Limassol	LI	Kato Platres						
+CY	4155		Limassol	LI	Kato Platres						
+CY	4156		Limassol	LI	Kato Platres						
+CY	4157		Limassol	LI	Kato Platres						
+CY	4158		Limassol	LI	Kato Platres						
+CY	4159		Limassol	LI	Kato Platres						
+CY	4170		Limassol	LI	Kato Polemidia						
+CY	4500		Limassol	LI	Kellaki						
+CY	4775		Limassol	LI	Kissousa						
+CY	4507		Limassol	LI	Klonari						
+CY	4776		Limassol	LI	Koilani						
+CY	4632		Limassol	LI	Koilani						
+CY	4636		Limassol	LI	Kolossi						
+CY	4545		Limassol	LI	Korfi						
+CY	4743		Limassol	LI	Kouka						
+CY	4876		Limassol	LI	Kyperounta						
+CY	4744		Limassol	LI	Laneia						
+CY	3010		Limassol	LI	Laneia						
+CY	3011		Limassol	LI	Laneia						
+CY	3012		Limassol	LI	Laneia						
+CY	3013		Limassol	LI	Laneia						
+CY	3015		Limassol	LI	Laneia						
+CY	3016		Limassol	LI	Laneia						
+CY	3017		Limassol	LI	Laneia						
+CY	3020		Limassol	LI	Laneia						
+CY	3021		Limassol	LI	Laneia						
+CY	3022		Limassol	LI	Laneia						
+CY	3025		Limassol	LI	Laneia						
+CY	3026		Limassol	LI	Laneia						
+CY	3027		Limassol	LI	Laneia						
+CY	3030		Limassol	LI	Laneia						
+CY	3031		Limassol	LI	Laneia						
+CY	3032		Limassol	LI	Laneia						
+CY	3035		Limassol	LI	Laneia						
+CY	3036		Limassol	LI	Laneia						
+CY	3040		Limassol	LI	Laneia						
+CY	3041		Limassol	LI	Laneia						
+CY	3042		Limassol	LI	Laneia						
+CY	3045		Limassol	LI	Laneia						
+CY	3046		Limassol	LI	Laneia						
+CY	3047		Limassol	LI	Laneia						
+CY	3048		Limassol	LI	Laneia						
+CY	3050		Limassol	LI	Laneia						
+CY	3051		Limassol	LI	Laneia						
+CY	3052		Limassol	LI	Laneia						
+CY	3055		Limassol	LI	Laneia						
+CY	3056		Limassol	LI	Laneia						
+CY	3060		Limassol	LI	Laneia						
+CY	3061		Limassol	LI	Laneia						
+CY	3065		Limassol	LI	Laneia						
+CY	3066		Limassol	LI	Laneia						
+CY	3067		Limassol	LI	Laneia						
+CY	3070		Limassol	LI	Laneia						
+CY	3071		Limassol	LI	Laneia						
+CY	3075		Limassol	LI	Laneia						
+CY	3076		Limassol	LI	Laneia						
+CY	3077		Limassol	LI	Laneia						
+CY	3080		Limassol	LI	Laneia						
+CY	3081		Limassol	LI	Laneia						
+CY	3082		Limassol	LI	Laneia						
+CY	3083		Limassol	LI	Laneia						
+CY	3085		Limassol	LI	Laneia						
+CY	3086		Limassol	LI	Laneia						
+CY	3087		Limassol	LI	Laneia						
+CY	3090		Limassol	LI	Laneia						
+CY	3091		Limassol	LI	Laneia						
+CY	3095		Limassol	LI	Laneia						
+CY	3096		Limassol	LI	Laneia						
+CY	3100		Limassol	LI	Laneia						
+CY	3101		Limassol	LI	Laneia						
+CY	3105		Limassol	LI	Laneia						
+CY	3106		Limassol	LI	Laneia						
+CY	3107		Limassol	LI	Laneia						
+CY	3110		Limassol	LI	Laneia						
+CY	3111		Limassol	LI	Laneia						
+CY	3112		Limassol	LI	Laneia						
+CY	3113		Limassol	LI	Laneia						
+CY	3115		Limassol	LI	Laneia						
+CY	3116		Limassol	LI	Laneia						
+CY	3117		Limassol	LI	Laneia						
+CY	3118		Limassol	LI	Laneia						
+CY	3119		Limassol	LI	Laneia						
+CY	3120		Limassol	LI	Laneia						
+CY	3150		Limassol	LI	Lemesos						
+CY	4844		Limassol	LI	Lemithou						
+CY	4546		Limassol	LI	Limnatis						
+CY	4716		Limassol	LI	Lofou						
+CY	4560		Limassol	LI	Louvaras						
+CY	4777		Limassol	LI	Malia						
+CY	4778		Limassol	LI	Mandria Lemesou						
+CY	4547		Limassol	LI	Mathikoloni						
+CY	4000		Limassol	LI	Mathikoloni						
+CY	4001		Limassol	LI	Mathikoloni						
+CY	4002		Limassol	LI	Mathikoloni						
+CY	4003		Limassol	LI	Mathikoloni						
+CY	4004		Limassol	LI	Mathikoloni						
+CY	4005		Limassol	LI	Mathikoloni						
+CY	4006		Limassol	LI	Mathikoloni						
+CY	4007		Limassol	LI	Mathikoloni						
+CY	4008		Limassol	LI	Mesa Geitonia						
+CY	4745		Limassol	LI	Mesa Potamos						
+CY	4746		Limassol	LI	Monagri						
+CY	4524		Limassol	LI	Monagroulli						
+CY	4525		Limassol	LI	Moni						
+CY	4526		Limassol	LI	Moni Agiou Georgiou Alamanou						
+CY	4650		Limassol	LI	Moni Agiou Nikolaou						
+CY	4747		Limassol	LI	Moniatis						
+CY	4548		Limassol	LI	Moni Evangelistrias						
+CY	4847		Limassol	LI	Moni Panagias Trikoukkias						
+CY	4812		Limassol	LI	Moni Trooditissis						
+CY	4508		Limassol	LI	Moni Zoodochou Pigis						
+CY	4552		Limassol	LI	Monte Korfi						
+CY	4527		Limassol	LI	Mouttagiaka						
+CY	4531		Limassol	LI	Mouttagiaka Touristiki Periochi						
+CY	4760		Limassol	LI	Omodos						
+CY	4700		Limassol	LI	Pachna						
+CY	4845		Limassol	LI	Palaiomylos						
+CY	4549		Limassol	LI	Palodeia						
+CY	4811		Limassol	LI	Pano Amiantos						
+CY	4715		Limassol	LI	Pano Kivides						
+CY	4820		Limassol	LI	Pano Platres						
+CY	4130		Limassol	LI	Pano Platres						
+CY	4131		Limassol	LI	Pano Polemidia						
+CY	4604		Limassol	LI	Paramali						
+CY	4540		Limassol	LI	Paramytha						
+CY	4520		Limassol	LI	Parekklisia						
+CY	4533		Limassol	LI	Parekklisia Touristiki Periochi						
+CY	4878		Limassol	LI	Pelendri						
+CY	4528		Limassol	LI	Pentakomo						
+CY	4779		Limassol	LI	Pera Pedi						
+CY	4607		Limassol	LI	Pissouri						
+CY	4605		Limassol	LI	Platanisteia						
+CY	4503		Limassol	LI	Platies Metalleia						
+CY	4780		Limassol	LI	Potamiou						
+CY	4879		Limassol	LI	Potamitissa						
+CY	4601		Limassol	LI	Prastio Avdimou						
+CY	4505		Limassol	LI	Prastio Kellakiou						
+CY	4840		Limassol	LI	Prodromos						
+CY	4511		Limassol	LI	Profitis Ilias						
+CY	4529		Limassol	LI	Pyrgos Lemesou						
+CY	4534		Limassol	LI	Pyrgos Lemesou Touristiki Periochi						
+CY	4748		Limassol	LI	Saittas						
+CY	4877		Limassol	LI	Sanatorio Kyperounyas						
+CY	4510		Limassol	LI	Sanida						
+CY	4848		Limassol	LI	Scholi Mitsi						
+CY	4742		Limassol	LI	Silikou						
+CY	4633		Limassol	LI	Sotira Lemesou						
+CY	4717		Limassol	LI	Souni						
+CY	4550		Limassol	LI	Spitali						
+CY	4749		Limassol	LI	Stathmos Filagron						
+CY	4751		Limassol	LI	Stathmos Laneias						
+CY	4813		Limassol	LI	Stathmos Mozora						
+CY	4568		Limassol	LI	Stathmos Pefkou						
+CY	4608		Limassol	LI	Stathmos Pissouriou						
+CY	4635		Limassol	LI	Sterakonou						
+CY	4569		Limassol	LI	Sykopetra						
+CY	4634		Limassol	LI	Symvoulos						
+CY	4651		Limassol	LI	Trachoni Lemesou						
+CY	4846		Limassol	LI	Treis Elies						
+CY	4730		Limassol	LI	Trimiklini						
+CY	4800		Limassol	LI	Troodos						
+CY	4781		Limassol	LI	Trozaina						
+CY	4652		Limassol	LI	Tserkez Tsiftlik (Tserkezoi)						
+CY	4504		Limassol	LI	Vasa Kellakiou						
+CY	4771		Limassol	LI	Vasa Koilaniou						
+CY	4509		Limassol	LI	Vikla						
+CY	4772		Limassol	LI	Vouni						
+CY	4180		Limassol	LI	Vouni						
+CY	4181		Limassol	LI	Vouni						
+CY	4182		Limassol	LI	Vouni						
+CY	4183		Limassol	LI	Vouni						
+CY	4184		Limassol	LI	Vouni						
+CY	4185		Limassol	LI	Vouni						
+CY	4186		Limassol	LI	Vouni						
+CY	4187		Limassol	LI	Vouni						
+CY	4188		Limassol	LI	Vouni						
+CY	4189		Limassol	LI	Vouni						
+CY	4190		Limassol	LI	Vouni						
+CY	4191		Limassol	LI	Vouni						
+CY	4192		Limassol	LI	Vouni						
+CY	4193		Limassol	LI	Vouni						
+CY	4194		Limassol	LI	Ypsonas						
+CY	4713		Limassol	LI	Zanakia						
+CY	4565		Limassol	LI	Zoopigi						
+CY	2561		Nicosia	NI	Agia (Agia Kepir)						
+CY	2820		Nicosia	NI	Agia Eirini Lefkosias						
+CY	2670		Nicosia	NI	Agia Marina Skyllouras						
+CY	2772		Nicosia	NI	Agia Marina Xyliatou						
+CY	2560		Nicosia	NI	Agia Varvara Lefkosias						
+CY	2952		Nicosia	NI	Agio Georgoudi						
+CY	2775		Nicosia	NI	Agioi Iliofotoi						
+CY	2671		Nicosia	NI	Agioi Trimithias						
+CY	2360		Nicosia	NI	Agioi Trimithias						
+CY	2361		Nicosia	NI	Agioi Trimithias						
+CY	2362		Nicosia	NI	Agioi Trimithias						
+CY	2363		Nicosia	NI	Agioi Trimithias						
+CY	2364		Nicosia	NI	Agioi Trimithias						
+CY	2365		Nicosia	NI	Agioi Trimithias						
+CY	2368		Nicosia	NI	Agioi Trimithias						
+CY	2369		Nicosia	NI	Agioi Trimithias						
+CY	2370		Nicosia	NI	Agioi Trimithias						
+CY	2373		Nicosia	NI	Agios Dometios						
+CY	2610		Nicosia	NI	Agios Epifanios Oreinis						
+CY	2821		Nicosia	NI	Agios Epifanios Soleas						
+CY	2773		Nicosia	NI	Agios Georgios Kafkalou						
+CY	2822		Nicosia	NI	Agios Georgios Soleas						
+CY	2611		Nicosia	NI	Agios Ioannis Malountas						
+CY	2965		Nicosia	NI	Agios Ioannis Selemani						
+CY	2824		Nicosia	NI	Agios Nikolaos Soleas						
+CY	2825		Nicosia	NI	Agios Nikolaos Stegis						
+CY	2562		Nicosia	NI	Agios Sozomenos						
+CY	2823		Nicosia	NI	Agios Theodoros Soleas						
+CY	2951		Nicosia	NI	Agios Theodoros Tillirias						
+CY	2672		Nicosia	NI	Agios Vasileios						
+CY	2100		Nicosia	NI	Agios Vasileios						
+CY	2101		Nicosia	NI	Agios Vasileios						
+CY	2102		Nicosia	NI	Agios Vasileios						
+CY	2103		Nicosia	NI	Agios Vasileios						
+CY	2107		Nicosia	NI	Agios Vasileios						
+CY	2108		Nicosia	NI	Agios Vasileios						
+CY	2109		Nicosia	NI	Agios Vasileios						
+CY	2112		Nicosia	NI	Agios Vasileios						
+CY	2113		Nicosia	NI	Agios Vasileios						
+CY	2114		Nicosia	NI	Agios Vasileios						
+CY	2115		Nicosia	NI	Agios Vasileios						
+CY	2116		Nicosia	NI	Agios Vasileios						
+CY	2120		Nicosia	NI	Agios Vasileios						
+CY	2121		Nicosia	NI	Agios Vasileios						
+CY	2122		Nicosia	NI	Agios Vasileios						
+CY	2123		Nicosia	NI	Aglantzia						
+CY	2617		Nicosia	NI	Agrokipia						
+CY	2837		Nicosia	NI	Agroladou						
+CY	2720		Nicosia	NI	Akaki						
+CY	2563		Nicosia	NI	Alampra						
+CY	2953		Nicosia	NI	Alevga						
+CY	2750		Nicosia	NI	Alithinou						
+CY	2751		Nicosia	NI	Alona						
+CY	2954		Nicosia	NI	Ammadies						
+CY	2920		Nicosia	NI	Ampelikou						
+CY	2640		Nicosia	NI	Anageia						
+CY	2641		Nicosia	NI	Analiontas						
+CY	1370		Nicosia	NI	Anglikos Stratos Lefkosias						
+CY	2826		Nicosia	NI	Angolemi						
+CY	2613		Nicosia	NI	Apliki						
+CY	2614		Nicosia	NI	Arediou						
+CY	2721		Nicosia	NI	Argaki						
+CY	2778		Nicosia	NI	Asinou						
+CY	2752		Nicosia	NI	Askas						
+CY	2722		Nicosia	NI	Astromeritis						
+CY	2673		Nicosia	NI	Avlona						
+CY	2527		Nicosia	NI	Beikioi						
+CY	2963		Nicosia	NI	Challeri						
+CY	2730		Nicosia	NI	Chrysiliou						
+CY	2540		Nicosia	NI	Chrysiliou						
+CY	2546		Nicosia	NI	Chrysiliou						
+CY	2547		Nicosia	NI	Chrysiliou						
+CY	2548		Nicosia	NI	Chrysiliou						
+CY	2549		Nicosia	NI	Dali						
+CY	2828		Nicosia	NI	Dasikos Stathmos Kapouras						
+CY	2782		Nicosia	NI	Dasikos Stathmos Panagias						
+CY	2829		Nicosia	NI	Dasikos Stathmos Platanion						
+CY	2675		Nicosia	NI	Deneia						
+CY	2676		Nicosia	NI	Dyo Potamoi						
+CY	2400		Nicosia	NI	Dyo Potamoi						
+CY	2401		Nicosia	NI	Dyo Potamoi						
+CY	2402		Nicosia	NI	Dyo Potamoi						
+CY	2404		Nicosia	NI	Dyo Potamoi						
+CY	2406		Nicosia	NI	Dyo Potamoi						
+CY	2407		Nicosia	NI	Dyo Potamoi						
+CY	2408		Nicosia	NI	Dyo Potamoi						
+CY	2409		Nicosia	NI	Dyo Potamoi						
+CY	2410		Nicosia	NI	Dyo Potamoi						
+CY	2411		Nicosia	NI	Dyo Potamoi						
+CY	2412		Nicosia	NI	Dyo Potamoi						
+CY	2413		Nicosia	NI	Dyo Potamoi						
+CY	2414		Nicosia	NI	Dyo Potamoi						
+CY	2415		Nicosia	NI	Dyo Potamoi						
+CY	2416		Nicosia	NI	Dyo Potamoi						
+CY	2417		Nicosia	NI	Egkomi						
+CY	2830		Nicosia	NI	Elia Lefkosias						
+CY	1380		Nicosia	NI	Elliniki Dynami Kyprou						
+CY	2522		Nicosia	NI	Epicho						
+CY	2642		Nicosia	NI	Episkopeio						
+CY	2643		Nicosia	NI	Ergates						
+CY	2831		Nicosia	NI	Evrychou						
+CY	2521		Nicosia	NI	Eχο Metochi						
+CY	2620		Nicosia	NI	Farmakas						
+CY	2623		Nicosia	NI	Fikardou						
+CY	2652		Nicosia	NI	Filani						
+CY	2843		Nicosia	NI	Flasou						
+CY	2860		Nicosia	NI	Frodisia (Vroisia)						
+CY	2758		Nicosia	NI	Fterikoudi						
+CY	2684		Nicosia	NI	Fyllia						
+CY	2827		Nicosia	NI	Galata						
+CY	2922		Nicosia	NI	Galini						
+CY	2861		Nicosia	NI	Gerakies						
+CY	2200		Nicosia	NI	Gerakies						
+CY	2201		Nicosia	NI	Gerakies						
+CY	2202		Nicosia	NI	Geri						
+CY	2674		Nicosia	NI	Gerolakkos						
+CY	2615		Nicosia	NI	Gourri						
+CY	2800		Nicosia	NI	Kakopetria						
+CY	2832		Nicosia	NI	Kaliana						
+CY	2616		Nicosia	NI	Kalo Chorio						
+CY	2726		Nicosia	NI	Kalo Chorio Kapouti						
+CY	2833		Nicosia	NI	Kalo Chorio Soleas						
+CY	2862		Nicosia	NI	Kalopanagiotis						
+CY	2523		Nicosia	NI	Kalyvakia						
+CY	2619		Nicosia	NI	Kampi						
+CY	2644		Nicosia	NI	Kampia						
+CY	2863		Nicosia	NI	Kampos						
+CY	2677		Nicosia	NI	Kanli						
+CY	2834		Nicosia	NI	Kannavia						
+CY	2645		Nicosia	NI	Kapedes						
+CY	2924		Nicosia	NI	Karavostasi						
+CY	2646		Nicosia	NI	Kataliontas						
+CY	2450		Nicosia	NI	Kato Deftera						
+CY	2843		Nicosia	NI	Kato Flasou						
+CY	2725		Nicosia	NI	Katokopia						
+CY	2770		Nicosia	NI	Kato Koutrafas						
+CY	2776		Nicosia	NI	Kato Moni						
+CY	2940		Nicosia	NI	Kato Pyrgos						
+CY	2723		Nicosia	NI	Kato Zodeia						
+CY	2835		Nicosia	NI	Katydata						
+CY	2923		Nicosia	NI	Kazivera						
+CY	2678		Nicosia	NI	Kioneli						
+CY	2600		Nicosia	NI	Klirou						
+CY	2955		Nicosia	NI	Kokkina						
+CY	2660		Nicosia	NI	Kokkinotrimithia						
+CY	2836		Nicosia	NI	Korakou						
+CY	2564		Nicosia	NI	Kotsiatis						
+CY	2846		Nicosia	NI	Kourdali						
+CY	2524		Nicosia	NI	Kourou Monastiri						
+CY	2727		Nicosia	NI	Kyra						
+CY	2500		Nicosia	NI	Kythrea						
+CY	2753		Nicosia	NI	Lagoudera						
+CY	2300		Nicosia	NI	Lagoudera						
+CY	2301		Nicosia	NI	Lagoudera						
+CY	2302		Nicosia	NI	Lagoudera						
+CY	2303		Nicosia	NI	Lagoudera						
+CY	2304		Nicosia	NI	Lagoudera						
+CY	2305		Nicosia	NI	Lagoudera						
+CY	2306		Nicosia	NI	Lagoudera						
+CY	2310		Nicosia	NI	Lagoudera						
+CY	2311		Nicosia	NI	Lagoudera						
+CY	2312		Nicosia	NI	Lagoudera						
+CY	2313		Nicosia	NI	Lagoudera						
+CY	2314		Nicosia	NI	Lagoudera						
+CY	2320		Nicosia	NI	Lagoudera						
+CY	2321		Nicosia	NI	Lagoudera						
+CY	2322		Nicosia	NI	Lagoudera						
+CY	2323		Nicosia	NI	Lagoudera						
+CY	2324		Nicosia	NI	Lagoudera						
+CY	2325		Nicosia	NI	Lagoudera						
+CY	2326		Nicosia	NI	Lagoudera						
+CY	2328		Nicosia	NI	Lagoudera						
+CY	2330		Nicosia	NI	Lagoudera						
+CY	2331		Nicosia	NI	Lagoudera						
+CY	2332		Nicosia	NI	Lagoudera						
+CY	2333		Nicosia	NI	Lagoudera						
+CY	2334		Nicosia	NI	Lagoudera						
+CY	2335		Nicosia	NI	Lakatameia						
+CY	2201		Nicosia	NI	Lakatameia						
+CY	2220		Nicosia	NI	Lakatameia						
+CY	2221		Nicosia	NI	Lakatameia						
+CY	2222		Nicosia	NI	Lakatameia						
+CY	2223		Nicosia	NI	Lakatameia						
+CY	2224		Nicosia	NI	Lakatameia						
+CY	2230		Nicosia	NI	Lakatameia						
+CY	2231		Nicosia	NI	Lakatameia						
+CY	2232		Nicosia	NI	Lakatameia						
+CY	2233		Nicosia	NI	Lakatameia						
+CY	2234		Nicosia	NI	Lakatameia						
+CY	2235		Nicosia	NI	Lakatameia						
+CY	2236		Nicosia	NI	Lakatameia						
+CY	2237		Nicosia	NI	Lakatameia						
+CY	2238		Nicosia	NI	Latsia						
+CY	2618		Nicosia	NI	Lazanias						
+CY	2900		Nicosia	NI	Lefka						
+CY	1010		Nicosia	NI	Lefka						
+CY	1011		Nicosia	NI	Lefka						
+CY	1015		Nicosia	NI	Lefka						
+CY	1016		Nicosia	NI	Lefka						
+CY	1017		Nicosia	NI	Lefka						
+CY	1020		Nicosia	NI	Lefka						
+CY	1021		Nicosia	NI	Lefka						
+CY	1022		Nicosia	NI	Lefka						
+CY	1025		Nicosia	NI	Lefka						
+CY	1026		Nicosia	NI	Lefka						
+CY	1027		Nicosia	NI	Lefka						
+CY	1028		Nicosia	NI	Lefka						
+CY	1035		Nicosia	NI	Lefka						
+CY	1036		Nicosia	NI	Lefka						
+CY	1037		Nicosia	NI	Lefka						
+CY	1040		Nicosia	NI	Lefka						
+CY	1041		Nicosia	NI	Lefka						
+CY	1042		Nicosia	NI	Lefka						
+CY	1045		Nicosia	NI	Lefka						
+CY	1046		Nicosia	NI	Lefka						
+CY	1047		Nicosia	NI	Lefka						
+CY	1048		Nicosia	NI	Lefka						
+CY	1049		Nicosia	NI	Lefka						
+CY	1055		Nicosia	NI	Lefka						
+CY	1056		Nicosia	NI	Lefka						
+CY	1057		Nicosia	NI	Lefka						
+CY	1060		Nicosia	NI	Lefka						
+CY	1061		Nicosia	NI	Lefka						
+CY	1065		Nicosia	NI	Lefka						
+CY	1066		Nicosia	NI	Lefka						
+CY	1070		Nicosia	NI	Lefka						
+CY	1071		Nicosia	NI	Lefka						
+CY	1075		Nicosia	NI	Lefka						
+CY	1076		Nicosia	NI	Lefka						
+CY	1077		Nicosia	NI	Lefka						
+CY	1080		Nicosia	NI	Lefka						
+CY	1081		Nicosia	NI	Lefka						
+CY	1082		Nicosia	NI	Lefka						
+CY	1085		Nicosia	NI	Lefka						
+CY	1086		Nicosia	NI	Lefka						
+CY	1087		Nicosia	NI	Lefka						
+CY	1090		Nicosia	NI	Lefka						
+CY	1095		Nicosia	NI	Lefka						
+CY	1096		Nicosia	NI	Lefka						
+CY	1097		Nicosia	NI	Lefka						
+CY	1100		Nicosia	NI	Lefka						
+CY	1101		Nicosia	NI	Lefka						
+CY	1102		Nicosia	NI	Lefka						
+CY	1105		Nicosia	NI	Lefka						
+CY	1106		Nicosia	NI	Lefka						
+CY	1107		Nicosia	NI	Lefkosia						
+CY	2956		Nicosia	NI	Limnitis						
+CY	2845		Nicosia	NI	Linou						
+CY	2754		Nicosia	NI	Livadia Lefkosias						
+CY	2567		Nicosia	NI	Louroukina						
+CY	2957		Nicosia	NI	Loutros						
+CY	2566		Nicosia	NI	Lympia						
+CY	2565		Nicosia	NI	Lythrodontas						
+CY	2612		Nicosia	NI	Malounta						
+CY	2679		Nicosia	NI	Mammari						
+CY	2534		Nicosia	NI	Mandres Lefkosias						
+CY	2958		Nicosia	NI	Mansoura						
+CY	2647		Nicosia	NI	Margi						
+CY	2569		Nicosia	NI	Margo						
+CY	2680		Nicosia	NI	Masari						
+CY	2568		Nicosia	NI	Mathiatis						
+CY	2728		Nicosia	NI	Meniko						
+CY	2525		Nicosia	NI	Mia Milia						
+CY	2622		Nicosia	NI	Mitsero						
+CY	2648		Nicosia	NI	Moni Agiou Irakleidiou						
+CY	2624		Nicosia	NI	Moni Agiou Panteleimonos Achera						
+CY	2649		Nicosia	NI	Moni Archangelou Michail						
+CY	2865		Nicosia	NI	Moni Kykkou						
+CY	2621		Nicosia	NI	Moni Machaira						
+CY	2653		Nicosia	NI	Moni Panagias Theotokou						
+CY	2570		Nicosia	NI	Moni Profiti Ilia						
+CY	2526		Nicosia	NI	Mora						
+CY	2700		Nicosia	NI	Morfou						
+CY	2959		Nicosia	NI	Mosfili						
+CY	2866		Nicosia	NI	Moutoullas						
+CY	2864		Nicosia	NI	Mylikouri						
+CY	2528		Nicosia	NI	Neo Chorio Lefkosias						
+CY	2925		Nicosia	NI	Neo Livadi						
+CY	2777		Nicosia	NI	Nikitari						
+CY	2926		Nicosia	NI	Nikitas						
+CY	2571		Nicosia	NI	Nisou						
+CY	2867		Nicosia	NI	Oikos						
+CY	2779		Nicosia	NI	Orounta						
+CY	2681		Nicosia	NI	Ortakioi						
+CY	2961		Nicosia	NI	Pachyammos						
+CY	2740		Nicosia	NI	Palaichori Morfou						
+CY	2745		Nicosia	NI	Palaichori Oreinis						
+CY	2529		Nicosia	NI	Palaikythro						
+CY	2682		Nicosia	NI	Palaiometocho						
+CY	2460		Nicosia	NI	Pano Deftera						
+CY	2844		Nicosia	NI	Pano Flasou						
+CY	2771		Nicosia	NI	Pano Koutrafas						
+CY	2950		Nicosia	NI	Pano Pyrgos						
+CY	2724		Nicosia	NI	Pano Zodeia						
+CY	2850		Nicosia	NI	Pedoulas						
+CY	2928		Nicosia	NI	Pentageia						
+CY	2650		Nicosia	NI	Pera						
+CY	2572		Nicosia	NI	Pera Chorio						
+CY	2731		Nicosia	NI	Peristerona Lefkosias						
+CY	2929		Nicosia	NI	Peristeronari						
+CY	2838		Nicosia	NI	Petra						
+CY	2530		Nicosia	NI	Petra Tou Digeni						
+CY	2962		Nicosia	NI	Pigenia						
+CY	2755		Nicosia	NI	Platanistasa						
+CY	2651		Nicosia	NI	Politiko						
+CY	2756		Nicosia	NI	Polystypos						
+CY	2780		Nicosia	NI	Potami						
+CY	2573		Nicosia	NI	Potamia						
+CY	2930		Nicosia	NI	Potamos Tou Kampou						
+CY	2931		Nicosia	NI	Prastio Lefkosias						
+CY	2630		Nicosia	NI	Psimolofou						
+CY	2531		Nicosia	NI	Pyrogi						
+CY	2757		Nicosia	NI	Saranti						
+CY	2964		Nicosia	NI	Selladi tou Appi						
+CY	2574		Nicosia	NI	Sia						
+CY	2839		Nicosia	NI	Sinaoros						
+CY	2840		Nicosia	NI	Skouriotissa						
+CY	2683		Nicosia	NI	Skylloura						
+CY	2932		Nicosia	NI	Soloi						
+CY	2841		Nicosia	NI	Spilia						
+CY	2868		Nicosia	NI	Stathmos Orgonta						
+CY	2000		Nicosia	NI	Stathmos Orgonta						
+CY	2001		Nicosia	NI	Stathmos Orgonta						
+CY	2002		Nicosia	NI	Stathmos Orgonta						
+CY	2003		Nicosia	NI	Stathmos Orgonta						
+CY	2006		Nicosia	NI	Stathmos Orgonta						
+CY	2007		Nicosia	NI	Stathmos Orgonta						
+CY	2008		Nicosia	NI	Stathmos Orgonta						
+CY	2011		Nicosia	NI	Stathmos Orgonta						
+CY	2012		Nicosia	NI	Stathmos Orgonta						
+CY	2013		Nicosia	NI	Stathmos Orgonta						
+CY	2014		Nicosia	NI	Stathmos Orgonta						
+CY	2015		Nicosia	NI	Stathmos Orgonta						
+CY	2018		Nicosia	NI	Stathmos Orgonta						
+CY	2019		Nicosia	NI	Stathmos Orgonta						
+CY	2020		Nicosia	NI	Stathmos Orgonta						
+CY	2021		Nicosia	NI	Stathmos Orgonta						
+CY	2023		Nicosia	NI	Stathmos Orgonta						
+CY	2024		Nicosia	NI	Stathmos Orgonta						
+CY	2025		Nicosia	NI	Stathmos Orgonta						
+CY	2027		Nicosia	NI	Stathmos Orgonta						
+CY	2028		Nicosia	NI	Stathmos Orgonta						
+CY	2029		Nicosia	NI	Stathmos Orgonta						
+CY	2030		Nicosia	NI	Stathmos Orgonta						
+CY	2031		Nicosia	NI	Stathmos Orgonta						
+CY	2032		Nicosia	NI	Stathmos Orgonta						
+CY	2033		Nicosia	NI	Stathmos Orgonta						
+CY	2034		Nicosia	NI	Stathmos Orgonta						
+CY	2035		Nicosia	NI	Stathmos Orgonta						
+CY	2036		Nicosia	NI	Stathmos Orgonta						
+CY	2037		Nicosia	NI	Stathmos Orgonta						
+CY	2038		Nicosia	NI	Stathmos Orgonta						
+CY	2039		Nicosia	NI	Stathmos Orgonta						
+CY	2040		Nicosia	NI	Stathmos Orgonta						
+CY	2042		Nicosia	NI	Stathmos Orgonta						
+CY	2043		Nicosia	NI	Stathmos Orgonta						
+CY	2044		Nicosia	NI	Stathmos Orgonta						
+CY	2045		Nicosia	NI	Stathmos Orgonta						
+CY	2046		Nicosia	NI	Stathmos Orgonta						
+CY	2047		Nicosia	NI	Stathmos Orgonta						
+CY	2048		Nicosia	NI	Stathmos Orgonta						
+CY	2049		Nicosia	NI	Stathmos Orgonta						
+CY	2050		Nicosia	NI	Stathmos Orgonta						
+CY	2051		Nicosia	NI	Stathmos Orgonta						
+CY	2052		Nicosia	NI	Stathmos Orgonta						
+CY	2054		Nicosia	NI	Stathmos Orgonta						
+CY	2055		Nicosia	NI	Stathmos Orgonta						
+CY	2057		Nicosia	NI	Stathmos Orgonta						
+CY	2058		Nicosia	NI	Stathmos Orgonta						
+CY	2059		Nicosia	NI	Stathmos Orgonta						
+CY	2060		Nicosia	NI	Stathmos Orgonta						
+CY	2062		Nicosia	NI	Stathmos Orgonta						
+CY	2063		Nicosia	NI	Stathmos Orgonta						
+CY	2064		Nicosia	NI	Stathmos Orgonta						
+CY	2066		Nicosia	NI	Strovolos						
+CY	2350		Nicosia	NI	Synoikismos Anthoupolis						
+CY	2729		Nicosia	NI	Syrianochori						
+CY	2842		Nicosia	NI	Temvria						
+CY	2470		Nicosia	NI	Trachonas						
+CY	2532		Nicosia	NI	Trachoni Lefkosias						
+CY	2869		Nicosia	NI	Tsakistra						
+CY	2480		Nicosia	NI	Tseri						
+CY	2533		Nicosia	NI	Tymbou						
+CY	2921		Nicosia	NI	Variseia						
+CY	2520		Nicosia	NI	Voni						
+CY	2774		Nicosia	NI	Vyzakia						
+CY	2927		Nicosia	NI	Xeros						
+CY	8503		Paphos	PA	Acheleia						
+CY	8881		Paphos	PA	Agia Marina Chrysochous						
+CY	8641		Paphos	PA	Agia Marina Kelokedaron						
+CY	8240		Paphos	PA	Agia Marinouda						
+CY	8501		Paphos	PA	Agia Varvara Pafou						
+CY	8741		Paphos	PA	Agios Dimitrianos						
+CY	8607		Paphos	PA	Agios Georgios Pafou						
+CY	8621		Paphos	PA	Agios Ioannis Pafou						
+CY	8872		Paphos	PA	Agios Isidoros						
+CY	8801		Paphos	PA	Agios Merkourios						
+CY	8623		Paphos	PA	Agios Nikolaos Pafou						
+CY	8572		Paphos	PA	Akoursos						
+CY	8642		Paphos	PA	Amargeti						
+CY	8802		Paphos	PA	Anadiou						
+CY	8502		Paphos	PA	Anarita						
+CY	8701		Paphos	PA	Androlikou						
+CY	8873		Paphos	PA	Argaka						
+CY	8625		Paphos	PA	Arminou						
+CY	8522		Paphos	PA	Armou						
+CY	8643		Paphos	PA	Asprogia						
+CY	8521		Paphos	PA	Axylou						
+CY	8200		Paphos	PA	Axylou						
+CY	8220		Paphos	PA	Axylou						
+CY	8221		Paphos	PA	Chlorakas						
+CY	8526		Paphos	PA	Choletria						
+CY	8730		Paphos	PA	Choli						
+CY	8552		Paphos	PA	Choulou						
+CY	8855		Paphos	PA	Chrysochou						
+CY	8803		Paphos	PA	Dasikos Stathmos Agias						
+CY	8700		Paphos	PA	Drouseia						
+CY	8742		Paphos	PA	Drymou						
+CY	8523		Paphos	PA	Eledio						
+CY	8250		Paphos	PA	Empa						
+CY	8524		Paphos	PA	Episkopi Pafou						
+CY	8805		Paphos	PA	Evretou						
+CY	8654		Paphos	PA	Faleia						
+CY	8706		Paphos	PA	Fasli						
+CY	8609		Paphos	PA	Fasoula Pafou						
+CY	8811		Paphos	PA	Filousa Chrysochous						
+CY	8629		Paphos	PA	Filousa Kelokedaron						
+CY	8508		Paphos	PA	Foinikas						
+CY	8748		Paphos	PA	Fyti						
+CY	8645		Paphos	PA	Galataria						
+CY	8200		Paphos	PA	Galataria						
+CY	8201		Paphos	PA	Galataria						
+CY	8310		Paphos	PA	Geroskipou						
+CY	8875		Paphos	PA	Gialia						
+CY	8720		Paphos	PA	Giolou						
+CY	8850		Paphos	PA	Goudi						
+CY	8704		Paphos	PA	Ineia						
+CY	8541		Paphos	PA	Kallepeia						
+CY	8746		Paphos	PA	Kannaviou						
+CY	8851		Paphos	PA	Karamoullides						
+CY	8573		Paphos	PA	Kathikas						
+CY	8721		Paphos	PA	Kato Akourdaleia						
+CY	8602		Paphos	PA	Kato Archimandrita						
+CY	8702		Paphos	PA	Kato Arodes						
+CY	8874		Paphos	PA	Kato Gialia						
+CY	8548		Paphos	PA	Kato Panagia						
+CY	8550		Paphos	PA	Kato Stroumpi						
+CY	8626		Paphos	PA	Kedares						
+CY	8628		Paphos	PA	Kelokedara						
+CY	8627		Paphos	PA	Kidasi						
+CY	8807		Paphos	PA	Kios						
+CY	8574		Paphos	PA	Kissonerga						
+CY	8543		Paphos	PA	Koili						
+CY	8646		Paphos	PA	Koilineia						
+CY	8310		Paphos	PA	Koloni						
+CY	8300		Paphos	PA	Konia						
+CY	8500		Paphos	PA	Konia						
+CY	8509		Paphos	PA	Konia						
+CY	8510		Paphos	PA	Kouklia Pafou						
+CY	8544		Paphos	PA	Kourdaka						
+CY	8747		Paphos	PA	Kritou Marottou						
+CY	8724		Paphos	PA	Kritou Tera						
+CY	8876		Paphos	PA	Kynousa						
+CY	8647		Paphos	PA	Lapithiou						
+CY	8740		Paphos	PA	Lasa						
+CY	8840		Paphos	PA	Latsi						
+CY	8545		Paphos	PA	Lemona						
+CY	8260		Paphos	PA	Lempa						
+CY	8546		Paphos	PA	Letymvou						
+CY	8877		Paphos	PA	Limni						
+CY	8878		Paphos	PA	Livadi						
+CY	8725		Paphos	PA	Loukrounou						
+CY	8853		Paphos	PA	Loutra Tis Afroditis						
+CY	8800		Paphos	PA	Lysos						
+CY	8879		Paphos	PA	Makounta						
+CY	8622		Paphos	PA	Malounta Pafou						
+CY	8600		Paphos	PA	Mamonia						
+CY	8648		Paphos	PA	Mamountali						
+CY	8504		Paphos	PA	Mandria Pafou						
+CY	8520		Paphos	PA	Marathounta						
+CY	8604		Paphos	PA	Maronas						
+CY	8808		Paphos	PA	Meladeia						
+CY	8745		Paphos	PA	Melamiou						
+CY	8809		Paphos	PA	Melandra						
+CY	8290		Paphos	PA	Mesa Chorio						
+CY	8631		Paphos	PA	Mesana						
+CY	8280		Paphos	PA	Mesogi						
+CY	8744		Paphos	PA	Milia Pafou						
+CY	8726		Paphos	PA	Miliou						
+CY	8883		Paphos	PA	Mirmikofou						
+CY	8727		Paphos	PA	Moni Agion Anargyron						
+CY	8576		Paphos	PA	Moni Agiou Neofytou						
+CY	8649		Paphos	PA	Moni Chrysorrogiatisas						
+CY	8542		Paphos	PA	Moro Nero						
+CY	8605		Paphos	PA	Mousere						
+CY	8525		Paphos	PA	Nata						
+CY	8880		Paphos	PA	Nea Dimmata						
+CY	8852		Paphos	PA	Neo Chorio Pafou						
+CY	8505		Paphos	PA	Nikokleia						
+CY	8010		Paphos	PA	Nikokleia						
+CY	8011		Paphos	PA	Nikokleia						
+CY	8015		Paphos	PA	Nikokleia						
+CY	8016		Paphos	PA	Nikokleia						
+CY	8020		Paphos	PA	Nikokleia						
+CY	8021		Paphos	PA	Nikokleia						
+CY	8025		Paphos	PA	Nikokleia						
+CY	8026		Paphos	PA	Nikokleia						
+CY	8027		Paphos	PA	Nikokleia						
+CY	8028		Paphos	PA	Nikokleia						
+CY	8035		Paphos	PA	Nikokleia						
+CY	8036		Paphos	PA	Nikokleia						
+CY	8040		Paphos	PA	Nikokleia						
+CY	8041		Paphos	PA	Nikokleia						
+CY	8042		Paphos	PA	Nikokleia						
+CY	8045		Paphos	PA	Nikokleia						
+CY	8046		Paphos	PA	Nikokleia						
+CY	8047		Paphos	PA	Nikokleia						
+CY	8048		Paphos	PA	Nikokleia						
+CY	8049		Paphos	PA	Pafos						
+CY	8871		Paphos	PA	Paliampela						
+CY	8722		Paphos	PA	Pano Akourdaleia						
+CY	8603		Paphos	PA	Pano Archimandrita						
+CY	8703		Paphos	PA	Pano Arodes						
+CY	8875		Paphos	PA	Pano Gialia						
+CY	8640		Paphos	PA	Pano Panagia						
+CY	8551		Paphos	PA	Pano Stroumpi						
+CY	8560		Paphos	PA	Pano Stroumpi						
+CY	8570		Paphos	PA	Pano Stroumpi						
+CY	8571		Paphos	PA	Pano Stroumpi						
+CY	8575		Paphos	PA	Pegeia						
+CY	8882		Paphos	PA	Pelathousa						
+CY	8650		Paphos	PA	Pentalia						
+CY	8624		Paphos	PA	Pera Vasa						
+CY	8810		Paphos	PA	Peristerona Pafou						
+CY	8547		Paphos	PA	Pitargou						
+CY	8705		Paphos	PA	Pittokopos						
+CY	8549		Paphos	PA	Polemi						
+CY	8820		Paphos	PA	Polemi						
+CY	8840		Paphos	PA	Polemi						
+CY	8854		Paphos	PA	Polis						
+CY	8870		Paphos	PA	Pomos						
+CY	8630		Paphos	PA	Praitori						
+CY	8606		Paphos	PA	Prastio Pafou						
+CY	8854		Paphos	PA	Prodromi						
+CY	8749		Paphos	PA	Psathi						
+CY	8620		Paphos	PA	Salamiou						
+CY	8814		Paphos	PA	Sarama						
+CY	8812		Paphos	PA	Simou						
+CY	8728		Paphos	PA	Skoulli						
+CY	8506		Paphos	PA	Souskiou						
+CY	8651		Paphos	PA	Statos - Agios Fotios						
+CY	8601		Paphos	PA	Stavrokonnou						
+CY	8884		Paphos	PA	Steni						
+CY	8577		Paphos	PA	Tala						
+CY	8729		Paphos	PA	Tera						
+CY	8723		Paphos	PA	Theletra						
+CY	8743		Paphos	PA	Thrinia						
+CY	8507		Paphos	PA	Timi						
+CY	8608		Paphos	PA	Trachypedoula						
+CY	8270		Paphos	PA	Tremithousa						
+CY	8813		Paphos	PA	Trimithousa						
+CY	8540		Paphos	PA	Tsada						
+CY	8644		Paphos	PA	Vretsia						
+CY	8806		Paphos	PA	Zacharia						

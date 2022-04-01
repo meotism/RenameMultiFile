@@ -1,0 +1,1647 @@
+KW	54600		Al Ahmadi	AH	Abu Halifa				
+KW	60000		Al Ahmadi	AH	Ahmadi				
+KW	65000		Al Ahmadi	AH	Ali Sabah Al-Salem				
+KW	51250		Al Ahmadi	AH	Dhahar				
+KW	53800		Al Ahmadi	AH	Fahad Al Ahmad				
+KW	63000		Al Ahmadi	AH	Fahaheel				
+KW	63050		Al Ahmadi	AH	Fahaheel Indutrial				
+KW	50000		Al Ahmadi	AH	Fintas				
+KW	52700		Al Ahmadi	AH	Hadiya				
+KW	51600		Al Ahmadi	AH	Jaber Al Ali				
+KW	65500		Al Ahmadi	AH	Khairan				
+KW	54000		Al Ahmadi	AH	Mahboula				
+KW	53700		Al Ahmadi	AH	Mangaf				
+KW	60200		Al Ahmadi	AH	Maqwaa				
+KW	54200		Al Ahmadi	AH	Oqailah				
+KW	53300		Al Ahmadi	AH	Riqqa				
+KW	67500		Al Ahmadi	AH	Sabah Al Ahmad 1				
+KW	67520		Al Ahmadi	AH	Sabah Al Ahmad 2				
+KW	67540		Al Ahmadi	AH	Sabah Al Ahmad 3				
+KW	67560		Al Ahmadi	AH	Sabah Al Ahmad 4				
+KW	67580		Al Ahmadi	AH	Sabah Al Ahmad 5				
+KW	66380		Al Ahmadi	AH	Sabah Al Ahmad See				
+KW	54400		Al Ahmadi	AH	Sabahiya				
+KW	65300		Al Ahmadi	AH	Shuaiba				
+KW	55000		Al Ahmadi	AH	South Sabahiyah				
+KW	65700		Al Ahmadi	AH	Wafra				
+KW	60100		Al Ahmadi	AH	Wara				
+KW	65900		Al Ahmadi	AH	Zoar				
+KW	72100		Al Asimah	KU	Abdullah al-Salem				
+KW	73100		Al Asimah	KU	Adailiya				
+KW	36200		Al Asimah	KU	Bneid Al Qar				
+KW	35300		Al Asimah	KU	Daiya				
+KW	35000		Al Asimah	KU	Dasma				
+KW	15400		Al Asimah	KU	Dasman				
+KW	93000		Al Asimah	KU	Doha				
+KW	72700		Al Asimah	KU	Faiha				
+KW	25200		Al Asimah	KU	Failaka				
+KW	71800		Al Asimah	KU	Kaifan				
+KW	72300		Al Asimah	KU	Khaldiya				
+KW	35500		Al Asimah	KU	Mansouriya				
+KW	15000		Al Asimah	KU	Murgab				
+KW	66450		Al Asimah	KU	Nahdha				
+KW	72900		Al Asimah	KU	Nuzha				
+KW	35700		Al Asimah	KU	Qadsiya				
+KW	70700		Al Asimah	KU	Qairawan				
+KW	73500		Al Asimah	KU	Qortuba				
+KW	14000		Al Asimah	KU	Qublah				
+KW	93500		Al Asimah	KU	Qurnata				
+KW	73300		Al Asimah	KU	Rawda				
+KW	10002		Al Asimah	KU	Safat				
+KW	71500		Al Asimah	KU	Shamiya				
+KW	15300		Al Asimah	KU	Sharq				
+KW	70050		Al Asimah	KU	Shuwaikh Industrial 1				
+KW	70000		Al Asimah	KU	Shuwaikh Residential				
+KW	15250		Al Asimah	KU	Souk Dakhili				
+KW	90000		Al Asimah	KU	Sulaibekhat				
+KW	45400		Al Asimah	KU	Surra				
+KW	15200		Al Asimah	KU	Um-Seddah				
+KW	14250		Al Asimah	KU	Watteyah				
+KW	72500		Al Asimah	KU	Yarmouk				
+KW	85700		Al Farwaniyah	FA	Abdullah Al-Mubarak				
+KW	83000		Al Farwaniyah	FA	Abraq Khaitan				
+KW	92000		Al Farwaniyah	FA	Andalous				
+KW	92400		Al Farwaniyah	FA	Ardhiya				
+KW	80000		Al Farwaniyah	FA	Farwaniya				
+KW	92200		Al Farwaniyah	FA	Firdous				
+KW	85400		Al Farwaniyah	FA	Ishbiliya				
+KW	85600		Al Farwaniyah	FA	Jeleeb Al-Shuyoukh				
+KW	91300		Al Farwaniyah	FA	Kabd				
+KW	85000		Al Farwaniyah	FA	Omariya				
+KW	85200		Al Farwaniyah	FA	Rabiya				
+KW	70070		Al Farwaniyah	FA	Rai				
+KW	86000		Al Farwaniyah	FA	Rehab				
+KW	92700		Al Farwaniyah	FA	Riqqae				
+KW	92420		Al Farwaniyah	FA	Sabah Al Nasser				
+KW	86400		Al Farwaniyah	FA	Shedadiah				
+KW	85700		Al Farwaniyah	FA	South Abdulla Al-Mubarak 2				
+KW	83050		Al Farwaniyah	FA	South Khaitan				
+KW	3200		Al Jahra	JA	Al-Abdali				
+KW	4200		Al Jahra	JA	Al-Mutlaa 10				
+KW	4220		Al Jahra	JA	Al-Mutlaa 11				
+KW	4240		Al Jahra	JA	Al-Mutlaa 12				
+KW	4260		Al Jahra	JA	Al-Mutlaa 13				
+KW	4020		Al Jahra	JA	Al-Mutlaa 2				
+KW	4040		Al Jahra	JA	Al-Mutlaa 3				
+KW	4060		Al Jahra	JA	Al-Mutlaa 4				
+KW	4080		Al Jahra	JA	Al-Mutlaa 5				
+KW	4100		Al Jahra	JA	Al-Mutlaa 6				
+KW	4120		Al Jahra	JA	Al-Mutlaa 7				
+KW	4140		Al Jahra	JA	Al-Mutlaa 8				
+KW	4180		Al Jahra	JA	Al-Mutlaa 9				
+KW	4000		Al Jahra	JA	Al-Mutlaa Comercial				
+KW	40		Al Jahra	JA	Alqaser				
+KW	3650		Al Jahra	JA	Al-Rozatain				
+KW	3000		Al Jahra	JA	Al-Salmi				
+KW	3700		Al Jahra	JA	Bubyan Island				
+KW	91710		Al Jahra	JA	Jaber Al Ahmad				
+KW	20		Al Jahra	JA	Jahra				
+KW	60		Al Jahra	JA	Naeem				
+KW	140		Al Jahra	JA	Naseem				
+KW	120		Al Jahra	JA	Oyoun				
+KW	91100		Al Jahra	JA	Saad Al Abdullah				
+KW	91250		Al Jahra	JA	South Saad Al-Abdulla 1				
+KW	91430		Al Jahra	JA	South Saad Al-Abdulla 10				
+KW	91470		Al Jahra	JA	South Saad Al-Abdulla 12				
+KW	91490		Al Jahra	JA	South Saad Al-Abdulla 13				
+KW	91270		Al Jahra	JA	South Saad Al-Abdulla 2				
+KW	91290		Al Jahra	JA	South Saad Al-Abdulla 3				
+KW	91310		Al Jahra	JA	South Saad Al-Abdulla 4				
+KW	91330		Al Jahra	JA	South Saad Al-Abdulla 5				
+KW	91350		Al Jahra	JA	South Saad Al-Abdulla 6				
+KW	91370		Al Jahra	JA	South Saad Al-Abdulla 7				
+KW	91390		Al Jahra	JA	South Saad Al-Abdulla 8				
+KW	91410		Al Jahra	JA	South Saad Al-Abdulla 9				
+KW	91510		Al Jahra	JA	South Saad Al-Abdulla Comercial				
+KW	93200		Al Jahra	JA	Sulaibiya				
+KW	80		Al Jahra	JA	Taima				
+KW	2750		Al Jahra	JA	Um Al-Aish				
+KW	100		Al Jahra	JA	Waha				
+KW	3750		Al Jahra	JA	Warba				
+KW	36350		Hawalli	HW	Al-Sha'Ab Al-Bahree				
+KW	47720		Hawalli	HW	Al-Siddeeq				
+KW	43600		Hawalli	HW	Bayan				
+KW	25000		Hawalli	HW	Bidda				
+KW	47740		Hawalli	HW	Hateen				
+KW	30000		Hawalli	HW	Hawally				
+KW	46300		Hawalli	HW	Jabriya				
+KW	40000		Hawalli	HW	Mishref				
+KW	40250		Hawalli	HW	Mubarak Al-Abdullah				
+KW	24700		Hawalli	HW	Ras				
+KW	25400		Hawalli	HW	Rumaithiya				
+KW	47700		Hawalli	HW	Salam				
+KW	20000		Hawalli	HW	Salmiya				
+KW	25600		Hawalli	HW	Salwa				
+KW	35900		Hawalli	HW	Shaab				
+KW	47780		Hawalli	HW	Shuhada				
+KW	47760		Hawalli	HW	Zahra				
+KW	51400		Mubarak Al Kabeer	MU	Abu Al Hasaniya				
+KW	47080		Mubarak Al Kabeer	MU	Abu Fatira				
+KW	47000		Mubarak Al Kabeer	MU	Al-Adan				
+KW	47040		Mubarak Al Kabeer	MU	Al-Qurain				
+KW	52400		Mubarak Al Kabeer	MU	Fnaitees				
+KW	26600		Mubarak Al Kabeer	MU	Mesayel				
+KW	47060		Mubarak Al Kabeer	MU	Mubarak Al-Kabeer				
+KW	47020		Mubarak Al Kabeer	MU	Qusor				
+KW	44000		Mubarak Al Kabeer	MU	Sabah Al Salem				
+KW	44100		Mubarak Al Kabeer	MU	Sabah Salem B				
+KW	44200		Mubarak Al Kabeer	MU	Sabah Salem C				
+KW	46000		Mubarak Al Kabeer	MU	Sabhan				
+KW	54601		Al Ahmadi	AH	Abu Halifa				
+KW	54602		Al Ahmadi	AH	Abu Halifa				
+KW	54603		Al Ahmadi	AH	Abu Halifa				
+KW	54604		Al Ahmadi	AH	Abu Halifa				
+KW	54605		Al Ahmadi	AH	Abu Halifa				
+KW	54606		Al Ahmadi	AH	Abu Halifa				
+KW	54607		Al Ahmadi	AH	Abu Halifa				
+KW	54608		Al Ahmadi	AH	Abu Halifa				
+KW	54609		Al Ahmadi	AH	Abu Halifa				
+KW	54610		Al Ahmadi	AH	Abu Halifa				
+KW	60001		Al Ahmadi	AH	Ahmadi				
+KW	60002		Al Ahmadi	AH	Ahmadi				
+KW	60003		Al Ahmadi	AH	Ahmadi				
+KW	60004		Al Ahmadi	AH	Ahmadi				
+KW	60005		Al Ahmadi	AH	Ahmadi				
+KW	60006		Al Ahmadi	AH	Ahmadi				
+KW	60007		Al Ahmadi	AH	Ahmadi				
+KW	60008		Al Ahmadi	AH	Ahmadi				
+KW	60009		Al Ahmadi	AH	Ahmadi				
+KW	60010		Al Ahmadi	AH	Ahmadi				
+KW	60011		Al Ahmadi	AH	Ahmadi				
+KW	60012		Al Ahmadi	AH	Ahmadi				
+KW	65001		Al Ahmadi	AH	Ali Sabah Al-Salem				
+KW	65002		Al Ahmadi	AH	Ali Sabah Al-Salem				
+KW	65003		Al Ahmadi	AH	Ali Sabah Al-Salem				
+KW	65004		Al Ahmadi	AH	Ali Sabah Al-Salem				
+KW	65005		Al Ahmadi	AH	Ali Sabah Al-Salem				
+KW	65006		Al Ahmadi	AH	Ali Sabah Al-Salem				
+KW	65007		Al Ahmadi	AH	Ali Sabah Al-Salem				
+KW	65008		Al Ahmadi	AH	Ali Sabah Al-Salem				
+KW	65009		Al Ahmadi	AH	Ali Sabah Al-Salem				
+KW	65010		Al Ahmadi	AH	Ali Sabah Al-Salem				
+KW	65011		Al Ahmadi	AH	Ali Sabah Al-Salem				
+KW	65012		Al Ahmadi	AH	Ali Sabah Al-Salem				
+KW	65013		Al Ahmadi	AH	Ali Sabah Al-Salem				
+KW	65014		Al Ahmadi	AH	Ali Sabah Al-Salem				
+KW	65015		Al Ahmadi	AH	Ali Sabah Al-Salem				
+KW	65016		Al Ahmadi	AH	Ali Sabah Al-Salem				
+KW	65017		Al Ahmadi	AH	Ali Sabah Al-Salem				
+KW	65018		Al Ahmadi	AH	Ali Sabah Al-Salem				
+KW	65019		Al Ahmadi	AH	Ali Sabah Al-Salem				
+KW	65020		Al Ahmadi	AH	Ali Sabah Al-Salem				
+KW	51251		Al Ahmadi	AH	Dhahar				
+KW	51252		Al Ahmadi	AH	Dhahar				
+KW	51253		Al Ahmadi	AH	Dhahar				
+KW	51254		Al Ahmadi	AH	Dhahar				
+KW	51255		Al Ahmadi	AH	Dhahar				
+KW	51256		Al Ahmadi	AH	Dhahar				
+KW	53801		Al Ahmadi	AH	Fahad Al Ahmad				
+KW	53802		Al Ahmadi	AH	Fahad Al Ahmad				
+KW	53803		Al Ahmadi	AH	Fahad Al Ahmad				
+KW	53804		Al Ahmadi	AH	Fahad Al Ahmad				
+KW	53805		Al Ahmadi	AH	Fahad Al Ahmad				
+KW	53806		Al Ahmadi	AH	Fahad Al Ahmad				
+KW	53807		Al Ahmadi	AH	Fahad Al Ahmad				
+KW	53808		Al Ahmadi	AH	Fahad Al Ahmad				
+KW	53809		Al Ahmadi	AH	Fahad Al Ahmad				
+KW	53810		Al Ahmadi	AH	Fahad Al Ahmad				
+KW	63001		Al Ahmadi	AH	Fahaheel				
+KW	63002		Al Ahmadi	AH	Fahaheel				
+KW	63003		Al Ahmadi	AH	Fahaheel				
+KW	63004		Al Ahmadi	AH	Fahaheel				
+KW	63005		Al Ahmadi	AH	Fahaheel				
+KW	63006		Al Ahmadi	AH	Fahaheel				
+KW	63007		Al Ahmadi	AH	Fahaheel				
+KW	63008		Al Ahmadi	AH	Fahaheel				
+KW	63009		Al Ahmadi	AH	Fahaheel				
+KW	63010		Al Ahmadi	AH	Fahaheel				
+KW	63011		Al Ahmadi	AH	Fahaheel				
+KW	63012		Al Ahmadi	AH	Fahaheel				
+KW	63051		Al Ahmadi	AH	Fahaheel Indutrial				
+KW	63052		Al Ahmadi	AH	Fahaheel Indutrial				
+KW	63053		Al Ahmadi	AH	Fahaheel Indutrial				
+KW	63054		Al Ahmadi	AH	Fahaheel Indutrial				
+KW	63055		Al Ahmadi	AH	Fahaheel Indutrial				
+KW	63056		Al Ahmadi	AH	Fahaheel Indutrial				
+KW	63057		Al Ahmadi	AH	Fahaheel Indutrial				
+KW	63058		Al Ahmadi	AH	Fahaheel Indutrial				
+KW	63059		Al Ahmadi	AH	Fahaheel Indutrial				
+KW	63060		Al Ahmadi	AH	Fahaheel Indutrial				
+KW	50001		Al Ahmadi	AH	Fintas				
+KW	50002		Al Ahmadi	AH	Fintas				
+KW	50003		Al Ahmadi	AH	Fintas				
+KW	50004		Al Ahmadi	AH	Fintas				
+KW	50005		Al Ahmadi	AH	Fintas				
+KW	50006		Al Ahmadi	AH	Fintas				
+KW	50007		Al Ahmadi	AH	Fintas				
+KW	50008		Al Ahmadi	AH	Fintas				
+KW	50009		Al Ahmadi	AH	Fintas				
+KW	50010		Al Ahmadi	AH	Fintas				
+KW	52701		Al Ahmadi	AH	Hadiya				
+KW	52702		Al Ahmadi	AH	Hadiya				
+KW	52703		Al Ahmadi	AH	Hadiya				
+KW	52704		Al Ahmadi	AH	Hadiya				
+KW	52705		Al Ahmadi	AH	Hadiya				
+KW	52706		Al Ahmadi	AH	Hadiya				
+KW	52707		Al Ahmadi	AH	Hadiya				
+KW	52708		Al Ahmadi	AH	Hadiya				
+KW	52709		Al Ahmadi	AH	Hadiya				
+KW	52710		Al Ahmadi	AH	Hadiya				
+KW	52711		Al Ahmadi	AH	Hadiya				
+KW	52712		Al Ahmadi	AH	Hadiya				
+KW	51601		Al Ahmadi	AH	Jaber Al Ali				
+KW	51602		Al Ahmadi	AH	Jaber Al Ali				
+KW	51603		Al Ahmadi	AH	Jaber Al Ali				
+KW	51604		Al Ahmadi	AH	Jaber Al Ali				
+KW	51605		Al Ahmadi	AH	Jaber Al Ali				
+KW	51606		Al Ahmadi	AH	Jaber Al Ali				
+KW	51607		Al Ahmadi	AH	Jaber Al Ali				
+KW	51608		Al Ahmadi	AH	Jaber Al Ali				
+KW	51609		Al Ahmadi	AH	Jaber Al Ali				
+KW	51610		Al Ahmadi	AH	Jaber Al Ali				
+KW	65501		Al Ahmadi	AH	Khairan				
+KW	65502		Al Ahmadi	AH	Khairan				
+KW	65503		Al Ahmadi	AH	Khairan				
+KW	65504		Al Ahmadi	AH	Khairan				
+KW	65505		Al Ahmadi	AH	Khairan				
+KW	65506		Al Ahmadi	AH	Khairan				
+KW	65507		Al Ahmadi	AH	Khairan				
+KW	65508		Al Ahmadi	AH	Khairan				
+KW	65509		Al Ahmadi	AH	Khairan				
+KW	65510		Al Ahmadi	AH	Khairan				
+KW	54001		Al Ahmadi	AH	Mahboula				
+KW	54002		Al Ahmadi	AH	Mahboula				
+KW	54003		Al Ahmadi	AH	Mahboula				
+KW	54004		Al Ahmadi	AH	Mahboula				
+KW	54005		Al Ahmadi	AH	Mahboula				
+KW	54006		Al Ahmadi	AH	Mahboula				
+KW	54007		Al Ahmadi	AH	Mahboula				
+KW	54008		Al Ahmadi	AH	Mahboula				
+KW	54009		Al Ahmadi	AH	Mahboula				
+KW	54010		Al Ahmadi	AH	Mahboula				
+KW	53701		Al Ahmadi	AH	Mangaf				
+KW	53702		Al Ahmadi	AH	Mangaf				
+KW	53703		Al Ahmadi	AH	Mangaf				
+KW	53704		Al Ahmadi	AH	Mangaf				
+KW	53705		Al Ahmadi	AH	Mangaf				
+KW	53706		Al Ahmadi	AH	Mangaf				
+KW	53707		Al Ahmadi	AH	Mangaf				
+KW	53708		Al Ahmadi	AH	Mangaf				
+KW	53709		Al Ahmadi	AH	Mangaf				
+KW	53710		Al Ahmadi	AH	Mangaf				
+KW	60201		Al Ahmadi	AH	Maqwaa				
+KW	60202		Al Ahmadi	AH	Maqwaa				
+KW	60203		Al Ahmadi	AH	Maqwaa				
+KW	60204		Al Ahmadi	AH	Maqwaa				
+KW	60205		Al Ahmadi	AH	Maqwaa				
+KW	60206		Al Ahmadi	AH	Maqwaa				
+KW	60207		Al Ahmadi	AH	Maqwaa				
+KW	60208		Al Ahmadi	AH	Maqwaa				
+KW	60209		Al Ahmadi	AH	Maqwaa				
+KW	60210		Al Ahmadi	AH	Maqwaa				
+KW	54201		Al Ahmadi	AH	Oqailah				
+KW	54202		Al Ahmadi	AH	Oqailah				
+KW	54203		Al Ahmadi	AH	Oqailah				
+KW	54204		Al Ahmadi	AH	Oqailah				
+KW	54205		Al Ahmadi	AH	Oqailah				
+KW	54206		Al Ahmadi	AH	Oqailah				
+KW	54207		Al Ahmadi	AH	Oqailah				
+KW	54208		Al Ahmadi	AH	Oqailah				
+KW	54209		Al Ahmadi	AH	Oqailah				
+KW	54210		Al Ahmadi	AH	Oqailah				
+KW	53301		Al Ahmadi	AH	Riqqa				
+KW	53302		Al Ahmadi	AH	Riqqa				
+KW	53303		Al Ahmadi	AH	Riqqa				
+KW	53304		Al Ahmadi	AH	Riqqa				
+KW	53305		Al Ahmadi	AH	Riqqa				
+KW	53306		Al Ahmadi	AH	Riqqa				
+KW	53307		Al Ahmadi	AH	Riqqa				
+KW	67501		Al Ahmadi	AH	Sabah Al Ahmad 1				
+KW	67502		Al Ahmadi	AH	Sabah Al Ahmad 1				
+KW	67503		Al Ahmadi	AH	Sabah Al Ahmad 1				
+KW	67504		Al Ahmadi	AH	Sabah Al Ahmad 1				
+KW	67505		Al Ahmadi	AH	Sabah Al Ahmad 1				
+KW	67506		Al Ahmadi	AH	Sabah Al Ahmad 1				
+KW	67507		Al Ahmadi	AH	Sabah Al Ahmad 1				
+KW	67508		Al Ahmadi	AH	Sabah Al Ahmad 1				
+KW	67509		Al Ahmadi	AH	Sabah Al Ahmad 1				
+KW	67510		Al Ahmadi	AH	Sabah Al Ahmad 1				
+KW	67511		Al Ahmadi	AH	Sabah Al Ahmad 1				
+KW	67512		Al Ahmadi	AH	Sabah Al Ahmad 1				
+KW	67521		Al Ahmadi	AH	Sabah Al Ahmad 2				
+KW	67522		Al Ahmadi	AH	Sabah Al Ahmad 2				
+KW	67523		Al Ahmadi	AH	Sabah Al Ahmad 2				
+KW	67524		Al Ahmadi	AH	Sabah Al Ahmad 2				
+KW	67525		Al Ahmadi	AH	Sabah Al Ahmad 2				
+KW	67526		Al Ahmadi	AH	Sabah Al Ahmad 2				
+KW	67527		Al Ahmadi	AH	Sabah Al Ahmad 2				
+KW	67528		Al Ahmadi	AH	Sabah Al Ahmad 2				
+KW	67529		Al Ahmadi	AH	Sabah Al Ahmad 2				
+KW	67530		Al Ahmadi	AH	Sabah Al Ahmad 2				
+KW	67531		Al Ahmadi	AH	Sabah Al Ahmad 2				
+KW	67532		Al Ahmadi	AH	Sabah Al Ahmad 2				
+KW	67541		Al Ahmadi	AH	Sabah Al Ahmad 3				
+KW	67542		Al Ahmadi	AH	Sabah Al Ahmad 3				
+KW	67543		Al Ahmadi	AH	Sabah Al Ahmad 3				
+KW	67544		Al Ahmadi	AH	Sabah Al Ahmad 3				
+KW	67545		Al Ahmadi	AH	Sabah Al Ahmad 3				
+KW	67546		Al Ahmadi	AH	Sabah Al Ahmad 3				
+KW	67547		Al Ahmadi	AH	Sabah Al Ahmad 3				
+KW	67548		Al Ahmadi	AH	Sabah Al Ahmad 3				
+KW	67549		Al Ahmadi	AH	Sabah Al Ahmad 3				
+KW	67550		Al Ahmadi	AH	Sabah Al Ahmad 3				
+KW	67551		Al Ahmadi	AH	Sabah Al Ahmad 3				
+KW	67552		Al Ahmadi	AH	Sabah Al Ahmad 3				
+KW	67561		Al Ahmadi	AH	Sabah Al Ahmad 4				
+KW	67562		Al Ahmadi	AH	Sabah Al Ahmad 4				
+KW	67563		Al Ahmadi	AH	Sabah Al Ahmad 4				
+KW	67564		Al Ahmadi	AH	Sabah Al Ahmad 4				
+KW	67565		Al Ahmadi	AH	Sabah Al Ahmad 4				
+KW	67566		Al Ahmadi	AH	Sabah Al Ahmad 4				
+KW	67567		Al Ahmadi	AH	Sabah Al Ahmad 4				
+KW	67568		Al Ahmadi	AH	Sabah Al Ahmad 4				
+KW	67569		Al Ahmadi	AH	Sabah Al Ahmad 4				
+KW	67570		Al Ahmadi	AH	Sabah Al Ahmad 4				
+KW	67571		Al Ahmadi	AH	Sabah Al Ahmad 4				
+KW	67572		Al Ahmadi	AH	Sabah Al Ahmad 4				
+KW	67581		Al Ahmadi	AH	Sabah Al Ahmad 5				
+KW	67582		Al Ahmadi	AH	Sabah Al Ahmad 5				
+KW	67583		Al Ahmadi	AH	Sabah Al Ahmad 5				
+KW	67584		Al Ahmadi	AH	Sabah Al Ahmad 5				
+KW	67585		Al Ahmadi	AH	Sabah Al Ahmad 5				
+KW	67586		Al Ahmadi	AH	Sabah Al Ahmad 5				
+KW	67587		Al Ahmadi	AH	Sabah Al Ahmad 5				
+KW	67588		Al Ahmadi	AH	Sabah Al Ahmad 5				
+KW	67589		Al Ahmadi	AH	Sabah Al Ahmad 5				
+KW	67590		Al Ahmadi	AH	Sabah Al Ahmad 5				
+KW	67591		Al Ahmadi	AH	Sabah Al Ahmad 5				
+KW	67592		Al Ahmadi	AH	Sabah Al Ahmad 5				
+KW	66381		Al Ahmadi	AH	Sabah Al Ahmad See				
+KW	66382		Al Ahmadi	AH	Sabah Al Ahmad See				
+KW	66383		Al Ahmadi	AH	Sabah Al Ahmad See				
+KW	66384		Al Ahmadi	AH	Sabah Al Ahmad See				
+KW	66385		Al Ahmadi	AH	Sabah Al Ahmad See				
+KW	66386		Al Ahmadi	AH	Sabah Al Ahmad See				
+KW	66387		Al Ahmadi	AH	Sabah Al Ahmad See				
+KW	66388		Al Ahmadi	AH	Sabah Al Ahmad See				
+KW	66389		Al Ahmadi	AH	Sabah Al Ahmad See				
+KW	66390		Al Ahmadi	AH	Sabah Al Ahmad See				
+KW	66391		Al Ahmadi	AH	Sabah Al Ahmad See				
+KW	66392		Al Ahmadi	AH	Sabah Al Ahmad See				
+KW	54401		Al Ahmadi	AH	Sabahiya				
+KW	54402		Al Ahmadi	AH	Sabahiya				
+KW	54403		Al Ahmadi	AH	Sabahiya				
+KW	54404		Al Ahmadi	AH	Sabahiya				
+KW	54405		Al Ahmadi	AH	Sabahiya				
+KW	65301		Al Ahmadi	AH	Shuaiba				
+KW	65302		Al Ahmadi	AH	Shuaiba				
+KW	65303		Al Ahmadi	AH	Shuaiba				
+KW	65304		Al Ahmadi	AH	Shuaiba				
+KW	65305		Al Ahmadi	AH	Shuaiba				
+KW	65306		Al Ahmadi	AH	Shuaiba				
+KW	65307		Al Ahmadi	AH	Shuaiba				
+KW	65308		Al Ahmadi	AH	Shuaiba				
+KW	65309		Al Ahmadi	AH	Shuaiba				
+KW	65310		Al Ahmadi	AH	Shuaiba				
+KW	55001		Al Ahmadi	AH	South Sabahiyah				
+KW	55002		Al Ahmadi	AH	South Sabahiyah				
+KW	55003		Al Ahmadi	AH	South Sabahiyah				
+KW	55004		Al Ahmadi	AH	South Sabahiyah				
+KW	55005		Al Ahmadi	AH	South Sabahiyah				
+KW	55006		Al Ahmadi	AH	South Sabahiyah				
+KW	55007		Al Ahmadi	AH	South Sabahiyah				
+KW	55008		Al Ahmadi	AH	South Sabahiyah				
+KW	55009		Al Ahmadi	AH	South Sabahiyah				
+KW	55010		Al Ahmadi	AH	South Sabahiyah				
+KW	65701		Al Ahmadi	AH	Wafra				
+KW	65702		Al Ahmadi	AH	Wafra				
+KW	65703		Al Ahmadi	AH	Wafra				
+KW	65704		Al Ahmadi	AH	Wafra				
+KW	65705		Al Ahmadi	AH	Wafra				
+KW	65706		Al Ahmadi	AH	Wafra				
+KW	65707		Al Ahmadi	AH	Wafra				
+KW	65708		Al Ahmadi	AH	Wafra				
+KW	65709		Al Ahmadi	AH	Wafra				
+KW	65710		Al Ahmadi	AH	Wafra				
+KW	65711		Al Ahmadi	AH	Wafra				
+KW	65712		Al Ahmadi	AH	Wafra				
+KW	60101		Al Ahmadi	AH	Wara				
+KW	60102		Al Ahmadi	AH	Wara				
+KW	60103		Al Ahmadi	AH	Wara				
+KW	60104		Al Ahmadi	AH	Wara				
+KW	60105		Al Ahmadi	AH	Wara				
+KW	60106		Al Ahmadi	AH	Wara				
+KW	60107		Al Ahmadi	AH	Wara				
+KW	60108		Al Ahmadi	AH	Wara				
+KW	60109		Al Ahmadi	AH	Wara				
+KW	60110		Al Ahmadi	AH	Wara				
+KW	65901		Al Ahmadi	AH	Zoar				
+KW	65902		Al Ahmadi	AH	Zoar				
+KW	65903		Al Ahmadi	AH	Zoar				
+KW	65904		Al Ahmadi	AH	Zoar				
+KW	65905		Al Ahmadi	AH	Zoar				
+KW	65906		Al Ahmadi	AH	Zoar				
+KW	65907		Al Ahmadi	AH	Zoar				
+KW	65908		Al Ahmadi	AH	Zoar				
+KW	65909		Al Ahmadi	AH	Zoar				
+KW	65910		Al Ahmadi	AH	Zoar				
+KW	65911		Al Ahmadi	AH	Zoar				
+KW	65912		Al Ahmadi	AH	Zoar				
+KW	72101		Al Asimah	KU	Abdullah al-Salem				
+KW	72102		Al Asimah	KU	Abdullah al-Salem				
+KW	72103		Al Asimah	KU	Abdullah al-Salem				
+KW	72104		Al Asimah	KU	Abdullah al-Salem				
+KW	73101		Al Asimah	KU	Adailiya				
+KW	73102		Al Asimah	KU	Adailiya				
+KW	73103		Al Asimah	KU	Adailiya				
+KW	73104		Al Asimah	KU	Adailiya				
+KW	73105		Al Asimah	KU	Adailiya				
+KW	36201		Al Asimah	KU	Bneid Al Qar				
+KW	36202		Al Asimah	KU	Bneid Al Qar				
+KW	36203		Al Asimah	KU	Bneid Al Qar				
+KW	36204		Al Asimah	KU	Bneid Al Qar				
+KW	36205		Al Asimah	KU	Bneid Al Qar				
+KW	36206		Al Asimah	KU	Bneid Al Qar				
+KW	36207		Al Asimah	KU	Bneid Al Qar				
+KW	36208		Al Asimah	KU	Bneid Al Qar				
+KW	36209		Al Asimah	KU	Bneid Al Qar				
+KW	36210		Al Asimah	KU	Bneid Al Qar				
+KW	36211		Al Asimah	KU	Bneid Al Qar				
+KW	36212		Al Asimah	KU	Bneid Al Qar				
+KW	35301		Al Asimah	KU	Daiya				
+KW	35302		Al Asimah	KU	Daiya				
+KW	35303		Al Asimah	KU	Daiya				
+KW	35304		Al Asimah	KU	Daiya				
+KW	35305		Al Asimah	KU	Daiya				
+KW	35001		Al Asimah	KU	Dasma				
+KW	35002		Al Asimah	KU	Dasma				
+KW	35003		Al Asimah	KU	Dasma				
+KW	35004		Al Asimah	KU	Dasma				
+KW	35005		Al Asimah	KU	Dasma				
+KW	35006		Al Asimah	KU	Dasma				
+KW	35007		Al Asimah	KU	Dasma				
+KW	93001		Al Asimah	KU	Doha				
+KW	93002		Al Asimah	KU	Doha				
+KW	93003		Al Asimah	KU	Doha				
+KW	93004		Al Asimah	KU	Doha				
+KW	93005		Al Asimah	KU	Doha				
+KW	93006		Al Asimah	KU	Doha				
+KW	93007		Al Asimah	KU	Doha				
+KW	72701		Al Asimah	KU	Faiha				
+KW	72702		Al Asimah	KU	Faiha				
+KW	72703		Al Asimah	KU	Faiha				
+KW	72704		Al Asimah	KU	Faiha				
+KW	72705		Al Asimah	KU	Faiha				
+KW	72706		Al Asimah	KU	Faiha				
+KW	72707		Al Asimah	KU	Faiha				
+KW	72708		Al Asimah	KU	Faiha				
+KW	72709		Al Asimah	KU	Faiha				
+KW	25201		Al Asimah	KU	Failaka				
+KW	25202		Al Asimah	KU	Failaka				
+KW	25203		Al Asimah	KU	Failaka				
+KW	25204		Al Asimah	KU	Failaka				
+KW	25205		Al Asimah	KU	Failaka				
+KW	25206		Al Asimah	KU	Failaka				
+KW	25207		Al Asimah	KU	Failaka				
+KW	25208		Al Asimah	KU	Failaka				
+KW	25209		Al Asimah	KU	Failaka				
+KW	25210		Al Asimah	KU	Failaka				
+KW	71801		Al Asimah	KU	Kaifan				
+KW	71802		Al Asimah	KU	Kaifan				
+KW	71803		Al Asimah	KU	Kaifan				
+KW	71804		Al Asimah	KU	Kaifan				
+KW	71805		Al Asimah	KU	Kaifan				
+KW	71806		Al Asimah	KU	Kaifan				
+KW	71807		Al Asimah	KU	Kaifan				
+KW	72301		Al Asimah	KU	Khaldiya				
+KW	72302		Al Asimah	KU	Khaldiya				
+KW	72303		Al Asimah	KU	Khaldiya				
+KW	72304		Al Asimah	KU	Khaldiya				
+KW	35501		Al Asimah	KU	Mansouriya				
+KW	35502		Al Asimah	KU	Mansouriya				
+KW	35503		Al Asimah	KU	Mansouriya				
+KW	15001		Al Asimah	KU	Murgab				
+KW	15002		Al Asimah	KU	Murgab				
+KW	15003		Al Asimah	KU	Murgab				
+KW	15004		Al Asimah	KU	Murgab				
+KW	15005		Al Asimah	KU	Murgab				
+KW	15006		Al Asimah	KU	Murgab				
+KW	15007		Al Asimah	KU	Murgab				
+KW	15008		Al Asimah	KU	Murgab				
+KW	15009		Al Asimah	KU	Murgab				
+KW	15010		Al Asimah	KU	Murgab				
+KW	15011		Al Asimah	KU	Murgab				
+KW	15012		Al Asimah	KU	Murgab				
+KW	66451		Al Asimah	KU	Nahdha				
+KW	66452		Al Asimah	KU	Nahdha				
+KW	66453		Al Asimah	KU	Nahdha				
+KW	66454		Al Asimah	KU	Nahdha				
+KW	66455		Al Asimah	KU	Nahdha				
+KW	66456		Al Asimah	KU	Nahdha				
+KW	66457		Al Asimah	KU	Nahdha				
+KW	66458		Al Asimah	KU	Nahdha				
+KW	66459		Al Asimah	KU	Nahdha				
+KW	66460		Al Asimah	KU	Nahdha				
+KW	72901		Al Asimah	KU	Nuzha				
+KW	72902		Al Asimah	KU	Nuzha				
+KW	72903		Al Asimah	KU	Nuzha				
+KW	35701		Al Asimah	KU	Qadsiya				
+KW	35702		Al Asimah	KU	Qadsiya				
+KW	35703		Al Asimah	KU	Qadsiya				
+KW	35704		Al Asimah	KU	Qadsiya				
+KW	35705		Al Asimah	KU	Qadsiya				
+KW	35706		Al Asimah	KU	Qadsiya				
+KW	35707		Al Asimah	KU	Qadsiya				
+KW	35708		Al Asimah	KU	Qadsiya				
+KW	35709		Al Asimah	KU	Qadsiya				
+KW	70701		Al Asimah	KU	Qairawan				
+KW	70702		Al Asimah	KU	Qairawan				
+KW	70703		Al Asimah	KU	Qairawan				
+KW	70704		Al Asimah	KU	Qairawan				
+KW	70705		Al Asimah	KU	Qairawan				
+KW	70706		Al Asimah	KU	Qairawan				
+KW	70707		Al Asimah	KU	Qairawan				
+KW	70708		Al Asimah	KU	Qairawan				
+KW	70709		Al Asimah	KU	Qairawan				
+KW	70710		Al Asimah	KU	Qairawan				
+KW	70711		Al Asimah	KU	Qairawan				
+KW	70712		Al Asimah	KU	Qairawan				
+KW	73501		Al Asimah	KU	Qortuba				
+KW	73502		Al Asimah	KU	Qortuba				
+KW	73503		Al Asimah	KU	Qortuba				
+KW	73504		Al Asimah	KU	Qortuba				
+KW	73505		Al Asimah	KU	Qortuba				
+KW	14001		Al Asimah	KU	Qublah				
+KW	14002		Al Asimah	KU	Qublah				
+KW	14003		Al Asimah	KU	Qublah				
+KW	14004		Al Asimah	KU	Qublah				
+KW	14005		Al Asimah	KU	Qublah				
+KW	14006		Al Asimah	KU	Qublah				
+KW	14007		Al Asimah	KU	Qublah				
+KW	14008		Al Asimah	KU	Qublah				
+KW	14009		Al Asimah	KU	Qublah				
+KW	14010		Al Asimah	KU	Qublah				
+KW	14011		Al Asimah	KU	Qublah				
+KW	14012		Al Asimah	KU	Qublah				
+KW	93501		Al Asimah	KU	Qurnata				
+KW	93502		Al Asimah	KU	Qurnata				
+KW	93503		Al Asimah	KU	Qurnata				
+KW	93504		Al Asimah	KU	Qurnata				
+KW	93505		Al Asimah	KU	Qurnata				
+KW	93506		Al Asimah	KU	Qurnata				
+KW	93507		Al Asimah	KU	Qurnata				
+KW	93508		Al Asimah	KU	Qurnata				
+KW	93509		Al Asimah	KU	Qurnata				
+KW	93510		Al Asimah	KU	Qurnata				
+KW	73301		Al Asimah	KU	Rawda				
+KW	73302		Al Asimah	KU	Rawda				
+KW	73303		Al Asimah	KU	Rawda				
+KW	73304		Al Asimah	KU	Rawda				
+KW	73305		Al Asimah	KU	Rawda				
+KW	71501		Al Asimah	KU	Shamiya				
+KW	71502		Al Asimah	KU	Shamiya				
+KW	71503		Al Asimah	KU	Shamiya				
+KW	71504		Al Asimah	KU	Shamiya				
+KW	71505		Al Asimah	KU	Shamiya				
+KW	71506		Al Asimah	KU	Shamiya				
+KW	71507		Al Asimah	KU	Shamiya				
+KW	71508		Al Asimah	KU	Shamiya				
+KW	71509		Al Asimah	KU	Shamiya				
+KW	15301		Al Asimah	KU	Sharq				
+KW	15302		Al Asimah	KU	Sharq				
+KW	15303		Al Asimah	KU	Sharq				
+KW	15304		Al Asimah	KU	Sharq				
+KW	15305		Al Asimah	KU	Sharq				
+KW	15306		Al Asimah	KU	Sharq				
+KW	15307		Al Asimah	KU	Sharq				
+KW	15308		Al Asimah	KU	Sharq				
+KW	15309		Al Asimah	KU	Sharq				
+KW	15310		Al Asimah	KU	Sharq				
+KW	15311		Al Asimah	KU	Sharq				
+KW	15312		Al Asimah	KU	Sharq				
+KW	70051		Al Asimah	KU	Shuwaikh Industrial 1				
+KW	70052		Al Asimah	KU	Shuwaikh Industrial 1				
+KW	70053		Al Asimah	KU	Shuwaikh Industrial 1				
+KW	70054		Al Asimah	KU	Shuwaikh Industrial 1				
+KW	70055		Al Asimah	KU	Shuwaikh Industrial 1				
+KW	70056		Al Asimah	KU	Shuwaikh Industrial 1				
+KW	70057		Al Asimah	KU	Shuwaikh Industrial 1				
+KW	70058		Al Asimah	KU	Shuwaikh Industrial 1				
+KW	70059		Al Asimah	KU	Shuwaikh Industrial 1				
+KW	70060		Al Asimah	KU	Shuwaikh Industrial 1				
+KW	70061		Al Asimah	KU	Shuwaikh Industrial 1				
+KW	70062		Al Asimah	KU	Shuwaikh Industrial 1				
+KW	70001		Al Asimah	KU	Shuwaikh Residential				
+KW	70002		Al Asimah	KU	Shuwaikh Residential				
+KW	70003		Al Asimah	KU	Shuwaikh Residential				
+KW	70004		Al Asimah	KU	Shuwaikh Residential				
+KW	70005		Al Asimah	KU	Shuwaikh Residential				
+KW	70006		Al Asimah	KU	Shuwaikh Residential				
+KW	90001		Al Asimah	KU	Sulaibekhat				
+KW	90002		Al Asimah	KU	Sulaibekhat				
+KW	90003		Al Asimah	KU	Sulaibekhat				
+KW	90004		Al Asimah	KU	Sulaibekhat				
+KW	90005		Al Asimah	KU	Sulaibekhat				
+KW	45401		Al Asimah	KU	Surra				
+KW	45402		Al Asimah	KU	Surra				
+KW	45403		Al Asimah	KU	Surra				
+KW	45404		Al Asimah	KU	Surra				
+KW	45405		Al Asimah	KU	Surra				
+KW	45406		Al Asimah	KU	Surra				
+KW	72501		Al Asimah	KU	Yarmouk				
+KW	72502		Al Asimah	KU	Yarmouk				
+KW	72503		Al Asimah	KU	Yarmouk				
+KW	72504		Al Asimah	KU	Yarmouk				
+KW	85701		Al Farwaniyah	FA	Abdullah Al-Mubarak				
+KW	85702		Al Farwaniyah	FA	Abdullah Al-Mubarak				
+KW	85703		Al Farwaniyah	FA	Abdullah Al-Mubarak				
+KW	85704		Al Farwaniyah	FA	Abdullah Al-Mubarak				
+KW	85705		Al Farwaniyah	FA	Abdullah Al-Mubarak				
+KW	85706		Al Farwaniyah	FA	Abdullah Al-Mubarak				
+KW	85707		Al Farwaniyah	FA	Abdullah Al-Mubarak				
+KW	85708		Al Farwaniyah	FA	Abdullah Al-Mubarak				
+KW	85709		Al Farwaniyah	FA	Abdullah Al-Mubarak				
+KW	85710		Al Farwaniyah	FA	Abdullah Al-Mubarak				
+KW	83001		Al Farwaniyah	FA	Abraq Khaitan				
+KW	83002		Al Farwaniyah	FA	Abraq Khaitan				
+KW	83003		Al Farwaniyah	FA	Abraq Khaitan				
+KW	83004		Al Farwaniyah	FA	Abraq Khaitan				
+KW	83005		Al Farwaniyah	FA	Abraq Khaitan				
+KW	83006		Al Farwaniyah	FA	Abraq Khaitan				
+KW	83007		Al Farwaniyah	FA	Abraq Khaitan				
+KW	83008		Al Farwaniyah	FA	Abraq Khaitan				
+KW	83009		Al Farwaniyah	FA	Abraq Khaitan				
+KW	83010		Al Farwaniyah	FA	Abraq Khaitan				
+KW	92001		Al Farwaniyah	FA	Andalous				
+KW	92002		Al Farwaniyah	FA	Andalous				
+KW	92003		Al Farwaniyah	FA	Andalous				
+KW	92004		Al Farwaniyah	FA	Andalous				
+KW	92005		Al Farwaniyah	FA	Andalous				
+KW	92006		Al Farwaniyah	FA	Andalous				
+KW	92007		Al Farwaniyah	FA	Andalous				
+KW	92008		Al Farwaniyah	FA	Andalous				
+KW	92009		Al Farwaniyah	FA	Andalous				
+KW	92010		Al Farwaniyah	FA	Andalous				
+KW	92401		Al Farwaniyah	FA	Ardhiya				
+KW	92402		Al Farwaniyah	FA	Ardhiya				
+KW	92403		Al Farwaniyah	FA	Ardhiya				
+KW	92404		Al Farwaniyah	FA	Ardhiya				
+KW	92405		Al Farwaniyah	FA	Ardhiya				
+KW	92406		Al Farwaniyah	FA	Ardhiya				
+KW	92407		Al Farwaniyah	FA	Ardhiya				
+KW	92408		Al Farwaniyah	FA	Ardhiya				
+KW	92409		Al Farwaniyah	FA	Ardhiya				
+KW	92410		Al Farwaniyah	FA	Ardhiya				
+KW	80001		Al Farwaniyah	FA	Farwaniya				
+KW	80002		Al Farwaniyah	FA	Farwaniya				
+KW	80003		Al Farwaniyah	FA	Farwaniya				
+KW	80004		Al Farwaniyah	FA	Farwaniya				
+KW	80005		Al Farwaniyah	FA	Farwaniya				
+KW	80006		Al Farwaniyah	FA	Farwaniya				
+KW	80007		Al Farwaniyah	FA	Farwaniya				
+KW	80008		Al Farwaniyah	FA	Farwaniya				
+KW	80009		Al Farwaniyah	FA	Farwaniya				
+KW	80010		Al Farwaniyah	FA	Farwaniya				
+KW	80011		Al Farwaniyah	FA	Farwaniya				
+KW	80012		Al Farwaniyah	FA	Farwaniya				
+KW	80013		Al Farwaniyah	FA	Farwaniya				
+KW	80014		Al Farwaniyah	FA	Farwaniya				
+KW	80015		Al Farwaniyah	FA	Farwaniya				
+KW	92201		Al Farwaniyah	FA	Firdous				
+KW	92202		Al Farwaniyah	FA	Firdous				
+KW	92203		Al Farwaniyah	FA	Firdous				
+KW	92204		Al Farwaniyah	FA	Firdous				
+KW	92205		Al Farwaniyah	FA	Firdous				
+KW	92206		Al Farwaniyah	FA	Firdous				
+KW	92207		Al Farwaniyah	FA	Firdous				
+KW	92208		Al Farwaniyah	FA	Firdous				
+KW	92209		Al Farwaniyah	FA	Firdous				
+KW	85401		Al Farwaniyah	FA	Ishbiliya				
+KW	85402		Al Farwaniyah	FA	Ishbiliya				
+KW	85403		Al Farwaniyah	FA	Ishbiliya				
+KW	85404		Al Farwaniyah	FA	Ishbiliya				
+KW	85405		Al Farwaniyah	FA	Ishbiliya				
+KW	85406		Al Farwaniyah	FA	Ishbiliya				
+KW	85407		Al Farwaniyah	FA	Ishbiliya				
+KW	85408		Al Farwaniyah	FA	Ishbiliya				
+KW	85409		Al Farwaniyah	FA	Ishbiliya				
+KW	85410		Al Farwaniyah	FA	Ishbiliya				
+KW	85411		Al Farwaniyah	FA	Ishbiliya				
+KW	85412		Al Farwaniyah	FA	Ishbiliya				
+KW	85601		Al Farwaniyah	FA	Jeleeb Al-Shuyoukh				
+KW	85602		Al Farwaniyah	FA	Jeleeb Al-Shuyoukh				
+KW	85603		Al Farwaniyah	FA	Jeleeb Al-Shuyoukh				
+KW	85604		Al Farwaniyah	FA	Jeleeb Al-Shuyoukh				
+KW	85605		Al Farwaniyah	FA	Jeleeb Al-Shuyoukh				
+KW	85606		Al Farwaniyah	FA	Jeleeb Al-Shuyoukh				
+KW	85607		Al Farwaniyah	FA	Jeleeb Al-Shuyoukh				
+KW	85608		Al Farwaniyah	FA	Jeleeb Al-Shuyoukh				
+KW	85609		Al Farwaniyah	FA	Jeleeb Al-Shuyoukh				
+KW	85610		Al Farwaniyah	FA	Jeleeb Al-Shuyoukh				
+KW	91301		Al Farwaniyah	FA	Kabd				
+KW	91302		Al Farwaniyah	FA	Kabd				
+KW	91303		Al Farwaniyah	FA	Kabd				
+KW	91304		Al Farwaniyah	FA	Kabd				
+KW	91305		Al Farwaniyah	FA	Kabd				
+KW	91306		Al Farwaniyah	FA	Kabd				
+KW	91307		Al Farwaniyah	FA	Kabd				
+KW	91308		Al Farwaniyah	FA	Kabd				
+KW	91309		Al Farwaniyah	FA	Kabd				
+KW	91310		Al Farwaniyah	FA	Kabd				
+KW	91311		Al Farwaniyah	FA	Kabd				
+KW	91312		Al Farwaniyah	FA	Kabd				
+KW	85001		Al Farwaniyah	FA	Omariya				
+KW	85002		Al Farwaniyah	FA	Omariya				
+KW	85003		Al Farwaniyah	FA	Omariya				
+KW	85004		Al Farwaniyah	FA	Omariya				
+KW	85005		Al Farwaniyah	FA	Omariya				
+KW	85006		Al Farwaniyah	FA	Omariya				
+KW	85007		Al Farwaniyah	FA	Omariya				
+KW	85008		Al Farwaniyah	FA	Omariya				
+KW	85009		Al Farwaniyah	FA	Omariya				
+KW	85010		Al Farwaniyah	FA	Omariya				
+KW	85201		Al Farwaniyah	FA	Rabiya				
+KW	85202		Al Farwaniyah	FA	Rabiya				
+KW	85203		Al Farwaniyah	FA	Rabiya				
+KW	85204		Al Farwaniyah	FA	Rabiya				
+KW	85205		Al Farwaniyah	FA	Rabiya				
+KW	85206		Al Farwaniyah	FA	Rabiya				
+KW	85207		Al Farwaniyah	FA	Rabiya				
+KW	85208		Al Farwaniyah	FA	Rabiya				
+KW	85209		Al Farwaniyah	FA	Rabiya				
+KW	85210		Al Farwaniyah	FA	Rabiya				
+KW	85211		Al Farwaniyah	FA	Rabiya				
+KW	85212		Al Farwaniyah	FA	Rabiya				
+KW	70071		Al Farwaniyah	FA	Rai				
+KW	70072		Al Farwaniyah	FA	Rai				
+KW	70073		Al Farwaniyah	FA	Rai				
+KW	70074		Al Farwaniyah	FA	Rai				
+KW	70075		Al Farwaniyah	FA	Rai				
+KW	70076		Al Farwaniyah	FA	Rai				
+KW	70077		Al Farwaniyah	FA	Rai				
+KW	70078		Al Farwaniyah	FA	Rai				
+KW	70079		Al Farwaniyah	FA	Rai				
+KW	70080		Al Farwaniyah	FA	Rai				
+KW	70081		Al Farwaniyah	FA	Rai				
+KW	70082		Al Farwaniyah	FA	Rai				
+KW	86001		Al Farwaniyah	FA	Rehab				
+KW	86002		Al Farwaniyah	FA	Rehab				
+KW	86003		Al Farwaniyah	FA	Rehab				
+KW	86004		Al Farwaniyah	FA	Rehab				
+KW	86005		Al Farwaniyah	FA	Rehab				
+KW	86006		Al Farwaniyah	FA	Rehab				
+KW	86007		Al Farwaniyah	FA	Rehab				
+KW	86008		Al Farwaniyah	FA	Rehab				
+KW	86009		Al Farwaniyah	FA	Rehab				
+KW	86010		Al Farwaniyah	FA	Rehab				
+KW	86011		Al Farwaniyah	FA	Rehab				
+KW	86012		Al Farwaniyah	FA	Rehab				
+KW	92701		Al Farwaniyah	FA	Riqqae				
+KW	92702		Al Farwaniyah	FA	Riqqae				
+KW	92703		Al Farwaniyah	FA	Riqqae				
+KW	92704		Al Farwaniyah	FA	Riqqae				
+KW	92705		Al Farwaniyah	FA	Riqqae				
+KW	92706		Al Farwaniyah	FA	Riqqae				
+KW	92707		Al Farwaniyah	FA	Riqqae				
+KW	92708		Al Farwaniyah	FA	Riqqae				
+KW	92709		Al Farwaniyah	FA	Riqqae				
+KW	92710		Al Farwaniyah	FA	Riqqae				
+KW	92421		Al Farwaniyah	FA	Sabah Al Nasser				
+KW	92422		Al Farwaniyah	FA	Sabah Al Nasser				
+KW	92423		Al Farwaniyah	FA	Sabah Al Nasser				
+KW	92424		Al Farwaniyah	FA	Sabah Al Nasser				
+KW	92425		Al Farwaniyah	FA	Sabah Al Nasser				
+KW	92426		Al Farwaniyah	FA	Sabah Al Nasser				
+KW	92427		Al Farwaniyah	FA	Sabah Al Nasser				
+KW	92428		Al Farwaniyah	FA	Sabah Al Nasser				
+KW	92429		Al Farwaniyah	FA	Sabah Al Nasser				
+KW	92430		Al Farwaniyah	FA	Sabah Al Nasser				
+KW	86401		Al Farwaniyah	FA	Shedadiah				
+KW	86402		Al Farwaniyah	FA	Shedadiah				
+KW	86403		Al Farwaniyah	FA	Shedadiah				
+KW	86404		Al Farwaniyah	FA	Shedadiah				
+KW	86405		Al Farwaniyah	FA	Shedadiah				
+KW	86406		Al Farwaniyah	FA	Shedadiah				
+KW	86407		Al Farwaniyah	FA	Shedadiah				
+KW	86408		Al Farwaniyah	FA	Shedadiah				
+KW	86409		Al Farwaniyah	FA	Shedadiah				
+KW	86410		Al Farwaniyah	FA	Shedadiah				
+KW	86411		Al Farwaniyah	FA	Shedadiah				
+KW	86412		Al Farwaniyah	FA	Shedadiah				
+KW	83051		Al Farwaniyah	FA	South Khaitan				
+KW	83052		Al Farwaniyah	FA	South Khaitan				
+KW	83053		Al Farwaniyah	FA	South Khaitan				
+KW	83054		Al Farwaniyah	FA	South Khaitan				
+KW	83055		Al Farwaniyah	FA	South Khaitan				
+KW	83056		Al Farwaniyah	FA	South Khaitan				
+KW	83057		Al Farwaniyah	FA	South Khaitan				
+KW	83058		Al Farwaniyah	FA	South Khaitan				
+KW	83059		Al Farwaniyah	FA	South Khaitan				
+KW	83060		Al Farwaniyah	FA	South Khaitan				
+KW	3201		Al Jahra	JA	Al-Abdali				
+KW	3202		Al Jahra	JA	Al-Abdali				
+KW	3203		Al Jahra	JA	Al-Abdali				
+KW	3204		Al Jahra	JA	Al-Abdali				
+KW	3205		Al Jahra	JA	Al-Abdali				
+KW	3206		Al Jahra	JA	Al-Abdali				
+KW	3207		Al Jahra	JA	Al-Abdali				
+KW	3208		Al Jahra	JA	Al-Abdali				
+KW	3209		Al Jahra	JA	Al-Abdali				
+KW	3210		Al Jahra	JA	Al-Abdali				
+KW	3400		Al Jahra	JA	Al-Abdali				
+KW	3401		Al Jahra	JA	Al-Abdali				
+KW	3402		Al Jahra	JA	Al-Abdali				
+KW	3403		Al Jahra	JA	Al-Abdali				
+KW	3404		Al Jahra	JA	Al-Abdali				
+KW	3405		Al Jahra	JA	Al-Abdali				
+KW	3406		Al Jahra	JA	Al-Abdali				
+KW	3407		Al Jahra	JA	Al-Abdali				
+KW	3408		Al Jahra	JA	Al-Abdali				
+KW	3409		Al Jahra	JA	Al-Abdali				
+KW	3410		Al Jahra	JA	Al-Abdali				
+KW	4201		Al Jahra	JA	Al-Mutlaa 10				
+KW	4202		Al Jahra	JA	Al-Mutlaa 10				
+KW	4203		Al Jahra	JA	Al-Mutlaa 10				
+KW	4204		Al Jahra	JA	Al-Mutlaa 10				
+KW	4205		Al Jahra	JA	Al-Mutlaa 10				
+KW	4206		Al Jahra	JA	Al-Mutlaa 10				
+KW	4207		Al Jahra	JA	Al-Mutlaa 10				
+KW	4208		Al Jahra	JA	Al-Mutlaa 10				
+KW	4209		Al Jahra	JA	Al-Mutlaa 10				
+KW	4210		Al Jahra	JA	Al-Mutlaa 10				
+KW	4221		Al Jahra	JA	Al-Mutlaa 11				
+KW	4241		Al Jahra	JA	Al-Mutlaa 12				
+KW	4242		Al Jahra	JA	Al-Mutlaa 12				
+KW	4243		Al Jahra	JA	Al-Mutlaa 12				
+KW	4244		Al Jahra	JA	Al-Mutlaa 12				
+KW	4245		Al Jahra	JA	Al-Mutlaa 12				
+KW	4246		Al Jahra	JA	Al-Mutlaa 12				
+KW	4247		Al Jahra	JA	Al-Mutlaa 12				
+KW	4248		Al Jahra	JA	Al-Mutlaa 12				
+KW	4249		Al Jahra	JA	Al-Mutlaa 12				
+KW	4250		Al Jahra	JA	Al-Mutlaa 12				
+KW	4261		Al Jahra	JA	Al-Mutlaa 13				
+KW	4262		Al Jahra	JA	Al-Mutlaa 13				
+KW	4263		Al Jahra	JA	Al-Mutlaa 13				
+KW	4264		Al Jahra	JA	Al-Mutlaa 13				
+KW	4265		Al Jahra	JA	Al-Mutlaa 13				
+KW	4266		Al Jahra	JA	Al-Mutlaa 13				
+KW	4267		Al Jahra	JA	Al-Mutlaa 13				
+KW	4268		Al Jahra	JA	Al-Mutlaa 13				
+KW	4269		Al Jahra	JA	Al-Mutlaa 13				
+KW	4270		Al Jahra	JA	Al-Mutlaa 13				
+KW	40201		Al Jahra	JA	Al-Mutlaa 2				
+KW	40202		Al Jahra	JA	Al-Mutlaa 2				
+KW	40203		Al Jahra	JA	Al-Mutlaa 2				
+KW	40204		Al Jahra	JA	Al-Mutlaa 2				
+KW	40205		Al Jahra	JA	Al-Mutlaa 2				
+KW	40206		Al Jahra	JA	Al-Mutlaa 2				
+KW	40207		Al Jahra	JA	Al-Mutlaa 2				
+KW	40208		Al Jahra	JA	Al-Mutlaa 2				
+KW	40209		Al Jahra	JA	Al-Mutlaa 2				
+KW	40210		Al Jahra	JA	Al-Mutlaa 2				
+KW	4041		Al Jahra	JA	Al-Mutlaa 3				
+KW	4042		Al Jahra	JA	Al-Mutlaa 3				
+KW	4043		Al Jahra	JA	Al-Mutlaa 3				
+KW	4044		Al Jahra	JA	Al-Mutlaa 3				
+KW	4045		Al Jahra	JA	Al-Mutlaa 3				
+KW	4046		Al Jahra	JA	Al-Mutlaa 3				
+KW	4047		Al Jahra	JA	Al-Mutlaa 3				
+KW	4048		Al Jahra	JA	Al-Mutlaa 3				
+KW	4049		Al Jahra	JA	Al-Mutlaa 3				
+KW	4050		Al Jahra	JA	Al-Mutlaa 3				
+KW	4061		Al Jahra	JA	Al-Mutlaa 4				
+KW	4062		Al Jahra	JA	Al-Mutlaa 4				
+KW	4063		Al Jahra	JA	Al-Mutlaa 4				
+KW	4064		Al Jahra	JA	Al-Mutlaa 4				
+KW	4065		Al Jahra	JA	Al-Mutlaa 4				
+KW	4066		Al Jahra	JA	Al-Mutlaa 4				
+KW	4067		Al Jahra	JA	Al-Mutlaa 4				
+KW	4068		Al Jahra	JA	Al-Mutlaa 4				
+KW	4069		Al Jahra	JA	Al-Mutlaa 4				
+KW	4070		Al Jahra	JA	Al-Mutlaa 4				
+KW	4081		Al Jahra	JA	Al-Mutlaa 5				
+KW	4082		Al Jahra	JA	Al-Mutlaa 5				
+KW	4083		Al Jahra	JA	Al-Mutlaa 5				
+KW	4084		Al Jahra	JA	Al-Mutlaa 5				
+KW	4085		Al Jahra	JA	Al-Mutlaa 5				
+KW	4086		Al Jahra	JA	Al-Mutlaa 5				
+KW	4087		Al Jahra	JA	Al-Mutlaa 5				
+KW	4088		Al Jahra	JA	Al-Mutlaa 5				
+KW	4089		Al Jahra	JA	Al-Mutlaa 5				
+KW	4090		Al Jahra	JA	Al-Mutlaa 5				
+KW	4101		Al Jahra	JA	Al-Mutlaa 6				
+KW	4102		Al Jahra	JA	Al-Mutlaa 6				
+KW	4103		Al Jahra	JA	Al-Mutlaa 6				
+KW	4104		Al Jahra	JA	Al-Mutlaa 6				
+KW	4105		Al Jahra	JA	Al-Mutlaa 6				
+KW	4106		Al Jahra	JA	Al-Mutlaa 6				
+KW	4107		Al Jahra	JA	Al-Mutlaa 6				
+KW	4108		Al Jahra	JA	Al-Mutlaa 6				
+KW	4109		Al Jahra	JA	Al-Mutlaa 6				
+KW	4110		Al Jahra	JA	Al-Mutlaa 6				
+KW	4121		Al Jahra	JA	Al-Mutlaa 7				
+KW	4122		Al Jahra	JA	Al-Mutlaa 7				
+KW	4123		Al Jahra	JA	Al-Mutlaa 7				
+KW	4124		Al Jahra	JA	Al-Mutlaa 7				
+KW	4125		Al Jahra	JA	Al-Mutlaa 7				
+KW	4126		Al Jahra	JA	Al-Mutlaa 7				
+KW	4127		Al Jahra	JA	Al-Mutlaa 7				
+KW	4128		Al Jahra	JA	Al-Mutlaa 7				
+KW	4129		Al Jahra	JA	Al-Mutlaa 7				
+KW	4130		Al Jahra	JA	Al-Mutlaa 7				
+KW	4141		Al Jahra	JA	Al-Mutlaa 8				
+KW	4142		Al Jahra	JA	Al-Mutlaa 8				
+KW	4143		Al Jahra	JA	Al-Mutlaa 8				
+KW	4144		Al Jahra	JA	Al-Mutlaa 8				
+KW	4145		Al Jahra	JA	Al-Mutlaa 8				
+KW	4146		Al Jahra	JA	Al-Mutlaa 8				
+KW	4147		Al Jahra	JA	Al-Mutlaa 8				
+KW	4148		Al Jahra	JA	Al-Mutlaa 8				
+KW	4149		Al Jahra	JA	Al-Mutlaa 8				
+KW	4150		Al Jahra	JA	Al-Mutlaa 8				
+KW	4160		Al Jahra	JA	Al-Mutlaa 8				
+KW	4161		Al Jahra	JA	Al-Mutlaa 8				
+KW	4162		Al Jahra	JA	Al-Mutlaa 8				
+KW	4163		Al Jahra	JA	Al-Mutlaa 8				
+KW	4164		Al Jahra	JA	Al-Mutlaa 8				
+KW	4165		Al Jahra	JA	Al-Mutlaa 8				
+KW	4166		Al Jahra	JA	Al-Mutlaa 8				
+KW	4167		Al Jahra	JA	Al-Mutlaa 8				
+KW	4168		Al Jahra	JA	Al-Mutlaa 8				
+KW	4169		Al Jahra	JA	Al-Mutlaa 8				
+KW	4170		Al Jahra	JA	Al-Mutlaa 8				
+KW	4181		Al Jahra	JA	Al-Mutlaa 9				
+KW	4182		Al Jahra	JA	Al-Mutlaa 9				
+KW	4183		Al Jahra	JA	Al-Mutlaa 9				
+KW	4184		Al Jahra	JA	Al-Mutlaa 9				
+KW	4185		Al Jahra	JA	Al-Mutlaa 9				
+KW	4186		Al Jahra	JA	Al-Mutlaa 9				
+KW	4187		Al Jahra	JA	Al-Mutlaa 9				
+KW	4188		Al Jahra	JA	Al-Mutlaa 9				
+KW	4189		Al Jahra	JA	Al-Mutlaa 9				
+KW	4190		Al Jahra	JA	Al-Mutlaa 9				
+KW	4001		Al Jahra	JA	Al-Mutlaa Comercial				
+KW	4002		Al Jahra	JA	Al-Mutlaa Comercial				
+KW	4003		Al Jahra	JA	Al-Mutlaa Comercial				
+KW	4004		Al Jahra	JA	Al-Mutlaa Comercial				
+KW	4005		Al Jahra	JA	Al-Mutlaa Comercial				
+KW	4006		Al Jahra	JA	Al-Mutlaa Comercial				
+KW	4007		Al Jahra	JA	Al-Mutlaa Comercial				
+KW	4008		Al Jahra	JA	Al-Mutlaa Comercial				
+KW	4009		Al Jahra	JA	Al-Mutlaa Comercial				
+KW	4010		Al Jahra	JA	Al-Mutlaa Comercial				
+KW	41		Al Jahra	JA	Alqaser				
+KW	42		Al Jahra	JA	Alqaser				
+KW	43		Al Jahra	JA	Alqaser				
+KW	44		Al Jahra	JA	Alqaser				
+KW	45		Al Jahra	JA	Alqaser				
+KW	46		Al Jahra	JA	Alqaser				
+KW	47		Al Jahra	JA	Alqaser				
+KW	48		Al Jahra	JA	Alqaser				
+KW	49		Al Jahra	JA	Alqaser				
+KW	50		Al Jahra	JA	Alqaser				
+KW	51		Al Jahra	JA	Alqaser				
+KW	52		Al Jahra	JA	Alqaser				
+KW	3651		Al Jahra	JA	Al-Rozatain				
+KW	3652		Al Jahra	JA	Al-Rozatain				
+KW	3653		Al Jahra	JA	Al-Rozatain				
+KW	3654		Al Jahra	JA	Al-Rozatain				
+KW	3655		Al Jahra	JA	Al-Rozatain				
+KW	3656		Al Jahra	JA	Al-Rozatain				
+KW	3657		Al Jahra	JA	Al-Rozatain				
+KW	3658		Al Jahra	JA	Al-Rozatain				
+KW	3659		Al Jahra	JA	Al-Rozatain				
+KW	3660		Al Jahra	JA	Al-Rozatain				
+KW	3001		Al Jahra	JA	Al-Salmi				
+KW	3002		Al Jahra	JA	Al-Salmi				
+KW	3003		Al Jahra	JA	Al-Salmi				
+KW	3004		Al Jahra	JA	Al-Salmi				
+KW	3005		Al Jahra	JA	Al-Salmi				
+KW	3006		Al Jahra	JA	Al-Salmi				
+KW	3007		Al Jahra	JA	Al-Salmi				
+KW	3008		Al Jahra	JA	Al-Salmi				
+KW	3009		Al Jahra	JA	Al-Salmi				
+KW	3010		Al Jahra	JA	Al-Salmi				
+KW	3701		Al Jahra	JA	Bubyan Island				
+KW	3702		Al Jahra	JA	Bubyan Island				
+KW	3703		Al Jahra	JA	Bubyan Island				
+KW	3704		Al Jahra	JA	Bubyan Island				
+KW	3705		Al Jahra	JA	Bubyan Island				
+KW	3706		Al Jahra	JA	Bubyan Island				
+KW	3707		Al Jahra	JA	Bubyan Island				
+KW	3708		Al Jahra	JA	Bubyan Island				
+KW	3709		Al Jahra	JA	Bubyan Island				
+KW	3710		Al Jahra	JA	Bubyan Island				
+KW	91711		Al Jahra	JA	Jaber Al Ahmad				
+KW	91712		Al Jahra	JA	Jaber Al Ahmad				
+KW	91713		Al Jahra	JA	Jaber Al Ahmad				
+KW	91714		Al Jahra	JA	Jaber Al Ahmad				
+KW	91715		Al Jahra	JA	Jaber Al Ahmad				
+KW	91716		Al Jahra	JA	Jaber Al Ahmad				
+KW	91717		Al Jahra	JA	Jaber Al Ahmad				
+KW	91718		Al Jahra	JA	Jaber Al Ahmad				
+KW	91719		Al Jahra	JA	Jaber Al Ahmad				
+KW	91720		Al Jahra	JA	Jaber Al Ahmad				
+KW	21		Al Jahra	JA	Jahra				
+KW	22		Al Jahra	JA	Jahra				
+KW	23		Al Jahra	JA	Jahra				
+KW	24		Al Jahra	JA	Jahra				
+KW	25		Al Jahra	JA	Jahra				
+KW	26		Al Jahra	JA	Jahra				
+KW	27		Al Jahra	JA	Jahra				
+KW	28		Al Jahra	JA	Jahra				
+KW	29		Al Jahra	JA	Jahra				
+KW	30		Al Jahra	JA	Jahra				
+KW	31		Al Jahra	JA	Jahra				
+KW	32		Al Jahra	JA	Jahra				
+KW	61		Al Jahra	JA	Naeem				
+KW	62		Al Jahra	JA	Naeem				
+KW	63		Al Jahra	JA	Naeem				
+KW	64		Al Jahra	JA	Naeem				
+KW	65		Al Jahra	JA	Naeem				
+KW	66		Al Jahra	JA	Naeem				
+KW	67		Al Jahra	JA	Naeem				
+KW	68		Al Jahra	JA	Naeem				
+KW	69		Al Jahra	JA	Naeem				
+KW	70		Al Jahra	JA	Naeem				
+KW	71		Al Jahra	JA	Naeem				
+KW	72		Al Jahra	JA	Naeem				
+KW	141		Al Jahra	JA	Naseem				
+KW	142		Al Jahra	JA	Naseem				
+KW	143		Al Jahra	JA	Naseem				
+KW	144		Al Jahra	JA	Naseem				
+KW	145		Al Jahra	JA	Naseem				
+KW	146		Al Jahra	JA	Naseem				
+KW	147		Al Jahra	JA	Naseem				
+KW	148		Al Jahra	JA	Naseem				
+KW	149		Al Jahra	JA	Naseem				
+KW	150		Al Jahra	JA	Naseem				
+KW	151		Al Jahra	JA	Naseem				
+KW	152		Al Jahra	JA	Naseem				
+KW	121		Al Jahra	JA	Oyoun				
+KW	122		Al Jahra	JA	Oyoun				
+KW	123		Al Jahra	JA	Oyoun				
+KW	124		Al Jahra	JA	Oyoun				
+KW	125		Al Jahra	JA	Oyoun				
+KW	126		Al Jahra	JA	Oyoun				
+KW	127		Al Jahra	JA	Oyoun				
+KW	128		Al Jahra	JA	Oyoun				
+KW	129		Al Jahra	JA	Oyoun				
+KW	130		Al Jahra	JA	Oyoun				
+KW	131		Al Jahra	JA	Oyoun				
+KW	132		Al Jahra	JA	Oyoun				
+KW	91101		Al Jahra	JA	Saad Al Abdullah				
+KW	91102		Al Jahra	JA	Saad Al Abdullah				
+KW	91103		Al Jahra	JA	Saad Al Abdullah				
+KW	91104		Al Jahra	JA	Saad Al Abdullah				
+KW	91105		Al Jahra	JA	Saad Al Abdullah				
+KW	91106		Al Jahra	JA	Saad Al Abdullah				
+KW	91107		Al Jahra	JA	Saad Al Abdullah				
+KW	91108		Al Jahra	JA	Saad Al Abdullah				
+KW	91109		Al Jahra	JA	Saad Al Abdullah				
+KW	91110		Al Jahra	JA	Saad Al Abdullah				
+KW	91252		Al Jahra	JA	South Saad Al-Abdulla 1				
+KW	91254		Al Jahra	JA	South Saad Al-Abdulla 1				
+KW	91256		Al Jahra	JA	South Saad Al-Abdulla 1				
+KW	91258		Al Jahra	JA	South Saad Al-Abdulla 1				
+KW	91260		Al Jahra	JA	South Saad Al-Abdulla 1				
+KW	91262		Al Jahra	JA	South Saad Al-Abdulla 1				
+KW	91264		Al Jahra	JA	South Saad Al-Abdulla 1				
+KW	91266		Al Jahra	JA	South Saad Al-Abdulla 1				
+KW	91268		Al Jahra	JA	South Saad Al-Abdulla 1				
+KW	91270		Al Jahra	JA	South Saad Al-Abdulla 1				
+KW	91272		Al Jahra	JA	South Saad Al-Abdulla 1				
+KW	91431		Al Jahra	JA	South Saad Al-Abdulla 10				
+KW	91432		Al Jahra	JA	South Saad Al-Abdulla 10				
+KW	91433		Al Jahra	JA	South Saad Al-Abdulla 10				
+KW	91434		Al Jahra	JA	South Saad Al-Abdulla 10				
+KW	91435		Al Jahra	JA	South Saad Al-Abdulla 10				
+KW	91436		Al Jahra	JA	South Saad Al-Abdulla 10				
+KW	91437		Al Jahra	JA	South Saad Al-Abdulla 10				
+KW	91438		Al Jahra	JA	South Saad Al-Abdulla 10				
+KW	91439		Al Jahra	JA	South Saad Al-Abdulla 10				
+KW	91440		Al Jahra	JA	South Saad Al-Abdulla 10				
+KW	91441		Al Jahra	JA	South Saad Al-Abdulla 10				
+KW	91442		Al Jahra	JA	South Saad Al-Abdulla 10				
+KW	91450		Al Jahra	JA	South Saad Al-Abdulla 10				
+KW	91451		Al Jahra	JA	South Saad Al-Abdulla 10				
+KW	91452		Al Jahra	JA	South Saad Al-Abdulla 10				
+KW	91453		Al Jahra	JA	South Saad Al-Abdulla 10				
+KW	91454		Al Jahra	JA	South Saad Al-Abdulla 10				
+KW	91455		Al Jahra	JA	South Saad Al-Abdulla 10				
+KW	91456		Al Jahra	JA	South Saad Al-Abdulla 10				
+KW	91457		Al Jahra	JA	South Saad Al-Abdulla 10				
+KW	91458		Al Jahra	JA	South Saad Al-Abdulla 10				
+KW	91459		Al Jahra	JA	South Saad Al-Abdulla 10				
+KW	91460		Al Jahra	JA	South Saad Al-Abdulla 10				
+KW	91461		Al Jahra	JA	South Saad Al-Abdulla 10				
+KW	91462		Al Jahra	JA	South Saad Al-Abdulla 10				
+KW	91471		Al Jahra	JA	South Saad Al-Abdulla 12				
+KW	91472		Al Jahra	JA	South Saad Al-Abdulla 12				
+KW	91473		Al Jahra	JA	South Saad Al-Abdulla 12				
+KW	91474		Al Jahra	JA	South Saad Al-Abdulla 12				
+KW	91475		Al Jahra	JA	South Saad Al-Abdulla 12				
+KW	91476		Al Jahra	JA	South Saad Al-Abdulla 12				
+KW	91477		Al Jahra	JA	South Saad Al-Abdulla 12				
+KW	91478		Al Jahra	JA	South Saad Al-Abdulla 12				
+KW	91479		Al Jahra	JA	South Saad Al-Abdulla 12				
+KW	91480		Al Jahra	JA	South Saad Al-Abdulla 12				
+KW	91481		Al Jahra	JA	South Saad Al-Abdulla 12				
+KW	91482		Al Jahra	JA	South Saad Al-Abdulla 12				
+KW	91491		Al Jahra	JA	South Saad Al-Abdulla 13				
+KW	91492		Al Jahra	JA	South Saad Al-Abdulla 13				
+KW	91493		Al Jahra	JA	South Saad Al-Abdulla 13				
+KW	91494		Al Jahra	JA	South Saad Al-Abdulla 13				
+KW	91495		Al Jahra	JA	South Saad Al-Abdulla 13				
+KW	91496		Al Jahra	JA	South Saad Al-Abdulla 13				
+KW	91497		Al Jahra	JA	South Saad Al-Abdulla 13				
+KW	91498		Al Jahra	JA	South Saad Al-Abdulla 13				
+KW	91499		Al Jahra	JA	South Saad Al-Abdulla 13				
+KW	91500		Al Jahra	JA	South Saad Al-Abdulla 13				
+KW	91501		Al Jahra	JA	South Saad Al-Abdulla 13				
+KW	91502		Al Jahra	JA	South Saad Al-Abdulla 13				
+KW	91271		Al Jahra	JA	South Saad Al-Abdulla 2				
+KW	91272		Al Jahra	JA	South Saad Al-Abdulla 2				
+KW	91273		Al Jahra	JA	South Saad Al-Abdulla 2				
+KW	91274		Al Jahra	JA	South Saad Al-Abdulla 2				
+KW	91275		Al Jahra	JA	South Saad Al-Abdulla 2				
+KW	91276		Al Jahra	JA	South Saad Al-Abdulla 2				
+KW	91277		Al Jahra	JA	South Saad Al-Abdulla 2				
+KW	91278		Al Jahra	JA	South Saad Al-Abdulla 2				
+KW	91279		Al Jahra	JA	South Saad Al-Abdulla 2				
+KW	91280		Al Jahra	JA	South Saad Al-Abdulla 2				
+KW	91281		Al Jahra	JA	South Saad Al-Abdulla 2				
+KW	91282		Al Jahra	JA	South Saad Al-Abdulla 2				
+KW	91291		Al Jahra	JA	South Saad Al-Abdulla 3				
+KW	91292		Al Jahra	JA	South Saad Al-Abdulla 3				
+KW	91293		Al Jahra	JA	South Saad Al-Abdulla 3				
+KW	91294		Al Jahra	JA	South Saad Al-Abdulla 3				
+KW	91295		Al Jahra	JA	South Saad Al-Abdulla 3				
+KW	91296		Al Jahra	JA	South Saad Al-Abdulla 3				
+KW	91297		Al Jahra	JA	South Saad Al-Abdulla 3				
+KW	91298		Al Jahra	JA	South Saad Al-Abdulla 3				
+KW	91299		Al Jahra	JA	South Saad Al-Abdulla 3				
+KW	91300		Al Jahra	JA	South Saad Al-Abdulla 3				
+KW	91301		Al Jahra	JA	South Saad Al-Abdulla 3				
+KW	91302		Al Jahra	JA	South Saad Al-Abdulla 3				
+KW	91311		Al Jahra	JA	South Saad Al-Abdulla 4				
+KW	91312		Al Jahra	JA	South Saad Al-Abdulla 4				
+KW	91313		Al Jahra	JA	South Saad Al-Abdulla 4				
+KW	91314		Al Jahra	JA	South Saad Al-Abdulla 4				
+KW	91315		Al Jahra	JA	South Saad Al-Abdulla 4				
+KW	91316		Al Jahra	JA	South Saad Al-Abdulla 4				
+KW	91317		Al Jahra	JA	South Saad Al-Abdulla 4				
+KW	91318		Al Jahra	JA	South Saad Al-Abdulla 4				
+KW	91319		Al Jahra	JA	South Saad Al-Abdulla 4				
+KW	91320		Al Jahra	JA	South Saad Al-Abdulla 4				
+KW	91321		Al Jahra	JA	South Saad Al-Abdulla 4				
+KW	91322		Al Jahra	JA	South Saad Al-Abdulla 4				
+KW	91331		Al Jahra	JA	South Saad Al-Abdulla 5				
+KW	91332		Al Jahra	JA	South Saad Al-Abdulla 5				
+KW	91333		Al Jahra	JA	South Saad Al-Abdulla 5				
+KW	91334		Al Jahra	JA	South Saad Al-Abdulla 5				
+KW	91335		Al Jahra	JA	South Saad Al-Abdulla 5				
+KW	91336		Al Jahra	JA	South Saad Al-Abdulla 5				
+KW	91337		Al Jahra	JA	South Saad Al-Abdulla 5				
+KW	91338		Al Jahra	JA	South Saad Al-Abdulla 5				
+KW	91339		Al Jahra	JA	South Saad Al-Abdulla 5				
+KW	91340		Al Jahra	JA	South Saad Al-Abdulla 5				
+KW	91341		Al Jahra	JA	South Saad Al-Abdulla 5				
+KW	91342		Al Jahra	JA	South Saad Al-Abdulla 5				
+KW	91351		Al Jahra	JA	South Saad Al-Abdulla 6				
+KW	91352		Al Jahra	JA	South Saad Al-Abdulla 6				
+KW	91353		Al Jahra	JA	South Saad Al-Abdulla 6				
+KW	91354		Al Jahra	JA	South Saad Al-Abdulla 6				
+KW	91355		Al Jahra	JA	South Saad Al-Abdulla 6				
+KW	91356		Al Jahra	JA	South Saad Al-Abdulla 6				
+KW	91357		Al Jahra	JA	South Saad Al-Abdulla 6				
+KW	91358		Al Jahra	JA	South Saad Al-Abdulla 6				
+KW	91359		Al Jahra	JA	South Saad Al-Abdulla 6				
+KW	91360		Al Jahra	JA	South Saad Al-Abdulla 6				
+KW	91361		Al Jahra	JA	South Saad Al-Abdulla 6				
+KW	91362		Al Jahra	JA	South Saad Al-Abdulla 6				
+KW	91371		Al Jahra	JA	South Saad Al-Abdulla 7				
+KW	91372		Al Jahra	JA	South Saad Al-Abdulla 7				
+KW	91373		Al Jahra	JA	South Saad Al-Abdulla 7				
+KW	91374		Al Jahra	JA	South Saad Al-Abdulla 7				
+KW	91375		Al Jahra	JA	South Saad Al-Abdulla 7				
+KW	91376		Al Jahra	JA	South Saad Al-Abdulla 7				
+KW	91377		Al Jahra	JA	South Saad Al-Abdulla 7				
+KW	91378		Al Jahra	JA	South Saad Al-Abdulla 7				
+KW	91379		Al Jahra	JA	South Saad Al-Abdulla 7				
+KW	91380		Al Jahra	JA	South Saad Al-Abdulla 7				
+KW	91381		Al Jahra	JA	South Saad Al-Abdulla 7				
+KW	91382		Al Jahra	JA	South Saad Al-Abdulla 7				
+KW	91391		Al Jahra	JA	South Saad Al-Abdulla 8				
+KW	91392		Al Jahra	JA	South Saad Al-Abdulla 8				
+KW	91393		Al Jahra	JA	South Saad Al-Abdulla 8				
+KW	91394		Al Jahra	JA	South Saad Al-Abdulla 8				
+KW	91395		Al Jahra	JA	South Saad Al-Abdulla 8				
+KW	91396		Al Jahra	JA	South Saad Al-Abdulla 8				
+KW	91397		Al Jahra	JA	South Saad Al-Abdulla 8				
+KW	91398		Al Jahra	JA	South Saad Al-Abdulla 8				
+KW	91399		Al Jahra	JA	South Saad Al-Abdulla 8				
+KW	91400		Al Jahra	JA	South Saad Al-Abdulla 8				
+KW	91401		Al Jahra	JA	South Saad Al-Abdulla 8				
+KW	91402		Al Jahra	JA	South Saad Al-Abdulla 8				
+KW	91411		Al Jahra	JA	South Saad Al-Abdulla 9				
+KW	91412		Al Jahra	JA	South Saad Al-Abdulla 9				
+KW	91413		Al Jahra	JA	South Saad Al-Abdulla 9				
+KW	91414		Al Jahra	JA	South Saad Al-Abdulla 9				
+KW	91415		Al Jahra	JA	South Saad Al-Abdulla 9				
+KW	91416		Al Jahra	JA	South Saad Al-Abdulla 9				
+KW	91417		Al Jahra	JA	South Saad Al-Abdulla 9				
+KW	91418		Al Jahra	JA	South Saad Al-Abdulla 9				
+KW	91419		Al Jahra	JA	South Saad Al-Abdulla 9				
+KW	91420		Al Jahra	JA	South Saad Al-Abdulla 9				
+KW	91421		Al Jahra	JA	South Saad Al-Abdulla 9				
+KW	91422		Al Jahra	JA	South Saad Al-Abdulla 9				
+KW	91511		Al Jahra	JA	South Saad Al-Abdulla Comercial				
+KW	91512		Al Jahra	JA	South Saad Al-Abdulla Comercial				
+KW	91513		Al Jahra	JA	South Saad Al-Abdulla Comercial				
+KW	91514		Al Jahra	JA	South Saad Al-Abdulla Comercial				
+KW	91515		Al Jahra	JA	South Saad Al-Abdulla Comercial				
+KW	91516		Al Jahra	JA	South Saad Al-Abdulla Comercial				
+KW	91517		Al Jahra	JA	South Saad Al-Abdulla Comercial				
+KW	91518		Al Jahra	JA	South Saad Al-Abdulla Comercial				
+KW	91519		Al Jahra	JA	South Saad Al-Abdulla Comercial				
+KW	91520		Al Jahra	JA	South Saad Al-Abdulla Comercial				
+KW	91521		Al Jahra	JA	South Saad Al-Abdulla Comercial				
+KW	91522		Al Jahra	JA	South Saad Al-Abdulla Comercial				
+KW	93201		Al Jahra	JA	Sulaibiya				
+KW	93202		Al Jahra	JA	Sulaibiya				
+KW	93203		Al Jahra	JA	Sulaibiya				
+KW	93204		Al Jahra	JA	Sulaibiya				
+KW	93205		Al Jahra	JA	Sulaibiya				
+KW	93206		Al Jahra	JA	Sulaibiya				
+KW	93207		Al Jahra	JA	Sulaibiya				
+KW	93208		Al Jahra	JA	Sulaibiya				
+KW	93209		Al Jahra	JA	Sulaibiya				
+KW	93210		Al Jahra	JA	Sulaibiya				
+KW	93211		Al Jahra	JA	Sulaibiya				
+KW	93212		Al Jahra	JA	Sulaibiya				
+KW	81		Al Jahra	JA	Taima				
+KW	82		Al Jahra	JA	Taima				
+KW	83		Al Jahra	JA	Taima				
+KW	84		Al Jahra	JA	Taima				
+KW	85		Al Jahra	JA	Taima				
+KW	86		Al Jahra	JA	Taima				
+KW	87		Al Jahra	JA	Taima				
+KW	88		Al Jahra	JA	Taima				
+KW	89		Al Jahra	JA	Taima				
+KW	90		Al Jahra	JA	Taima				
+KW	91		Al Jahra	JA	Taima				
+KW	92		Al Jahra	JA	Taima				
+KW	2751		Al Jahra	JA	Um Al-Aish				
+KW	2752		Al Jahra	JA	Um Al-Aish				
+KW	2753		Al Jahra	JA	Um Al-Aish				
+KW	2754		Al Jahra	JA	Um Al-Aish				
+KW	2755		Al Jahra	JA	Um Al-Aish				
+KW	2756		Al Jahra	JA	Um Al-Aish				
+KW	2757		Al Jahra	JA	Um Al-Aish				
+KW	2758		Al Jahra	JA	Um Al-Aish				
+KW	2759		Al Jahra	JA	Um Al-Aish				
+KW	2760		Al Jahra	JA	Um Al-Aish				
+KW	101		Al Jahra	JA	Waha				
+KW	102		Al Jahra	JA	Waha				
+KW	103		Al Jahra	JA	Waha				
+KW	104		Al Jahra	JA	Waha				
+KW	105		Al Jahra	JA	Waha				
+KW	106		Al Jahra	JA	Waha				
+KW	107		Al Jahra	JA	Waha				
+KW	108		Al Jahra	JA	Waha				
+KW	109		Al Jahra	JA	Waha				
+KW	110		Al Jahra	JA	Waha				
+KW	111		Al Jahra	JA	Waha				
+KW	112		Al Jahra	JA	Waha				
+KW	3751		Al Jahra	JA	Warba				
+KW	3752		Al Jahra	JA	Warba				
+KW	3753		Al Jahra	JA	Warba				
+KW	3754		Al Jahra	JA	Warba				
+KW	3755		Al Jahra	JA	Warba				
+KW	3756		Al Jahra	JA	Warba				
+KW	3757		Al Jahra	JA	Warba				
+KW	3758		Al Jahra	JA	Warba				
+KW	3759		Al Jahra	JA	Warba				
+KW	3760		Al Jahra	JA	Warba				
+KW	36351		Hawalli	HW	Al-Sha'Ab Al-Bahree				
+KW	36352		Hawalli	HW	Al-Sha'Ab Al-Bahree				
+KW	36353		Hawalli	HW	Al-Sha'Ab Al-Bahree				
+KW	36354		Hawalli	HW	Al-Sha'Ab Al-Bahree				
+KW	36355		Hawalli	HW	Al-Sha'Ab Al-Bahree				
+KW	36356		Hawalli	HW	Al-Sha'Ab Al-Bahree				
+KW	36357		Hawalli	HW	Al-Sha'Ab Al-Bahree				
+KW	36358		Hawalli	HW	Al-Sha'Ab Al-Bahree				
+KW	36359		Hawalli	HW	Al-Sha'Ab Al-Bahree				
+KW	36360		Hawalli	HW	Al-Sha'Ab Al-Bahree				
+KW	36361		Hawalli	HW	Al-Sha'Ab Al-Bahree				
+KW	36362		Hawalli	HW	Al-Sha'Ab Al-Bahree				
+KW	47721		Hawalli	HW	Al-Siddeeq				
+KW	47722		Hawalli	HW	Al-Siddeeq				
+KW	47723		Hawalli	HW	Al-Siddeeq				
+KW	47724		Hawalli	HW	Al-Siddeeq				
+KW	47725		Hawalli	HW	Al-Siddeeq				
+KW	47726		Hawalli	HW	Al-Siddeeq				
+KW	47727		Hawalli	HW	Al-Siddeeq				
+KW	47728		Hawalli	HW	Al-Siddeeq				
+KW	47729		Hawalli	HW	Al-Siddeeq				
+KW	47730		Hawalli	HW	Al-Siddeeq				
+KW	47731		Hawalli	HW	Al-Siddeeq				
+KW	47732		Hawalli	HW	Al-Siddeeq				
+KW	43601		Hawalli	HW	Bayan				
+KW	43602		Hawalli	HW	Bayan				
+KW	43603		Hawalli	HW	Bayan				
+KW	43604		Hawalli	HW	Bayan				
+KW	43605		Hawalli	HW	Bayan				
+KW	43606		Hawalli	HW	Bayan				
+KW	43607		Hawalli	HW	Bayan				
+KW	43608		Hawalli	HW	Bayan				
+KW	43609		Hawalli	HW	Bayan				
+KW	43610		Hawalli	HW	Bayan				
+KW	43611		Hawalli	HW	Bayan				
+KW	43612		Hawalli	HW	Bayan				
+KW	25001		Hawalli	HW	Bidda				
+KW	25002		Hawalli	HW	Bidda				
+KW	25003		Hawalli	HW	Bidda				
+KW	25004		Hawalli	HW	Bidda				
+KW	25005		Hawalli	HW	Bidda				
+KW	25006		Hawalli	HW	Bidda				
+KW	25007		Hawalli	HW	Bidda				
+KW	25008		Hawalli	HW	Bidda				
+KW	25009		Hawalli	HW	Bidda				
+KW	25010		Hawalli	HW	Bidda				
+KW	47741		Hawalli	HW	Hateen				
+KW	47742		Hawalli	HW	Hateen				
+KW	47743		Hawalli	HW	Hateen				
+KW	47744		Hawalli	HW	Hateen				
+KW	47745		Hawalli	HW	Hateen				
+KW	47746		Hawalli	HW	Hateen				
+KW	47747		Hawalli	HW	Hateen				
+KW	47748		Hawalli	HW	Hateen				
+KW	47749		Hawalli	HW	Hateen				
+KW	47750		Hawalli	HW	Hateen				
+KW	47751		Hawalli	HW	Hateen				
+KW	47752		Hawalli	HW	Hateen				
+KW	30001		Hawalli	HW	Hawally				
+KW	30002		Hawalli	HW	Hawally				
+KW	30003		Hawalli	HW	Hawally				
+KW	30004		Hawalli	HW	Hawally				
+KW	30005		Hawalli	HW	Hawally				
+KW	30006		Hawalli	HW	Hawally				
+KW	30007		Hawalli	HW	Hawally				
+KW	30008		Hawalli	HW	Hawally				
+KW	30009		Hawalli	HW	Hawally				
+KW	30010		Hawalli	HW	Hawally				
+KW	30011		Hawalli	HW	Hawally				
+KW	30012		Hawalli	HW	Hawally				
+KW	46301		Hawalli	HW	Jabriya				
+KW	46302		Hawalli	HW	Jabriya				
+KW	46303		Hawalli	HW	Jabriya				
+KW	46304		Hawalli	HW	Jabriya				
+KW	46305		Hawalli	HW	Jabriya				
+KW	46306		Hawalli	HW	Jabriya				
+KW	46307		Hawalli	HW	Jabriya				
+KW	46308		Hawalli	HW	Jabriya				
+KW	46309		Hawalli	HW	Jabriya				
+KW	46310		Hawalli	HW	Jabriya				
+KW	46311		Hawalli	HW	Jabriya				
+KW	46312		Hawalli	HW	Jabriya				
+KW	40001		Hawalli	HW	Mishref				
+KW	40002		Hawalli	HW	Mishref				
+KW	40003		Hawalli	HW	Mishref				
+KW	40004		Hawalli	HW	Mishref				
+KW	40005		Hawalli	HW	Mishref				
+KW	40006		Hawalli	HW	Mishref				
+KW	40007		Hawalli	HW	Mishref				
+KW	40251		Hawalli	HW	Mubarak Al-Abdullah				
+KW	40252		Hawalli	HW	Mubarak Al-Abdullah				
+KW	40253		Hawalli	HW	Mubarak Al-Abdullah				
+KW	40254		Hawalli	HW	Mubarak Al-Abdullah				
+KW	40255		Hawalli	HW	Mubarak Al-Abdullah				
+KW	40256		Hawalli	HW	Mubarak Al-Abdullah				
+KW	40257		Hawalli	HW	Mubarak Al-Abdullah				
+KW	40258		Hawalli	HW	Mubarak Al-Abdullah				
+KW	40259		Hawalli	HW	Mubarak Al-Abdullah				
+KW	40260		Hawalli	HW	Mubarak Al-Abdullah				
+KW	40261		Hawalli	HW	Mubarak Al-Abdullah				
+KW	40262		Hawalli	HW	Mubarak Al-Abdullah				
+KW	24701		Hawalli	HW	Ras				
+KW	24702		Hawalli	HW	Ras				
+KW	24703		Hawalli	HW	Ras				
+KW	24704		Hawalli	HW	Ras				
+KW	24705		Hawalli	HW	Ras				
+KW	24706		Hawalli	HW	Ras				
+KW	24707		Hawalli	HW	Ras				
+KW	24708		Hawalli	HW	Ras				
+KW	24709		Hawalli	HW	Ras				
+KW	24710		Hawalli	HW	Ras				
+KW	25401		Hawalli	HW	Rumaithiya				
+KW	25402		Hawalli	HW	Rumaithiya				
+KW	25403		Hawalli	HW	Rumaithiya				
+KW	25404		Hawalli	HW	Rumaithiya				
+KW	25405		Hawalli	HW	Rumaithiya				
+KW	25406		Hawalli	HW	Rumaithiya				
+KW	25407		Hawalli	HW	Rumaithiya				
+KW	25408		Hawalli	HW	Rumaithiya				
+KW	25409		Hawalli	HW	Rumaithiya				
+KW	25410		Hawalli	HW	Rumaithiya				
+KW	25411		Hawalli	HW	Rumaithiya				
+KW	25412		Hawalli	HW	Rumaithiya				
+KW	47701		Hawalli	HW	Salam				
+KW	47702		Hawalli	HW	Salam				
+KW	47703		Hawalli	HW	Salam				
+KW	47704		Hawalli	HW	Salam				
+KW	47705		Hawalli	HW	Salam				
+KW	47706		Hawalli	HW	Salam				
+KW	47707		Hawalli	HW	Salam				
+KW	47708		Hawalli	HW	Salam				
+KW	47709		Hawalli	HW	Salam				
+KW	47710		Hawalli	HW	Salam				
+KW	47711		Hawalli	HW	Salam				
+KW	47712		Hawalli	HW	Salam				
+KW	20001		Hawalli	HW	Salmiya				
+KW	20002		Hawalli	HW	Salmiya				
+KW	20003		Hawalli	HW	Salmiya				
+KW	20004		Hawalli	HW	Salmiya				
+KW	20005		Hawalli	HW	Salmiya				
+KW	20006		Hawalli	HW	Salmiya				
+KW	20007		Hawalli	HW	Salmiya				
+KW	20008		Hawalli	HW	Salmiya				
+KW	20009		Hawalli	HW	Salmiya				
+KW	20010		Hawalli	HW	Salmiya				
+KW	20011		Hawalli	HW	Salmiya				
+KW	20012		Hawalli	HW	Salmiya				
+KW	25601		Hawalli	HW	Salwa				
+KW	25602		Hawalli	HW	Salwa				
+KW	25603		Hawalli	HW	Salwa				
+KW	25604		Hawalli	HW	Salwa				
+KW	25605		Hawalli	HW	Salwa				
+KW	25606		Hawalli	HW	Salwa				
+KW	25607		Hawalli	HW	Salwa				
+KW	25608		Hawalli	HW	Salwa				
+KW	25609		Hawalli	HW	Salwa				
+KW	25610		Hawalli	HW	Salwa				
+KW	25611		Hawalli	HW	Salwa				
+KW	25612		Hawalli	HW	Salwa				
+KW	35901		Hawalli	HW	Shaab				
+KW	35902		Hawalli	HW	Shaab				
+KW	35903		Hawalli	HW	Shaab				
+KW	35904		Hawalli	HW	Shaab				
+KW	35905		Hawalli	HW	Shaab				
+KW	35906		Hawalli	HW	Shaab				
+KW	35907		Hawalli	HW	Shaab				
+KW	35908		Hawalli	HW	Shaab				
+KW	35909		Hawalli	HW	Shaab				
+KW	47781		Hawalli	HW	Shuhada				
+KW	47782		Hawalli	HW	Shuhada				
+KW	47783		Hawalli	HW	Shuhada				
+KW	47784		Hawalli	HW	Shuhada				
+KW	47785		Hawalli	HW	Shuhada				
+KW	47786		Hawalli	HW	Shuhada				
+KW	47787		Hawalli	HW	Shuhada				
+KW	47788		Hawalli	HW	Shuhada				
+KW	47789		Hawalli	HW	Shuhada				
+KW	47790		Hawalli	HW	Shuhada				
+KW	47791		Hawalli	HW	Shuhada				
+KW	47792		Hawalli	HW	Shuhada				
+KW	47800		Hawalli	HW	Shuhada				
+KW	47801		Hawalli	HW	Shuhada				
+KW	47802		Hawalli	HW	Shuhada				
+KW	47803		Hawalli	HW	Shuhada				
+KW	47804		Hawalli	HW	Shuhada				
+KW	47805		Hawalli	HW	Shuhada				
+KW	47806		Hawalli	HW	Shuhada				
+KW	47807		Hawalli	HW	Shuhada				
+KW	47808		Hawalli	HW	Shuhada				
+KW	47809		Hawalli	HW	Shuhada				
+KW	47810		Hawalli	HW	Shuhada				
+KW	47811		Hawalli	HW	Shuhada				
+KW	47812		Hawalli	HW	Shuhada				
+KW	47761		Hawalli	HW	Zahra				
+KW	47762		Hawalli	HW	Zahra				
+KW	47763		Hawalli	HW	Zahra				
+KW	47764		Hawalli	HW	Zahra				
+KW	47765		Hawalli	HW	Zahra				
+KW	47766		Hawalli	HW	Zahra				
+KW	47767		Hawalli	HW	Zahra				
+KW	47768		Hawalli	HW	Zahra				
+KW	47769		Hawalli	HW	Zahra				
+KW	47770		Hawalli	HW	Zahra				
+KW	47771		Hawalli	HW	Zahra				
+KW	47772		Hawalli	HW	Zahra				
+KW	51401		Mubarak Al Kabeer	MU	Abu Al Hasaniya				
+KW	51402		Mubarak Al Kabeer	MU	Abu Al Hasaniya				
+KW	51403		Mubarak Al Kabeer	MU	Abu Al Hasaniya				
+KW	51404		Mubarak Al Kabeer	MU	Abu Al Hasaniya				
+KW	51405		Mubarak Al Kabeer	MU	Abu Al Hasaniya				
+KW	51406		Mubarak Al Kabeer	MU	Abu Al Hasaniya				
+KW	51407		Mubarak Al Kabeer	MU	Abu Al Hasaniya				
+KW	51408		Mubarak Al Kabeer	MU	Abu Al Hasaniya				
+KW	51409		Mubarak Al Kabeer	MU	Abu Al Hasaniya				
+KW	51410		Mubarak Al Kabeer	MU	Abu Al Hasaniya				
+KW	47081		Mubarak Al Kabeer	MU	Abu Fatira				
+KW	47082		Mubarak Al Kabeer	MU	Abu Fatira				
+KW	47083		Mubarak Al Kabeer	MU	Abu Fatira				
+KW	47084		Mubarak Al Kabeer	MU	Abu Fatira				
+KW	47085		Mubarak Al Kabeer	MU	Abu Fatira				
+KW	47086		Mubarak Al Kabeer	MU	Abu Fatira				
+KW	47087		Mubarak Al Kabeer	MU	Abu Fatira				
+KW	47088		Mubarak Al Kabeer	MU	Abu Fatira				
+KW	47089		Mubarak Al Kabeer	MU	Abu Fatira				
+KW	47090		Mubarak Al Kabeer	MU	Abu Fatira				
+KW	47091		Mubarak Al Kabeer	MU	Abu Fatira				
+KW	47092		Mubarak Al Kabeer	MU	Abu Fatira				
+KW	47001		Mubarak Al Kabeer	MU	Al-Adan				
+KW	47002		Mubarak Al Kabeer	MU	Al-Adan				
+KW	47003		Mubarak Al Kabeer	MU	Al-Adan				
+KW	47004		Mubarak Al Kabeer	MU	Al-Adan				
+KW	47005		Mubarak Al Kabeer	MU	Al-Adan				
+KW	47006		Mubarak Al Kabeer	MU	Al-Adan				
+KW	47007		Mubarak Al Kabeer	MU	Al-Adan				
+KW	47008		Mubarak Al Kabeer	MU	Al-Adan				
+KW	47009		Mubarak Al Kabeer	MU	Al-Adan				
+KW	47010		Mubarak Al Kabeer	MU	Al-Adan				
+KW	47011		Mubarak Al Kabeer	MU	Al-Adan				
+KW	47012		Mubarak Al Kabeer	MU	Al-Adan				
+KW	47041		Mubarak Al Kabeer	MU	Al-Qurain				
+KW	47042		Mubarak Al Kabeer	MU	Al-Qurain				
+KW	47043		Mubarak Al Kabeer	MU	Al-Qurain				
+KW	47044		Mubarak Al Kabeer	MU	Al-Qurain				
+KW	47045		Mubarak Al Kabeer	MU	Al-Qurain				
+KW	47046		Mubarak Al Kabeer	MU	Al-Qurain				
+KW	47047		Mubarak Al Kabeer	MU	Al-Qurain				
+KW	47048		Mubarak Al Kabeer	MU	Al-Qurain				
+KW	47049		Mubarak Al Kabeer	MU	Al-Qurain				
+KW	47050		Mubarak Al Kabeer	MU	Al-Qurain				
+KW	47051		Mubarak Al Kabeer	MU	Al-Qurain				
+KW	47052		Mubarak Al Kabeer	MU	Al-Qurain				
+KW	52401		Mubarak Al Kabeer	MU	Fnaitees				
+KW	52402		Mubarak Al Kabeer	MU	Fnaitees				
+KW	52403		Mubarak Al Kabeer	MU	Fnaitees				
+KW	52404		Mubarak Al Kabeer	MU	Fnaitees				
+KW	52405		Mubarak Al Kabeer	MU	Fnaitees				
+KW	52406		Mubarak Al Kabeer	MU	Fnaitees				
+KW	52407		Mubarak Al Kabeer	MU	Fnaitees				
+KW	52408		Mubarak Al Kabeer	MU	Fnaitees				
+KW	52409		Mubarak Al Kabeer	MU	Fnaitees				
+KW	52410		Mubarak Al Kabeer	MU	Fnaitees				
+KW	26601		Mubarak Al Kabeer	MU	Mesayel				
+KW	26602		Mubarak Al Kabeer	MU	Mesayel				
+KW	26603		Mubarak Al Kabeer	MU	Mesayel				
+KW	26604		Mubarak Al Kabeer	MU	Mesayel				
+KW	26605		Mubarak Al Kabeer	MU	Mesayel				
+KW	26606		Mubarak Al Kabeer	MU	Mesayel				
+KW	26607		Mubarak Al Kabeer	MU	Mesayel				
+KW	26608		Mubarak Al Kabeer	MU	Mesayel				
+KW	26609		Mubarak Al Kabeer	MU	Mesayel				
+KW	26610		Mubarak Al Kabeer	MU	Mesayel				
+KW	47061		Mubarak Al Kabeer	MU	Mubarak Al-Kabeer				
+KW	47062		Mubarak Al Kabeer	MU	Mubarak Al-Kabeer				
+KW	47063		Mubarak Al Kabeer	MU	Mubarak Al-Kabeer				
+KW	47064		Mubarak Al Kabeer	MU	Mubarak Al-Kabeer				
+KW	47065		Mubarak Al Kabeer	MU	Mubarak Al-Kabeer				
+KW	47066		Mubarak Al Kabeer	MU	Mubarak Al-Kabeer				
+KW	47067		Mubarak Al Kabeer	MU	Mubarak Al-Kabeer				
+KW	47068		Mubarak Al Kabeer	MU	Mubarak Al-Kabeer				
+KW	47069		Mubarak Al Kabeer	MU	Mubarak Al-Kabeer				
+KW	47070		Mubarak Al Kabeer	MU	Mubarak Al-Kabeer				
+KW	47071		Mubarak Al Kabeer	MU	Mubarak Al-Kabeer				
+KW	47072		Mubarak Al Kabeer	MU	Mubarak Al-Kabeer				
+KW	47021		Mubarak Al Kabeer	MU	Qusor				
+KW	47022		Mubarak Al Kabeer	MU	Qusor				
+KW	47023		Mubarak Al Kabeer	MU	Qusor				
+KW	47024		Mubarak Al Kabeer	MU	Qusor				
+KW	47025		Mubarak Al Kabeer	MU	Qusor				
+KW	47026		Mubarak Al Kabeer	MU	Qusor				
+KW	47027		Mubarak Al Kabeer	MU	Qusor				
+KW	47028		Mubarak Al Kabeer	MU	Qusor				
+KW	47029		Mubarak Al Kabeer	MU	Qusor				
+KW	47030		Mubarak Al Kabeer	MU	Qusor				
+KW	47031		Mubarak Al Kabeer	MU	Qusor				
+KW	47032		Mubarak Al Kabeer	MU	Qusor				
+KW	44001		Mubarak Al Kabeer	MU	Sabah Al Salem				
+KW	44002		Mubarak Al Kabeer	MU	Sabah Al Salem				
+KW	44003		Mubarak Al Kabeer	MU	Sabah Al Salem				
+KW	44004		Mubarak Al Kabeer	MU	Sabah Al Salem				
+KW	44005		Mubarak Al Kabeer	MU	Sabah Al Salem				
+KW	44006		Mubarak Al Kabeer	MU	Sabah Al Salem				
+KW	44007		Mubarak Al Kabeer	MU	Sabah Al Salem				
+KW	44008		Mubarak Al Kabeer	MU	Sabah Al Salem				
+KW	44009		Mubarak Al Kabeer	MU	Sabah Al Salem				
+KW	44010		Mubarak Al Kabeer	MU	Sabah Al Salem				
+KW	44011		Mubarak Al Kabeer	MU	Sabah Al Salem				
+KW	44012		Mubarak Al Kabeer	MU	Sabah Al Salem				
+KW	44013		Mubarak Al Kabeer	MU	Sabah Al Salem				
+KW	46001		Mubarak Al Kabeer	MU	Sabhan				
+KW	46002		Mubarak Al Kabeer	MU	Sabhan				
+KW	46003		Mubarak Al Kabeer	MU	Sabhan				
+KW	46004		Mubarak Al Kabeer	MU	Sabhan				
+KW	46005		Mubarak Al Kabeer	MU	Sabhan				
+KW	46006		Mubarak Al Kabeer	MU	Sabhan				
+KW	46007		Mubarak Al Kabeer	MU	Sabhan				
+KW	46008		Mubarak Al Kabeer	MU	Sabhan				
+KW	46009		Mubarak Al Kabeer	MU	Sabhan				
+KW	46010		Mubarak Al Kabeer	MU	Sabhan				
+KW	46011		Mubarak Al Kabeer	MU	Sabhan				
+KW	46012		Mubarak Al Kabeer	MU	Sabhan				

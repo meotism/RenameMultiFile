@@ -1,0 +1,2111 @@
+PH	400		San Juan	SJ	International Correspondence School						
+PH	401		San Juan	SJ	Asian Development Bank						
+PH	410		San Juan	SJ	Radio Bible Class						
+PH	420		San Juan	SJ	Bible School on the Air						
+PH	550		Valenzuela	V	Febias College of Bible						
+PH	560		Valenzuela	V	Far East Broadcasting Corporation						
+PH	700		Makati	M	Plain Truth Ministries						
+PH	701		Makati	M	Colgate Palmolive Philippines						
+PH	702		Makati	M	Citibank						
+PH	703		Makati	M	Sarmiento Enterprises						
+PH	704		Makati	M	Producers Bank						
+PH	705		Makati	M	Union Ajinomoto						
+PH	706		Makati	M	Faith Embassy						
+PH	707		Makati	M	Canadian Embassy						
+PH	708		Makati	M	Philippine National Oil Company						
+PH	709		Makati	M	A-Z Direct Marketing						
+PH	710		Makati	M	American Express						
+PH	711		Makati	M	Land Bank of the Philippines						
+PH	712		Makati	M	Prudential Bank						
+PH	713		Makati	M	BPI Family Savings Bank						
+PH	714		Makati	M	Philippine Manila Mission						
+PH	715		Makati	M	Marcopper Mining Corporation						
+PH	717		Makati	M	Diners Club						
+PH	718		Makati	M	International Center for Aquatic Resources						
+PH	719		Makati	M	Security Bank						
+PH	720		Makati	M	Bank of the Philippine Islands						
+PH	721		Makati	M	Philippine Long Distance Telephone Company						
+PH	722		Makati	M	World Executive Digest						
+PH	723		Makati	M	Japanese Embassy						
+PH	724		Makati	M	Sun Life Financial						
+PH	725		Makati	M	Insular Life Assurance Company						
+PH	726		Makati	M	Equitable PCI Bank						
+PH	727		Makati	M	Rizal Commercial Banking Corporation						
+PH	728		Makati	M	United Coconut Planters Bank						
+PH	730		Makati	M	Zuellig Pharma						
+PH	731		Makati	M	BCD Direct Marketing						
+PH	732		Makati	M	Export and Industry Bank						
+PH	740		Makati	M	Sycip, Gorres, Velayo and Co.						
+PH	750		Makati	M	Philippine Airlines						
+PH	760		Makati	M	Pilipinas Shell						
+PH	770		Makati	M	ACCRA Law Offices						
+PH	780		Makati	M	Mead Johnson Philippines						
+PH	788		Makati	M	Directories Philippines Corporation						
+PH	790		Makati	M	Atlantic, Gulf and Pacific						
+PH	800		Quezon City	QC	Social Security System						
+PH	801		Quezon City	QC	Camp Crame						
+PH	802		Quezon City	QC	Camp Aguinaldo						
+PH	810		Quezon City	QC	Araneta Center						
+PH	820		Quezon City	QC	Bureau of Internal Revenue						
+PH	830		Quezon City	QC	National Irrigation Administration						
+PH	840		Quezon City	QC	V. Luna Hospital						
+PH	850		Quezon City	QC	Philippine Heart Center						
+PH	860		Quezon City	QC	Quezon City Hall						
+PH	870		Quezon City	QC	Veterans Hospital						
+PH	880		Quezon City	QC	Commission on Audit						
+PH	900		Manila	M	Manila Bulletin						
+PH	901		Manila	M	Adventist University of the Philippines						
+PH	902		Manila	M	Far East Broadcasting Company						
+PH	903		Manila	M	Manila Pavilion Hotel						
+PH	904		Manila	M	Midland Plaza Manila Hotel						
+PH	905		Manila	M	The Philippine Star						
+PH	906		Manila	M	Manila Medical Center						
+PH	907		Manila	M	San Miguel Corporation						
+PH	908		Manila	M	Pan-Filipino Shipping						
+PH	909		Manila	M	Summer Institute of Linguistics						
+PH	910		Manila	M	Department of Labor and Employment						
+PH	911		Manila	M	Philippine Statistics Authority						
+PH	912		Manila	M	Bureau of Plant Industry						
+PH	913		Manila	M	Manila Hotel						
+PH	914		Manila	M	Philippine Refining Company and Unilever Philippines						
+PH	915		Manila	M	International Correspondence Institute						
+PH	916		Manila	M	Radio Veritas						
+PH	917		Manila	M	Ateneo de Manila University						
+PH	918		Manila	M	Fil-Japan Shipping Company						
+PH	919		Manila	M	Manila Police District						
+PH	920		Manila	M	Sunbursts Publications						
+PH	921		Manila	M	Sofitel Philippine Plaza						
+PH	922		Manila	M	De La Salle University						
+PH	923		Manila	M	Don Stewart Evangelistic Association						
+PH	924		Manila	M	World Map						
+PH	925		Manila	M	Chinabank						
+PH	926		Manila	M	Caltex Philippines						
+PH	927		Manila	M	Philippine Veterans Affairs Office						
+PH	928		Manila	M	Philippine Campus Crusade for Christ						
+PH	930		Manila	M	United States Embassy						
+PH	940		Manila	M	Philippine National Bank						
+PH	960		Manila	M	International Rice Research Institute						
+PH	970		Manila	M	Department of Justice						
+PH	980		Manila	M	Asian Development Bank						
+PH	990		Manila	M	Philippine American Life and General Insurance Company						
+PH	1000		Manila	M	Manila Central Post Office						
+PH	1001		Manila	M	Quiapo						
+PH	1002		Manila	M	Intramuros						
+PH	1003		Manila	M	Santa Cruz (South)						
+PH	1004		Manila	M	Malate						
+PH	1005		Manila	M	San Miguel						
+PH	1006		Manila	M	Binondo						
+PH	1007		Manila	M	Paco						
+PH	1008		Manila	M	Sampaloc (East)						
+PH	1009		Manila	M	Santa Ana						
+PH	1010		Manila	M	San Nicolas						
+PH	1011		Manila	M	Pandacan						
+PH	1012		Manila	M	Tondo (South)						
+PH	1013		Manila	M	Tondo (North)						
+PH	1014		Manila	M	Santa Cruz (North)						
+PH	1015		Manila	M	Sampaloc (West)						
+PH	1016		Manila	M	Santa Mesa						
+PH	1017		Manila	M	San Andres						
+PH	1018		Manila	M	Port Area (South)						
+PH	1100		Quezon City	QC	Central						
+PH	1100		Quezon City	QC	Piñahan						
+PH	1100		Quezon City	QC	Project 6						
+PH	1101		Quezon City	QC	Botocan						
+PH	1101		Quezon City	QC	Diliman						
+PH	1101		Quezon City	QC	Krus na Ligas						
+PH	1101		Quezon City	QC	Malaya						
+PH	1101		Quezon City	QC	Old Capitol Site						
+PH	1101		Quezon City	QC	San Vicente						
+PH	1101		Quezon City	QC	Sikatuna Village						
+PH	1101		Quezon City	QC	Teachers Village						
+PH	1101		Quezon City	QC	University of the Philippines Post Office						
+PH	1101		Quezon City	QC	University of the Philippines Village						
+PH	1102		Quezon City	QC	Amihan						
+PH	1102		Quezon City	QC	Claro						
+PH	1102		Quezon City	QC	Duyan-Duyan						
+PH	1102		Quezon City	QC	E. Rodriguez						
+PH	1102		Quezon City	QC	Kamias						
+PH	1102		Quezon City	QC	Quirino District (Project 2 and 3)						
+PH	1102		Quezon City	QC	Silangan						
+PH	1103		Quezon City	QC	Kamuning						
+PH	1103		Quezon City	QC	Laging Handa						
+PH	1103		Quezon City	QC	Obrero						
+PH	1103		Quezon City	QC	Paligsahan						
+PH	1103		Quezon City	QC	Roxas District						
+PH	1103		Quezon City	QC	Sacred Heart						
+PH	1103		Quezon City	QC	South Triangle						
+PH	1104		Quezon City	QC	Damayan						
+PH	1104		Quezon City	QC	Mariblo						
+PH	1104		Quezon City	QC	Nayon Kaunlaran						
+PH	1104		Quezon City	QC	Paraiso						
+PH	1104		Quezon City	QC	Phil-Am						
+PH	1104		Quezon City	QC	Santa Cruz						
+PH	1104		Quezon City	QC	Talayan						
+PH	1104		Quezon City	QC	West Triangle						
+PH	1105		Quezon City	QC	Alicia						
+PH	1105		Quezon City	QC	Bagong Pag-Asa						
+PH	1105		Quezon City	QC	Bungad						
+PH	1105		Quezon City	QC	Del Monte						
+PH	1105		Quezon City	QC	Katipunan						
+PH	1105		Quezon City	QC	Paltok						
+PH	1105		Quezon City	QC	Project 7 (Veterans Village)						
+PH	1105		Quezon City	QC	R. Magsaysay						
+PH	1105		Quezon City	QC	San Antonio						
+PH	1105		Quezon City	QC	Santo Cristo						
+PH	1105		Quezon City	QC	Veterans Village						
+PH	1106		Quezon City	QC	Apolonio Samson						
+PH	1106		Quezon City	QC	Baesa						
+PH	1106		Quezon City	QC	Bahay Toro						
+PH	1106		Quezon City	QC	Balintawak						
+PH	1106		Quezon City	QC	Balumbato						
+PH	1106		Quezon City	QC	Project 8						
+PH	1106		Quezon City	QC	Unang Sigaw						
+PH	1107		Quezon City	QC	New Era						
+PH	1107		Quezon City	QC	Pasong Tamo						
+PH	1108		Quezon City	QC	Loyola Heights						
+PH	1108		Quezon City	QC	Pansol						
+PH	1109		Quezon City	QC	Bagumbuhay						
+PH	1109		Quezon City	QC	Bayanihan						
+PH	1109		Quezon City	QC	Blue Ridge						
+PH	1109		Quezon City	QC	Cubao						
+PH	1109		Quezon City	QC	Dioquino Zobel						
+PH	1109		Quezon City	QC	Escopa						
+PH	1109		Quezon City	QC	Mangga						
+PH	1109		Quezon City	QC	Marilag						
+PH	1109		Quezon City	QC	Masagana						
+PH	1109		Quezon City	QC	Milagrosa						
+PH	1109		Quezon City	QC	Project 4						
+PH	1109		Quezon City	QC	San Roque						
+PH	1109		Quezon City	QC	Socorro						
+PH	1109		Quezon City	QC	Tagumpay						
+PH	1109		Quezon City	QC	Villa Maria Clara						
+PH	1110		Quezon City	QC	Bagumbayan						
+PH	1110		Quezon City	QC	Camp Aguinaldo						
+PH	1110		Quezon City	QC	Libis						
+PH	1110		Quezon City	QC	St. Ignatius						
+PH	1110		Quezon City	QC	Talampas						
+PH	1110		Quezon City	QC	Ugong Norte						
+PH	1110		Quezon City	QC	White Plains						
+PH	1111		Quezon City	QC	Bagong Lipunan						
+PH	1111		Quezon City	QC	Crame						
+PH	1111		Quezon City	QC	Immaculate Concepcion						
+PH	1111		Quezon City	QC	Kaunlaran						
+PH	1111		Quezon City	QC	Pinagkaisahan						
+PH	1111		Quezon City	QC	St. Martin de Porres						
+PH	1112		Quezon City	QC	Damayang Lagi						
+PH	1112		Quezon City	QC	Horseshoe						
+PH	1112		Quezon City	QC	Kalusugan						
+PH	1112		Quezon City	QC	Kristong Hari						
+PH	1112		Quezon City	QC	Mariana						
+PH	1112		Quezon City	QC	Valencia						
+PH	1113		Quezon City	QC	Don Manuel						
+PH	1113		Quezon City	QC	Doña Aurora						
+PH	1113		Quezon City	QC	Doña Imelda						
+PH	1113		Quezon City	QC	Doña Josefa						
+PH	1113		Quezon City	QC	San Isidro						
+PH	1113		Quezon City	QC	Santo Niño						
+PH	1113		Quezon City	QC	Santol						
+PH	1113		Quezon City	QC	Tatalon						
+PH	1114		Quezon City	QC	N.S Amoranto (Gintong Silahis)						
+PH	1114		Quezon City	QC	La Loma						
+PH	1114		Quezon City	QC	Lourdes						
+PH	1114		Quezon City	QC	Maharlika						
+PH	1114		Quezon City	QC	Sto. Domingo (Matalahib)						
+PH	1114		Quezon City	QC	Paang Bundok						
+PH	1114		Quezon City	QC	Salvacion						
+PH	1114		Quezon City	QC	San Isidro Labrador						
+PH	1114		Quezon City	QC	Santa Teresita						
+PH	1114		Quezon City	QC	Sienna						
+PH	1114		Quezon City	QC	St. Peter						
+PH	1115		Quezon City	QC	Balingasa						
+PH	1115		Quezon City	QC	Damar						
+PH	1115		Quezon City	QC	Manresa						
+PH	1115		Quezon City	QC	Masambong						
+PH	1115		Quezon City	QC	Pag-ibig sa Nayon						
+PH	1115		Quezon City	QC	San Jose						
+PH	1116		Quezon City	QC	Bagbag						
+PH	1116		Quezon City	QC	San Bartolome						
+PH	1116		Quezon City	QC	Sangandaan (GSIS Village)						
+PH	1116		Quezon City	QC	Sauyo						
+PH	1116		Quezon City	QC	Talipapa						
+PH	1116		Quezon City	QC	Tandang Sora						
+PH	1117		Quezon City	QC	Capri						
+PH	1117		Quezon City	QC	Gulod						
+PH	1117		Quezon City	QC	San Agustin						
+PH	1117		Quezon City	QC	Santa Lucia						
+PH	1117		Quezon City	QC	Santa Monica						
+PH	1118		Quezon City	QC	Fairview						
+PH	1118		Quezon City	QC	Pasong Putik						
+PH	1119		Quezon City	QC	Bagong Silangan						
+PH	1119		Quezon City	QC	Matandang Balara						
+PH	1119		Quezon City	QC	Payatas						
+PH	1120		Quezon City	QC	BF Homes						
+PH	1120		Quezon City	QC	Violago Homes						
+PH	1121		Quezon City	QC	Commonwealth						
+PH	1121		Quezon City	QC	Fairview (North)						
+PH	1122		Quezon City	QC	Fairview (South)						
+PH	1123		Quezon City	QC	Damong Maliit						
+PH	1123		Quezon City	QC	Novaliches Proper						
+PH	1124		Quezon City	QC	Kaligayahan						
+PH	1125		Quezon City	QC	Doña Faustina Subdivision						
+PH	1125		Quezon City	QC	Nagkaisang Nayon						
+PH	1126		Quezon City	QC	Batasan Hills						
+PH	1126		Quezon City	QC	Capitol Hills/Park						
+PH	1127		Quezon City	QC	Holy Spirit						
+PH	1128		Quezon City	QC	Culiat						
+PH	1128		Quezon City	QC	Vasra						
+PH	1135		Quezon City	QC	Araneta Center P.O. Boxes						
+PH	1138		Quezon City	QC	Murphy District P.O. Boxes						
+PH	1141		Quezon City	QC	Broadway Center P.O. Boxes						
+PH	1144		Quezon City	QC	University of the Philippines P.O. Boxes						
+PH	1147		Quezon City	QC	Novaliches P.O. Boxes						
+PH	1200		Makati	M	Makati Central Post Office						
+PH	1201		Makati	M	Fort Bonifacio						
+PH	1202		Makati	M	Fort Bonifacio Naval Station						
+PH	1203		Makati	M	San Antonio Village						
+PH	1204		Makati	M	La Paz, Singkamas, and Tejeros						
+PH	1205		Makati	M	Santa Cruz						
+PH	1206		Makati	M	Kasilawan						
+PH	1207		Makati	M	Carmona–Olympia						
+PH	1208		Makati	M	Valenzuela						
+PH	1209		Makati	M	Bel-Air						
+PH	1210		Makati	M	Poblacion						
+PH	1211		Makati	M	Guadalupe Viejo						
+PH	1212		Makati	M	Guadalupe Nuevo						
+PH	1213		Makati	M	Pinagkaisahan–Pitogo						
+PH	1214		Makati	M	Cembo and South Cembo						
+PH	1215		Makati	M	West Rembo						
+PH	1216		Makati	M	East Rembo–Malapad na Bato						
+PH	1217		Makati	M	Comembo						
+PH	1218		Makati	M	Pembo						
+PH	1219		Makati	M	Forbes Park North						
+PH	1220		Makati	M	Forbes Park South						
+PH	1221		Makati	M	Dasmariñas Village North						
+PH	1222		Makati	M	Dasmariñas Village South						
+PH	1223		Makati	M	San Lorenzo Village						
+PH	1224		Makati	M	Makati Commercial Center (Ayala Center)						
+PH	1225		Makati	M	Urdaneta Village						
+PH	1226		Makati	M	Ayala Avenue–Paseo de Roxas						
+PH	1227		Makati	M	Salcedo Village						
+PH	1228		Makati	M	Greenbelt						
+PH	1229		Makati	M	Legaspi Village						
+PH	1230		Makati	M	Pio del Pilar						
+PH	1231		Makati	M	Chino Roces						
+PH	1231		Makati	M	Pasong Tamo–Ecology Village						
+PH	1232		Makati	M	Magallanes Village						
+PH	1233		Makati	M	Bangkal						
+PH	1234		Makati	M	San Isidro						
+PH	1235		Makati	M	Palanan						
+PH	1300		Pasay	P	Pasay City Central Post Office						
+PH	1301		Pasay	P	Domestic Airport P.O.						
+PH	1302		Pasay	P	San Rafael						
+PH	1303		Pasay	P	San Roque						
+PH	1304		Pasay	P	Santa Clara						
+PH	1305		Pasay	P	San Jose						
+PH	1306		Pasay	P	San Isidro						
+PH	1307		Pasay	P	Philippine International Convention Center						
+PH	1308		Pasay	P	Bay City						
+PH	1309		Pasay	P	Villamor Airbase						
+PH	1400		Caloocan	C	Caloocan City Central Post Office						
+PH	1401		Caloocan	C	Baesa						
+PH	1402		Caloocan	C	Santa Quiteria						
+PH	1403		Caloocan	C	Grace Park East						
+PH	1404		Caloocan	C	San Jose						
+PH	1405		Caloocan	C	First Avenue–Seventh Avenue West						
+PH	1406		Caloocan	C	Grace Park West						
+PH	1407		Caloocan	C	University Hills						
+PH	1408		Caloocan	C	Sangandaan						
+PH	1409		Caloocan	C	Kaunlaran Village						
+PH	1409		Navotas	N	Kaunlaran Village						
+PH	1410		Caloocan	C	Maypajo						
+PH	1411		Caloocan	C	Fish Market						
+PH	1411		Navotas	N	Fish Market						
+PH	1412		Caloocan	C	Isla de Cocomo						
+PH	1412		Navotas	N	Isla de Cocomo						
+PH	1413		Caloocan	C	Kapitbahayan						
+PH	1413		Navotas	N	Kapitbahayan (East)						
+PH	1420		Caloocan	C	Laguna						
+PH	1421		Caloocan	C	Bagumbong–Villa Crystal						
+PH	1422		Caloocan	C	Novaliches						
+PH	1423		Caloocan	C	Lilles Ville Subdivision						
+PH	1424		Caloocan	C	Capitol Parkland Subdivision						
+PH	1425		Caloocan	C	Amparo Subdivision and Dela Costa Homes II Subdivision						
+PH	1426		Caloocan	C	Bankers Village						
+PH	1427		Caloocan	C	Tala Leprosarium–Victory Heights						
+PH	1428		Caloocan	C	Bagong Silang						
+PH	1440		Valenzuela	V	Valenzuela Central Post Office						
+PH	1441		Valenzuela	V	Karuhatan–Parada						
+PH	1442		Valenzuela	V	Fortune Village						
+PH	1442		Valenzuela	V	General T. de Leon						
+PH	1442		Valenzuela	V	Paso de Blas						
+PH	1443		Valenzuela	V	Dalandanan–West Canumay						
+PH	1444		Valenzuela	V	Arkong Bato						
+PH	1444		Valenzuela	V	Mabolo						
+PH	1444		Valenzuela	V	Malanday						
+PH	1444		Valenzuela	V	Pasolo						
+PH	1444		Valenzuela	V	Polo						
+PH	1444		Valenzuela	V	Rincon						
+PH	1445		Valenzuela	V	Balangkas–Coloong						
+PH	1446		Valenzuela	V	Lingunan						
+PH	1447		Valenzuela	V	East Canumay–Lawang Bato Punturin						
+PH	1448		Valenzuela	V	Mapulang Lupa						
+PH	1470		Malabon	M	Malabon						
+PH	1470		Malabon	M	Tinajeros						
+PH	1471		Malabon	M	Catmon						
+PH	1472		Malabon	M	Longos						
+PH	1473		Malabon	M	Tonsuya						
+PH	1474		Malabon	M	Acacia						
+PH	1475		Malabon	M	Potrero						
+PH	1476		Malabon	M	Araneta Subdivision						
+PH	1477		Malabon	M	Maysilo						
+PH	1478		Malabon	M	Santolan						
+PH	1479		Malabon	M	Muzon						
+PH	1480		Malabon	M	Dampalit						
+PH	1480		Malabon	M	UFO						
+PH	1481		Malabon	M	NCR						
+PH	1485		Navotas	N	Navotas						
+PH	1489		Navotas	N	Tangos						
+PH	1490		Navotas	N	Tanza						
+PH	1496		Valenzuela	V	Valenzuela P.O. Boxes						
+PH	1500		San Juan	SJ	San Juan Central Post Office						
+PH	1502		San Juan	SJ	Greenhills Post Office						
+PH	1503		San Juan	SJ	Greenhills (North)						
+PH	1504		San Juan	SJ	Eisenhower–Crame						
+PH	1550		Mandaluyong	M	Mandaluyong Central Post Office						
+PH	1550		Mandaluyong	M	Barangay Plainview						
+PH	1551		Mandaluyong	M	Vergara						
+PH	1552		Mandaluyong	M	Shaw Boulevard						
+PH	1553		Mandaluyong	M	National Center for Mental Health						
+PH	1554		Mandaluyong	M	EDSA						
+PH	1555		Mandaluyong	M	Wack Wack						
+PH	1556		Mandaluyong	M	Greenhills South						
+PH	1600		Pasig	P	Pasig Central Post Office						
+PH	1601		Pasig	P	San Joaquin						
+PH	1602		Pasig	P	Pinagbuhatan						
+PH	1603		Pasig	P	Kapitolyo						
+PH	1604		Pasig	P	Ugong						
+PH	1605		Pasig	P	Ortigas Post Office						
+PH	1606		Pasig	P	Caniogan						
+PH	1607		Pasig	P	Maybunga						
+PH	1608		Pasig	P	Santa Lucia						
+PH	1609		Pasig	P	Rosario						
+PH	1610		Pasig	P	Santolan						
+PH	1611		Pasig	P	Manggahan						
+PH	1612		Pasig	P	Green Park						
+PH	1620		Pateros	P	Aguhos						
+PH	1620		Pateros	P	Magtanggol						
+PH	1621		Pateros	P	Santa Ana						
+PH	1622		Pateros	P	San Roque						
+PH	1623		Pateros	P	San Pedro						
+PH	1630		Taguig	T	Bagumbayan–Pinagsama						
+PH	1630		Taguig	T	Western Bicutan						
+PH	1630		Taguig	T	Palingon						
+PH	1631		Taguig	T	Bicutan						
+PH	1632		Taguig	T	Lower Bicutan–Ususan						
+PH	1633		Taguig	T	Upper Bicutan						
+PH	1634		Taguig	T	Nichols–McKinley (Bonifacio Global City)						
+PH	1634		Taguig	T	Tilapya						
+PH	1635		Taguig	T	Ususan and Palar Village						
+PH	1636		Taguig	T	Bay Breeze Executive Village						
+PH	1637		Taguig	T	Ibayo–Tipas						
+PH	1638		Taguig	T	Ligid						
+PH	1638		Taguig	T	Tuktukan						
+PH	1700		Parañaque	P	Don Galo						
+PH	1700		Parañaque	P	Mon-El Subdivision						
+PH	1700		Parañaque	P	Parañaque CPO						
+PH	1701		Parañaque	P	Tambo						
+PH	1702		Parañaque	P	Baclaran						
+PH	1703		Parañaque	P	Marina Subdivision						
+PH	1704		Parañaque	P	Santo Niño						
+PH	1705		Parañaque	P	Ninoy Aquino International Airport						
+PH	1706		Parañaque	P	Pulo						
+PH	1707		Parañaque	P	San Antonio Valley 11 and 12						
+PH	1708		Parañaque	P	Multinational Village						
+PH	1709		Parañaque	P	South Admiral Village, Merville Park, and Moonwalk						
+PH	1710		Parañaque	P	Executive Heights Subdivision						
+PH	1711		Parañaque	P	Better Living Subdivision						
+PH	1712		Parañaque	P	Miramar Subdivision						
+PH	1713		Parañaque	P	United Parañaque Subdivision						
+PH	1714		Parañaque	P	Ireneville Subdivision II						
+PH	1715		Parañaque	P	San Antonio Valley 1						
+PH	1716		Parañaque	P	Maywood Village II						
+PH	1717		Parañaque	P	Manila Memorial Park						
+PH	1718		Parañaque	P	BF Homes 2						
+PH	1719		Parañaque	P	Ireneville Subdivision I & III						
+PH	1719		Parañaque	P	Maywood Village I						
+PH	1720		Parañaque	P	BF Homes 1						
+PH	1740		Las Piñas	LP	Las Piñas Central Post Office						
+PH	1741		Las Piñas	LP	Remarville Subdivision						
+PH	1742		Las Piñas	LP	Pulang Lupa–Zapote						
+PH	1743		Las Piñas	LP	Cut-cut						
+PH	1744		Las Piñas	LP	Manuyo						
+PH	1745		Las Piñas	LP	Gatchalian Subdivision						
+PH	1746		Las Piñas	LP	Verdant Acres Subdivision						
+PH	1747		Las Piñas	LP	Moonwalk Subdivision–Talon						
+PH	1748		Las Piñas	LP	Manila Doctors Village						
+PH	1749		Las Piñas	LP	Angela Village						
+PH	1750		Las Piñas	LP	Almanza						
+PH	1751		Las Piñas	LP	T.S. Cruz Subdivision						
+PH	1752		Las Piñas	LP	Soldiers Hills Subdivision						
+PH	1770		Muntinlupa	M	Muntinlupa Central Post Office						
+PH	1770		Muntinlupa	M	Sucat						
+PH	1771		Muntinlupa	M	Buli and Cupang						
+PH	1772		Muntinlupa	M	Bayanan and Putatan						
+PH	1773		Muntinlupa	M	Tunasan						
+PH	1776		Muntinlupa	M	Poblacion						
+PH	1778		Parañaque	P	Aeropark Subdivision						
+PH	1780		Muntinlupa	M	Ayala Alabang						
+PH	1781		Muntinlupa	M	Filinvest City						
+PH	1799		Muntinlupa	M	Alabang						
+PH	1800		Marikina	M	Marikina Central Post Office						
+PH	1801		Marikina	M	San Roque–Calumpang						
+PH	1802		Marikina	M	Industrial Valley						
+PH	1803		Marikina	M	Barangka and Tañong						
+PH	1804		Marikina	M	J. De La Peña (Provident Villages)						
+PH	1805		Marikina	M	Malanday						
+PH	1806		Marikina	M	Northern and Western Marikina River						
+PH	1807		Marikina	M	Concepcion 1						
+PH	1808		Marikina	M	Nangka						
+PH	1809		Marikina	M	Parang						
+PH	1810		Marikina	M	Marikina Heights						
+PH	1811		Marikina	M	Concepcion 2 (SSS Village)						
+PH	1820		Marikina	M	Bagong Nayon, Cupang, Mambagat, and Mayamot						
+PH	1850		Rizal	R	San Mateo						
+PH	1860		Rizal	R	Rodriguez						
+PH	1870		Rizal	R	Antipolo						
+PH	1880		Rizal	R	Teresa						
+PH	1900		Rizal	R	Cainta						
+PH	1910		Rizal	R	Pililla						
+PH	1920		Rizal	R	Taytay						
+PH	1930		Rizal	R	Angono						
+PH	1940		Rizal	R	Binangonan						
+PH	1950		Rizal	R	Cardona						
+PH	1960		Rizal	R	Morong						
+PH	1970		Rizal	R	Baras						
+PH	1980		Rizal	R	Tanay						
+PH	1990		Rizal	R	Jalajala						
+PH	2000		Pampanga	P	San Fernando						
+PH	2001		Pampanga	P	Bacolor						
+PH	2002		Pampanga	P	Santa Rita						
+PH	2003		Pampanga	P	Guagua						
+PH	2004		Pampanga	P	Sasmuan						
+PH	2005		Pampanga	P	Lubao						
+PH	2006		Pampanga	P	Floridablanca						
+PH	2007		Pampanga	P	Basa Airbase						
+PH	2008		Pampanga	P	Porac						
+PH	2009		Pampanga	P	Angeles						
+PH	2010		Pampanga	P	Mabalacat						
+PH	2011		Pampanga	P	Magalang						
+PH	2012		Pampanga	P	Arayat						
+PH	2013		Pampanga	P	Candaba						
+PH	2014		Pampanga	P	San Luis						
+PH	2015		Pampanga	P	San Simon						
+PH	2016		Pampanga	P	Apalit						
+PH	2017		Pampanga	P	Masantol						
+PH	2018		Pampanga	P	Macabebe						
+PH	2019		Pampanga	P	Minalin						
+PH	2020		Pampanga	P	Santo Tomas						
+PH	2021		Pampanga	P	Mexico						
+PH	2022		Pampanga	P	Santa Ana						
+PH	2023		Pampanga	P	Clark Freeport Zone						
+PH	2024		Pampanga	P	Balibago, Angeles						
+PH	2100		Bataan	B	Balanga						
+PH	2101		Bataan	B	Pilar						
+PH	2102		Bataan	B	Orion						
+PH	2103		Bataan	B	Limay						
+PH	2104		Bataan	B	Lamao						
+PH	2105		Bataan	B	Mariveles						
+PH	2105		Bataan	B	Bataan Export Processing Zone, Mariveles						
+PH	2107		Bataan	B	Bagac						
+PH	2108		Bataan	B	Morong						
+PH	2109		Bataan	B	Refugee Processing Center, Morong						
+PH	2110		Bataan	B	Dinalupihan						
+PH	2111		Bataan	B	Hermosa						
+PH	2112		Bataan	B	Orani						
+PH	2113		Bataan	B	Samal						
+PH	2114		Bataan	B	Abucay						
+PH	2200		Zambales	Z	Olongapo						
+PH	2201		Zambales	Z	Iba						
+PH	2202		Zambales	Z	Botolan						
+PH	2203		Zambales	Z	Cabangan						
+PH	2204		Zambales	Z	San Felipe						
+PH	2205		Zambales	Z	San Narciso						
+PH	2206		Zambales	Z	San Antonio						
+PH	2207		Zambales	Z	San Marcelino						
+PH	2208		Zambales	Z	Castillejos						
+PH	2209		Zambales	Z	Subic						
+PH	2210		Zambales	Z	Palauig and Scarborough Shoal						
+PH	2211		Zambales	Z	Masinloc						
+PH	2212		Zambales	Z	Candelaria						
+PH	2213		Zambales	Z	Santa Cruz						
+PH	2222		Zambales	Z	Subic Bay Freeport Zone						
+PH	2300		Tarlac	T	Tarlac City						
+PH	2301		Tarlac	T	San Miguel, Tarlac City						
+PH	2302		Tarlac	T	Gerona						
+PH	2303		Tarlac	T	Santa Ignacia						
+PH	2304		Tarlac	T	Mayantoc						
+PH	2305		Tarlac	T	San Clemente						
+PH	2306		Tarlac	T	Camiling						
+PH	2307		Tarlac	T	Paniqui						
+PH	2308		Tarlac	T	Moncada						
+PH	2309		Tarlac	T	San Manuel						
+PH	2310		Tarlac	T	Anao						
+PH	2311		Tarlac	T	Ramos						
+PH	2312		Tarlac	T	Pura						
+PH	2313		Tarlac	T	Victoria						
+PH	2314		Tarlac	T	La Paz						
+PH	2315		Tarlac	T	Capas						
+PH	2316		Tarlac	T	Concepcion						
+PH	2317		Tarlac	T	Bamban						
+PH	2318		Tarlac	T	San Jose						
+PH	2400		Pangasinan	P	Dagupan						
+PH	2401		Pangasinan	P	Lingayen						
+PH	2402		Pangasinan	P	Labrador						
+PH	2403		Pangasinan	P	Sual						
+PH	2404		Pangasinan	P	Alaminos						
+PH	2405		Pangasinan	P	Anda						
+PH	2406		Pangasinan	P	Bolinao						
+PH	2407		Pangasinan	P	Bani						
+PH	2408		Pangasinan	P	Agno						
+PH	2409		Pangasinan	P	Mabini						
+PH	2410		Pangasinan	P	Burgos						
+PH	2411		Pangasinan	P	Dasol						
+PH	2412		Pangasinan	P	Infanta						
+PH	2413		Pangasinan	P	Mangatarem						
+PH	2414		Pangasinan	P	Urbiztondo						
+PH	2415		Pangasinan	P	Aguilar						
+PH	2416		Pangasinan	P	Bugallon						
+PH	2417		Pangasinan	P	Binmaley						
+PH	2418		Pangasinan	P	Calasiao						
+PH	2419		Pangasinan	P	Santa Barbara						
+PH	2420		Pangasinan	P	San Carlos						
+PH	2421		Pangasinan	P	Malasiqui						
+PH	2422		Pangasinan	P	Basista						
+PH	2423		Pangasinan	P	Bayambang						
+PH	2424		Pangasinan	P	Bautista						
+PH	2425		Pangasinan	P	Alcala						
+PH	2426		Pangasinan	P	Santo Tomas						
+PH	2427		Pangasinan	P	Villasis						
+PH	2428		Pangasinan	P	Urdaneta						
+PH	2429		Pangasinan	P	Mapandan						
+PH	2430		Pangasinan	P	Manaoag						
+PH	2431		Pangasinan	P	San Jacinto						
+PH	2432		Pangasinan	P	Mangaldan						
+PH	2433		Pangasinan	P	San Fabian						
+PH	2434		Pangasinan	P	Sison						
+PH	2435		Pangasinan	P	Pozorrubio						
+PH	2436		Pangasinan	P	Binalonan						
+PH	2437		Pangasinan	P	Laoac						
+PH	2438		Pangasinan	P	San Manuel						
+PH	2439		Pangasinan	P	Asingan						
+PH	2440		Pangasinan	P	Santa Maria						
+PH	2441		Pangasinan	P	Rosales						
+PH	2442		Pangasinan	P	Balungao						
+PH	2443		Pangasinan	P	Umingan						
+PH	2444		Pangasinan	P	San Quintin						
+PH	2445		Pangasinan	P	Tayug						
+PH	2446		Pangasinan	P	Natividad						
+PH	2447		Pangasinan	P	San Nicolas						
+PH	2500		La Union	LU	San Fernando						
+PH	2501		La Union	LU	Bauang						
+PH	2502		La Union	LU	Caba						
+PH	2503		La Union	LU	Aringay						
+PH	2504		La Union	LU	Agoo						
+PH	2505		La Union	LU	Santo Tomas						
+PH	2506		La Union	LU	Rosario						
+PH	2508		La Union	LU	Pugo						
+PH	2509		La Union	LU	Tubao						
+PH	2510		La Union	LU	Burgos						
+PH	2511		La Union	LU	Naguilian						
+PH	2512		La Union	LU	Bagulin						
+PH	2513		La Union	LU	San Gabriel						
+PH	2514		La Union	LU	San Juan						
+PH	2515		La Union	LU	Bacnotan						
+PH	2516		La Union	LU	Santol						
+PH	2517		La Union	LU	Balaoan						
+PH	2518		La Union	LU	Luna						
+PH	2519		La Union	LU	Bangar						
+PH	2520		La Union	LU	Sudipen						
+PH	2600		Benguet	B	Baguio						
+PH	2601		Benguet	B	La Trinidad						
+PH	2602		Benguet	B	Philippine Military Academy, Baguio						
+PH	2603		Benguet	B	Tuba						
+PH	2604		Benguet	B	Itogon						
+PH	2605		Benguet	B	Bokod						
+PH	2606		Benguet	B	Kabayan						
+PH	2607		Benguet	B	Buguias						
+PH	2608		Benguet	B	Mankayan						
+PH	2609		Benguet	B	Lepanto, Mankayan						
+PH	2610		Benguet	B	Bakun						
+PH	2611		Benguet	B	Kibungan						
+PH	2612		Benguet	B	Atok						
+PH	2613		Benguet	B	Kapangan						
+PH	2614		Benguet	B	Sablan						
+PH	2615		Benguet	B	Tublay						
+PH	2616		Mountain Province	MP	Bontoc						
+PH	2617		Mountain Province	MP	Sadanga						
+PH	2618		Mountain Province	MP	Besao						
+PH	2619		Mountain Province	MP	Sagada						
+PH	2620		Mountain Province	MP	Tadian						
+PH	2621		Mountain Province	MP	Bauko						
+PH	2622		Mountain Province	MP	Sabangan						
+PH	2623		Mountain Province	MP	Barlig						
+PH	2624		Mountain Province	MP	Natonin						
+PH	2625		Mountain Province	MP	Paracelis						
+PH	2700		Ilocos Sur	IS	Vigan						
+PH	2701		Ilocos Sur	IS	Santa Catalina						
+PH	2702		Ilocos Sur	IS	Caoayan						
+PH	2703		Ilocos Sur	IS	Santa						
+PH	2704		Ilocos Sur	IS	Narvacan						
+PH	2705		Ilocos Sur	IS	Santa Maria						
+PH	2706		Ilocos Sur	IS	San Esteban						
+PH	2707		Ilocos Sur	IS	Santiago						
+PH	2708		Ilocos Sur	IS	Banayoyo						
+PH	2709		Ilocos Sur	IS	Galimuyod						
+PH	2710		Ilocos Sur	IS	Candon						
+PH	2711		Ilocos Sur	IS	Salcedo (Baugen)						
+PH	2712		Ilocos Sur	IS	Santa Lucia						
+PH	2713		Ilocos Sur	IS	Santa Cruz						
+PH	2714		Ilocos Sur	IS	Tagudin						
+PH	2715		Ilocos Sur	IS	Suyo						
+PH	2716		Ilocos Sur	IS	Alilem						
+PH	2717		Ilocos Sur	IS	Sugpon						
+PH	2718		Ilocos Sur	IS	Cervantes						
+PH	2719		Ilocos Sur	IS	Sigay						
+PH	2720		Ilocos Sur	IS	Gregorio del Pilar						
+PH	2721		Ilocos Sur	IS	Quirino (Angkaki)						
+PH	2722		Ilocos Sur	IS	San Emilio						
+PH	2723		Ilocos Sur	IS	Lidlidda						
+PH	2724		Ilocos Sur	IS	Burgos						
+PH	2725		Ilocos Sur	IS	Nagbukel						
+PH	2726		Ilocos Sur	IS	San Vicente						
+PH	2727		Ilocos Sur	IS	Bantay						
+PH	2728		Ilocos Sur	IS	San Ildefonso						
+PH	2729		Ilocos Sur	IS	Santo Domingo						
+PH	2730		Ilocos Sur	IS	Magsingal						
+PH	2731		Ilocos Sur	IS	San Juan (Lapog)						
+PH	2732		Ilocos Sur	IS	Cabugao						
+PH	2733		Ilocos Sur	IS	Sinait						
+PH	2800		Abra	A	Bangued						
+PH	2801		Abra	A	Dolores						
+PH	2802		Abra	A	Lagangilang						
+PH	2803		Abra	A	Tayum						
+PH	2804		Abra	A	Peñarrubia						
+PH	2805		Abra	A	Bucay						
+PH	2806		Abra	A	Pidigan						
+PH	2807		Abra	A	Langiden						
+PH	2808		Abra	A	San Quintin						
+PH	2809		Abra	A	San Isidro						
+PH	2810		Abra	A	Manabo						
+PH	2811		Abra	A	Villaviciosa						
+PH	2812		Abra	A	Pilar						
+PH	2813		Abra	A	Luba						
+PH	2814		Abra	A	Tubo						
+PH	2815		Abra	A	Boliney						
+PH	2816		Abra	A	Daguioman						
+PH	2817		Abra	A	Bucloc						
+PH	2818		Abra	A	Sallapadan						
+PH	2819		Abra	A	Licuan-Baay						
+PH	2820		Abra	A	Malibcong						
+PH	2821		Abra	A	Lacub						
+PH	2822		Abra	A	Tineg						
+PH	2823		Abra	A	San Juan						
+PH	2824		Abra	A	Lagayan						
+PH	2825		Abra	A	Danglas						
+PH	2826		Abra	A	La Paz						
+PH	2900		Ilocos Norte	IN	Laoag						
+PH	2901		Ilocos Norte	IN	San Nicolas						
+PH	2902		Ilocos Norte	IN	Paoay						
+PH	2903		Ilocos Norte	IN	Currimao						
+PH	2904		Ilocos Norte	IN	Badoc						
+PH	2905		Ilocos Norte	IN	Pinili						
+PH	2906		Ilocos Norte	IN	Batac						
+PH	2907		Ilocos Norte	IN	Marcos						
+PH	2908		Ilocos Norte	IN	Banna (Espiritu)						
+PH	2909		Ilocos Norte	IN	Nueva Era						
+PH	2910		Ilocos Norte	IN	Solsona						
+PH	2911		Ilocos Norte	IN	Carasi						
+PH	2912		Ilocos Norte	IN	Piddig						
+PH	2913		Ilocos Norte	IN	Dingras						
+PH	2914		Ilocos Norte	IN	Sarrat						
+PH	2915		Ilocos Norte	IN	Vintar						
+PH	2916		Ilocos Norte	IN	Bacarra						
+PH	2917		Ilocos Norte	IN	Pasuquin						
+PH	2918		Ilocos Norte	IN	Burgos						
+PH	2919		Ilocos Norte	IN	Pagudpud						
+PH	2920		Ilocos Norte	IN	Bangui						
+PH	2921		Ilocos Norte	IN	Dumalneg						
+PH	2922		Ilocos Norte	IN	Adams						
+PH	3000		Bulacan	B	Malolos						
+PH	3001		Bulacan	B	Paombong						
+PH	3002		Bulacan	B	Hagonoy						
+PH	3003		Bulacan	B	Calumpit						
+PH	3004		Bulacan	B	Plaridel						
+PH	3005		Bulacan	B	Pulilan						
+PH	3006		Bulacan	B	Baliuag						
+PH	3007		Bulacan	B	Bustos						
+PH	3008		Bulacan	B	San Rafael						
+PH	3009		Bulacan	B	Doña Remedios Trinidad						
+PH	3010		Bulacan	B	San Ildefonso						
+PH	3011		Bulacan	B	San Miguel						
+PH	3012		Bulacan	B	Angat						
+PH	3013		Bulacan	B	Norzagaray						
+PH	3014		Bulacan	B	Pandi						
+PH	3015		Bulacan	B	Guiguinto						
+PH	3016		Bulacan	B	Balagtas (Bigaa)						
+PH	3017		Bulacan	B	Bulacan						
+PH	3018		Bulacan	B	Bocaue						
+PH	3019		Bulacan	B	Marilao						
+PH	3020		Bulacan	B	Meycauayan						
+PH	3021		Bulacan	B	Obando						
+PH	3022		Bulacan	B	Santa Maria						
+PH	3023		Bulacan	B	San Jose del Monte						
+PH	3024		Bulacan	B	Sapang Palay						
+PH	3100		Nueva Ecija	NE	Cabanatuan						
+PH	3101		Nueva Ecija	NE	Santa Rosa						
+PH	3102		Nueva Ecija	NE	San Leonardo						
+PH	3103		Nueva Ecija	NE	Peñaranda						
+PH	3104		Nueva Ecija	NE	General Tinio						
+PH	3105		Nueva Ecija	NE	Gapan						
+PH	3106		Nueva Ecija	NE	San Isidro						
+PH	3107		Nueva Ecija	NE	Cabiao						
+PH	3108		Nueva Ecija	NE	San Antonio						
+PH	3109		Nueva Ecija	NE	Jaen						
+PH	3110		Nueva Ecija	NE	Zaragoza						
+PH	3111		Nueva Ecija	NE	Aliaga						
+PH	3112		Nueva Ecija	NE	Licab						
+PH	3113		Nueva Ecija	NE	Quezon						
+PH	3114		Nueva Ecija	NE	Talavera						
+PH	3115		Nueva Ecija	NE	Guimba						
+PH	3116		Nueva Ecija	NE	Nampicuan						
+PH	3117		Nueva Ecija	NE	Cuyapo						
+PH	3118		Nueva Ecija	NE	Talugtug						
+PH	3119		Nueva Ecija	NE	Muñoz						
+PH	3120		Nueva Ecija	NE	Central Luzon State University						
+PH	3121		Nueva Ecija	NE	San Jose						
+PH	3122		Nueva Ecija	NE	Lupao						
+PH	3123		Nueva Ecija	NE	Carrangalan						
+PH	3124		Nueva Ecija	NE	Pantabangan						
+PH	3125		Nueva Ecija	NE	General Mamerto Natividad						
+PH	3126		Nueva Ecija	NE	Llanera						
+PH	3127		Nueva Ecija	NE	Rizal						
+PH	3128		Nueva Ecija	NE	Bongabon						
+PH	3129		Nueva Ecija	NE	Laur						
+PH	3130		Nueva Ecija	NE	Fort Magsaysay						
+PH	3131		Nueva Ecija	NE	Gabaldon						
+PH	3132		Nueva Ecija	NE	Palayan						
+PH	3133		Nueva Ecija	NE	Santo Domingo						
+PH	3200		Aurora	A	Baler						
+PH	3201		Aurora	A	San Luis						
+PH	3202		Aurora	A	Maria Aurora						
+PH	3203		Aurora	A	Dipaculao						
+PH	3204		Aurora	A	Casiguran						
+PH	3205		Aurora	A	Dilasag						
+PH	3206		Aurora	A	Dinalungan						
+PH	3207		Aurora	A	Dingalan						
+PH	3300		Isabela	I	Ilagan						
+PH	3301		Isabela	I	Gamu						
+PH	3302		Isabela	I	Naguillan						
+PH	3303		Isabela	I	Reina Mercedes						
+PH	3304		Isabela	I	Luna						
+PH	3305		Isabela	I	Cauayan						
+PH	3306		Isabela	I	Alicia						
+PH	3307		Isabela	I	Angadanan						
+PH	3308		Isabela	I	San Guillermo						
+PH	3309		Isabela	I	Echague						
+PH	3310		Isabela	I	San Isidro						
+PH	3311		Isabela	I	Santiago						
+PH	3312		Isabela	I	Cordon						
+PH	3313		Isabela	I	Jones						
+PH	3314		Isabela	I	San Agustin						
+PH	3315		Isabela	I	Cabatuan						
+PH	3316		Isabela	I	Aurora						
+PH	3317		Isabela	I	San Manuel (Callang)						
+PH	3318		Isabela	I	San Mateo						
+PH	3319		Isabela	I	Ramon						
+PH	3320		Isabela	I	Roxas						
+PH	3321		Isabela	I	Quirino						
+PH	3322		Isabela	I	Burgos						
+PH	3323		Isabela	I	Mallig						
+PH	3324		Isabela	I	Quezon						
+PH	3325		Isabela	I	Tumauini						
+PH	3326		Isabela	I	Delfin Albano						
+PH	3327		Isabela	I	Santo Tomas						
+PH	3328		Isabela	I	Cabagan						
+PH	3329		Isabela	I	San Pablo						
+PH	3330		Isabela	I	Santa Maria						
+PH	3331		Isabela	I	Benito Soliven						
+PH	3332		Isabela	I	San Mariano						
+PH	3333		Isabela	I	Maconacon						
+PH	3334		Isabela	I	Palanan						
+PH	3335		Isabela	I	Divilacan						
+PH	3336		Isabela	I	Dinapigue						
+PH	3400		Quirino	Q	Cabarroguis						
+PH	3401		Quirino	Q	Diffun						
+PH	3402		Quirino	Q	Saguday						
+PH	3403		Quirino	Q	Aglipay						
+PH	3404		Quirino	Q	Maddela						
+PH	3405		Quirino	Q	Nagtipunan (Abbag)						
+PH	3500		Cagayan	C	Tuguegarao						
+PH	3501		Cagayan	C	Enrile						
+PH	3502		Cagayan	C	Peñablanca						
+PH	3503		Cagayan	C	Solana						
+PH	3504		Cagayan	C	Iguig						
+PH	3505		Cagayan	C	Amulung						
+PH	3506		Cagayan	C	Baggao						
+PH	3507		Cagayan	C	Alcala						
+PH	3508		Cagayan	C	Gattaran						
+PH	3509		Cagayan	C	Lal-Lo						
+PH	3510		Cagayan	C	Camalaniugan						
+PH	3511		Cagayan	C	Buguey						
+PH	3512		Cagayan	C	Santa Teresita						
+PH	3513		Cagayan	C	Gonzaga						
+PH	3514		Cagayan	C	Santa Ana						
+PH	3515		Cagayan	C	Aparri						
+PH	3516		Cagayan	C	Ballesteros						
+PH	3517		Cagayan	C	Abulug						
+PH	3518		Cagayan	C	Sanchez-Mira						
+PH	3519		Cagayan	C	Claveria						
+PH	3520		Cagayan	C	Calayan						
+PH	3521		Cagayan	C	Santa Praxedes						
+PH	3522		Cagayan	C	Pamplona						
+PH	3523		Cagayan	C	Allacapan						
+PH	3524		Cagayan	C	Lasam						
+PH	3525		Cagayan	C	Santo Niño						
+PH	3526		Cagayan	C	Rizal						
+PH	3527		Cagayan	C	Piat						
+PH	3528		Cagayan	C	Tuao						
+PH	3600		Ifugao	I	Lagawe						
+PH	3601		Ifugao	I	Banaue						
+PH	3602		Ifugao	I	Mayoyao (Mayaoyao)						
+PH	3603		Ifugao	I	Hungduan						
+PH	3604		Ifugao	I	Kiangan						
+PH	3605		Ifugao	I	Lamut						
+PH	3606		Ifugao	I	Aguinaldo						
+PH	3607		Ifugao	I	Hingyon						
+PH	3608		Ifugao	I	Alfonso Lista (Potia)						
+PH	3609		Ifugao	I	Tinoc						
+PH	3610		Ifugao	I	Asipulo						
+PH	3700		Nueva Vizcaya	NV	Bayombong						
+PH	3701		Nueva Vizcaya	NV	Ambaguio						
+PH	3702		Nueva Vizcaya	NV	Bambang						
+PH	3703		Nueva Vizcaya	NV	Kasibu						
+PH	3704		Nueva Vizcaya	NV	Aritao						
+PH	3705		Nueva Vizcaya	NV	Santa Fe (Imugan)						
+PH	3706		Nueva Vizcaya	NV	Dupax del Norte						
+PH	3707		Nueva Vizcaya	NV	Dupax del Sur						
+PH	3708		Nueva Vizcaya	NV	Kayapa						
+PH	3709		Nueva Vizcaya	NV	Solano						
+PH	3710		Nueva Vizcaya	NV	Villa Verde (Ibung)						
+PH	3711		Nueva Vizcaya	NV	Bagabag						
+PH	3712		Nueva Vizcaya	NV	Diadi						
+PH	3713		Nueva Vizcaya	NV	Quezon						
+PH	3714		Nueva Vizcaya	NV	Alfonso Castañeda						
+PH	3800		Kalinga	K	Tabuk						
+PH	3801		Kalinga	K	Balbalan						
+PH	3802		Kalinga	K	Lubuagan						
+PH	3803		Kalinga	K	Pasil						
+PH	3804		Kalinga	K	Tinglayan						
+PH	3805		Kalinga	K	Tanudan						
+PH	3806		Kalinga	K	Pinukpuk						
+PH	3807		Apayao	A	Conner						
+PH	3808		Kalinga	K	Rizal (Liwan)						
+PH	3809		Apayao	A	Kabugao						
+PH	3810		Apayao	A	Flora						
+PH	3811		Apayao	A	Santa Marcela						
+PH	3812		Apayao	A	Pudtol						
+PH	3813		Apayao	A	Luna						
+PH	3814		Apayao	A	Calanasan (Bayag)						
+PH	3900		Batanes	B	Basco						
+PH	3901		Batanes	B	Mahatao						
+PH	3902		Batanes	B	Ivana						
+PH	3903		Batanes	B	Uyugan						
+PH	3904		Batanes	B	Sabtang						
+PH	3905		Batanes	B	Itbayat						
+PH	4000		Laguna	L	San Pablo						
+PH	4001		Laguna	L	Alaminos						
+PH	4002		Laguna	L	Nagcarlan						
+PH	4003		Laguna	L	Rizal						
+PH	4004		Laguna	L	Liliw						
+PH	4005		Laguna	L	Majayjay						
+PH	4006		Laguna	L	Botocan, Magdalena						
+PH	4007		Laguna	L	Magdalena						
+PH	4008		Laguna	L	Pagsanjan						
+PH	4009		Laguna	L	Santa Cruz						
+PH	4010		Laguna	L	Pila						
+PH	4011		Laguna	L	Victoria						
+PH	4012		Laguna	L	Calauan						
+PH	4013		Laguna	L	Cavinti						
+PH	4014		Laguna	L	Lumban						
+PH	4015		Laguna	L	Kalayaan						
+PH	4016		Laguna	L	Paete						
+PH	4017		Laguna	L	Pakil						
+PH	4018		Laguna	L	Pangil						
+PH	4019		Laguna	L	Siniloan						
+PH	4020		Laguna	L	Mabitac						
+PH	4021		Laguna	L	Famy						
+PH	4022		Laguna	L	Santa Maria						
+PH	4023		Laguna	L	San Pedro						
+PH	4024		Laguna	L	Biñan						
+PH	4025		Laguna	L	Cabuyao						
+PH	4026		Laguna	L	Santa Rosa						
+PH	4027		Laguna	L	Calamba						
+PH	4028		Laguna	L	Canlubang, Calamba						
+PH	4029		Laguna	L	Camp Vicente Lim, Calamba						
+PH	4030		Laguna	L	Los Baños						
+PH	4031		Laguna	L	University of the Philippines Los Baños						
+PH	4032		Laguna	L	Luisiana						
+PH	4033		Laguna	L	Bay						
+PH	4100		Cavite	C	Cavite City						
+PH	4101		Cavite	C	Sangley Point Naval Base, Cavite City						
+PH	4102		Cavite	C	Bacoor						
+PH	4103		Cavite	C	Imus						
+PH	4104		Cavite	C	Kawit						
+PH	4105		Cavite	C	Noveleta						
+PH	4106		Cavite	C	Rosario						
+PH	4107		Cavite	C	General Trias						
+PH	4108		Cavite	C	Tanza						
+PH	4109		Cavite	C	Trece Martires						
+PH	4110		Cavite	C	Naic						
+PH	4111		Cavite	C	Ternate						
+PH	4112		Cavite	C	Maragondon						
+PH	4113		Cavite	C	Magallanes						
+PH	4114		Cavite	C	Dasmariñas						
+PH	4115		Cavite	C	Dasmariñas Resettlement Area, Dasmariñas						
+PH	4116		Cavite	C	Carmona						
+PH	4117		Cavite	C	General Mariano Alvarez						
+PH	4118		Cavite	C	Silang						
+PH	4119		Cavite	C	Amadeo						
+PH	4120		Cavite	C	Tagaytay						
+PH	4121		Cavite	C	Mendez (Mendez-Nuñez)						
+PH	4122		Cavite	C	Indang						
+PH	4123		Cavite	C	Alfonso						
+PH	4124		Cavite	C	General Emilio Aguinaldo (Bailen)						
+PH	4125		Cavite	C	Corregidor Island, Cavite City						
+PH	4126		Cavite	C	First Cavite Industrial Estate, Dasmariñas						
+PH	4200		Batangas	B	Batangas City						
+PH	4201		Batangas	B	Bauan						
+PH	4202		Batangas	B	Mabini						
+PH	4203		Batangas	B	Tingloy						
+PH	4204		Batangas	B	San Pascual						
+PH	4205		Batangas	B	Alitagtag						
+PH	4206		Batangas	B	Santa Teresita						
+PH	4207		Batangas	B	San Nicolas						
+PH	4208		Batangas	B	Taal						
+PH	4209		Batangas	B	Lemery						
+PH	4210		Batangas	B	San Luis						
+PH	4211		Batangas	B	Agoncillo						
+PH	4212		Batangas	B	Calaca						
+PH	4213		Batangas	B	Balayan						
+PH	4214		Batangas	B	Tuy						
+PH	4215		Batangas	B	Calatagan						
+PH	4216		Batangas	B	Lian						
+PH	4217		Batangas	B	Lipa						
+PH	4218		Batangas	B	Fernando Air Base, Lipa						
+PH	4219		Batangas	B	Balete						
+PH	4220		Batangas	B	Talisay						
+PH	4221		Batangas	B	Laurel						
+PH	4222		Batangas	B	Cuenca						
+PH	4223		Batangas	B	Mataas na Kahoy						
+PH	4224		Batangas	B	Padre Garcia						
+PH	4225		Batangas	B	Rosario						
+PH	4226		Batangas	B	San Juan						
+PH	4227		Batangas	B	San Jose						
+PH	4228		Batangas	B	Taysan						
+PH	4229		Batangas	B	Lobo						
+PH	4230		Batangas	B	Ibaan						
+PH	4231		Batangas	B	Nasugbu						
+PH	4232		Batangas	B	Tanauan						
+PH	4233		Batangas	B	Malvar						
+PH	4234		Batangas	B	Santo Tomas						
+PH	4300		Quezon	Q	Quezon Provincial Capitol						
+PH	4301		Quezon	Q	Lucena						
+PH	4302		Quezon	Q	Pagbilao						
+PH	4303		Quezon	Q	Padre Burgos						
+PH	4304		Quezon	Q	Agdangan						
+PH	4305		Quezon	Q	Unisan						
+PH	4306		Quezon	Q	Plaridel						
+PH	4307		Quezon	Q	Gumaca						
+PH	4308		Quezon	Q	Pitogo						
+PH	4309		Quezon	Q	Macalelon						
+PH	4310		Quezon	Q	General Luna						
+PH	4311		Quezon	Q	Catanauan						
+PH	4312		Quezon	Q	Mulanay						
+PH	4313		Quezon	Q	San Narciso						
+PH	4314		Quezon	Q	San Andres						
+PH	4315		Quezon	Q	San Francisco (Aurora)						
+PH	4316		Quezon	Q	Lopez						
+PH	4317		Quezon	Q	Hondagua, Lopez						
+PH	4318		Quezon	Q	Calauag						
+PH	4319		Quezon	Q	Guinayangan						
+PH	4320		Quezon	Q	Buenavista						
+PH	4321		Quezon	Q	Tagkawayan						
+PH	4322		Quezon	Q	Sariaya						
+PH	4323		Quezon	Q	Candelaria						
+PH	4324		Quezon	Q	San Antonio						
+PH	4325		Quezon	Q	Tiaong						
+PH	4326		Quezon	Q	Dolores						
+PH	4327		Quezon	Q	Tayabas						
+PH	4328		Quezon	Q	Lucban						
+PH	4329		Quezon	Q	Sampaloc						
+PH	4330		Quezon	Q	Mauban						
+PH	4331		Quezon	Q	Atimonan						
+PH	4332		Quezon	Q	Quezon						
+PH	4333		Quezon	Q	Alabat						
+PH	4334		Quezon	Q	Perez						
+PH	4335		Quezon	Q	Real						
+PH	4336		Quezon	Q	Infanta						
+PH	4337		Quezon	Q	Panukulan						
+PH	4338		Quezon	Q	General Nakar						
+PH	4339		Quezon	Q	Polillo						
+PH	4340		Quezon	Q	Burdeos						
+PH	4341		Quezon	Q	Patnanungan						
+PH	4342		Quezon	Q	Jomalig						
+PH	4400		Camarines Sur	CS	Naga						
+PH	4401		Camarines Sur	CS	Camaligan						
+PH	4402		Camarines Sur	CS	Canaman						
+PH	4403		Camarines Sur	CS	Magarao						
+PH	4404		Camarines Sur	CS	Bombon						
+PH	4405		Camarines Sur	CS	Calabanga						
+PH	4406		Camarines Sur	CS	Cabusao						
+PH	4407		Camarines Sur	CS	Libmanan						
+PH	4408		Camarines Sur	CS	Sipocot						
+PH	4409		Camarines Sur	CS	Lupi						
+PH	4410		Camarines Sur	CS	Ragay						
+PH	4411		Camarines Sur	CS	Del Gallego						
+PH	4412		Camarines Sur	CS	Gainza						
+PH	4413		Camarines Sur	CS	Milaor						
+PH	4414		Camarines Sur	CS	Minalabac						
+PH	4415		Camarines Sur	CS	San Fernando						
+PH	4416		Camarines Sur	CS	Pamplona						
+PH	4417		Camarines Sur	CS	Pasacao						
+PH	4418		Camarines Sur	CS	Pili						
+PH	4419		Camarines Sur	CS	Ocampo						
+PH	4420		Camarines Sur	CS	Tigaon						
+PH	4421		Camarines Sur	CS	Sagñay						
+PH	4422		Camarines Sur	CS	Goa						
+PH	4423		Camarines Sur	CS	San Jose						
+PH	4424		Camarines Sur	CS	Presentacion						
+PH	4425		Camarines Sur	CS	Lagonoy						
+PH	4426		Camarines Sur	CS	Tinambac						
+PH	4427		Camarines Sur	CS	Siruma						
+PH	4428		Camarines Sur	CS	Garchitorena						
+PH	4429		Camarines Sur	CS	Caramoan						
+PH	4430		Camarines Sur	CS	Bula						
+PH	4431		Camarines Sur	CS	Iriga						
+PH	4432		Camarines Sur	CS	Baao						
+PH	4433		Camarines Sur	CS	Buhi						
+PH	4434		Camarines Sur	CS	Nabua						
+PH	4435		Camarines Sur	CS	Bato						
+PH	4436		Camarines Sur	CS	Balatan						
+PH	4500		Albay	A	Legazpi						
+PH	4501		Albay	A	Daraga (Locsin)						
+PH	4502		Albay	A	Camalig						
+PH	4503		Albay	A	Guinobatan						
+PH	4504		Albay	A	Ligao						
+PH	4505		Albay	A	Oas						
+PH	4506		Albay	A	Polangui						
+PH	4507		Albay	A	Libon						
+PH	4508		Albay	A	Santo Domingo						
+PH	4509		Albay	A	Bacacay						
+PH	4510		Albay	A	Malilipot						
+PH	4511		Albay	A	Tabaco						
+PH	4512		Albay	A	Malinao						
+PH	4513		Albay	A	Tiwi						
+PH	4514		Albay	A	Manito						
+PH	4515		Albay	A	Jovellar						
+PH	4516		Albay	A	Pio Duran (Malacbalac)						
+PH	4517		Albay	A	Rapu-Rapu						
+PH	4600		Camarines Norte	CN	Daet						
+PH	4601		Camarines Norte	CN	Mercedes						
+PH	4602		Camarines Norte	CN	Talisay						
+PH	4603		Camarines Norte	CN	Vinzons						
+PH	4604		Camarines Norte	CN	Labo						
+PH	4605		Camarines Norte	CN	Paracale						
+PH	4606		Camarines Norte	CN	Jose Panganiban						
+PH	4607		Camarines Norte	CN	Capalonga						
+PH	4608		Camarines Norte	CN	Basud						
+PH	4609		Camarines Norte	CN	San Vicente						
+PH	4610		Camarines Norte	CN	San Lorenzo Ruiz						
+PH	4611		Camarines Norte	CN	Santa Elena						
+PH	4612		Camarines Norte	CN	Tulay-na-Lupa						
+PH	4700		Sorsogon	S	Sorsogon City						
+PH	4701		Sorsogon	S	Bacon						
+PH	4702		Sorsogon	S	Casiguran						
+PH	4703		Sorsogon	S	Juban						
+PH	4704		Sorsogon	S	Bulusan						
+PH	4705		Sorsogon	S	Magallanes						
+PH	4706		Sorsogon	S	Bulan						
+PH	4707		Sorsogon	S	Irosin						
+PH	4708		Sorsogon	S	Matnog						
+PH	4709		Sorsogon	S	Santa Magdalena						
+PH	4710		Sorsogon	S	Gubat						
+PH	4711		Sorsogon	S	Prieto Diaz						
+PH	4712		Sorsogon	S	Barcelona						
+PH	4713		Sorsogon	S	Castilla						
+PH	4714		Sorsogon	S	Pilar						
+PH	4715		Sorsogon	S	Donsol						
+PH	4800		Catanduanes	C	Virac						
+PH	4801		Catanduanes	C	Bato						
+PH	4802		Catanduanes	C	San Miguel						
+PH	4803		Catanduanes	C	Baras						
+PH	4804		Catanduanes	C	Gigmoto						
+PH	4805		Catanduanes	C	Viga						
+PH	4806		Catanduanes	C	Panganiban						
+PH	4807		Catanduanes	C	Bagamanoc						
+PH	4808		Catanduanes	C	Caramoran						
+PH	4809		Catanduanes	C	Pandan						
+PH	4810		Catanduanes	C	San Andres						
+PH	4900		Marinduque	M	Boac						
+PH	4901		Marinduque	M	Mogpog						
+PH	4902		Marinduque	M	Santa Cruz						
+PH	4903		Marinduque	M	Torrijos						
+PH	4904		Marinduque	M	Buenavista						
+PH	4905		Marinduque	M	Gasan						
+PH	5000		Iloilo	I	Iloilo City						
+PH	5001		Iloilo	I	Pavia						
+PH	5002		Iloilo	I	Santa Barbara						
+PH	5003		Iloilo	I	Leganes						
+PH	5004		Iloilo	I	Zarraga						
+PH	5005		Iloilo	I	New Lucena						
+PH	5006		Iloilo	I	Dumangas						
+PH	5007		Iloilo	I	Barotac Nuevo						
+PH	5008		Iloilo	I	Pototan						
+PH	5009		Iloilo	I	Anilao						
+PH	5010		Iloilo	I	Banate						
+PH	5011		Iloilo	I	Barotac Viejo						
+PH	5012		Iloilo	I	Ajuy						
+PH	5013		Iloilo	I	Concepcion						
+PH	5014		Iloilo	I	Sara						
+PH	5015		Iloilo	I	San Dionisio						
+PH	5016		Iloilo	I	Batad						
+PH	5017		Iloilo	I	Estancia						
+PH	5018		Iloilo	I	Balasan						
+PH	5019		Iloilo	I	Carles						
+PH	5020		Iloilo	I	Oton						
+PH	5021		Iloilo	I	Tigbauan						
+PH	5022		Iloilo	I	Guimbal						
+PH	5023		Iloilo	I	Miagao						
+PH	5024		Iloilo	I	San Joaquin						
+PH	5025		Iloilo	I	San Miguel						
+PH	5026		Iloilo	I	Leon						
+PH	5027		Iloilo	I	Tubungan						
+PH	5028		Iloilo	I	Alimodian						
+PH	5029		Iloilo	I	Igbaras						
+PH	5030		Iloilo	I	Maasin						
+PH	5031		Iloilo	I	Cabatuan						
+PH	5032		Iloilo	I	Mina						
+PH	5033		Iloilo	I	Badiangan						
+PH	5034		Iloilo	I	Janiuay						
+PH	5035		Iloilo	I	Dingle						
+PH	5036		Iloilo	I	San Enrique						
+PH	5037		Iloilo	I	Passi						
+PH	5038		Iloilo	I	Duenas						
+PH	5039		Iloilo	I	San Rafael						
+PH	5040		Iloilo	I	Calinog						
+PH	5041		Iloilo	I	Bingawan						
+PH	5042		Iloilo	I	Lambunao						
+PH	5043		Iloilo	I	Lemery						
+PH	5044		Guimaras	G	Buenavista						
+PH	5045		Guimaras	G	Jordan						
+PH	5046		Guimaras	G	Nueva Valencia						
+PH	5047		Guimaras	G	San Lorenzo						
+PH	5048		Guimaras	G	Sibunag						
+PH	5100		Occidental Mindoro	OM	San Jose						
+PH	5101		Occidental Mindoro	OM	Magsaysay						
+PH	5102		Occidental Mindoro	OM	Calintaan						
+PH	5103		Occidental Mindoro	OM	Rizal						
+PH	5104		Occidental Mindoro	OM	Sablayan						
+PH	5105		Occidental Mindoro	OM	Santa Cruz						
+PH	5106		Occidental Mindoro	OM	Mamburao						
+PH	5107		Occidental Mindoro	OM	Paluan						
+PH	5108		Occidental Mindoro	OM	Abra de Ilog						
+PH	5109		Occidental Mindoro	OM	Lubang						
+PH	5110		Occidental Mindoro	OM	Tilik						
+PH	5111		Occidental Mindoro	OM	Looc						
+PH	5200		Oriental Mindoro	OM	Calapan						
+PH	5201		Oriental Mindoro	OM	Baco						
+PH	5202		Oriental Mindoro	OM	San Teodoro						
+PH	5203		Oriental Mindoro	OM	Puerto Galera						
+PH	5204		Oriental Mindoro	OM	Naujan						
+PH	5205		Oriental Mindoro	OM	Victoria						
+PH	5206		Oriental Mindoro	OM	Pola						
+PH	5207		Oriental Mindoro	OM	Socorro						
+PH	5208		Oriental Mindoro	OM	Pinamalayan						
+PH	5209		Oriental Mindoro	OM	Gloria						
+PH	5210		Oriental Mindoro	OM	Bansud						
+PH	5211		Oriental Mindoro	OM	Bongabong						
+PH	5212		Oriental Mindoro	OM	Roxas						
+PH	5213		Oriental Mindoro	OM	Mansalay						
+PH	5214		Oriental Mindoro	OM	Bulalacao						
+PH	5300		Palawan	P	Puerto Princesa						
+PH	5301		Palawan	P	Iwahig Penal Colony						
+PH	5302		Palawan	P	Aborlan						
+PH	5303		Palawan	P	Narra (Panacan)						
+PH	5304		Palawan	P	Quezon						
+PH	5305		Palawan	P	Brooke's Point						
+PH	5306		Palawan	P	Bataraza						
+PH	5307		Palawan	P	Balabac						
+PH	5308		Palawan	P	Roxas						
+PH	5309		Palawan	P	San Vicente						
+PH	5310		Palawan	P	Dumaran						
+PH	5311		Palawan	P	Araceli						
+PH	5312		Palawan	P	Taytay						
+PH	5313		Palawan	P	El Nido (Bacuit)						
+PH	5314		Palawan	P	Linapacan						
+PH	5315		Palawan	P	Culion						
+PH	5316		Palawan	P	Coron						
+PH	5317		Palawan	P	Busuanga						
+PH	5318		Palawan	P	Cuyo						
+PH	5319		Palawan	P	Magsaysay						
+PH	5320		Palawan	P	Agutaya						
+PH	5321		Palawan	P	Cagayancillo						
+PH	5322		Palawan	P	Kalayaan (Spratly Islands)						
+PH	5400		Masbate	M	Masbate City						
+PH	5401		Masbate	M	Mobo						
+PH	5402		Masbate	M	Uson						
+PH	5403		Masbate	M	Dimasalang						
+PH	5404		Masbate	M	Palanas						
+PH	5405		Masbate	M	Cataingan						
+PH	5406		Masbate	M	Pio V. Corpuz						
+PH	5407		Masbate	M	Esperanza						
+PH	5408		Masbate	M	Placer						
+PH	5409		Masbate	M	Cawayan						
+PH	5410		Masbate	M	Milagros						
+PH	5411		Masbate	M	Mandaon						
+PH	5412		Masbate	M	Balud						
+PH	5413		Masbate	M	Baleno						
+PH	5414		Masbate	M	Aroroy						
+PH	5415		Masbate	M	Batuan						
+PH	5416		Masbate	M	San Fernando						
+PH	5417		Masbate	M	San Jacinto						
+PH	5418		Masbate	M	Monreal						
+PH	5419		Masbate	M	Claveria						
+PH	5420		Masbate	M	San Pascual						
+PH	5421		Masbate	M	Buenavista						
+PH	5500		Romblon	R	Romblon						
+PH	5501		Romblon	R	San Agustin						
+PH	5502		Romblon	R	Santa Maria (Imelda)						
+PH	5503		Romblon	R	Calatrava						
+PH	5504		Romblon	R	San Andres						
+PH	5505		Romblon	R	Odiongan						
+PH	5506		Romblon	R	Ferrol						
+PH	5507		Romblon	R	Looc						
+PH	5508		Romblon	R	Santa Fe						
+PH	5509		Romblon	R	Alcantara						
+PH	5510		Romblon	R	San Jose						
+PH	5511		Romblon	R	Magdiwang						
+PH	5512		Romblon	R	Cajidiocan						
+PH	5513		Romblon	R	San Fernando						
+PH	5514		Romblon	R	Corcuera						
+PH	5515		Romblon	R	Banton (Jones)						
+PH	5516		Romblon	R	Concepcion						
+PH	5600		Aklan	A	Kalibo						
+PH	5601		Aklan	A	Banga						
+PH	5602		Aklan	A	Libacao						
+PH	5603		Aklan	A	Madalag						
+PH	5604		Aklan	A	Numancia						
+PH	5605		Aklan	A	Lezo						
+PH	5606		Aklan	A	Malinao						
+PH	5607		Aklan	A	Nabas						
+PH	5608		Aklan	A	Malay						
+PH	5609		Aklan	A	Buruanga						
+PH	5610		Aklan	A	New Washington						
+PH	5611		Aklan	A	Makato						
+PH	5612		Aklan	A	Tangalan						
+PH	5613		Aklan	A	Ibajay						
+PH	5614		Aklan	A	Balete						
+PH	5615		Aklan	A	Batan						
+PH	5616		Aklan	A	Altavas						
+PH	5700		Antique	A	San Jose						
+PH	5701		Antique	A	Belison						
+PH	5702		Antique	A	Patnongon						
+PH	5703		Antique	A	Valderrama						
+PH	5704		Antique	A	Bugasong						
+PH	5705		Antique	A	Laua-an						
+PH	5706		Antique	A	Barbaza						
+PH	5707		Antique	A	Tibiao						
+PH	5708		Antique	A	Culasi						
+PH	5709		Antique	A	Sebaste						
+PH	5710		Antique	A	Libertad						
+PH	5711		Antique	A	Caluya						
+PH	5712		Antique	A	Pandan						
+PH	5713		Antique	A	Sibalom						
+PH	5714		Antique	A	San Remigio						
+PH	5715		Antique	A	Hamtic						
+PH	5716		Antique	A	Tobias Fornier (Dao)						
+PH	5717		Antique	A	Anini-y						
+PH	5800		Capiz	C	Roxas						
+PH	5801		Capiz	C	Pan-ay						
+PH	5802		Capiz	C	Pontevedra						
+PH	5803		Capiz	C	President Roxas						
+PH	5804		Capiz	C	Pilar						
+PH	5805		Capiz	C	Ivisan						
+PH	5806		Capiz	C	Sapian						
+PH	5807		Capiz	C	Mambusao						
+PH	5808		Capiz	C	Jamindan						
+PH	5809		Capiz	C	Ma-ayon						
+PH	5810		Capiz	C	Dao						
+PH	5811		Capiz	C	Cuartero						
+PH	5812		Capiz	C	Dumarao						
+PH	5813		Capiz	C	Dumalag						
+PH	5814		Capiz	C	Tapaz						
+PH	5815		Capiz	C	Panitan						
+PH	5816		Capiz	C	Sigma						
+PH	6000		Cebu	C	Cebu City						
+PH	6001		Cebu	C	Consolacion						
+PH	6002		Cebu	C	Liloan						
+PH	6003		Cebu	C	Compostela						
+PH	6004		Cebu	C	Danao						
+PH	6005		Cebu	C	Carmen						
+PH	6006		Cebu	C	Catmon						
+PH	6007		Cebu	C	Sogod						
+PH	6008		Cebu	C	Borbon						
+PH	6009		Cebu	C	Tabogon						
+PH	6010		Cebu	C	Bogo						
+PH	6011		Cebu	C	San Remigio						
+PH	6012		Cebu	C	Medellin						
+PH	6013		Cebu	C	Daanbantayan						
+PH	6014		Cebu	C	Mandaue						
+PH	6015		Cebu	C	Lapu-Lapu (Opon)						
+PH	6016		Cebu	C	Mactan Airport						
+PH	6017		Cebu	C	Cordova						
+PH	6018		Cebu	C	San Fernando						
+PH	6019		Cebu	C	Carcar						
+PH	6020		Cebu	C	Sibonga						
+PH	6021		Cebu	C	Argao						
+PH	6022		Cebu	C	Dalaguete						
+PH	6023		Cebu	C	Alcoy						
+PH	6024		Cebu	C	Boljoon						
+PH	6025		Cebu	C	Oslob						
+PH	6026		Cebu	C	Santander						
+PH	6027		Cebu	C	Samboan						
+PH	6028		Cebu	C	Ginatilan						
+PH	6029		Cebu	C	Malabuyoc						
+PH	6030		Cebu	C	Alegria						
+PH	6031		Cebu	C	Badian						
+PH	6032		Cebu	C	Moalboal						
+PH	6033		Cebu	C	Alcantara						
+PH	6034		Cebu	C	Ronda						
+PH	6035		Cebu	C	Dumanjug						
+PH	6036		Cebu	C	Barili						
+PH	6037		Cebu	C	Naga						
+PH	6038		Cebu	C	Toledo						
+PH	6039		Cebu	C	Pinamungajan						
+PH	6040		Cebu	C	Aloguinsan						
+PH	6041		Cebu	C	Balamban						
+PH	6042		Cebu	C	Asturias						
+PH	6043		Cebu	C	Tuburan						
+PH	6044		Cebu	C	Tabuelan						
+PH	6045		Cebu	C	Talisay						
+PH	6046		Cebu	C	Minglanilla						
+PH	6047		Cebu	C	Santa Fe						
+PH	6048		Cebu	C	Pilar						
+PH	6049		Cebu	C	Poro						
+PH	6050		Cebu	C	San Francisco						
+PH	6051		Cebu	C	Tudela						
+PH	6052		Cebu	C	Bantayan						
+PH	6053		Cebu	C	Madridejos						
+PH	6100		Negros Occidental	NO	Bacolod						
+PH	6101		Negros Occidental	NO	Bago						
+PH	6102		Negros Occidental	NO	Pulupandan						
+PH	6103		Negros Occidental	NO	Valladolid						
+PH	6104		Negros Occidental	NO	San Enrique						
+PH	6105		Negros Occidental	NO	Pontevedra						
+PH	6106		Negros Occidental	NO	Hinigaran						
+PH	6107		Negros Occidental	NO	Binalbagan						
+PH	6108		Negros Occidental	NO	Himamaylan						
+PH	6109		Negros Occidental	NO	Ilog						
+PH	6110		Negros Occidental	NO	Candoni						
+PH	6111		Negros Occidental	NO	Kabankalan						
+PH	6112		Negros Occidental	NO	Cauayan						
+PH	6113		Negros Occidental	NO	Sipalay						
+PH	6114		Negros Occidental	NO	Hinoba-an						
+PH	6115		Negros Occidental	NO	Talisay						
+PH	6116		Negros Occidental	NO	Silay						
+PH	6117		Negros Occidental	NO	Salvador Benedicto						
+PH	6118		Negros Occidental	NO	Enrique B. Magalona						
+PH	6119		Negros Occidental	NO	Victorias						
+PH	6120		Negros Occidental	NO	Manapla						
+PH	6121		Negros Occidental	NO	Cadiz						
+PH	6122		Negros Occidental	NO	Sagay						
+PH	6123		Negros Occidental	NO	Paraiso (Fabrica)						
+PH	6124		Negros Occidental	NO	Escalante						
+PH	6125		Negros Occidental	NO	Toboso						
+PH	6126		Negros Occidental	NO	Calatrava						
+PH	6127		Negros Occidental	NO	San Carlos						
+PH	6128		Negros Occidental	NO	Isabela						
+PH	6129		Negros Occidental	NO	Murcia						
+PH	6130		Negros Occidental	NO	La Carlota						
+PH	6131		Negros Occidental	NO	La Castellana						
+PH	6132		Negros Occidental	NO	Moises Padilla						
+PH	6200		Negros Oriental	NO	Dumaguete						
+PH	6201		Negros Oriental	NO	Sibulan						
+PH	6202		Negros Oriental	NO	San Jose						
+PH	6203		Negros Oriental	NO	Amlan						
+PH	6204		Negros Oriental	NO	Tanjay						
+PH	6205		Negros Oriental	NO	Pamplona						
+PH	6206		Negros Oriental	NO	Bais						
+PH	6207		Negros Oriental	NO	Mabinay						
+PH	6208		Negros Oriental	NO	Manjuyod						
+PH	6209		Negros Oriental	NO	Bindoy						
+PH	6210		Negros Oriental	NO	Ayungon						
+PH	6211		Negros Oriental	NO	Tayasan						
+PH	6212		Negros Oriental	NO	Jimalalud						
+PH	6213		Negros Oriental	NO	La Libertad						
+PH	6214		Negros Oriental	NO	Guihulngan						
+PH	6215		Negros Oriental	NO	Valencia						
+PH	6216		Negros Oriental	NO	Bacong						
+PH	6217		Negros Oriental	NO	Dauin						
+PH	6218		Negros Oriental	NO	Zamboanguita						
+PH	6219		Negros Oriental	NO	Siaton						
+PH	6220		Negros Oriental	NO	Santa Catalina						
+PH	6221		Negros Oriental	NO	Bayawan						
+PH	6222		Negros Oriental	NO	Basay						
+PH	6223		Negros Oriental	NO	Canlaon						
+PH	6224		Negros Oriental	NO	Vallehermoso						
+PH	6225		Siquijor	S	Siquijor						
+PH	6226		Siquijor	S	Larena						
+PH	6227		Siquijor	S	San Juan						
+PH	6228		Siquijor	S	Lazi						
+PH	6229		Siquijor	S	Maria						
+PH	6230		Siquijor	S	Enrique Villanueva						
+PH	6300		Bohol	B	Tagbilaran						
+PH	6301		Bohol	B	Baclayon						
+PH	6302		Bohol	B	Alburquerque						
+PH	6303		Bohol	B	Loay						
+PH	6304		Bohol	B	Lila						
+PH	6305		Bohol	B	Dimiao						
+PH	6306		Bohol	B	Valencia						
+PH	6307		Bohol	B	Garcia Hernandez						
+PH	6308		Bohol	B	Jagna						
+PH	6309		Bohol	B	Duero						
+PH	6310		Bohol	B	Guindulman						
+PH	6311		Bohol	B	Anda						
+PH	6312		Bohol	B	Candijay						
+PH	6313		Bohol	B	Mabini						
+PH	6314		Bohol	B	Alicia						
+PH	6315		Bohol	B	Ubay						
+PH	6316		Bohol	B	Loboc						
+PH	6317		Bohol	B	Bilar						
+PH	6318		Bohol	B	Batuan						
+PH	6319		Bohol	B	Carmen						
+PH	6320		Bohol	B	Sierra Bullones						
+PH	6321		Bohol	B	Pilar						
+PH	6322		Bohol	B	Dagohoy						
+PH	6323		Bohol	B	San Miguel						
+PH	6324		Bohol	B	Trinidad						
+PH	6325		Bohol	B	Talibon						
+PH	6326		Bohol	B	Bien Unido						
+PH	6327		Bohol	B	Loon						
+PH	6328		Bohol	B	Calape						
+PH	6329		Bohol	B	Tubigon						
+PH	6330		Bohol	B	Clarin						
+PH	6331		Bohol	B	Sagbayan						
+PH	6332		Bohol	B	Inabanga						
+PH	6333		Bohol	B	Buenavista						
+PH	6334		Bohol	B	Jetafe						
+PH	6335		Bohol	B	Antequera						
+PH	6336		Bohol	B	Maribojoc						
+PH	6337		Bohol	B	Corella						
+PH	6338		Bohol	B	Sikatuna						
+PH	6339		Bohol	B	Dauis						
+PH	6340		Bohol	B	Panglao						
+PH	6341		Bohol	B	Cortes						
+PH	6342		Bohol	B	Balilihan						
+PH	6343		Bohol	B	Catigbian						
+PH	6344		Bohol	B	Danao						
+PH	6345		Bohol	B	San Isidro						
+PH	6346		Bohol	B	Pres. Carlos P. Garcia (Pitogo)						
+PH	6347		Bohol	B	Sevilla						
+PH	6400		Northern Samar	NS	Catarman						
+PH	6401		Northern Samar	NS	Bobon						
+PH	6402		Northern Samar	NS	San Jose						
+PH	6403		Northern Samar	NS	Lope de Vega						
+PH	6404		Northern Samar	NS	Lavezares						
+PH	6405		Northern Samar	NS	Allen						
+PH	6406		Northern Samar	NS	Victoria						
+PH	6407		Northern Samar	NS	San Antonio						
+PH	6408		Northern Samar	NS	Capul						
+PH	6409		Northern Samar	NS	San Isidro						
+PH	6410		Northern Samar	NS	Biri						
+PH	6411		Northern Samar	NS	Laoang						
+PH	6412		Northern Samar	NS	Mapanas						
+PH	6413		Northern Samar	NS	Pambujan						
+PH	6414		Northern Samar	NS	Silvino Lobos						
+PH	6415		Northern Samar	NS	San Roque						
+PH	6416		Northern Samar	NS	Rosario						
+PH	6417		Northern Samar	NS	Mondragon						
+PH	6418		Northern Samar	NS	Catubig						
+PH	6419		Northern Samar	NS	San Vicente						
+PH	6420		Northern Samar	NS	Las Navas						
+PH	6421		Northern Samar	NS	Palapag						
+PH	6422		Northern Samar	NS	Gamay						
+PH	6423		Northern Samar	NS	Lapinig						
+PH	6500		Leyte	L	Tacloban						
+PH	6501		Leyte	L	Palo						
+PH	6502		Leyte	L	Tanauan						
+PH	6503		Leyte	L	Tolosa						
+PH	6504		Leyte	L	Tabontabon						
+PH	6505		Leyte	L	Dulag						
+PH	6506		Leyte	L	Julita						
+PH	6507		Leyte	L	Mayorga						
+PH	6508		Leyte	L	La Paz						
+PH	6509		Leyte	L	MacArthur						
+PH	6510		Leyte	L	Abuyog						
+PH	6511		Leyte	L	Javier						
+PH	6512		Leyte	L	Mahaplag						
+PH	6513		Leyte	L	Santa Fe						
+PH	6514		Leyte	L	Pastrana						
+PH	6515		Leyte	L	Dagami						
+PH	6516		Leyte	L	Burauen						
+PH	6517		Leyte	L	Alangalang						
+PH	6518		Leyte	L	San Miguel						
+PH	6519		Leyte	L	Barugo						
+PH	6520		Leyte	L	Babatngon						
+PH	6521		Leyte	L	Baybay						
+PH	6522		Leyte	L	Inopacan						
+PH	6523		Leyte	L	Hindang						
+PH	6524		Leyte	L	Hilongos						
+PH	6525		Leyte	L	Bato						
+PH	6526		Leyte	L	Matalom						
+PH	6527		Leyte	L	Jaro						
+PH	6528		Leyte	L	Tunga						
+PH	6529		Leyte	L	Carigara						
+PH	6530		Leyte	L	Capoocan						
+PH	6531		Leyte	L	Kananga						
+PH	6532		Leyte	L	Matag-ob						
+PH	6533		Leyte	L	Leyte						
+PH	6534		Leyte	L	Calubian						
+PH	6535		Leyte	L	San Isidro						
+PH	6536		Leyte	L	Tabango						
+PH	6537		Leyte	L	Villaba						
+PH	6538		Leyte	L	Palompon						
+PH	6539		Leyte	L	Isabel						
+PH	6540		Leyte	L	Merida						
+PH	6541		Leyte	L	Ormoc						
+PH	6542		Leyte	L	Albuera						
+PH	6543		Biliran	B	Naval						
+PH	6544		Biliran	B	Almeria						
+PH	6545		Biliran	B	Kawayan						
+PH	6546		Biliran	B	Maripipi						
+PH	6547		Biliran	B	Culaba						
+PH	6548		Biliran	B	Caibiran						
+PH	6549		Biliran	B	Biliran						
+PH	6550		Biliran	B	Cabucgayan						
+PH	6600		Southern Leyte	SL	Maasin						
+PH	6601		Southern Leyte	SL	Macrohon						
+PH	6602		Southern Leyte	SL	Padre Burgos						
+PH	6603		Southern Leyte	SL	Malitbog						
+PH	6604		Southern Leyte	SL	Bontoc						
+PH	6605		Southern Leyte	SL	Tomas Oppus						
+PH	6606		Southern Leyte	SL	Sogod						
+PH	6607		Southern Leyte	SL	Silago						
+PH	6608		Southern Leyte	SL	Hinunangan						
+PH	6609		Southern Leyte	SL	Hinundayan						
+PH	6610		Southern Leyte	SL	Anahawan						
+PH	6611		Southern Leyte	SL	San Juan (Cabalian)						
+PH	6612		Southern Leyte	SL	Liloan						
+PH	6613		Southern Leyte	SL	San Francisco						
+PH	6614		Southern Leyte	SL	Pintuyan						
+PH	6615		Southern Leyte	SL	Libagon						
+PH	6616		Southern Leyte	SL	Saint Bernard						
+PH	6617		Southern Leyte	SL	San Ricardo						
+PH	6618		Southern Leyte	SL	Limasawa						
+PH	6700		Samar	S	Catbalogan						
+PH	6701		Samar	S	Jiabong						
+PH	6702		Samar	S	Motiong						
+PH	6703		Samar	S	Paranas (Wright)						
+PH	6704		Samar	S	Tarangnan						
+PH	6705		Samar	S	Pagsanghan						
+PH	6706		Samar	S	Gandara						
+PH	6707		Samar	S	San Jorge						
+PH	6708		Samar	S	Matuguinao						
+PH	6709		Samar	S	Santa Margarita						
+PH	6710		Samar	S	Calbayog						
+PH	6711		Samar	S	Santo Niño						
+PH	6712		Samar	S	Tagapul-an						
+PH	6713		Samar	S	Hinabangan						
+PH	6714		Samar	S	San Sebastian						
+PH	6715		Samar	S	Calbiga						
+PH	6716		Samar	S	Pinabacdao						
+PH	6717		Samar	S	Villareal						
+PH	6718		Samar	S	Santa Rita						
+PH	6719		Samar	S	Talalora						
+PH	6720		Samar	S	Basey						
+PH	6721		Samar	S	Marabut						
+PH	6722		Samar	S	Daram						
+PH	6723		Samar	S	San Jose De Buan						
+PH	6724		Samar	S	Almagro						
+PH	6725		Samar	S	Zumarraga						
+PH	6800		Eastern Samar	ES	Borongan						
+PH	6801		Eastern Samar	ES	Balangkayan						
+PH	6802		Eastern Samar	ES	Maydolong						
+PH	6803		Eastern Samar	ES	Llorente						
+PH	6804		Eastern Samar	ES	Hernani						
+PH	6805		Eastern Samar	ES	General MacArthur						
+PH	6806		Eastern Samar	ES	Can-avid						
+PH	6807		Eastern Samar	ES	Salcedo						
+PH	6808		Eastern Samar	ES	Mercedes						
+PH	6809		Eastern Samar	ES	Guiuan						
+PH	6810		Eastern Samar	ES	Quinapondan						
+PH	6811		Eastern Samar	ES	Giporlos						
+PH	6812		Eastern Samar	ES	Balangiga						
+PH	6813		Eastern Samar	ES	Lawaan						
+PH	6814		Eastern Samar	ES	San Julian						
+PH	6815		Eastern Samar	ES	Sulat						
+PH	6816		Eastern Samar	ES	Taft						
+PH	6817		Eastern Samar	ES	Dolores						
+PH	6818		Eastern Samar	ES	Oras						
+PH	6819		Eastern Samar	ES	Jipapad						
+PH	6820		Eastern Samar	ES	Maslog						
+PH	6821		Eastern Samar	ES	San Policarpo						
+PH	6822		Eastern Samar	ES	Arteche						
+PH	7000		Zamboanga del Sur	ZDS	Zamboanga City						
+PH	7001		Zamboanga Sibugay	ZS	Ipil						
+PH	7002		Zamboanga Sibugay	ZS	Roseller T. Lim						
+PH	7003		Zamboanga Sibugay	ZS	Titay						
+PH	7004		Zamboanga Sibugay	ZS	Naga						
+PH	7005		Zamboanga Sibugay	ZS	Kabasalan						
+PH	7006		Zamboanga Sibugay	ZS	Siay						
+PH	7007		Zamboanga Sibugay	ZS	Imelda						
+PH	7008		Zamboanga Sibugay	ZS	Payao						
+PH	7009		Zamboanga Sibugay	ZS	Buug						
+PH	7010		Zamboanga Sibugay	ZS	Mabuhay						
+PH	7011		Zamboanga del Sur	ZDS	Bayog						
+PH	7012		Zamboanga Sibugay	ZS	Talusan						
+PH	7013		Zamboanga del Sur	ZDS	Kumalarang						
+PH	7014		Zamboanga del Sur	ZDS	Lakewood						
+PH	7015		Zamboanga del Sur	ZDS	Dumalinao						
+PH	7016		Zamboanga del Sur	ZDS	Pagadian						
+PH	7017		Zamboanga del Sur	ZDS	Labangan						
+PH	7018		Zamboanga Sibugay	ZS	Tungawan						
+PH	7019		Zamboanga del Sur	ZDS	Tukuran						
+PH	7020		Zamboanga del Sur	ZDS	Aurora						
+PH	7021		Zamboanga del Sur	ZDS	Midsalip						
+PH	7022		Zamboanga del Sur	ZDS	Sominot (Don Mariano Marcos)						
+PH	7023		Zamboanga del Sur	ZDS	Molave						
+PH	7024		Zamboanga del Sur	ZDS	Ramon Magsaysay (Liargo)						
+PH	7025		Zamboanga del Sur	ZDS	Tambulig						
+PH	7026		Zamboanga del Sur	ZDS	Mahayag						
+PH	7027		Zamboanga del Sur	ZDS	Josefina						
+PH	7028		Zamboanga del Sur	ZDS	Dumingag						
+PH	7029		Zamboanga del Sur	ZDS	San Miguel						
+PH	7030		Zamboanga del Sur	ZDS	Dinas						
+PH	7031		Zamboanga del Sur	ZDS	San Pablo						
+PH	7032		Zamboanga del Sur	ZDS	Dimataling						
+PH	7033		Zamboanga del Sur	ZDS	Pitogo						
+PH	7034		Zamboanga del Sur	ZDS	Tabina						
+PH	7035		Zamboanga del Sur	ZDS	Margosatubig						
+PH	7036		Zamboanga del Sur	ZDS	Vincenzo A. Sagun						
+PH	7037		Zamboanga del Sur	ZDS	Lapuyan						
+PH	7038		Zamboanga Sibugay	ZS	Malangas						
+PH	7039		Zamboanga Sibugay	ZS	Diplahan						
+PH	7040		Zamboanga Sibugay	ZS	Alicia						
+PH	7041		Zamboanga Sibugay	ZS	Olutanga						
+PH	7042		Zamboanga del Sur	ZDS	Guipos						
+PH	7043		Zamboanga del Sur	ZDS	Tigbao						
+PH	7100		Zamboanga del Norte	ZDN	Dipolog						
+PH	7101		Zamboanga del Norte	ZDN	Dapitan						
+PH	7102		Zamboanga del Norte	ZDN	Pres. Manuel A. Roxas						
+PH	7103		Zamboanga del Norte	ZDN	Sibutad						
+PH	7104		Zamboanga del Norte	ZDN	Rizal						
+PH	7105		Zamboanga del Norte	ZDN	Piñan						
+PH	7106		Zamboanga del Norte	ZDN	Polanco						
+PH	7107		Zamboanga del Norte	ZDN	Mutia						
+PH	7108		Zamboanga del Norte	ZDN	Sergio Osmeña Sr.						
+PH	7109		Zamboanga del Norte	ZDN	Katipunan						
+PH	7110		Zamboanga del Norte	ZDN	Manukan						
+PH	7111		Zamboanga del Norte	ZDN	Jose Dalman (Ponot)						
+PH	7112		Zamboanga del Norte	ZDN	Sindangan						
+PH	7113		Zamboanga del Norte	ZDN	Siayan						
+PH	7114		Zamboanga del Norte	ZDN	Salug						
+PH	7114		Zamboanga del Norte	ZDN	Godod						
+PH	7115		Zamboanga del Norte	ZDN	Liloy						
+PH	7116		Zamboanga del Norte	ZDN	Tampilisan						
+PH	7117		Zamboanga del Norte	ZDN	Labason						
+PH	7118		Zamboanga del Norte	ZDN	Gutalac						
+PH	7119		Zamboanga del Norte	ZDN	La Libertad						
+PH	7120		Zamboanga del Norte	ZDN	Siocon						
+PH	7121		Zamboanga del Norte	ZDN	Sirawai						
+PH	7122		Zamboanga del Norte	ZDN	Sibuco						
+PH	7123		Zamboanga del Norte	ZDN	Baliguian						
+PH	7124		Zamboanga del Norte	ZDN	Kalawit						
+PH	7125		Zamboanga del Norte	ZDN	Leon B. Postigo						
+PH	7200		Misamis Occidental	MO	Ozamiz						
+PH	7201		Misamis Occidental	MO	Clarin						
+PH	7202		Misamis Occidental	MO	Tudela						
+PH	7203		Misamis Occidental	MO	Sinacaban						
+PH	7204		Misamis Occidental	MO	Jimenez						
+PH	7205		Misamis Occidental	MO	Panaon						
+PH	7206		Misamis Occidental	MO	Aloran						
+PH	7207		Misamis Occidental	MO	Oroquieta						
+PH	7208		Misamis Occidental	MO	Lopez Jaena						
+PH	7209		Misamis Occidental	MO	Plaridel						
+PH	7210		Misamis Occidental	MO	Calamba						
+PH	7211		Misamis Occidental	MO	Baliangao						
+PH	7212		Misamis Occidental	MO	Sapang Dalaga						
+PH	7213		Misamis Occidental	MO	Concepcion						
+PH	7214		Misamis Occidental	MO	Tangub						
+PH	7215		Misamis Occidental	MO	Bonifacio						
+PH	7300		Basilan	B	Isabela City						
+PH	7301		Basilan	B	Lantawan						
+PH	7302		Basilan	B	Lamitan						
+PH	7303		Basilan	B	Maluso						
+PH	7304		Basilan	B	Tipo-Tipo						
+PH	7305		Basilan	B	Sumisip						
+PH	7306		Basilan	B	Tuburan						
+PH	7400		Sulu	S	Jolo						
+PH	7400		Sulu	S	Pandami						
+PH	7401		Sulu	S	Patikul						
+PH	7402		Sulu	S	Old Panamao						
+PH	7403		Sulu	S	Talipao						
+PH	7404		Sulu	S	Luuk (Omar)						
+PH	7405		Sulu	S	Pata						
+PH	7406		Sulu	S	Banguingui (Tongkil)						
+PH	7407		Sulu	S	Indanan						
+PH	7408		Sulu	S	Parang						
+PH	7409		Sulu	S	Maimbung						
+PH	7410		Sulu	S	Tapul						
+PH	7411		Sulu	S	Lugus						
+PH	7412		Sulu	S	Siasi						
+PH	7413		Sulu	S	Hadji Panglima Tahil						
+PH	7414		Sulu	S	Pangutaran						
+PH	7415		Sulu	S	Panglima Estino (New Panamao)						
+PH	7416		Sulu	S	Kalingalan Calauang						
+PH	7500		Tawi-Tawi	T	Bongao						
+PH	7501		Tawi-Tawi	T	Panglima Sugala (Balimbing)						
+PH	7502		Tawi-Tawi	T	Tandubas						
+PH	7503		Tawi-Tawi	T	Sapa-Sapa						
+PH	7504		Tawi-Tawi	T	South Ubian						
+PH	7505		Tawi-Tawi	T	Simunul						
+PH	7506		Tawi-Tawi	T	Sitangkai						
+PH	7507		Tawi-Tawi	T	Turtle Islands (Taganak)						
+PH	7508		Tawi-Tawi	T	Mapun (Cagayan de Sulu)						
+PH	7509		Tawi-Tawi	T	Languyan						
+PH	7510		Tawi-Tawi	T	Sibutu						
+PH	8000		Davao del Sur	DDS	Davao City						
+PH	8001		Davao del Sur	DDS	Santa Cruz						
+PH	8002		Davao del Sur	DDS	Digos						
+PH	8003		Davao del Sur	DDS	Matanao						
+PH	8004		Davao del Sur	DDS	Magsaysay						
+PH	8005		Davao del Sur	DDS	Bansalan						
+PH	8006		Davao del Sur	DDS	Hagonoy						
+PH	8007		Davao del Sur	DDS	Padada						
+PH	8008		Davao del Sur	DDS	Kiblawan						
+PH	8009		Davao del Sur	DDS	Sulop						
+PH	8010		Davao del Sur	DDS	Malalag						
+PH	8011		Davao Occidental	DO	Santa Maria						
+PH	8012		Davao Occidental	DO	Malita						
+PH	8013		Davao Occidental	DO	Don Marcelino						
+PH	8014		Davao Occidental	DO	Jose Abad Santos						
+PH	8015		Davao Occidental	DO	Sarangani						
+PH	8100		Davao del Norte	DDN	Tagum						
+PH	8101		Davao del Norte	DDN	Carmen						
+PH	8102		Davao del Norte	DDN	Asuncion						
+PH	8104		Davao del Norte	DDN	New Corella						
+PH	8105		Davao del Norte	DDN	Panabo						
+PH	8112		Davao del Norte	DDN	Santo Tomas						
+PH	8113		Davao del Norte	DDN	Kapalong						
+PH	8118		Davao del Norte	DDN	Babak						
+PH	8119		Davao del Norte	DDN	Samal						
+PH	8120		Davao del Norte	DDN	Kaputian						
+PH	8200		Davao Oriental	DO	Mati						
+PH	8201		Davao Oriental	DO	Tarragona						
+PH	8202		Davao Oriental	DO	Manay						
+PH	8203		Davao Oriental	DO	Caraga						
+PH	8204		Davao Oriental	DO	Baganga						
+PH	8205		Davao Oriental	DO	Cateel						
+PH	8206		Davao Oriental	DO	Boston						
+PH	8207		Davao Oriental	DO	Lupon						
+PH	8208		Davao Oriental	DO	Banaybanay						
+PH	8209		Davao Oriental	DO	San Isidro						
+PH	8210		Davao Oriental	DO	Governor Generoso						
+PH	8300		Surigao del Sur	SDS	Tandag						
+PH	8301		Surigao del Sur	SDS	San Miguel						
+PH	8302		Surigao del Sur	SDS	Tago						
+PH	8303		Surigao del Sur	SDS	Bayabas						
+PH	8304		Surigao del Sur	SDS	Cagwait						
+PH	8305		Surigao del Sur	SDS	San Agustin						
+PH	8306		Surigao del Sur	SDS	Marihatag						
+PH	8307		Surigao del Sur	SDS	Lianga						
+PH	8308		Surigao del Sur	SDS	Tagbina						
+PH	8309		Surigao del Sur	SDS	Barobo						
+PH	8310		Surigao del Sur	SDS	Hinatuan						
+PH	8311		Surigao del Sur	SDS	Bislig						
+PH	8312		Surigao del Sur	SDS	Lingig						
+PH	8313		Surigao del Sur	SDS	Cortes						
+PH	8314		Surigao del Sur	SDS	Lanuza						
+PH	8315		Surigao del Sur	SDS	Carmen						
+PH	8316		Surigao del Sur	SDS	Madrid						
+PH	8317		Surigao del Sur	SDS	Cantilan						
+PH	8318		Surigao del Sur	SDS	Carrascal						
+PH	8400		Surigao del Norte	SDN	Surigao City						
+PH	8401		Surigao del Norte	SDN	San Francisco						
+PH	8402		Surigao del Norte	SDN	Malimono						
+PH	8403		Surigao del Norte	SDN	Tagana-an						
+PH	8404		Surigao del Norte	SDN	Sison						
+PH	8405		Surigao del Norte	SDN	Placer						
+PH	8406		Surigao del Norte	SDN	Tubod						
+PH	8407		Surigao del Norte	SDN	Mainit						
+PH	8408		Surigao del Norte	SDN	Bacuag						
+PH	8409		Surigao del Norte	SDN	Gigaquit						
+PH	8410		Surigao del Norte	SDN	Claver						
+PH	8411		Dinagat Islands	DI	Cagdianao						
+PH	8412		Dinagat Islands	DI	Dinagat						
+PH	8413		Dinagat Islands	DI	Basilisa (Rizal)						
+PH	8414		Dinagat Islands	DI	Libjo (Albor)						
+PH	8415		Dinagat Islands	DI	Loreto						
+PH	8416		Surigao del Norte	SDN	Socorro						
+PH	8417		Surigao del Norte	SDN	Dapa						
+PH	8418		Surigao del Norte	SDN	Del Carmen						
+PH	8419		Surigao del Norte	SDN	General Luna						
+PH	8420		Surigao del Norte	SDN	Pilar						
+PH	8421		Surigao del Norte	SDN	San Isidro						
+PH	8422		Surigao del Norte	SDN	Santa Monica						
+PH	8423		Surigao del Norte	SDN	San Benito						
+PH	8424		Surigao del Norte	SDN	Burgos						
+PH	8425		Surigao del Norte	SDN	Alegria						
+PH	8426		Dinagat Islands	DI	Tubajon						
+PH	8427		Dinagat Islands	DI	San Jose						
+PH	8500		Agusan del Sur	ADS	Prosperidad						
+PH	8501		Agusan del Sur	ADS	San Francisco						
+PH	8502		Agusan del Sur	ADS	Bayugan						
+PH	8503		Agusan del Sur	ADS	Sibagat						
+PH	8504		Agusan del Sur	ADS	Rosario						
+PH	8505		Agusan del Sur	ADS	Trento						
+PH	8506		Agusan del Sur	ADS	Bunawan						
+PH	8507		Agusan del Sur	ADS	Loreto						
+PH	8508		Agusan del Sur	ADS	La Paz						
+PH	8509		Agusan del Sur	ADS	Veruela						
+PH	8510		Agusan del Sur	ADS	Talacogon						
+PH	8511		Agusan del Sur	ADS	San Luis						
+PH	8512		Agusan del Sur	ADS	Santa Josefa						
+PH	8513		Agusan del Sur	ADS	Esperanza						
+PH	8600		Agusan del Norte	ADN	Butuan						
+PH	8601		Agusan del Norte	ADN	Buenavista						
+PH	8602		Agusan del Norte	ADN	Nasipit						
+PH	8603		Agusan del Norte	ADN	Carmen						
+PH	8604		Agusan del Norte	ADN	Magallanes						
+PH	8605		Agusan del Norte	ADN	Cabadbaran						
+PH	8606		Agusan del Norte	ADN	Tubay						
+PH	8607		Agusan del Norte	ADN	Jabonga						
+PH	8608		Agusan del Norte	ADN	Santiago						
+PH	8609		Agusan del Norte	ADN	Kitcharao						
+PH	8610		Agusan del Norte	ADN	Las Nieves						
+PH	8611		Agusan del Norte	ADN	Remedios T. Romualdez						
+PH	8700		Bukidnon	B	Malaybalay						
+PH	8701		Bukidnon	B	Sumilao						
+PH	8702		Bukidnon	B	Impasugong						
+PH	8703		Bukidnon	B	Manolo Fortich						
+PH	8704		Bukidnon	B	Malitbog						
+PH	8705		Bukidnon	B	Camp Phillips						
+PH	8706		Bukidnon	B	Libona						
+PH	8707		Bukidnon	B	Baungon						
+PH	8708		Bukidnon	B	Talakag						
+PH	8709		Bukidnon	B	Valencia						
+PH	8710		Bukidnon	B	Musuan						
+PH	8711		Bukidnon	B	San Fernando						
+PH	8712		Bukidnon	B	Don Carlos						
+PH	8713		Bukidnon	B	Kadingilan						
+PH	8714		Bukidnon	B	Maramag						
+PH	8715		Bukidnon	B	Quezon						
+PH	8716		Bukidnon	B	Kitaotao						
+PH	8717		Bukidnon	B	Pangantucan						
+PH	8718		Bukidnon	B	Kalilangan						
+PH	8719		Bukidnon	B	Dangcagan						
+PH	8720		Bukidnon	B	Kibawe						
+PH	8721		Bukidnon	B	Damulog						
+PH	8722		Bukidnon	B	Lantapan						
+PH	8723		Bukidnon	B	Cabanglasan						
+PH	8800		Davao de Oro	DDO	Nabunturan						
+PH	8801		Davao de Oro	DDO	Montevista						
+PH	8802		Davao de Oro	DDO	Mawab						
+PH	8803		Davao de Oro	DDO	Compostela						
+PH	8804		Davao de Oro	DDO	New Bataan						
+PH	8805		Davao de Oro	DDO	Monkayo						
+PH	8806		Davao de Oro	DDO	Maco						
+PH	8807		Davao de Oro	DDO	Mabini (Doña Alicia)						
+PH	8808		Davao de Oro	DDO	Maragusan (San Mariano)						
+PH	8809		Davao de Oro	DDO	Pantukan						
+PH	8810		Davao de Oro	DDO	Laak (San Vicente)						
+PH	9000		Misamis Oriental	MO	Cagayan de Oro						
+PH	9001		Misamis Oriental	MO	Tagoloan						
+PH	9002		Misamis Oriental	MO	Villanueva						
+PH	9003		Misamis Oriental	MO	Jasaan						
+PH	9004		Misamis Oriental	MO	Claveria						
+PH	9005		Misamis Oriental	MO	Balingasag						
+PH	9006		Misamis Oriental	MO	Lagonglong						
+PH	9007		Misamis Oriental	MO	Salay						
+PH	9008		Misamis Oriental	MO	Binuangan						
+PH	9009		Misamis Oriental	MO	Sugbongcogon						
+PH	9010		Misamis Oriental	MO	Kinoguitan						
+PH	9011		Misamis Oriental	MO	Balingoan						
+PH	9012		Misamis Oriental	MO	Talisayan						
+PH	9013		Misamis Oriental	MO	Medina						
+PH	9014		Misamis Oriental	MO	Gingoog						
+PH	9015		Misamis Oriental	MO	Magsaysay						
+PH	9016		Misamis Oriental	MO	Opol						
+PH	9017		Misamis Oriental	MO	El Salvador						
+PH	9018		Misamis Oriental	MO	Alubijid						
+PH	9019		Misamis Oriental	MO	Laguindingan						
+PH	9020		Misamis Oriental	MO	Gitagum						
+PH	9021		Misamis Oriental	MO	Libertad						
+PH	9022		Misamis Oriental	MO	Initao						
+PH	9023		Misamis Oriental	MO	Naawan						
+PH	9024		Misamis Oriental	MO	Manticao						
+PH	9025		Misamis Oriental	MO	Lugait						
+PH	9100		Camiguin	C	Mambajao						
+PH	9101		Camiguin	C	Mahinog						
+PH	9102		Camiguin	C	Guinsiliban						
+PH	9103		Camiguin	C	Sagay						
+PH	9104		Camiguin	C	Catarman						
+PH	9200		Lanao del Norte	LDN	Iligan						
+PH	9201		Lanao del Norte	LDN	Linamon						
+PH	9202		Lanao del Norte	LDN	Kauswagan						
+PH	9203		Lanao del Norte	LDN	Matungao						
+PH	9204		Lanao del Norte	LDN	Poona Piagapo						
+PH	9205		Lanao del Norte	LDN	Bacolod						
+PH	9206		Lanao del Norte	LDN	Maigo						
+PH	9207		Lanao del Norte	LDN	Kolambugan						
+PH	9208		Lanao del Norte	LDN	Pantao Ragat						
+PH	9209		Lanao del Norte	LDN	Tubod						
+PH	9210		Lanao del Norte	LDN	Baroy						
+PH	9211		Lanao del Norte	LDN	Lala						
+PH	9212		Lanao del Norte	LDN	Salvador						
+PH	9213		Lanao del Norte	LDN	Sapad						
+PH	9214		Lanao del Norte	LDN	Kapatagan						
+PH	9215		Lanao del Norte	LDN	Sultan Naga Dimaporo (Karomatan)						
+PH	9216		Lanao del Norte	LDN	Nunungan						
+PH	9217		Lanao del Norte	LDN	Baloi						
+PH	9218		Lanao del Norte	LDN	Pantar						
+PH	9219		Lanao del Norte	LDN	Munai						
+PH	9220		Lanao del Norte	LDN	Tangcal						
+PH	9221		Lanao del Norte	LDN	Magsaysay						
+PH	9222		Lanao del Norte	LDN	Tagoloan						
+PH	9300		Lanao del Sur	LDS	Malabang						
+PH	9301		Lanao del Sur	LDS	Picong (Sultan Gumander)						
+PH	9302		Lanao del Sur	LDS	Balabagan						
+PH	9303		Lanao del Sur	LDS	Marogong						
+PH	9304		Lanao del Sur	LDS	Tubaran						
+PH	9305		Lanao del Sur	LDS	Butig						
+PH	9306		Lanao del Sur	LDS	Lumbayanague						
+PH	9307		Lanao del Sur	LDS	Lumbatan						
+PH	9308		Lanao del Sur	LDS	Lumbaca-Unayan and Macadar Andong						
+PH	9309		Lanao del Sur	LDS	Bayang						
+PH	9310		Lanao del Sur	LDS	Binidayan						
+PH	9311		Lanao del Sur	LDS	Ganassi						
+PH	9312		Lanao del Sur	LDS	Pagayawan						
+PH	9313		Lanao del Sur	LDS	Pualas						
+PH	9314		Lanao del Sur	LDS	Madamba						
+PH	9315		Lanao del Sur	LDS	Madalum						
+PH	9316		Lanao del Sur	LDS	Bacolod-Kalawi (Bacolod Grande)						
+PH	9317		Lanao del Sur	LDS	Tugaya						
+PH	9318		Lanao del Sur	LDS	Balindong						
+PH	9319		Lanao del Sur	LDS	Calanogas						
+PH	9320		Lanao del Sur	LDS	Amai Manabilang (Bumbaran)						
+PH	9321		Lanao del Sur	LDS	Tagoloan II						
+PH	9400		Cotabato	C	Kidapawan						
+PH	9401		Cotabato	C	Makilala						
+PH	9402		Cotabato	C	M'Lang						
+PH	9403		Cotabato	C	Tulunan						
+PH	9404		Cotabato	C	Magpet						
+PH	9405		Cotabato	C	President Roxas						
+PH	9406		Cotabato	C	Matalam						
+PH	9407		Cotabato	C	Kabacan						
+PH	9408		Cotabato	C	Carmen						
+PH	9409		Cotabato	C	Pikit						
+PH	9410		Cotabato	C	Midsayap						
+PH	9411		Cotabato	C	Libungan						
+PH	9412		Cotabato	C	Pigkawayan						
+PH	9413		Cotabato	C	Alamada						
+PH	9414		Cotabato	C	Antipas						
+PH	9415		Cotabato	C	Aleosan						
+PH	9416		Cotabato	C	Banisilan						
+PH	9417		Cotabato	C	Arakan						
+PH	9500		South Cotabato	SC	General Santos (Dadiangas)						
+PH	9501		Sarangani	S	Alabel						
+PH	9502		Sarangani	S	Maasim						
+PH	9503		Sarangani	S	Malungon						
+PH	9504		South Cotabato	SC	Polomolok						
+PH	9505		South Cotabato	SC	Tupi						
+PH	9506		South Cotabato	SC	Koronadal						
+PH	9507		South Cotabato	SC	Tampakan						
+PH	9508		South Cotabato	SC	Norala						
+PH	9509		South Cotabato	SC	Santo Niño						
+PH	9510		South Cotabato	SC	Tantangan						
+PH	9511		South Cotabato	SC	Banga						
+PH	9512		South Cotabato	SC	Surallah						
+PH	9513		South Cotabato	SC	T'Boli						
+PH	9514		Sarangani	S	Kiamba						
+PH	9514		South Cotabato	SC	Lake Sebu						
+PH	9515		Sarangani	S	Maitum						
+PH	9516		Sarangani	S	Malapatan						
+PH	9517		Sarangani	S	Glan						
+PH	9600		Maguindanao	M	Cotabato City						
+PH	9601		Maguindanao	M	Datu Odin Sinsuat (Dinaig)						
+PH	9602		Maguindanao	M	Upi						
+PH	9603		Maguindanao	M	South Upi						
+PH	9604		Maguindanao	M	Parang						
+PH	9605		Maguindanao	M	Sultan Kudarat						
+PH	9606		Maguindanao	M	Kabuntalan						
+PH	9607		Maguindanao	M	Datu Piang						
+PH	9608		Maguindanao	M	Shariff Aguak (Maganoy)						
+PH	9609		Maguindanao	M	Ampatuan						
+PH	9610		Maguindanao	M	Pagalungan						
+PH	9611		Maguindanao	M	Sultan sa Barongis						
+PH	9612		Maguindanao	M	Talayan						
+PH	9613		Maguindanao	M	Matanog						
+PH	9614		Maguindanao	M	Barira						
+PH	9615		Maguindanao	M	Buldon						
+PH	9616		Maguindanao	M	Buluan						
+PH	9617		Maguindanao	M	Datu Paglas						
+PH	9618		Maguindanao	M	Gen. S.K. Pendatun						
+PH	9619		Maguindanao	M	Shariff Aguak						
+PH	9620		Maguindanao	M	Mangudadatu						
+PH	9621		Maguindanao	M	Datu Abdullah Sangki						
+PH	9622		Maguindanao	M	Datu Anggal Midtimbang						
+PH	9623		Maguindanao	M	Datu Blah T. Sinsuat						
+PH	9624		Maguindanao	M	Datu Hoffer Ampatuan						
+PH	9625		Maguindanao	M	Datu Salibo						
+PH	9626		Maguindanao	M	Datu Saudi-Ampatuan						
+PH	9627		Maguindanao	M	Datu Unsay						
+PH	9628		Maguindanao	M	Guindulungan						
+PH	9629		Maguindanao	M	Mamasapano						
+PH	9630		Maguindanao	M	Northern Kabuntalan						
+PH	9631		Maguindanao	M	Datu Montawal (Pagagawan)						
+PH	9632		Maguindanao	M	Paglat						
+PH	9633		Maguindanao	M	Pandag						
+PH	9634		Maguindanao	M	Rajah Buayan						
+PH	9635		Maguindanao	M	Shariff Saydona Mustapha						
+PH	9636		Maguindanao	M	Sultan Mastura						
+PH	9637		Maguindanao	M	Sultan Sumagka (Talitay)						
+PH	9700		Lanao del Sur	LDS	Kapatagan						
+PH	9700		Lanao del Sur	LDS	Marawi						
+PH	9701		Lanao del Sur	LDS	Saguiaran						
+PH	9702		Lanao del Sur	LDS	Mulondo						
+PH	9703		Lanao del Sur	LDS	Lumba-Bayabao						
+PH	9704		Lanao del Sur	LDS	Tamparan						
+PH	9705		Lanao del Sur	LDS	Poona Bayabao						
+PH	9706		Lanao del Sur	LDS	Masiu						
+PH	9708		Lanao del Sur	LDS	Bubong						
+PH	9709		Lanao del Sur	LDS	Kapai						
+PH	9710		Lanao del Sur	LDS	Piagapo						
+PH	9711		Lanao del Sur	LDS	Marantao						
+PH	9712		Lanao del Sur	LDS	Taraka						
+PH	9713		Lanao del Sur	LDS	Ditsaan-Ramain						
+PH	9714		Lanao del Sur	LDS	Buadiposo-Buntong						
+PH	9715		Lanao del Sur	LDS	Maguing						
+PH	9716		Lanao del Sur	LDS	Wao						
+PH	9800		Sultan Kudarat	SK	Tacurong						
+PH	9801		Sultan Kudarat	SK	Columbio						
+PH	9802		Sultan Kudarat	SK	Lambayong						
+PH	9803		Sultan Kudarat	SK	Lutayan						
+PH	9804		Sultan Kudarat	SK	President Quirino						
+PH	9805		Sultan Kudarat	SK	Isulan						
+PH	9806		Sultan Kudarat	SK	Esperanza						
+PH	9807		Sultan Kudarat	SK	Lebak						
+PH	9808		Sultan Kudarat	SK	Kalamansig						
+PH	9809		Sultan Kudarat	SK	Palimbang						
+PH	9810		Sultan Kudarat	SK	Bagumbayan						
+PH	9811		Sultan Kudarat	SK	Senator Ninoy Aquino						

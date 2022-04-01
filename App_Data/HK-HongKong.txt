@@ -1,0 +1,37 @@
+HK	00000	Aberdeen 	Hong Kong Island	HKIO	Southern										
+HK	00000	Cheung Chau 	New Territories	NTO	Islands										
+HK	00000	Discovery Bay 	New Territories	NTO	Islands										
+HK	00000	Jardine's Lookout 	Hong Kong Island	HKIO	Wan Chai										
+HK	00000	Ha Tsuen 	New Territories	NTO	Yuen Long										
+HK	00000	Kam Tin 	New Territories	NTO	Yuen Long										
+HK	00000	Kwun Tong 	Kowloon	KDO	Kwun Tong										
+HK	00000	Kwu Tung 	New Territories	NTO	North										
+HK	00000	Lau Fau Shan 	New Territories	NTO	Tuen Mun										
+HK	00000	Lei Yue Mun 	Kowloon	KDO	Kwun Tong										
+HK	00000	Luen Wo Hui 	New Territories	NTO	North										
+HK	00000	Ma Wan 	New Territories	NTO	Islands										
+HK	00000	Mui Wo (Silvermine Bay) 	New Territories	NTO	Islands										
+HK	00000	Ping Shan 	New Territories	NTO	Yuen Long										
+HK	00000	Peng Chau 	New Territories	NTO	Islands										
+HK	00000	Sai Kung 	New Territories	NTO	Sai Kung										
+HK	00000	San Tin 	New Territories	NTO	Yuen Long										
+HK	00000	Sha Tau Kok 	New Territories	NTO	North										
+HK	00000	Sham Tseng 	New Territories	NTO	Tsuen Wan										
+HK	00000	Shek O 	Hong Kong Island	HKIO	Southern										
+HK	00000	Sok Kwu Wan 	New Territories	NTO	Islands										
+HK	00000	Stanley 	Hong Kong Island	HKIO	Southern										
+HK	00000	Tai O 	New Territories	NTO	Islands										
+HK	00000	Yuen Long Town 	New Territories	NTO	Yuen Long										
+HK	00000	Yung Shue Wan 	New Territories	NTO	Islands										
+HK	00000	Tsuen Wan 	New Territories	NTO	Tsuen Wan										
+HK	00000	Sha Tin 	New Territories	NTO	Sha Tin										
+HK	00000	Tuen Mun New Town 	New Territories	NTO	Tuen Mun										
+HK	00000	Tai Po 	New Territories	NTO	Tai Po										
+HK	00000	Yuen Long 	New Territories	NTO	Yuen Long										
+HK	00000	Fanling-Sheung Shui 	New Territories	NTO	North										
+HK	00000	Ma On Shan 	New Territories	NTO	Sha Tin										
+HK	00000	Tseung Kwan O New Town 	New Territories	NTO	Sai Kung										
+HK	00000	Tin Shui Wai 	New Territories	NTO	Yuen Long										
+HK	00000	North Lantau 	New Territories	NTO	Islands										
+HK	00000	Victoria City 	Hong Kong Island	HKIO	Victoria City										
+HK	00000	Kowloon 	Kowloon	KDO	Kowloon										

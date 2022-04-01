@@ -1,0 +1,250 @@
+MaQuocGia	TenQuocGia	TieuChuan	Vung1	Vung2	Vung3	IsUse
+AD	Andorra	ISO 3166-2:AD	Europe	Southern Europe	NULL	0
+AE	United Arab Emirates	ISO 3166-2:AE	Asia	Western Asia	NULL	1
+AF	Afghanistan	ISO 3166-2:AF	Asia	Southern Asia	NULL	0
+AG	Antigua and Barbuda	ISO 3166-2:AG	Americas	Latin America and the Caribbean	Caribbean	0
+AI	Anguilla	ISO 3166-2:AI	Americas	Latin America and the Caribbean	Caribbean	0
+AL	Albania	ISO 3166-2:AL	Europe	Southern Europe	NULL	1
+AM	Armenia	ISO 3166-2:AM	Asia	Western Asia	NULL	0
+AO	Angola	ISO 3166-2:AO	Africa	Sub-Saharan Africa	Middle Africa	0
+AQ	Antarctica	ISO 3166-2:AQ	NULL	NULL	NULL	0
+AR	Argentina	ISO 3166-2:AR	Americas	Latin America and the Caribbean	South America	1
+AS	American Samoa	ISO 3166-2:AS	Oceania	Polynesia	NULL	1
+AT	Austria	ISO 3166-2:AT	Europe	Western Europe	NULL	1
+AU	Australia	ISO 3166-2:AU	Oceania	Australia and New Zealand	NULL	1
+AW	Aruba	ISO 3166-2:AW	Americas	Latin America and the Caribbean	Caribbean	0
+AX	Åland Islands	ISO 3166-2:AX	Europe	Northern Europe	NULL	0
+AZ	Azerbaijan	ISO 3166-2:AZ	Asia	Western Asia	NULL	0
+BA	Bosnia and Herzegovina	ISO 3166-2:BA	Europe	Southern Europe	NULL	1
+BB	Barbados	ISO 3166-2:BB	Americas	Latin America and the Caribbean	Caribbean	0
+BD	Bangladesh	ISO 3166-2:BD	Asia	Southern Asia	NULL	1
+BE	Belgium	ISO 3166-2:BE	Europe	Western Europe	NULL	1
+BF	Burkina Faso	ISO 3166-2:BF	Africa	Sub-Saharan Africa	Western Africa	0
+BG	Bulgaria	ISO 3166-2:BG	Europe	Eastern Europe	NULL	1
+BH	Bahrain	ISO 3166-2:BH	Asia	Western Asia	NULL	1
+BI	Burundi	ISO 3166-2:BI	Africa	Sub-Saharan Africa	Eastern Africa	0
+BJ	Benin	ISO 3166-2:BJ	Africa	Sub-Saharan Africa	Western Africa	0
+BL	Saint Barthélemy	ISO 3166-2:BL	Americas	Latin America and the Caribbean	Caribbean	0
+BM	Bermuda	ISO 3166-2:BM	Americas	Northern America	NULL	0
+BN	Brunei Darussalam	ISO 3166-2:BN	Asia	South-eastern Asia	NULL	1
+BO	Bolivia (Plurinational State of)	ISO 3166-2:BO	Americas	Latin America and the Caribbean	South America	0
+BQ	Bonaire, Sint Eustatius and Saba	ISO 3166-2:BQ	Americas	Latin America and the Caribbean	Caribbean	1
+BR	Brazil	ISO 3166-2:BR	Americas	Latin America and the Caribbean	South America	1
+BS	Bahamas	ISO 3166-2:BS	Americas	Latin America and the Caribbean	Caribbean	0
+BT	Bhutan	ISO 3166-2:BT	Asia	Southern Asia	NULL	0
+BV	Bouvet Island	ISO 3166-2:BV	Americas	Latin America and the Caribbean	South America	0
+BW	Botswana	ISO 3166-2:BW	Africa	Sub-Saharan Africa	Southern Africa	1
+BY	Belarus	ISO 3166-2:BY	Europe	Eastern Europe	NULL	1
+BZ	Belize	ISO 3166-2:BZ	Americas	Latin America and the Caribbean	Central America	0
+CA	Canada	ISO 3166-2:CA	Americas	Northern America	NULL	1
+CC	Cocos (Keeling) Islands	ISO 3166-2:CC	Oceania	Australia and New Zealand	NULL	0
+CD	Congo, Democratic Republic of the	ISO 3166-2:CD	Africa	Sub-Saharan Africa	Middle Africa	0
+CF	Central African Republic	ISO 3166-2:CF	Africa	Sub-Saharan Africa	Middle Africa	0
+CG	Congo	ISO 3166-2:CG	Africa	Sub-Saharan Africa	Middle Africa	0
+CH	Switzerland	ISO 3166-2:CH	Europe	Western Europe	NULL	1
+CI	Côte d'Ivoire	ISO 3166-2:CI	Africa	Sub-Saharan Africa	Western Africa	0
+CK	Cook Islands	ISO 3166-2:CK	Oceania	Polynesia	NULL	1
+CL	Chile	ISO 3166-2:CL	Americas	Latin America and the Caribbean	South America	1
+CM	Cameroon	ISO 3166-2:CM	Africa	Sub-Saharan Africa	Middle Africa	0
+CN	China	ISO 3166-2:CN	Asia	Eastern Asia	NULL	1
+CO	Colombia	ISO 3166-2:CO	Americas	Latin America and the Caribbean	South America	1
+CR	Costa Rica	ISO 3166-2:CR	Americas	Latin America and the Caribbean	Central America	1
+CU	Cuba	ISO 3166-2:CU	Americas	Latin America and the Caribbean	Caribbean	0
+CV	Cabo Verde	ISO 3166-2:CV	Africa	Sub-Saharan Africa	Western Africa	0
+CW	Curaçao	ISO 3166-2:CW	Americas	Latin America and the Caribbean	Caribbean	1
+CX	Christmas Island	ISO 3166-2:CX	Oceania	Australia and New Zealand	NULL	0
+CY	Cyprus	ISO 3166-2:CY	Asia	Western Asia	NULL	1
+CZ	Czechia	ISO 3166-2:CZ	Europe	Eastern Europe	NULL	1
+DE	Germany	ISO 3166-2:DE	Europe	Western Europe	NULL	1
+DJ	Djibouti	ISO 3166-2:DJ	Africa	Sub-Saharan Africa	Eastern Africa	0
+DK	Denmark	ISO 3166-2:DK	Europe	Northern Europe	NULL	1
+DM	Dominica	ISO 3166-2:DM	Americas	Latin America and the Caribbean	Caribbean	0
+DO	Dominican Republic	ISO 3166-2:DO	Americas	Latin America and the Caribbean	Caribbean	1
+DZ	Algeria	ISO 3166-2:DZ	Africa	Northern Africa	NULL	0
+EC	Ecuador	ISO 3166-2:EC	Americas	Latin America and the Caribbean	South America	0
+EE	Estonia	ISO 3166-2:EE	Europe	Northern Europe	NULL	1
+EG	Egypt	ISO 3166-2:EG	Africa	Northern Africa	NULL	1
+EH	Western Sahara	ISO 3166-2:EH	Africa	Northern Africa	NULL	0
+ER	Eritrea	ISO 3166-2:ER	Africa	Sub-Saharan Africa	Eastern Africa	0
+ES	Spain	ISO 3166-2:ES	Europe	Southern Europe	NULL	1
+ET	Ethiopia	ISO 3166-2:ET	Africa	Sub-Saharan Africa	Eastern Africa	0
+FI	Finland	ISO 3166-2:FI	Europe	Northern Europe	NULL	1
+FJ	Fiji	ISO 3166-2:FJ	Oceania	Melanesia	NULL	1
+FK	Falkland Islands (Malvinas)	ISO 3166-2:FK	Americas	Latin America and the Caribbean	South America	0
+FM	Micronesia (Federated States of)	ISO 3166-2:FM	Oceania	Micronesia	NULL	1
+FO	Faroe Islands	ISO 3166-2:FO	Europe	Northern Europe	NULL	0
+FR	France	ISO 3166-2:FR	Europe	Western Europe	NULL	1
+GA	Gabon	ISO 3166-2:GA	Africa	Sub-Saharan Africa	Middle Africa	0
+GB	United Kingdom	ISO 3166-2:GB	Europe	Northern Europe	NULL	1
+GD	Grenada	ISO 3166-2:GD	Americas	Latin America and the Caribbean	Caribbean	1
+GE	Georgia	ISO 3166-2:GE	Asia	Western Asia	NULL	1
+GF	French Guiana	ISO 3166-2:GF	Americas	Latin America and the Caribbean	South America	0
+GG	Guernsey	ISO 3166-2:GG	Europe	Northern Europe	Channel Islands	0
+GH	Ghana	ISO 3166-2:GH	Africa	Sub-Saharan Africa	Western Africa	1
+GI	Gibraltar	ISO 3166-2:GI	Europe	Southern Europe	NULL	0
+GL	Greenland	ISO 3166-2:GL	Americas	Northern America	NULL	0
+GM	Gambia	ISO 3166-2:GM	Africa	Sub-Saharan Africa	Western Africa	0
+GN	Guinea	ISO 3166-2:GN	Africa	Sub-Saharan Africa	Western Africa	0
+GP	Guadeloupe	ISO 3166-2:GP	Americas	Latin America and the Caribbean	Caribbean	0
+GQ	Equatorial Guinea	ISO 3166-2:GQ	Africa	Sub-Saharan Africa	Middle Africa	0
+GR	Greece	ISO 3166-2:GR	Europe	Southern Europe	NULL	1
+GS	South Georgia and the South Sandwich Islands	ISO 3166-2:GS	Americas	Latin America and the Caribbean	South America	0
+GT	Guatemala	ISO 3166-2:GT	Americas	Latin America and the Caribbean	Central America	1
+GU	Guam	ISO 3166-2:GU	Oceania	Micronesia	NULL	1
+GW	Guinea-Bissau	ISO 3166-2:GW	Africa	Sub-Saharan Africa	Western Africa	0
+GY	Guyana	ISO 3166-2:GY	Americas	Latin America and the Caribbean	South America	0
+HK	Hong Kong	ISO 3166-2:HK	Asia	Eastern Asia	NULL	1
+HM	Heard Island and McDonald Islands	ISO 3166-2:HM	Oceania	Australia and New Zealand	NULL	0
+HN	Honduras	ISO 3166-2:HN	Americas	Latin America and the Caribbean	Central America	0
+HR	Croatia	ISO 3166-2:HR	Europe	Southern Europe	NULL	1
+HT	Haiti	ISO 3166-2:HT	Americas	Latin America and the Caribbean	Caribbean	0
+HU	Hungary	ISO 3166-2:HU	Europe	Eastern Europe	NULL	1
+ID	Indonesia	ISO 3166-2:ID	Asia	South-eastern Asia	NULL	1
+IE	Ireland	ISO 3166-2:IE	Europe	Northern Europe	NULL	1
+IL	Israel	ISO 3166-2:IL	Asia	Western Asia	NULL	1
+IM	Isle of Man	ISO 3166-2:IM	Europe	Northern Europe	NULL	0
+IN	India	ISO 3166-2:IN	Asia	Southern Asia	NULL	1
+IO	British Indian Ocean Territory	ISO 3166-2:IO	Africa	Sub-Saharan Africa	Eastern Africa	0
+IQ	Iraq	ISO 3166-2:IQ	Asia	Western Asia	NULL	0
+IR	Iran (Islamic Republic of)	ISO 3166-2:IR	Asia	Southern Asia	NULL	0
+IS	Iceland	ISO 3166-2:IS	Europe	Northern Europe	NULL	1
+IT	Italy	ISO 3166-2:IT	Europe	Southern Europe	NULL	1
+JE	Jersey	ISO 3166-2:JE	Europe	Northern Europe	Channel Islands	0
+JM	Jamaica	ISO 3166-2:JM	Americas	Latin America and the Caribbean	Caribbean	0
+JO	Jordan	ISO 3166-2:JO	Asia	Western Asia	NULL	1
+JP	Japan	ISO 3166-2:JP	Asia	Eastern Asia	NULL	1
+KE	Kenya	ISO 3166-2:KE	Africa	Sub-Saharan Africa	Eastern Africa	1
+KG	Kyrgyzstan	ISO 3166-2:KG	Asia	Central Asia	NULL	0
+KH	Cambodia	ISO 3166-2:KH	Asia	South-eastern Asia	NULL	1
+KI	Kiribati	ISO 3166-2:KI	Oceania	Micronesia	NULL	0
+KM	Comoros	ISO 3166-2:KM	Africa	Sub-Saharan Africa	Eastern Africa	0
+KN	Saint Kitts and Nevis	ISO 3166-2:KN	Americas	Latin America and the Caribbean	Caribbean	0
+KP	Korea (Democratic People's Republic of)	ISO 3166-2:KP	Asia	Eastern Asia	NULL	0
+KR	Korea, Republic of	ISO 3166-2:KR	Asia	Eastern Asia	NULL	1
+KW	Kuwait	ISO 3166-2:KW	Asia	Western Asia	NULL	1
+KY	Cayman Islands	ISO 3166-2:KY	Americas	Latin America and the Caribbean	Caribbean	0
+KZ	Kazakhstan	ISO 3166-2:KZ	Asia	Central Asia	NULL	0
+LA	Lao People's Democratic Republic	ISO 3166-2:LA	Asia	South-eastern Asia	NULL	1
+LB	Lebanon	ISO 3166-2:LB	Asia	Western Asia	NULL	0
+LC	Saint Lucia	ISO 3166-2:LC	Americas	Latin America and the Caribbean	Caribbean	0
+LI	Liechtenstein	ISO 3166-2:LI	Europe	Western Europe	NULL	1
+LK	Sri Lanka	ISO 3166-2:LK	Asia	Southern Asia	NULL	1
+LR	Liberia	ISO 3166-2:LR	Africa	Sub-Saharan Africa	Western Africa	0
+LS	Lesotho	ISO 3166-2:LS	Africa	Sub-Saharan Africa	Southern Africa	0
+LT	Lithuania	ISO 3166-2:LT	Europe	Northern Europe	NULL	1
+LU	Luxembourg	ISO 3166-2:LU	Europe	Western Europe	NULL	1
+LV	Latvia	ISO 3166-2:LV	Europe	Northern Europe	NULL	1
+LY	Libya	ISO 3166-2:LY	Africa	Northern Africa	NULL	1
+MA	Morocco	ISO 3166-2:MA	Africa	Northern Africa	NULL	1
+MC	Monaco	ISO 3166-2:MC	Europe	Western Europe	NULL	1
+MD	Moldova, Republic of	ISO 3166-2:MD	Europe	Eastern Europe	NULL	1
+ME	Montenegro	ISO 3166-2:ME	Europe	Southern Europe	NULL	1
+MF	Saint Martin (French part)	ISO 3166-2:MF	Americas	Latin America and the Caribbean	Caribbean	1
+MG	Madagascar	ISO 3166-2:MG	Africa	Sub-Saharan Africa	Eastern Africa	0
+MH	Marshall Islands	ISO 3166-2:MH	Oceania	Micronesia	NULL	1
+MK	North Macedonia	ISO 3166-2:MK	Europe	Southern Europe	NULL	1
+ML	Mali	ISO 3166-2:ML	Africa	Sub-Saharan Africa	Western Africa	0
+MM	Myanmar	ISO 3166-2:MM	Asia	South-eastern Asia	NULL	0
+MN	Mongolia	ISO 3166-2:MN	Asia	Eastern Asia	NULL	1
+MO	Macao	ISO 3166-2:MO	Asia	Eastern Asia	NULL	1
+MP	Northern Mariana Islands	ISO 3166-2:MP	Oceania	Micronesia	NULL	1
+MQ	Martinique	ISO 3166-2:MQ	Americas	Latin America and the Caribbean	Caribbean	0
+MR	Mauritania	ISO 3166-2:MR	Africa	Sub-Saharan Africa	Western Africa	0
+MS	Montserrat	ISO 3166-2:MS	Americas	Latin America and the Caribbean	Caribbean	0
+MT	Malta	ISO 3166-2:MT	Europe	Southern Europe	NULL	1
+MU	Mauritius	ISO 3166-2:MU	Africa	Sub-Saharan Africa	Eastern Africa	1
+MV	Maldives	ISO 3166-2:MV	Asia	Southern Asia	NULL	0
+MW	Malawi	ISO 3166-2:MW	Africa	Sub-Saharan Africa	Eastern Africa	0
+MX	Mexico	ISO 3166-2:MX	Americas	Latin America and the Caribbean	Central America	1
+MY	Malaysia	ISO 3166-2:MY	Asia	South-eastern Asia	NULL	1
+MZ	Mozambique	ISO 3166-2:MZ	Africa	Sub-Saharan Africa	Eastern Africa	0
+NA	Namibia	ISO 3166-2:NA	Africa	Sub-Saharan Africa	Southern Africa	0
+NC	New Caledonia	ISO 3166-2:NC	Oceania	Melanesia	NULL	1
+NE	Niger	ISO 3166-2:NE	Africa	Sub-Saharan Africa	Western Africa	0
+NF	Norfolk Island	ISO 3166-2:NF	Oceania	Australia and New Zealand	NULL	0
+NG	Nigeria	ISO 3166-2:NG	Africa	Sub-Saharan Africa	Western Africa	1
+NI	Nicaragua	ISO 3166-2:NI	Americas	Latin America and the Caribbean	Central America	0
+NL	Netherlands	ISO 3166-2:NL	Europe	Western Europe	NULL	1
+NO	Norway	ISO 3166-2:NO	Europe	Northern Europe	NULL	1
+NP	Nepal	ISO 3166-2:NP	Asia	Southern Asia	NULL	0
+NR	Nauru	ISO 3166-2:NR	Oceania	Micronesia	NULL	0
+NU	Niue	ISO 3166-2:NU	Oceania	Polynesia	NULL	0
+NZ	New Zealand	ISO 3166-2:NZ	Oceania	Australia and New Zealand	NULL	1
+OM	Oman	ISO 3166-2:OM	Asia	Western Asia	NULL	1
+PA	Panama	ISO 3166-2:PA	Americas	Latin America and the Caribbean	Central America	1
+PE	Peru	ISO 3166-2:PE	Americas	Latin America and the Caribbean	South America	0
+PF	French Polynesia	ISO 3166-2:PF	Oceania	Polynesia	NULL	1
+PG	Papua New Guinea	ISO 3166-2:PG	Oceania	Melanesia	NULL	1
+PH	Philippines	ISO 3166-2:PH	Asia	South-eastern Asia	NULL	1
+PK	Pakistan	ISO 3166-2:PK	Asia	Southern Asia	NULL	1
+PL	Poland	ISO 3166-2:PL	Europe	Eastern Europe	NULL	1
+PM	Saint Pierre and Miquelon	ISO 3166-2:PM	Americas	Northern America	NULL	0
+PN	Pitcairn	ISO 3166-2:PN	Oceania	Polynesia	NULL	0
+PR	Puerto Rico	ISO 3166-2:PR	Americas	Latin America and the Caribbean	Caribbean	0
+PS	Palestine, State of	ISO 3166-2:PS	Asia	Western Asia	NULL	0
+PT	Portugal	ISO 3166-2:PT	Europe	Southern Europe	NULL	1
+PW	Palau	ISO 3166-2:PW	Oceania	Micronesia	NULL	1
+PY	Paraguay	ISO 3166-2:PY	Americas	Latin America and the Caribbean	South America	0
+QA	Qatar	ISO 3166-2:QA	Asia	Western Asia	NULL	1
+RE	Réunion	ISO 3166-2:RE	Africa	Sub-Saharan Africa	Eastern Africa	0
+RO	Romania	ISO 3166-2:RO	Europe	Eastern Europe	NULL	1
+RS	Serbia	ISO 3166-2:RS	Europe	Southern Europe	NULL	1
+RU	Russian Federation	ISO 3166-2:RU	Europe	Eastern Europe	NULL	1
+RW	Rwanda	ISO 3166-2:RW	Africa	Sub-Saharan Africa	Eastern Africa	0
+SA	Saudi Arabia	ISO 3166-2:SA	Asia	Western Asia	NULL	1
+SB	Solomon Islands	ISO 3166-2:SB	Oceania	Melanesia	NULL	0
+SC	Seychelles	ISO 3166-2:SC	Africa	Sub-Saharan Africa	Eastern Africa	0
+SD	Sudan	ISO 3166-2:SD	Africa	Northern Africa	NULL	0
+SE	Sweden	ISO 3166-2:SE	Europe	Northern Europe	NULL	1
+SG	Singapore	ISO 3166-2:SG	Asia	South-eastern Asia	NULL	1
+SH	Saint Helena, Ascension and Tristan da Cunha	ISO 3166-2:SH	Africa	Sub-Saharan Africa	Western Africa	0
+SI	Slovenia	ISO 3166-2:SI	Europe	Southern Europe	NULL	1
+SJ	Svalbard and Jan Mayen	ISO 3166-2:SJ	Europe	Northern Europe	NULL	0
+SK	Slovakia	ISO 3166-2:SK	Europe	Eastern Europe	NULL	1
+SL	Sierra Leone	ISO 3166-2:SL	Africa	Sub-Saharan Africa	Western Africa	0
+SM	San Marino	ISO 3166-2:SM	Europe	Southern Europe	NULL	0
+SN	Senegal	ISO 3166-2:SN	Africa	Sub-Saharan Africa	Western Africa	0
+SO	Somalia	ISO 3166-2:SO	Africa	Sub-Saharan Africa	Eastern Africa	0
+SR	Suriname	ISO 3166-2:SR	Americas	Latin America and the Caribbean	South America	0
+SS	South Sudan	ISO 3166-2:SS	Africa	Sub-Saharan Africa	Eastern Africa	0
+ST	Sao Tome and Principe	ISO 3166-2:ST	Africa	Sub-Saharan Africa	Middle Africa	0
+SV	El Salvador	ISO 3166-2:SV	Americas	Latin America and the Caribbean	Central America	1
+SX	Sint Maarten (Dutch part)	ISO 3166-2:SX	Americas	Latin America and the Caribbean	Caribbean	1
+SY	Syrian Arab Republic	ISO 3166-2:SY	Asia	Western Asia	NULL	0
+SZ	Eswatini	ISO 3166-2:SZ	Africa	Sub-Saharan Africa	Southern Africa	0
+TC	Turks and Caicos Islands	ISO 3166-2:TC	Americas	Latin America and the Caribbean	Caribbean	0
+TD	Chad	ISO 3166-2:TD	Africa	Sub-Saharan Africa	Middle Africa	0
+TF	French Southern Territories	ISO 3166-2:TF	Africa	Sub-Saharan Africa	Eastern Africa	0
+TG	Togo	ISO 3166-2:TG	Africa	Sub-Saharan Africa	Western Africa	0
+TH	Thailand	ISO 3166-2:TH	Asia	South-eastern Asia	NULL	1
+TJ	Tajikistan	ISO 3166-2:TJ	Asia	Central Asia	NULL	0
+TK	Tokelau	ISO 3166-2:TK	Oceania	Polynesia	NULL	0
+TL	Timor-Leste	ISO 3166-2:TL	Asia	South-eastern Asia	NULL	1
+TM	Turkmenistan	ISO 3166-2:TM	Asia	Central Asia	NULL	0
+TN	Tunisia	ISO 3166-2:TN	Africa	Northern Africa	NULL	1
+TO	Tonga	ISO 3166-2:TO	Oceania	Polynesia	NULL	1
+TR	Turkey	ISO 3166-2:TR	Asia	Western Asia	NULL	1
+TT	Trinidad and Tobago	ISO 3166-2:TT	Americas	Latin America and the Caribbean	Caribbean	1
+TV	Tuvalu	ISO 3166-2:TV	Oceania	Polynesia	NULL	0
+TW	Taiwan, Province of China	ISO 3166-2:TW	Asia	Eastern Asia	NULL	1
+TZ	Tanzania, United Republic of	ISO 3166-2:TZ	Africa	Sub-Saharan Africa	Eastern Africa	0
+UA	Ukraine	ISO 3166-2:UA	Europe	Eastern Europe	NULL	1
+UG	Uganda	ISO 3166-2:UG	Africa	Sub-Saharan Africa	Eastern Africa	0
+UM	United States Minor Outlying Islands	ISO 3166-2:UM	Oceania	Micronesia	NULL	0
+US	United States of America	ISO 3166-2:US	Americas	Northern America	NULL	1
+UY	Uruguay	ISO 3166-2:UY	Americas	Latin America and the Caribbean	South America	1
+UZ	Uzbekistan	ISO 3166-2:UZ	Asia	Central Asia	NULL	0
+VA	Holy See	ISO 3166-2:VA	Europe	Southern Europe	NULL	0
+VC	Saint Vincent and the Grenadines	ISO 3166-2:VC	Americas	Latin America and the Caribbean	Caribbean	0
+VE	Venezuela (Bolivarian Republic of)	ISO 3166-2:VE	Americas	Latin America and the Caribbean	South America	1
+VG	Virgin Islands (British)	ISO 3166-2:VG	Americas	Latin America and the Caribbean	Caribbean	0
+VI	Virgin Islands (U.S.)	ISO 3166-2:VI	Americas	Latin America and the Caribbean	Caribbean	0
+VN	Viet Nam	ISO 3166-2:VN	Asia	South-eastern Asia	NULL	0
+VU	Vanuatu	ISO 3166-2:VU	Oceania	Melanesia	NULL	1
+WF	Wallis and Futuna	ISO 3166-2:WF	Oceania	Polynesia	NULL	1
+WS	Samoa	ISO 3166-2:WS	Oceania	Polynesia	NULL	1
+YE	Yemen	ISO 3166-2:YE	Asia	Western Asia	NULL	0
+YT	Mayotte	ISO 3166-2:YT	Africa	Sub-Saharan Africa	Eastern Africa	0
+ZA	South Africa	ISO 3166-2:ZA	Africa	Sub-Saharan Africa	Southern Africa	1
+ZM	Zambia	ISO 3166-2:ZM	Africa	Sub-Saharan Africa	Eastern Africa	0
+ZW	Zimbabwe	ISO 3166-2:ZW	Africa	Sub-Saharan Africa	Eastern Africa	0

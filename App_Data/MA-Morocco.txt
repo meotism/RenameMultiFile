@@ -1,0 +1,1898 @@
+MA	22652	Bni Ayat	Beni Mellal Khenifra	BK	Azilal	AZ	Afourar Cercle		
+MA	22052	Afourar	Beni Mellal Khenifra	BK	Azilal	AZ	Afourar Cercle		
+MA	22072	Ait Ouaarda	Beni Mellal Khenifra	BK	Azilal	AZ	Afourar Cercle		
+MA	22702	Timoulilt	Beni Mellal Khenifra	BK	Azilal	AZ	Afourar Cercle		
+MA	22472	Abachkou	Beni Mellal Khenifra	BK	Azilal	AZ	Azilal Cercle		
+MA	22013	Agoudi N'Lkhair	Beni Mellal Khenifra	BK	Azilal	AZ	Azilal Cercle		
+MA	22006	Ait Abbas	Beni Mellal Khenifra	BK	Azilal	AZ	Azilal Cercle		
+MA	22012	Ait Bou Oulli	Beni Mellal Khenifra	BK	Azilal	AZ	Azilal Cercle		
+MA	22152	Ait M'Hamed	Beni Mellal Khenifra	BK	Azilal	AZ	Azilal Cercle		
+MA	22000	Azilal	Beni Mellal Khenifra	BK	Azilal	AZ	Azilal Cercle		
+MA	22172	Igmir	Beni Mellal Khenifra	BK	Azilal	AZ	Azilal Cercle		
+MA	22452	Tabant	Beni Mellal Khenifra	BK	Azilal	AZ	Azilal Cercle		
+MA	22014	Tamda Noumercid	Beni Mellal Khenifra	BK	Azilal	AZ	Azilal Cercle		
+MA	22002	Zaouia Ahensal	Beni Mellal Khenifra	BK	Azilal	AZ	Azilal Cercle		
+MA	22572	Aït Taguella	Beni Mellal Khenifra	BK	Azilal	AZ	Bzou Cercle		
+MA	22372	Bni Hassane	Beni Mellal Khenifra	BK	Azilal	AZ	Bzou Cercle		
+MA	22250	Bzou	Beni Mellal Khenifra	BK	Azilal	AZ	Bzou Cercle		
+MA	22353	Foum Jemaa	Beni Mellal Khenifra	BK	Azilal	AZ	Bzou Cercle		
+MA	22274	Rfala	Beni Mellal Khenifra	BK	Azilal	AZ	Bzou Cercle		
+MA	22373	Tabia	Beni Mellal Khenifra	BK	Azilal	AZ	Bzou Cercle		
+MA	22122	Taounza	Beni Mellal Khenifra	BK	Azilal	AZ	Bzou Cercle		
+MA	22102	Ait Attab	Beni Mellal Khenifra	BK	Azilal	AZ	Bzou Cercle		
+MA	22252	Moulay Aissa Ben Driss	Beni Mellal Khenifra	BK	Azilal	AZ	Bzou Cercle		
+MA	22576	Ouzoud	Beni Mellal Khenifra	BK	Azilal	AZ	Bzou Cercle		
+MA	22552	Tanant	Beni Mellal Khenifra	BK	Azilal	AZ	Bzou Cercle		
+MA	22352	Tislit	Beni Mellal Khenifra	BK	Azilal	AZ	Bzou Cercle		
+MA	22253	Tisqi	Beni Mellal Khenifra	BK	Azilal	AZ	Bzou Cercle		
+MA	22323	Aït Tamlil	Beni Mellal Khenifra	BK	Azilal	AZ	Fetouqka Cercle		
+MA	22324	Anzou	Beni Mellal Khenifra	BK	Azilal	AZ	Fetouqka Cercle		
+MA	22325	Tidili Fetouaka	Beni Mellal Khenifra	BK	Azilal	AZ	Fetouqka Cercle		
+MA	22304	Ait Oumdis	Beni Mellal Khenifra	BK	Azilal	AZ	Fetouqka Cercle		
+MA	22312	Sidi Yacoub	Beni Mellal Khenifra	BK	Azilal	AZ	Fetouqka Cercle		
+MA	22622	Anergui	Beni Mellal Khenifra	BK	Azilal	AZ	Ouaouizeght Cercle		
+MA	22602	Tilougguite	Beni Mellal Khenifra	BK	Azilal	AZ	Ouaouizeght Cercle		
+MA	22403	Ait Mazigh	Beni Mellal Khenifra	BK	Azilal	AZ	Ouaouizeght Cercle		
+MA	22202	Bin El Ouidane	Beni Mellal Khenifra	BK	Azilal	AZ	Ouaouizeght Cercle		
+MA	22406	Isseksi	Beni Mellal Khenifra	BK	Azilal	AZ	Ouaouizeght Cercle		
+MA	22402	Ouaouizeght	Beni Mellal Khenifra	BK	Azilal	AZ	Ouaouizeght Cercle		
+MA	22405	Tabaroucht	Beni Mellal Khenifra	BK	Azilal	AZ	Ouaouizeght Cercle		
+MA	22502	Tagleft	Beni Mellal Khenifra	BK	Azilal	AZ	Ouaouizeght Cercle		
+MA	22404	Tiffert N'Ait Hamza	Beni Mellal Khenifra	BK	Azilal	AZ	Ouaouizeght Cercle		
+MA	22322	Aït Blal	Beni Mellal Khenifra	BK	Azilal	AZ	Oultana Cercle		
+MA	22326	Tifni	Beni Mellal Khenifra	BK	Azilal	AZ	Oultana Cercle		
+MA	22303	Ait Majden	Beni Mellal Khenifra	BK	Azilal	AZ	Oultana Cercle		
+MA	22300	Demnate	Beni Mellal Khenifra	BK	Azilal	AZ	Oultana Cercle		
+MA	22305	Imlil	Beni Mellal Khenifra	BK	Azilal	AZ	Oultana Cercle		
+MA	22306	Sidi Boulkhalf	Beni Mellal Khenifra	BK	Azilal	AZ	Oultana Cercle		
+MA	23052	Aghbala	Beni Mellal Khenifra	BK	Beni Mellal	BM	Aghbala Cercle		
+MA	23072	Boutferda	Beni Mellal Khenifra	BK	Beni Mellal	BM	Aghbala Cercle		
+MA	23073	Tizi N'Isly	Beni Mellal Khenifra	BK	Beni Mellal	BM	Aghbala Cercle		
+MA	23006	Foum Oudi	Beni Mellal Khenifra	BK	Beni Mellal	BM	Beni Mellal Cercle		
+MA	23602	Sidi Jaber	Beni Mellal Khenifra	BK	Beni Mellal	BM	Beni Mellal Cercle		
+MA	23999	Beni Mellal	Beni Mellal Khenifra	BK	Beni Mellal	BM	Beni Mellal Cercle		
+MA	23252	Foum El Anceur	Beni Mellal Khenifra	BK	Beni Mellal	BM	Beni Mellal Cercle		
+MA	23156	Ouled Gnaou	Beni Mellal Khenifra	BK	Beni Mellal	BM	Beni Mellal Cercle		
+MA	23452	Ouled M'Barek	Beni Mellal Khenifra	BK	Beni Mellal	BM	Beni Mellal Cercle		
+MA	23502	Ouled Yaich	Beni Mellal Khenifra	BK	Beni Mellal	BM	Beni Mellal Cercle		
+MA	23652	Taghzirt	Beni Mellal Khenifra	BK	Beni Mellal	BM	El Ksiba Cercle		
+MA	23154	Ait Oum El Bekht	Beni Mellal Khenifra	BK	Beni Mellal	BM	El Ksiba Cercle		
+MA	23150	El Ksiba	Beni Mellal Khenifra	BK	Beni Mellal	BM	El Ksiba Cercle		
+MA	23672	Feryata	Beni Mellal Khenifra	BK	Beni Mellal	BM	El Ksiba Cercle		
+MA	23155	Naour	Beni Mellal Khenifra	BK	Beni Mellal	BM	El Ksiba Cercle		
+MA	23674	Tanougha	Beni Mellal Khenifra	BK	Beni Mellal	BM	El Ksiba Cercle		
+MA	23700	Zaouiat Cheikh	Beni Mellal Khenifra	BK	Beni Mellal	BM	El Ksiba Cercle		
+MA	23372	Guettaya	Beni Mellal Khenifra	BK	Beni Mellal	BM	Kasba Tadla Cercle		
+MA	23374	Ouled Youssef	Beni Mellal Khenifra	BK	Beni Mellal	BM	Kasba Tadla Cercle		
+MA	23375	Semguet	Beni Mellal Khenifra	BK	Beni Mellal	BM	Kasba Tadla Cercle		
+MA	23350	Kasba Tadla	Beni Mellal Khenifra	BK	Beni Mellal	BM	Kasba Tadla Cercle		
+MA	23575	Ouled Zmam	Beni Mellal Khenifra	BK	Fquih Ben Salah	BS	Bni Moussa Charquia Cercle		
+MA	23573	Ouled Bourahmoune	Beni Mellal Khenifra	BK	Fquih Ben Salah	BS	Bni Moussa Charquia Cercle		
+MA	23232	Sidi Hammadi	Beni Mellal Khenifra	BK	Fquih Ben Salah	BS	Bni Moussa Charquia Cercle		
+MA	23005	Bni Oukil	Beni Mellal Khenifra	BK	Fquih Ben Salah	BS	Fqih Ben Salah Cercle		
+MA	23206	Al Khalfia	Beni Mellal Khenifra	BK	Fquih Ben Salah	BS	Fqih Ben Salah Cercle		
+MA	23302	Had Bradia	Beni Mellal Khenifra	BK	Fquih Ben Salah	BS	Fqih Ben Salah Cercle		
+MA	23223	Hel Merbaa	Beni Mellal Khenifra	BK	Fquih Ben Salah	BS	Fqih Ben Salah Cercle		
+MA	23222	Krifate	Beni Mellal Khenifra	BK	Fquih Ben Salah	BS	Fqih Ben Salah Cercle		
+MA	23226	Ouled Abdellah	Beni Mellal Khenifra	BK	Fquih Ben Salah	BS	Fqih Ben Salah Cercle		
+MA	23200	Fquih Ben Salah	Beni Mellal Khenifra	BK	Fquih Ben Salah	BS	Fquih Ben Salah Pachalik		
+MA	23102	Dar Ould Zidouh	Beni Mellal Khenifra	BK	Fquih Ben Salah	BS	Oulad Ayad		
+MA	23122	Had Boumoussa	Beni Mellal Khenifra	BK	Fquih Ben Salah	BS	Oulad Ayad		
+MA	23102	Dar Ould Zidouh	Beni Mellal Khenifra	BK	Fquih Ben Salah	BS	Oulad Ayad		Pachalik
+MA	23122	Had Boumoussa	Beni Mellal Khenifra	BK	Fquih Ben Salah	BS	Oulad Ayad		Pachalik
+MA	23400	Ouled Ayad	Beni Mellal Khenifra	BK	Fquih Ben Salah	BS	Oulad Ayad		Pachalik
+MA	23550	Souk Sebt Ouled Nemma	Beni Mellal Khenifra	BK	Fquih Ben Salah	BS	Souk Sebt Pachalik		
+MA	54452	El Hammam	Beni Mellal Khenifra	BK	Khenifra	KH	Aguelmous Cercle		
+MA	54403	Moulay Bouazza	Beni Mellal Khenifra	BK	Khenifra	KH	Aguelmous Cercle		
+MA	54473	Oum Rabia	Beni Mellal Khenifra	BK	Khenifra	KH	Aguelmous Cercle		
+MA	54052	Aguelmous	Beni Mellal Khenifra	BK	Khenifra	KH	Aguelmous Cercle		
+MA	54450	Mrirt	Beni Mellal Khenifra	BK	Khenifra	KH	Aguelmous Cercle		
+MA	54423	Sebt Ait Rahou	Beni Mellal Khenifra	BK	Khenifra	KH	Aguelmous Cercle		
+MA	54016	Sidi Hcine	Beni Mellal Khenifra	BK	Khenifra	KH	Aguelmous Cercle		
+MA	54302	Kerrouchen	Beni Mellal Khenifra	BK	Khenifra	KH	El Kbab Cercle		
+MA	54102	Ouaoumana	Beni Mellal Khenifra	BK	Khenifra	KH	El Kbab Cercle		
+MA	54202	Sidi Yahya ou Saad	Beni Mellal Khenifra	BK	Khenifra	KH	El Kbab Cercle		
+MA	54103	Ait Ishak	Beni Mellal Khenifra	BK	Khenifra	KH	El Kbab Cercle		
+MA	54203	El Kbab	Beni Mellal Khenifra	BK	Khenifra	KH	El Kbab Cercle		
+MA	54003	Tighassaline	Beni Mellal Khenifra	BK	Khenifra	KH	El Kbab Cercle		
+MA	54013	Aguelmam Azegza	Beni Mellal Khenifra	BK	Khenifra	KH	Khenifra Cercle		
+MA	54032	El Borj	Beni Mellal Khenifra	BK	Khenifra	KH	Khenifra Cercle		
+MA	54022	El Hri	Beni Mellal Khenifra	BK	Khenifra	KH	Khenifra Cercle		
+MA	54002	Kaf Nsour	Beni Mellal Khenifra	BK	Khenifra	KH	Khenifra Cercle		
+MA	54999	Khenifra	Beni Mellal Khenifra	BK	Khenifra	KH	Khenifra Cercle		
+MA	54014	Moha Ou Hammou Zayani	Beni Mellal Khenifra	BK	Khenifra	KH	Khenifra Cercle		
+MA	54015	Sidi Amar	Beni Mellal Khenifra	BK	Khenifra	KH	Khenifra Cercle		
+MA	54025	Sidi Lamine	Beni Mellal Khenifra	BK	Khenifra	KH	Khenifra Cercle		
+MA	25072	Boukhrisse	Beni Mellal Khenifra	BK	Khouribga	KH	Bejaad Cercle		
+MA	25073	Oulad Gouaouch	Beni Mellal Khenifra	BK	Khouribga	KH	Bejaad Cercle		
+MA	25522	Rouached	Beni Mellal Khenifra	BK	Khouribga	KH	Bejaad Cercle		
+MA	25472	Ain Kaicher	Beni Mellal Khenifra	BK	Khouribga	KH	Bejaad Cercle		
+MA	25060	Bejaad	Beni Mellal Khenifra	BK	Khouribga	KH	Bejaad Cercle		
+MA	25502	Chougrane	Beni Mellal Khenifra	BK	Khouribga	KH	Bejaad Cercle		
+MA	25452	Tachraft	Beni Mellal Khenifra	BK	Khouribga	KH	Bejaad Cercle		
+MA	25373	Bir Mezoui	Beni Mellal Khenifra	BK	Khouribga	KH	Khouribga Cercle		
+MA	25323	Oulad Azzouz	Beni Mellal Khenifra	BK	Khouribga	KH	Khouribga Cercle		
+MA	25100	Boujniba	Beni Mellal Khenifra	BK	Khouribga	KH	Khouribga Cercle		
+MA	25152	Bulanouare	Beni Mellal Khenifra	BK	Khouribga	KH	Khouribga Cercle		
+MA	25022	El Foqra	Beni Mellal Khenifra	BK	Khouribga	KH	Khouribga Cercle		
+MA	25300	Hattane	Beni Mellal Khenifra	BK	Khouribga	KH	Khouribga Cercle		
+MA	25999	Khouribga	Beni Mellal Khenifra	BK	Khouribga	KH	Khouribga Cercle		
+MA	25322	M'Fassis	Beni Mellal Khenifra	BK	Khouribga	KH	Khouribga Cercle		
+MA	25023	Oulad Abdoune	Beni Mellal Khenifra	BK	Khouribga	KH	Khouribga Cercle		
+MA	25422	Aït Ammar	Beni Mellal Khenifra	BK	Khouribga	KH	Oued Zem Cercle		
+MA	25374	Bni Smir	Beni Mellal Khenifra	BK	Khouribga	KH	Oued Zem Cercle		
+MA	25376	Kasbat Troch	Beni Mellal Khenifra	BK	Khouribga	KH	Oued Zem Cercle		
+MA	25382	Oulad Fennane	Beni Mellal Khenifra	BK	Khouribga	KH	Oued Zem Cercle		
+MA	25423	Oulad Ftata	Beni Mellal Khenifra	BK	Khouribga	KH	Oued Zem Cercle		
+MA	25350	Oued Zem	Beni Mellal Khenifra	BK	Khouribga	KH	Oued Zem Cercle		
+MA	25402	Oulad Boughadi	Beni Mellal Khenifra	BK	Khouribga	KH	Oued Zem Cercle		
+MA	13322	Ahlaf	Casablanca Settat	CS	Benslimane	BS	Benslimane Cercle		
+MA	13003	Fdalate	Casablanca Settat	CS	Benslimane	BS	Benslimane Cercle		
+MA	13202	Mellila	Casablanca Settat	CS	Benslimane	BS	Benslimane Cercle		
+MA	13026	Ziaida	Casablanca Settat	CS	Benslimane	BS	Benslimane Cercle		
+MA	13016	Ain Tizgha	Casablanca Settat	CS	Benslimane	BS	Benslimane Cercle		
+MA	13000	Benslimane	Casablanca Settat	CS	Benslimane	BS	Benslimane Cercle		
+MA	13013	Moualine El Ghaba	Casablanca Settat	CS	Benslimane	BS	Benslimane Cercle		
+MA	13033	Moualine El Oued	Casablanca Settat	CS	Benslimane	BS	Benslimane Cercle		
+MA	13014	Oulad Ali Toualaa	Casablanca Settat	CS	Benslimane	BS	Benslimane Cercle		
+MA	13012	Oulad Yahya Louta	Casablanca Settat	CS	Benslimane	BS	Benslimane Cercle		
+MA	13015	Rdadna Oulad Malek	Casablanca Settat	CS	Benslimane	BS	Benslimane Cercle		
+MA	13162	Sidi Bettache	Casablanca Settat	CS	Benslimane	BS	Bouznika Cercle		
+MA	13103	Bir Ennasr	Casablanca Settat	CS	Benslimane	BS	Bouznika Cercle		
+MA	13104	Charrate	Casablanca Settat	CS	Benslimane	BS	Bouznika Cercle		
+MA	13100	Bouznika	Casablanca Settat	CS	Benslimane	BS	Bouznika Pachalik		
+MA	13072	El Mansouria	Casablanca Settat	CS	Benslimane	BS	El Mansouria Pachalik		
+MA	26402	Had Soualem	Casablanca Settat	CS	Berrechid	BE	Berrechid Cercle		
+MA	26106	Lahsasna	Casablanca Settat	CS	Berrechid	BE	Berrechid Cercle		
+MA	26112	Lakhiaita	Casablanca Settat	CS	Berrechid	BE	Berrechid Cercle		
+MA	26450	Oulad Abbou	Casablanca Settat	CS	Berrechid	BE	Berrechid Cercle		
+MA	26113	Sidi Abdelkhaleq	Casablanca Settat	CS	Berrechid	BE	Berrechid Cercle		
+MA	26114	Sidi El Mekki	Casablanca Settat	CS	Berrechid	BE	Berrechid Cercle		
+MA	26115	Soualem Trifiya	Casablanca Settat	CS	Berrechid	BE	Berrechid Cercle		
+MA	26100	Berrechid	Casablanca Settat	CS	Berrechid	BE	Berrechid Pachalik		
+MA	26202	Deroua	Casablanca Settat	CS	Berrechid	BE	Deroua Pachalik		
+MA	26303	Foqra Oulad Aameur	Casablanca Settat	CS	Berrechid	BE	El Gara Cercle		
+MA	26304	Jaqma	Casablanca Settat	CS	Berrechid	BE	El Gara Cercle		
+MA	26305	Kasbat Ben Mchich	Casablanca Settat	CS	Berrechid	BE	El Gara Cercle		
+MA	26306	Lambarkiyine	Casablanca Settat	CS	Berrechid	BE	El Gara Cercle		
+MA	26422	Oulad Ziyane	Casablanca Settat	CS	Berrechid	BE	El Gara Cercle		
+MA	26116	Ouled Cebbah	Casablanca Settat	CS	Berrechid	BE	El Gara Cercle		
+MA	26122	Riah	Casablanca Settat	CS	Berrechid	BE	El Gara Cercle		
+MA	26300	El Gara	Casablanca Settat	CS	Berrechid	BE	El Gara Pachalik		
+MA	20000	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20192	Sidi Maarouf	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	27222	Ben Abid	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	29640	Tit Mellil	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20000	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20192	Sidi Maarouf	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	27222	Ben Abid	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	29640	Tit Mellil	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20460	Addamane	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20260	Agence Urbaine	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20620	Ahl Loghlam	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20320	Ain Borja	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20540	Ain Chifa II et III	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20470	Ain Chok	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20180	Ain Diab	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20590	Ain Sebaa	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20270	Aladarissa	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20600	Al Amal	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20620	Al Azhar	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20370	Al Baida	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20480	Al Fadl	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20220	Al Firdous	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20570	Al Fouarate	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20280	Alhnaa	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20480	Al Idaa	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20640	Al Kaoutar	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20570	Al Kodia	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20170	Allée Abdellah Ben Hadj	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20170	Allée Abou Abdellah Ben Haj	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20170	Allée Abricotiers	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20170	Allée Abricoutiers	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20360	Allée Aigle	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20170	Allée Alesiers	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20250	Allée Allaimoune	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20580	Allée Aloues	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20170	Allée Amandiers	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20420	Allée Amazones	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20410	Allée Amour	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20420	Allée Amphale	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20360	Allée Andromede	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20180	Allée Arancarias	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20420	Allée Ariane	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20360	Allée Aude	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20170	Allée Aulnes	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20150	Allée Azziza	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20580	Allée Bambous	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20170	Allée Baobas	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20580	Allée Bougainviliers	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20580	Allée Bougainvilliers	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20580	Allée Buis	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20170	Allée Buttes	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20590	Allée Cactus	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20420	Allée Calypso	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20150	Allée Caroline	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20360	Allée Cassiopee	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20580	Allée Casuarinas	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20170	Allée Cedres	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20580	Allée Cerisiers	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	24150	Bir Jdid	Casablanca Settat	CS	El Jadida	EJ	Azemmour Cercle		
+MA	24104	Laghdira	Casablanca Settat	CS	El Jadida	EJ	Azemmour Cercle		
+MA	24105	Lamharza Essahel	Casablanca Settat	CS	El Jadida	EJ	Azemmour Cercle		
+MA	24112	Sidi Ali Ben Hamdouche	Casablanca Settat	CS	El Jadida	EJ	Azemmour Cercle		
+MA	24100	Azemmour	Casablanca Settat	CS	El Jadida	EJ	Azemmour Pachalik		
+MA	24032	Sidi Abed	Casablanca Settat	CS	El Jadida	EJ	El Jadida Cercle		
+MA	24003	My Abdellah	Casablanca Settat	CS	El Jadida	EJ	El Jadida Cercle		
+MA	24022	Oulad Aissa	Casablanca Settat	CS	El Jadida	EJ	El Jadida Cercle		
+MA	24272	Oulad Rhanem	Casablanca Settat	CS	El Jadida	EJ	El Jadida Cercle		
+MA	24005	Sidi Bouzid	Casablanca Settat	CS	El Jadida	EJ	El Jadida Cercle		
+MA	24034	Sidi M'Hamed Akhdim	Casablanca Settat	CS	El Jadida	EJ	El Jadida Cercle		
+MA	24999	El Jadida	Casablanca Settat	CS	El Jadida	EJ	El Jadida Pachalik		
+MA	24123	Haouzia	Casablanca Settat	CS	El Jadida	EJ	Haouzia Cercle		
+MA	24106	Oulad Rahmoune	Casablanca Settat	CS	El Jadida	EJ	Haouzia Cercle		
+MA	24323	Oulad Hamdane	Casablanca Settat	CS	El Jadida	EJ	Sidi Smail Cercle		
+MA	24324	Oulad Sidi Ali Ben Youssef	Casablanca Settat	CS	El Jadida	EJ	Sidi Smail Cercle		
+MA	24302	Ouled Frej	Casablanca Settat	CS	El Jadida	EJ	Sidi Smail Cercle		
+MA	24422	Sebt Saiss	Casablanca Settat	CS	El Jadida	EJ	Sidi Smail Cercle		
+MA	24402	Sidi Smail	Casablanca Settat	CS	El Jadida	EJ	Sidi Smail Cercle		
+MA	24122	Boucedra	Casablanca Settat	CS	El Jadida	EJ	Sidi Smail Cercle		
+MA	41222	Boulaouane	Casablanca Settat	CS	El Jadida	EJ	Sidi Smail Cercle		
+MA	24403	Chaibate	Casablanca Settat	CS	El Jadida	EJ	Sidi Smail Cercle		
+MA	24404	Mogress	Casablanca Settat	CS	El Jadida	EJ	Sidi Smail Cercle		
+MA	24405	Si Hsaien Ben Abderrahmane	Casablanca Settat	CS	El Jadida	EJ	Sidi Smail Cercle		
+MA	24074	Tleta Boulaouane	Casablanca Settat	CS	El Jadida	EJ	Sidi Smail Cercle		
+MA	24406	Zaouiat Lakouacem	Casablanca Settat	CS	El Jadida	EJ	Sidi Smail Cercle		
+MA	24412	Zaouiat Saiss	Casablanca Settat	CS	El Jadida	EJ	Sidi Smail Cercle		
+MA	29004	Lahraouyine	Casablanca Settat	CS	Mediouna	ME	Lahraouyine Pachalik		
+MA	29643	Al Majjatia Oulad Taleb	Casablanca Settat	CS	Mediouna	ME	Tit Mellil Cercle		
+MA	29490	Mediouna	Casablanca Settat	CS	Mediouna	ME	Tit Mellil Cercle		
+MA	29640	Tit Mellil	Casablanca Settat	CS	Mediouna	ME	Tit Mellil Pachalik		
+MA	28630	Ain Harrouda	Casablanca Settat	CS	Mohammedia	MH	Ain Harrouda Pachalik		
+MA	28999	Mohammadia	Casablanca Settat	CS	Mohammedia	MH	Mohammedia Pachalik		
+MA	28814	Sidi Moussa Ben Ali	Casablanca Settat	CS	Mohammedia	MH	Znata Cercle		
+MA	28815	Bni Yakhlef	Casablanca Settat	CS	Mohammedia	MH	Znata Cercle		
+MA	28822	Ech-challalate	Casablanca Settat	CS	Mohammedia	MH	Znata Cercle		
+MA	28823	Sidi Moussa Majdoub	Casablanca Settat	CS	Mohammedia	MH	Znata Cercle		
+MA	34124	Oulad Salah	Casablanca Settat	CS	Nouaceur	NC	Bouskoura Cercle		
+MA	27182	Bouskoura	Casablanca Settat	CS	Nouaceur	NC	Bouskoura Pachalik		
+MA	27223	Dar Bouazza	Casablanca Settat	CS	Nouaceur	NC	Dar Bouazza Pachalik		
+MA	27000	Nouaceur	Casablanca Settat	CS	Nouaceur	NC	Nouaceur Pachalik		
+MA	26572	Oued Naanaa	Casablanca Settat	CS	Settat	SE	Ben Ahmed Cercle		
+MA	26074	Sidi Dahbi	Casablanca Settat	CS	Settat	SE	Ben Ahmed Cercle		
+MA	26602	Sidi Hajjaj	Casablanca Settat	CS	Settat	SE	Ben Ahmed Cercle		
+MA	26053	Ain Dorbane-Lahlaf	Casablanca Settat	CS	Settat	SE	Ben Ahmed Cercle		
+MA	26050	Ben Ahmed	Casablanca Settat	CS	Settat	SE	Ben Ahmed Cercle		
+MA	26054	Bouguargouh	Casablanca Settat	CS	Settat	SE	Ben Ahmed Cercle		
+MA	26055	Lahlaf Mzab	Casablanca Settat	CS	Settat	SE	Ben Ahmed Cercle		
+MA	26056	Lakhzazra	Casablanca Settat	CS	Settat	SE	Ben Ahmed Cercle		
+MA	26072	M'Garto	Casablanca Settat	CS	Settat	SE	Ben Ahmed Cercle		
+MA	26062	Mniaa	Casablanca Settat	CS	Settat	SE	Ben Ahmed Cercle		
+MA	26622	Mrizigue	Casablanca Settat	CS	Settat	SE	Ben Ahmed Cercle		
+MA	26722	N'Khila	Casablanca Settat	CS	Settat	SE	Ben Ahmed Cercle		
+MA	26063	Oulad Chbana	Casablanca Settat	CS	Settat	SE	Ben Ahmed Cercle		
+MA	26073	Oulad M'Hamed	Casablanca Settat	CS	Settat	SE	Ben Ahmed Cercle		
+MA	26064	Sgamna	Casablanca Settat	CS	Settat	SE	Ben Ahmed Cercle		
+MA	26065	Sidi Abdelkrim	Casablanca Settat	CS	Settat	SE	Ben Ahmed Cercle		
+MA	26700	Tleta Loulad	Casablanca Settat	CS	Settat	SE	Ben Ahmed Cercle		
+MA	26152	Bni Khloug	Casablanca Settat	CS	Settat	SE	El Borouj Cercle		
+MA	26172	Dar Chaffai	Casablanca Settat	CS	Settat	SE	El Borouj Cercle		
+MA	26174	Sidi Ahmed El Khadir	Casablanca Settat	CS	Settat	SE	El Borouj Cercle		
+MA	26250	El Borouj	Casablanca Settat	CS	Settat	SE	El Borouj Cercle		
+MA	26273	Krakra	Casablanca Settat	CS	Settat	SE	El Borouj Cercle		
+MA	26703	Meskoura	Casablanca Settat	CS	Settat	SE	El Borouj Cercle		
+MA	26682	Oulad Amera	Casablanca Settat	CS	Settat	SE	El Borouj Cercle		
+MA	26704	Sidi Boumehdi	Casablanca Settat	CS	Settat	SE	El Borouj Cercle		
+MA	26352	Guisser	Casablanca Settat	CS	Settat	SE	Settat Cercle		
+MA	26502	Oulad Said	Casablanca Settat	CS	Settat	SE	Settat Cercle		
+MA	26372	Rima	Casablanca Settat	CS	Settat	SE	Settat Cercle		
+MA	26026	Sidi El Aidi	Casablanca Settat	CS	Settat	SE	Settat Cercle		
+MA	26022	Ain Nzarh	Casablanca Settat	CS	Settat	SE	Settat Cercle		
+MA	26014	Bni Yagrine	Casablanca Settat	CS	Settat	SE	Settat Cercle		
+MA	26023	Had Mzoura	Casablanca Settat	CS	Settat	SE	Settat Cercle		
+MA	26015	Khemisset Chaouia	Casablanca Settat	CS	Settat	SE	Settat Cercle		
+MA	26016	Lahouaza	Casablanca Settat	CS	Settat	SE	Settat Cercle		
+MA	26673	Machraa Ben Abbou	Casablanca Settat	CS	Settat	SE	Settat Cercle		
+MA	26066	Mzamza Janoubia	Casablanca Settat	CS	Settat	SE	Settat Cercle		
+MA	26025	Oulad Aafif	Casablanca Settat	CS	Settat	SE	Settat Cercle		
+MA	33272	Oulad Sghir	Casablanca Settat	CS	Settat	SE	Settat Cercle		
+MA	26999	Settat	Casablanca Settat	CS	Settat	SE	Settat Cercle		
+MA	26033	Sidi Mohammed Ben Rahal	Casablanca Settat	CS	Settat	SE	Settat Cercle		
+MA	26034	Tamadroust	Casablanca Settat	CS	Settat	SE	Settat Cercle		
+MA	26675	Tnine Toualet	Casablanca Settat	CS	Settat	SE	Settat Cercle		
+MA	24052	Arbaa Aounate	Casablanca Settat	CS	Sidi Bennour	BE	Sidi Bennour Cercle		
+MA	24355	Bni Tsiriss	Casablanca Settat	CS	Sidi Bennour	BE	Sidi Bennour Cercle		
+MA	24362	Bouhmame	Casablanca Settat	CS	Sidi Bennour	BE	Sidi Bennour Cercle		
+MA	24363	Jabria	Casablanca Settat	CS	Sidi Bennour	BE	Sidi Bennour Cercle		
+MA	24364	Koudiat Bni Dghough	Casablanca Settat	CS	Sidi Bennour	BE	Sidi Bennour Cercle		
+MA	24026	Kridid	Casablanca Settat	CS	Sidi Bennour	BE	Sidi Bennour Cercle		
+MA	24365	Laatatra	Casablanca Settat	CS	Sidi Bennour	BE	Sidi Bennour Cercle		
+MA	24372	M'Tal	Casablanca Settat	CS	Sidi Bennour	BE	Sidi Bennour Cercle		
+MA	24366	Oulad Boussaken	Casablanca Settat	CS	Sidi Bennour	BE	Sidi Bennour Cercle		
+MA	24374	Oulad Si Bouhya	Casablanca Settat	CS	Sidi Bennour	BE	Sidi Bennour Cercle		
+MA	24350	Sidi Bennour	Casablanca Settat	CS	Sidi Bennour	BE	Sidi Bennour Cercle		
+MA	24375	Tamda	Casablanca Settat	CS	Sidi Bennour	BE	Sidi Bennour Cercle		
+MA	24222	Laaouissate	Casablanca Settat	CS	Sidi Bennour	BE	Zemamra Cercle		
+MA	24203	Laghnadra	Casablanca Settat	CS	Sidi Bennour	BE	Zemamra Cercle		
+MA	24252	Oualidia	Casablanca Settat	CS	Sidi Bennour	BE	Zemamra Cercle		
+MA	24225	Oulad Ben Chaoui	Casablanca Settat	CS	Sidi Bennour	BE	Zemamra Cercle		
+MA	24204	Oulad Sbaita	Casablanca Settat	CS	Sidi Bennour	BE	Zemamra Cercle		
+MA	74002	Aousserd	Dakhla Oued Ed Dahab	OL	Aousserd	AO	Aousserd Cercle		
+MA	74003	Aghouinite	Dakhla Oued Ed Dahab	OL	Aousserd	AO	Aousserd Cercle		
+MA	74006	Tichla	Dakhla Oued Ed Dahab	OL	Aousserd	AO	Aousserd Cercle		
+MA	74012	Zoug	Dakhla Oued Ed Dahab	OL	Aousserd	AO	Aousserd Cercle		
+MA	74004	Bir Gandouz	Dakhla Oued Ed Dahab	OL	Aousserd	AO	Bir Gandouz Cercle		
+MA	73016	Bir Anzarane	Dakhla Oued Ed Dahab	OL	Oued Ed Dahab	OE	Bir Anzarane Cercle		
+MA	73006	Gleibat El Foula	Dakhla Oued Ed Dahab	OL	Oued Ed Dahab	OE	Bir Anzarane Cercle		
+MA	73012	Mijik	Dakhla Oued Ed Dahab	OL	Oued Ed Dahab	OE	Bir Anzarane Cercle		
+MA	73013	Oum Dreyga	Dakhla Oued Ed Dahab	OL	Oued Ed Dahab	OE	Bir Anzarane Cercle		
+MA	73000	Dakhla	Dakhla Oued Ed Dahab	OL	Oued Ed Dahab	OE	Dakhla Pachalik		
+MA	73014	El Argoub	Dakhla Oued Ed Dahab	OL	Oued Ed Dahab	OE	El Argoub Cercle		
+MA	73015	Imlili	Dakhla Oued Ed Dahab	OL	Oued Ed Dahab	OE	El Argoub Cercle		
+MA	52204	Aarab Sebbah Gheris	Draa Tafilalet	DT	Errachidia	ER	Arfoud Cercle		
+MA	52200	Arfoud	Draa Tafilalet	DT	Errachidia	ER	Arfoud Cercle		
+MA	52372	Fezna	Draa Tafilalet	DT	Errachidia	ER	Arfoud Cercle		
+MA	52350	Jorf	Draa Tafilalet	DT	Errachidia	ER	Arfoud Cercle		
+MA	52053	Aoufous	Draa Tafilalet	DT	Errachidia	ER	Errachidia Cercle		
+MA	52150	Boudnib	Draa Tafilalet	DT	Errachidia	ER	Errachidia Cercle		
+MA	52023	Chorfa M'Daghra	Draa Tafilalet	DT	Errachidia	ER	Errachidia Cercle		
+MA	52072	Douira	Draa Tafilalet	DT	Errachidia	ER	Errachidia Cercle		
+MA	52000	Errachidia	Draa Tafilalet	DT	Errachidia	ER	Errachidia Cercle		
+MA	52016	Er-rteb	Draa Tafilalet	DT	Errachidia	ER	Errachidia Cercle		
+MA	52172	Ksar Sahli	Draa Tafilalet	DT	Errachidia	ER	Errachidia Cercle		
+MA	52025	Meski	Draa Tafilalet	DT	Errachidia	ER	Errachidia Cercle		
+MA	52014	Oued Naam	Draa Tafilalet	DT	Errachidia	ER	Errachidia Cercle		
+MA	52073	Oulad Chaker	Draa Tafilalet	DT	Errachidia	ER	Errachidia Cercle		
+MA	52052	Zrigate	Draa Tafilalet	DT	Errachidia	ER	Errachidia Cercle		
+MA	52472	Bni M'Hamed-Sijelmassa	Draa Tafilalet	DT	Errachidia	ER	Er Rissani Cercle		
+MA	52202	Merzouga	Draa Tafilalet	DT	Errachidia	ER	Er Rissani Cercle		
+MA	52450	Rissani	Draa Tafilalet	DT	Errachidia	ER	Er Rissani Cercle		
+MA	92023	Sidi Ali	Draa Tafilalet	DT	Errachidia	ER	Er Rissani Cercle		
+MA	52224	Taouz	Draa Tafilalet	DT	Errachidia	ER	Er Rissani Cercle		
+MA	52406	Ait Yahya	Draa Tafilalet	DT	Errachidia	ER	Goulmima Cercle		
+MA	52272	Amellagou	Draa Tafilalet	DT	Errachidia	ER	Goulmima Cercle		
+MA	52622	Arhbalou Nkerdouss	Draa Tafilalet	DT	Errachidia	ER	Goulmima Cercle		
+MA	52254	Ferkla El Oulia	Draa Tafilalet	DT	Errachidia	ER	Goulmima Cercle		
+MA	52255	Ferkla Es-soufla	Draa Tafilalet	DT	Errachidia	ER	Goulmima Cercle		
+MA	52256	Gheris El Ouloui	Draa Tafilalet	DT	Errachidia	ER	Goulmima Cercle		
+MA	52262	Gheris Es-soufli	Draa Tafilalet	DT	Errachidia	ER	Goulmima Cercle		
+MA	52250	Goulmima	Draa Tafilalet	DT	Errachidia	ER	Goulmima Cercle		
+MA	52602	Melaab	Draa Tafilalet	DT	Errachidia	ER	Goulmima Cercle		
+MA	52502	Tadighoust	Draa Tafilalet	DT	Errachidia	ER	Goulmima Cercle		
+MA	52252	Tilouine	Draa Tafilalet	DT	Errachidia	ER	Goulmima Cercle		
+MA	52600	Tinejdad	Draa Tafilalet	DT	Errachidia	ER	Goulmima Cercle		
+MA	54524	Anemzi	Draa Tafilalet	DT	Midelt	MI	Boumia Cercle		
+MA	54502	Tounfite	Draa Tafilalet	DT	Midelt	MI	Boumia Cercle		
+MA	42472	Aghbalou	Draa Tafilalet	DT	Midelt	MI	Boumia Cercle		
+MA	54522	Agoudim	Draa Tafilalet	DT	Midelt	MI	Boumia Cercle		
+MA	54154	Boumia	Draa Tafilalet	DT	Midelt	MI	Boumia Cercle		
+MA	54366	Tanourdi	Draa Tafilalet	DT	Midelt	MI	Boumia Cercle		
+MA	52400	Errich	Draa Tafilalet	DT	Midelt	MI	Er Rich Cercle		
+MA	52302	Gourrama	Draa Tafilalet	DT	Midelt	MI	Er Rich Cercle		
+MA	52405	Guir	Draa Tafilalet	DT	Midelt	MI	Er Rich Cercle		
+MA	52434	Sidi Aayad	Draa Tafilalet	DT	Midelt	MI	Er Rich Cercle		
+MA	52422	Amouguer	Draa Tafilalet	DT	Midelt	MI	Imilchil Cercle		
+MA	52433	Bou Azmou	Draa Tafilalet	DT	Midelt	MI	Imilchil Cercle		
+MA	52403	Imilchil	Draa Tafilalet	DT	Midelt	MI	Imilchil Cercle		
+MA	52432	Outerbat	Draa Tafilalet	DT	Midelt	MI	Imilchil Cercle		
+MA	54252	Itzer	Draa Tafilalet	DT	Midelt	MI	Midelt Cercle		
+MA	54375	Zaida	Draa Tafilalet	DT	Midelt	MI	Midelt Cercle		
+MA	54363	Ait Ayach	Draa Tafilalet	DT	Midelt	MI	Midelt Cercle		
+MA	54364	Ait Ben Yacoub	Draa Tafilalet	DT	Midelt	MI	Midelt Cercle		
+MA	54272	Ait Oufella	Draa Tafilalet	DT	Midelt	MI	Midelt Cercle		
+MA	54365	Amersid	Draa Tafilalet	DT	Midelt	MI	Midelt Cercle		
+MA	54373	Mibladen	Draa Tafilalet	DT	Midelt	MI	Midelt Cercle		
+MA	54350	Midelt	Draa Tafilalet	DT	Midelt	MI	Midelt Cercle		
+MA	45102	Amerzgane	Draa Tafilalet	DT	Ouarzazate	OU	Amerzgane Cercle		
+MA	45775	Khouzama	Draa Tafilalet	DT	Ouarzazate	OU	Amerzgane Cercle		
+MA	45122	Ait Ben Haddou	Draa Tafilalet	DT	Ouarzazate	OU	Amerzgane Cercle		
+MA	45103	Ait Zineb	Draa Tafilalet	DT	Ouarzazate	OU	Amerzgane Cercle		
+MA	45104	Aznaguen	Draa Tafilalet	DT	Ouarzazate	OU	Amerzgane Cercle		
+MA	45774	Bouazzer	Draa Tafilalet	DT	Ouarzazate	OU	Amerzgane Cercle		
+MA	45105	Ouisselsate	Draa Tafilalet	DT	Ouarzazate	OU	Amerzgane Cercle		
+MA	45106	Siroua	Draa Tafilalet	DT	Ouarzazate	OU	Amerzgane Cercle		
+MA	45023	Tabourahte	Draa Tafilalet	DT	Ouarzazate	OU	Amerzgane Cercle		
+MA	45124	Tamdakhte	Draa Tafilalet	DT	Ouarzazate	OU	Amerzgane Cercle		
+MA	45750	Taznakht	Draa Tafilalet	DT	Ouarzazate	OU	Amerzgane Cercle		
+MA	45522	Idelsane	Draa Tafilalet	DT	Ouarzazate	OU	Ouarzazate Cercle		
+MA	45852	Toundoute	Draa Tafilalet	DT	Ouarzazate	OU	Ouarzazate Cercle		
+MA	45022	Ghassate	Draa Tafilalet	DT	Ouarzazate	OU	Ouarzazate Cercle		
+MA	45523	Imassine	Draa Tafilalet	DT	Ouarzazate	OU	Ouarzazate Cercle		
+MA	45872	Imi Noulaouen	Draa Tafilalet	DT	Ouarzazate	OU	Ouarzazate Cercle		
+MA	45000	Ouarzazate	Draa Tafilalet	DT	Ouarzazate	OU	Ouarzazate Cercle		
+MA	45502	Skoura Ahl El Oust	Draa Tafilalet	DT	Ouarzazate	OU	Ouarzazate Cercle		
+MA	52452	Alnif	Draa Tafilalet	DT	Tinghir	TG	Alnif Cercle		
+MA	52474	M'Ssici	Draa Tafilalet	DT	Tinghir	TG	Alnif Cercle		
+MA	52122	Ait Hani	Draa Tafilalet	DT	Tinghir	TG	Assoul Cercle		
+MA	52102	Assoul	Draa Tafilalet	DT	Tinghir	TG	Assoul Cercle		
+MA	45223	Aït Sedrate Sahl Charkia	Draa Tafilalet	DT	Tinghir	TG	Boumalne Dades Cercle		
+MA	45173	Aït Youl	Draa Tafilalet	DT	Tinghir	TG	Boumalne Dades Cercle		
+MA	45452	M'semrir	Draa Tafilalet	DT	Tinghir	TG	Boumalne Dades Cercle		
+MA	45473	Tilmi	Draa Tafilalet	DT	Tinghir	TG	Boumalne Dades Cercle		
+MA	45153	Ait Ouassif	Draa Tafilalet	DT	Tinghir	TG	Boumalne Dades Cercle		
+MA	45174	Ait Sedrate JbelEl Oulia	Draa Tafilalet	DT	Tinghir	TG	Boumalne Dades Cercle		
+MA	45155	Ait Sedrate Sahl El Gharbia	Draa Tafilalet	DT	Tinghir	TG	Boumalne Dades Cercle		
+MA	45150	Boumalne Dades	Draa Tafilalet	DT	Tinghir	TG	Boumalne Dades Cercle		
+MA	45302	Ikniouen	Draa Tafilalet	DT	Tinghir	TG	Boumalne Dades Cercle		
+MA	45252	Talouet	Draa Tafilalet	DT	Tinghir	TG	Boumalne Dades Cercle		
+MA	45672	Aït El Farsi	Draa Tafilalet	DT	Tinghir	TG	Tinghir Cercle		
+MA	45822	Imider	Draa Tafilalet	DT	Tinghir	TG	Tinghir Cercle		
+MA	45823	Ouaklim	Draa Tafilalet	DT	Tinghir	TG	Tinghir Cercle		
+MA	45824	Toudgha El Oulia	Draa Tafilalet	DT	Tinghir	TG	Tinghir Cercle		
+MA	45800	Tinghir	Draa Tafilalet	DT	Tinghir	TG	Tinghir Pachalik		
+MA	47076	Afra	Draa Tafilalet	DT	Zagora	ZA	Agdz Cercle		
+MA	47723	Aït Ouallal	Draa Tafilalet	DT	Zagora	ZA	Agdz Cercle		
+MA	47073	Tamezmoute	Draa Tafilalet	DT	Zagora	ZA	Agdz Cercle		
+MA	47053	Afella N'Dra	Draa Tafilalet	DT	Zagora	ZA	Agdz Cercle		
+MA	47050	Agdz	Draa Tafilalet	DT	Zagora	ZA	Agdz Cercle		
+MA	47054	Ait Boudaoud	Draa Tafilalet	DT	Zagora	ZA	Agdz Cercle		
+MA	47072	Ait Saoun	Draa Tafilalet	DT	Zagora	ZA	Agdz Cercle		
+MA	47055	Mezguita	Draa Tafilalet	DT	Zagora	ZA	Agdz Cercle		
+MA	47702	N'Kob	Draa Tafilalet	DT	Zagora	ZA	Agdz Cercle		
+MA	47056	Oulad Yahia Lagraire	Draa Tafilalet	DT	Zagora	ZA	Agdz Cercle		
+MA	47722	Taghbalte	Draa Tafilalet	DT	Zagora	ZA	Agdz Cercle		
+MA	47074	Tansifte	Draa Tafilalet	DT	Zagora	ZA	Agdz Cercle		
+MA	47703	Tazarine	Draa Tafilalet	DT	Zagora	ZA	Agdz Cercle		
+MA	47926	Bleida	Draa Tafilalet	DT	Zagora	ZA	Tinzouline Cercle		
+MA	47922	Bni Zoli	Draa Tafilalet	DT	Zagora	ZA	Tinzouline Cercle		
+MA	47925	Bouzeroual	Draa Tafilalet	DT	Zagora	ZA	Tinzouline Cercle		
+MA	47724	Taftechna	Draa Tafilalet	DT	Zagora	ZA	Tinzouline Cercle		
+MA	47923	Ternata	Draa Tafilalet	DT	Zagora	ZA	Tinzouline Cercle		
+MA	47924	Tinzouline	Draa Tafilalet	DT	Zagora	ZA	Tinzouline Cercle		
+MA	47903	Errouha	Draa Tafilalet	DT	Zagora	ZA	Tinzouline Cercle		
+MA	47622	Fezouata	Draa Tafilalet	DT	Zagora	ZA	Zagora Cercle		
+MA	47552	Tagounite	Draa Tafilalet	DT	Zagora	ZA	Zagora Cercle		
+MA	47602	Tamegroute	Draa Tafilalet	DT	Zagora	ZA	Zagora Cercle		
+MA	47572	El Blida	Draa Tafilalet	DT	Zagora	ZA	Zagora Cercle		
+MA	47904	Ktaoua	Draa Tafilalet	DT	Zagora	ZA	Zagora Cercle		
+MA	47402	M'Hamid El Ghizlane	Draa Tafilalet	DT	Zagora	ZA	Zagora Cercle		
+MA	47900	Zagora	Draa Tafilalet	DT	Zagora	ZA	Zagora Cercle		
+MA	47574	Zaouit Sidi Salah	Draa Tafilalet	DT	Zagora	ZA	Zagora Cercle		
+MA	33172	Aït Bazza	Fes Meknes	FK	Boulemane	BO	Boulemane Cercle		
+MA	33173	Aït El Mane	Fes Meknes	FK	Boulemane	BO	Boulemane Cercle		
+MA	33174	Almis Marmoucha	Fes Meknes	FK	Boulemane	BO	Boulemane Cercle		
+MA	33102	El Mers	Fes Meknes	FK	Boulemane	BO	Boulemane Cercle		
+MA	33002	Enjil	Fes Meknes	FK	Boulemane	BO	Boulemane Cercle		
+MA	33176	Talzemt	Fes Meknes	FK	Boulemane	BO	Boulemane Cercle		
+MA	33022	Achlouj	Fes Meknes	FK	Boulemane	BO	Boulemane Cercle		
+MA	33052	Ait Hamza	Fes Meknes	FK	Boulemane	BO	Boulemane Cercle		
+MA	33000	Boulemane	Fes Meknes	FK	Boulemane	BO	Boulemane Cercle		
+MA	33023	Enjil Ait Lahcen	Fes Meknes	FK	Boulemane	BO	Boulemane Cercle		
+MA	33024	Ifkirne	Fes Meknes	FK	Boulemane	BO	Boulemane Cercle		
+MA	33152	Imouzzer Marmoucha	Fes Meknes	FK	Boulemane	BO	Boulemane Cercle		
+MA	33005	Serghina	Fes Meknes	FK	Boulemane	BO	Boulemane Cercle		
+MA	33012	Skoura M'Daz	Fes Meknes	FK	Boulemane	BO	Boulemane Cercle		
+MA	33372	Taghroute	Fes Meknes	FK	Boulemane	BO	Boulemane Cercle		
+MA	33273	Ouizeght	Fes Meknes	FK	Boulemane	BO	Missour Cercle		
+MA	33202	Ksabi	Fes Meknes	FK	Boulemane	BO	Missour Cercle		
+MA	33254	Ksabi Moulouya	Fes Meknes	FK	Boulemane	BO	Missour Cercle		
+MA	33250	Missour	Fes Meknes	FK	Boulemane	BO	Missour Cercle		
+MA	33255	Sidi Boutayeb	Fes Meknes	FK	Boulemane	BO	Missour Cercle		
+MA	33324	El Orjane	Fes Meknes	FK	Boulemane	BO	Outat El Haj Cercle		
+MA	33322	Fritissa	Fes Meknes	FK	Boulemane	BO	Outat El Haj Cercle		
+MA	33323	Tissaf	Fes Meknes	FK	Boulemane	BO	Outat El Haj Cercle		
+MA	33006	Ermila	Fes Meknes	FK	Boulemane	BO	Outat El Haj Cercle		
+MA	33013	Oulad Ali Youssef	Fes Meknes	FK	Boulemane	BO	Outat El Haj Cercle		
+MA	33300	Outat El Haj	Fes Meknes	FK	Boulemane	BO	Outat El Haj Cercle		
+MA	33303	Tindit	Fes Meknes	FK	Boulemane	BO	Outat El Haj Cercle		
+MA	51025	Aït Yaazem	Fes Meknes	FK	El Hajeb	EH	Agourai Cercle		
+MA	51054	Ait Ouikhalfen	Fes Meknes	FK	El Hajeb	EH	Agourai Cercle		
+MA	51052	Sebt Jehjouh	Fes Meknes	FK	El Hajeb	EH	Agourai Cercle		
+MA	51055	Tamchachate	Fes Meknes	FK	El Hajeb	EH	Agourai Cercle		
+MA	51050	Agourai	Fes Meknes	FK	El Hajeb	EH	Agourai Pachalik		
+MA	51124	Laqsir	Fes Meknes	FK	El Hajeb	EH	Ain Taoujdate Cercle		
+MA	51100	Ain Taoujdate	Fes Meknes	FK	El Hajeb	EH	Ain Taoujdate Cercle		
+MA	51103	Ait Boubidmane	Fes Meknes	FK	El Hajeb	EH	Ain Taoujdate Cercle		
+MA	51104	Ait Harz Allah	Fes Meknes	FK	El Hajeb	EH	Ain Taoujdate Cercle		
+MA	51123	Bitit	Fes Meknes	FK	El Hajeb	EH	Ain Taoujdate Cercle		
+MA	51026	Bouderbala	Fes Meknes	FK	El Hajeb	EH	Ain Taoujdate Cercle		
+MA	51005	Ait Bourzouine	Fes Meknes	FK	El Hajeb	EH	El Hajeb Cercle		
+MA	51006	Ait Naamane	Fes Meknes	FK	El Hajeb	EH	El Hajeb Cercle		
+MA	51000	El Hajeb	Fes Meknes	FK	El Hajeb	EH	El Hajeb Cercle		
+MA	51012	Iqaddar	Fes Meknes	FK	El Hajeb	EH	El Hajeb Cercle		
+MA	51150	Sabaa Aiyoun	Fes Meknes	FK	El Hajeb	EH	Sabaa Aiyoun Pachalik		
+MA	30205	Sidi Harazem	Fes Meknes	FK	Fes	FS	Fes Banlieue Cercle		
+MA	30045	Ain Bida	Fes Meknes	FK	Fes	FS	Fes Banlieue Cercle		
+MA	30023	Oulad Tayeb	Fes Meknes	FK	Fes	FS	Fes Banlieue Cercle		
+MA	30999	Fes	Fes Meknes	FK	Fes	FS	Fes Pachalik		
+MA	53052	Ain Leuh	Fes Meknes	FK	Ifrane	IF	Azrou Cercle		
+MA	53123	Ben Smim	Fes Meknes	FK	Ifrane	IF	Azrou Cercle		
+MA	53104	Timahdite	Fes Meknes	FK	Ifrane	IF	Azrou Cercle		
+MA	53122	Ait Yahia Ou Alla	Fes Meknes	FK	Ifrane	IF	Azrou Cercle		
+MA	53100	Azrou	Fes Meknes	FK	Ifrane	IF	Azrou Cercle		
+MA	53102	Sidi Addi	Fes Meknes	FK	Ifrane	IF	Azrou Cercle		
+MA	53113	Tigrigra	Fes Meknes	FK	Ifrane	IF	Azrou Cercle		
+MA	53024	Zaouia Ait Sidi Abdesslam	Fes Meknes	FK	Ifrane	IF	Azrou Cercle		
+MA	53000	Ifrane	Fes Meknes	FK	Ifrane	IF	Ifrane Pachalik		
+MA	53023	Dayat Aoua	Fes Meknes	FK	Ifrane	IF	MA032381 Cercle		
+MA	53004	Tizguite	Fes Meknes	FK	Ifrane	IF	MA032381 Cercle		
+MA	50052	Ain Jemaa	Fes Meknes	FK	Meknes	ME	Ain Orma Cercle		
+MA	50023	Ain Karma- Oued Rommane	Fes Meknes	FK	Meknes	ME	Ain Orma Cercle		
+MA	50022	Ain Orma	Fes Meknes	FK	Meknes	ME	Ain Orma Cercle		
+MA	50026	Ait Ouallal	Fes Meknes	FK	Meknes	ME	Ain Orma Cercle		
+MA	50063	Dar Oum Soltane	Fes Meknes	FK	Meknes	ME	Ain Orma Cercle		
+MA	50025	Oued Rommane	Fes Meknes	FK	Meknes	ME	Ain Orma Cercle		
+MA	50062	Al Machouar - Stinia	Fes Meknes	FK	Meknes	ME	Al Machouar Stinia Pachalik		
+MA	50300	Boufakrane	Fes Meknes	FK	Meknes	ME	Bou Fekrane Pachalik		
+MA	50064	Dkhissa	Fes Meknes	FK	Meknes	ME	Meknes Banlieue Cercle		
+MA	50999	Meknès	Fes Meknes	FK	Meknes	ME	Meknes Pachalik		
+MA	50045	Ouislane	Fes Meknes	FK	Meknes	ME	Ouislane Pachalik		
+MA	50110	Toulal	Fes Meknes	FK	Meknes	ME	Toulal Pachalik		
+MA	50354	Charqaoua	Fes Meknes	FK	Meknes	ME	Zerhoun Cercle		
+MA	50373	Kermat Ben Salem	Fes Meknes	FK	Meknes	ME	Zerhoun Cercle		
+MA	50374	Moussaoua	Fes Meknes	FK	Meknes	ME	Zerhoun Cercle		
+MA	50375	MRhassiyine	Fes Meknes	FK	Meknes	ME	Zerhoun Cercle		
+MA	50352	N'zalat Bni Amar	Fes Meknes	FK	Meknes	ME	Zerhoun Cercle		
+MA	50356	Sidi Abdallah Al Khayat	Fes Meknes	FK	Meknes	ME	Zerhoun Cercle		
+MA	50376	Sidi Ali Benhamdouche	Fes Meknes	FK	Meknes	ME	Zerhoun Cercle		
+MA	36122	Ain Chkef	Fes Meknes	FK	Moulay Yaacoub	ZM	Moulay Yacoub Cercle		
+MA	36125	Mikkes	Fes Meknes	FK	Moulay Yaacoub	ZM	Moulay Yacoub Cercle		
+MA	36104	Sebaa Rouadi	Fes Meknes	FK	Moulay Yaacoub	ZM	Moulay Yacoub Cercle		
+MA	36150	Moulay Yaâcoub	Fes Meknes	FK	Moulay Yaacoub	ZM	Moulay Yacoub Cercle		
+MA	36155	Sebt Loudaya	Fes Meknes	FK	Moulay Yaacoub	ZM	Moulay Yacoub Cercle		
+MA	36124	Laajajra	Fes Meknes	FK	Moulay Yaacoub	ZM	Oulad Jemaa Lemta Cercle		
+MA	36172	Sidi Daoud	Fes Meknes	FK	Moulay Yaacoub	ZM	Oulad Jemaa Lemta Cercle		
+MA	36156	Ain Bou Ali	Fes Meknes	FK	Moulay Yaacoub	ZM	Oulad Jemaa Lemta Cercle		
+MA	36222	Ain Kansra	Fes Meknes	FK	Moulay Yaacoub	ZM	Oulad Jemaa Lemta Cercle		
+MA	36162	Louadaine	Fes Meknes	FK	Moulay Yaacoub	ZM	Oulad Jemaa Lemta Cercle		
+MA	31026	Dar El Hamra	Fes Meknes	FK	Sefrou	SE	El Menzel Cercle		
+MA	31302	Ras Tabouda	Fes Meknes	FK	Sefrou	SE	El Menzel Cercle		
+MA	31032	Tafajight	Fes Meknes	FK	Sefrou	SE	El Menzel Cercle		
+MA	31003	Adrej	Fes Meknes	FK	Sefrou	SE	El Menzel Cercle		
+MA	31204	Ain Timguenai	Fes Meknes	FK	Sefrou	SE	El Menzel Cercle		
+MA	31152	Bir Tam Tam	Fes Meknes	FK	Sefrou	SE	El Menzel Cercle		
+MA	31200	El Menzel	Fes Meknes	FK	Sefrou	SE	El Menzel Cercle		
+MA	31372	Ighezren	Fes Meknes	FK	Sefrou	SE	El Menzel Cercle		
+MA	31205	Ighzrane	Fes Meknes	FK	Sefrou	SE	El Menzel Cercle		
+MA	31222	Mtarnagha	Fes Meknes	FK	Sefrou	SE	El Menzel Cercle		
+MA	31202	Oulad Mkoudou	Fes Meknes	FK	Sefrou	SE	El Menzel Cercle		
+MA	31350	Ribate El Kheir	Fes Meknes	FK	Sefrou	SE	El Menzel Cercle		
+MA	31223	Zaouia Bougrine	Fes Meknes	FK	Sefrou	SE	El Menzel Cercle		
+MA	31052	Ain Cheggag	Fes Meknes	FK	Sefrou	SE	Imouzzer Kandar Cercle		
+MA	31272	Ait Sebaa Lajrouf	Fes Meknes	FK	Sefrou	SE	Imouzzer Kandar Cercle		
+MA	31250	Imouzzer Kandar	Fes Meknes	FK	Sefrou	SE	Imouzzer Kandar Cercle		
+MA	31002	Azzaba	Fes Meknes	FK	Sefrou	SE	Sefrou Cercle		
+MA	31004	Tazouta	Fes Meknes	FK	Sefrou	SE	Sefrou Cercle		
+MA	31100	Bhalil	Fes Meknes	FK	Sefrou	SE	Sefrou Cercle		
+MA	31014	Kandar Sidi Khiar	Fes Meknes	FK	Sefrou	SE	Sefrou Cercle		
+MA	31015	Laanoussar	Fes Meknes	FK	Sefrou	SE	Sefrou Cercle		
+MA	31000	Sefrou	Fes Meknes	FK	Sefrou	SE	Sefrou Cercle		
+MA	31024	Sidi Youssef Ben Ahmed	Fes Meknes	FK	Sefrou	SE	Sefrou Cercle		
+MA	34024	Galaz	Fes Meknes	FK	Taounate	TN	Ghafsai Cercle		
+MA	34014	Tabouda	Fes Meknes	FK	Taounate	TN	Ghafsai Cercle		
+MA	34042	Timezgana	Fes Meknes	FK	Taounate	TN	Ghafsai Cercle		
+MA	34100	Ghafsai	Fes Meknes	FK	Taounate	TN	Ghafsai Cercle		
+MA	34104	Kissane	Fes Meknes	FK	Taounate	TN	Ghafsai Cercle		
+MA	34044	Ouartzagh	Fes Meknes	FK	Taounate	TN	Ghafsai Cercle		
+MA	34105	Oudka	Fes Meknes	FK	Taounate	TN	Ghafsai Cercle		
+MA	34102	Ratba	Fes Meknes	FK	Taounate	TN	Ghafsai Cercle		
+MA	34133	Sidi Haj M'hamed	Fes Meknes	FK	Taounate	TN	Ghafsai Cercle		
+MA	34036	Sidi Mokhfi	Fes Meknes	FK	Taounate	TN	Ghafsai Cercle		
+MA	34106	Sidi YahyaBni Zeroual	Fes Meknes	FK	Taounate	TN	Ghafsai Cercle		
+MA	34013	Tafrant	Fes Meknes	FK	Taounate	TN	Ghafsai Cercle		
+MA	34072	Bouchabel	Fes Meknes	FK	Taounate	TN	Karia Ba Mohamed Cercle		
+MA	34073	Jbabra	Fes Meknes	FK	Taounate	TN	Karia Ba Mohamed Cercle		
+MA	34074	Loulja	Fes Meknes	FK	Taounate	TN	Karia Ba Mohamed Cercle		
+MA	34083	Moulay Abdelkrim	Fes Meknes	FK	Taounate	TN	Karia Ba Mohamed Cercle		
+MA	34033	Moulay Bouchta	Fes Meknes	FK	Taounate	TN	Karia Ba Mohamed Cercle		
+MA	34076	Rhouazi	Fes Meknes	FK	Taounate	TN	Karia Ba Mohamed Cercle		
+MA	34082	Sidi El Abed	Fes Meknes	FK	Taounate	TN	Karia Ba Mohamed Cercle		
+MA	34053	Bni Snous	Fes Meknes	FK	Taounate	TN	Karia Ba Mohamed Cercle		
+MA	34050	Karia Ba Mohamed	Fes Meknes	FK	Taounate	TN	Karia Ba Mohamed Cercle		
+MA	34075	Mkansa	Fes Meknes	FK	Taounate	TN	Karia Ba Mohamed Cercle		
+MA	34003	Ain Mediouna	Fes Meknes	FK	Taounate	TN	Taounate Cercle		
+MA	34004	Bni Oulid	Fes Meknes	FK	Taounate	TN	Taounate Cercle		
+MA	34006	Bouhouda	Fes Meknes	FK	Taounate	TN	Taounate Cercle		
+MA	34002	Khlalfa	Fes Meknes	FK	Taounate	TN	Taounate Cercle		
+MA	34025	Mezraoua	Fes Meknes	FK	Taounate	TN	Taounate Cercle		
+MA	34026	Rghioua	Fes Meknes	FK	Taounate	TN	Taounate Cercle		
+MA	34173	Tamedit	Fes Meknes	FK	Taounate	TN	Taounate Cercle		
+MA	34043	Zrizer	Fes Meknes	FK	Taounate	TN	Taounate Cercle		
+MA	34172	Beni Ounjil Tafraoute	Fes Meknes	FK	Taounate	TN	Taounate Cercle		
+MA	34055	Bouadel	Fes Meknes	FK	Taounate	TN	Taounate Cercle		
+MA	34045	Fennassa Bab El Hit	Fes Meknes	FK	Taounate	TN	Taounate Cercle		
+MA	34000	Taounate	Fes Meknes	FK	Taounate	TN	Taounate Pachalik		
+MA	34252	Ain Aicha	Fes Meknes	FK	Taounate	TN	Tissa Cercle		
+MA	34272	Ain Maatouf	Fes Meknes	FK	Taounate	TN	Tissa Cercle		
+MA	34224	Messassa	Fes Meknes	FK	Taounate	TN	Tissa Cercle		
+MA	34225	Oued Jemaa	Fes Meknes	FK	Taounate	TN	Tissa Cercle		
+MA	35224	Oulad Ayyad	Fes Meknes	FK	Taounate	TN	Tissa Cercle		
+MA	34273	Oulad Daoud	Fes Meknes	FK	Taounate	TN	Tissa Cercle		
+MA	34232	Ras El Oued	Fes Meknes	FK	Taounate	TN	Tissa Cercle		
+MA	34222	Ain Legdah	Fes Meknes	FK	Taounate	TN	Tissa Cercle		
+MA	34012	Bouarouss	Fes Meknes	FK	Taounate	TN	Tissa Cercle		
+MA	34223	El Bsabsa	Fes Meknes	FK	Taounate	TN	Tissa Cercle		
+MA	34226	Outabouabane	Fes Meknes	FK	Taounate	TN	Tissa Cercle		
+MA	34233	Sidi M'HamedBen Lahcen	Fes Meknes	FK	Taounate	TN	Tissa Cercle		
+MA	34200	Tissa	Fes Meknes	FK	Taounate	TN	Tissa Cercle		
+MA	35052	Ajdir	Fes Meknes	FK	Taza	TZ	Aknoul Cercle		
+MA	35072	Jbarna	Fes Meknes	FK	Taza	TZ	Aknoul Cercle		
+MA	35372	Sidi Ali Bourakba	Fes Meknes	FK	Taza	TZ	Aknoul Cercle		
+MA	35074	Ain El Hamra	Fes Meknes	FK	Taza	TZ	Aknoul Cercle		
+MA	35050	Aknoul	Fes Meknes	FK	Taza	TZ	Aknoul Cercle		
+MA	35053	Bourd	Fes Meknes	FK	Taza	TZ	Aknoul Cercle		
+MA	35073	Tighezratine	Fes Meknes	FK	Taza	TZ	Aknoul Cercle		
+MA	35352	Tizi Ouasli	Fes Meknes	FK	Taza	TZ	Aknoul Cercle		
+MA	35273	Bouchfaa	Fes Meknes	FK	Taza	TZ	Oued Amlil Cercle		
+MA	35274	Bouhlou	Fes Meknes	FK	Taza	TZ	Oued Amlil Cercle		
+MA	35042	Had Oulad Zbair	Fes Meknes	FK	Taza	TZ	Oued Amlil Cercle		
+MA	35250	Oued Amlil	Fes Meknes	FK	Taza	TZ	Oued Amlil Cercle		
+MA	35253	Rbaa El Fouki	Fes Meknes	FK	Taza	TZ	Oued Amlil Cercle		
+MA	35013	Sebt Bni Frassen	Fes Meknes	FK	Taza	TZ	Oued Amlil Cercle		
+MA	35203	Matmata	Fes Meknes	FK	Taza	TZ	Tahla Cercle		
+MA	35222	Ain Boumassay	Fes Meknes	FK	Taza	TZ	Tahla Cercle		
+MA	35303	Bouyablane	Fes Meknes	FK	Taza	TZ	Tahla Cercle		
+MA	35325	Smià	Fes Meknes	FK	Taza	TZ	Tahla Cercle		
+MA	35300	Tahla	Fes Meknes	FK	Taza	TZ	Tahla Cercle		
+MA	35225	Zaouia Sidi Abdejlil	Fes Meknes	FK	Taza	TZ	Tahla Cercle		
+MA	35402	Zrarda	Fes Meknes	FK	Taza	TZ	Tahla Cercle		
+MA	35003	Bab El Mrouj	Fes Meknes	FK	Taza	TZ	Tainaste Cercle		
+MA	35065	Brarha	Fes Meknes	FK	Taza	TZ	Tainaste Cercle		
+MA	35172	El Gouzate	Fes Meknes	FK	Taza	TZ	Tainaste Cercle		
+MA	35044	Kaf El Ghar	Fes Meknes	FK	Taza	TZ	Tainaste Cercle		
+MA	35014	Tainaste	Fes Meknes	FK	Taza	TZ	Tainaste Cercle		
+MA	35004	Bab Marzouka	Fes Meknes	FK	Taza	TZ	Taza Cercle		
+MA	35006	Meknassa Acharqia	Fes Meknes	FK	Taza	TZ	Taza Cercle		
+MA	35046	Oulad Chrif	Fes Meknes	FK	Taza	TZ	Taza Cercle		
+MA	35022	Bab Boudir	Fes Meknes	FK	Taza	TZ	Taza Cercle		
+MA	35005	Bni Lent	Fes Meknes	FK	Taza	TZ	Taza Cercle		
+MA	35025	Galdamane	Fes Meknes	FK	Taza	TZ	Taza Cercle		
+MA	35012	Maghraoua	Fes Meknes	FK	Taza	TZ	Taza Cercle		
+MA	35999	Taza	Fes Meknes	FK	Taza	TZ	Taza Cercle		
+MA	81212	Aouint Lahna	Guelmim Oued Noun	GN	Assa Zag	AZ	Assa Cercle		
+MA	81213	Aouint Yghomane	Guelmim Oued Noun	GN	Assa Zag	AZ	Assa Cercle		
+MA	81010	Assa	Guelmim Oued Noun	GN	Assa Zag	AZ	Assa Cercle		
+MA	81214	Touizgui	Guelmim Oued Noun	GN	Assa Zag	AZ	Assa Cercle		
+MA	81036	Al Mahbass	Guelmim Oued Noun	GN	Assa Zag	AZ	Zag Cercle		
+MA	81035	Labouirat	Guelmim Oued Noun	GN	Assa Zag	AZ	Zag Cercle		
+MA	81006	Zag	Guelmim Oued Noun	GN	Assa Zag	AZ	Zag Pachalik		
+MA	81052	Tagante	Guelmim Oued Noun	GN	Guelmim	GU	Bouizakarne Cercle		
+MA	81053	Timoulay	Guelmim Oued Noun	GN	Guelmim	GU	Bouizakarne Cercle		
+MA	81072	Ait Boufoulne	Guelmim Oued Noun	GN	Guelmim	GU	Bouizakarne Cercle		
+MA	81122	Amsra	Guelmim Oued Noun	GN	Guelmim	GU	Bouizakarne Cercle		
+MA	81016	Amtdi	Guelmim Oued Noun	GN	Guelmim	GU	Bouizakarne Cercle		
+MA	81050	Bouizakarne	Guelmim Oued Noun	GN	Guelmim	GU	Bouizakarne Cercle		
+MA	81102	Ifrane Atlas Saghir	Guelmim Oued Noun	GN	Guelmim	GU	Bouizakarne Cercle		
+MA	81152	Tarhjijt	Guelmim Oued Noun	GN	Guelmim	GU	Bouizakarne Cercle		
+MA	81172	Tnine Adai	Guelmim Oued Noun	GN	Guelmim	GU	Bouizakarne Cercle		
+MA	81003	Fask	Guelmim Oued Noun	GN	Guelmim	GU	Guelmim Cercle		
+MA	81046	Aferkat	Guelmim Oued Noun	GN	Guelmim	GU	Guelmim Cercle		
+MA	81026	Asrir	Guelmim Oued Noun	GN	Guelmim	GU	Guelmim Cercle		
+MA	81015	Tiglit	Guelmim Oued Noun	GN	Guelmim	GU	Guelmim Cercle		
+MA	81000	Guelmim	Guelmim Oued Noun	GN	Guelmim	GU	Guelmim Pachalik		
+MA	81034	Rass Oumlil	Guelmim Oued Noun	GN	Guelmim	GU	Laqsabi Cercle		
+MA	81032	Targa Wassay	Guelmim Oued Noun	GN	Guelmim	GU	Laqsabi Cercle		
+MA	81024	Abaynou	Guelmim Oued Noun	GN	Guelmim	GU	Laqsabi Cercle		
+MA	81013	Echatea El Abied	Guelmim Oued Noun	GN	Guelmim	GU	Laqsabi Cercle		
+MA	81042	Labyar	Guelmim Oued Noun	GN	Guelmim	GU	Laqsabi Cercle		
+MA	81014	Laqsabi Tagoust	Guelmim Oued Noun	GN	Guelmim	GU	Laqsabi Cercle		
+MA	81043	Taliouine Assaka	Guelmim Oued Noun	GN	Guelmim	GU	Laqsabi Cercle		
+MA	85522	Arbaa Ait Abdellah	Guelmim Oued Noun	GN	Sidi Ifni	IF	Ifni Cercle		
+MA	85302	Mesti	Guelmim Oued Noun	GN	Sidi Ifni	IF	Ifni Cercle		
+MA	85352	Mirleft	Guelmim Oued Noun	GN	Sidi Ifni	IF	Ifni Cercle		
+MA	85203	Sbouya	Guelmim Oued Noun	GN	Sidi Ifni	IF	Ifni Cercle		
+MA	85622	Tangarfa	Guelmim Oued Noun	GN	Sidi Ifni	IF	Ifni Cercle		
+MA	85602	Tnine Amellou	Guelmim Oued Noun	GN	Sidi Ifni	IF	Ifni Cercle		
+MA	85052	Aït Erkha	Guelmim Oued Noun	GN	Sidi Ifni	IF	Lakhsas Cercle		
+MA	85272	Anfeg	Guelmim Oued Noun	GN	Sidi Ifni	IF	Lakhsas Cercle		
+MA	85275	Boutrouch	Guelmim Oued Noun	GN	Sidi Ifni	IF	Lakhsas Cercle		
+MA	85274	Ibdar	Guelmim Oued Noun	GN	Sidi Ifni	IF	Lakhsas Cercle		
+MA	85273	Sebt Ennabour	Guelmim Oued Noun	GN	Sidi Ifni	IF	Lakhsas Cercle		
+MA	85072	Sidi Abdallah Ou Belaid	Guelmim Oued Noun	GN	Sidi Ifni	IF	Lakhsas Cercle		
+MA	85553	Sidi M'Bark	Guelmim Oued Noun	GN	Sidi Ifni	IF	Lakhsas Cercle		
+MA	85200	Sidi Ifni	Guelmim Oued Noun	GN	Sidi Ifni	IF	Sidi Ifni Pachalik		
+MA	82010	El Ouatia	Guelmim Oued Noun	GN	Tan Tan	TN	El Ouatia Pachalik		
+MA	82023	Msied	Guelmim Oued Noun	GN	Tan Tan	TN	Msied Cercle		
+MA	82014	Tilemzoun	Guelmim Oued Noun	GN	Tan Tan	TN	Msied Cercle		
+MA	82022	Abteh	Guelmim Oued Noun	GN	Tan Tan	TN	Tan Tan Cercle		
+MA	82012	Ben Khlil	Guelmim Oued Noun	GN	Tan Tan	TN	Tan Tan Cercle		
+MA	82013	Chbika	Guelmim Oued Noun	GN	Tan Tan	TN	Tan Tan Cercle		
+MA	82000	Tan Tan	Guelmim Oued Noun	GN	Tan Tan	TN	Tan Tan Pachalik		
+MA	71000	Boujdour	Laayoune Sakia El Hamra	LS	Boujdour	BO	Boujdour Pachalik		
+MA	71004	Gueltat Zemmour	Laayoune Sakia El Hamra	LS	Boujdour	BO	Jraifia Cercle		
+MA	71003	Jraifia	Laayoune Sakia El Hamra	LS	Boujdour	BO	Jraifia Cercle		
+MA	71005	Lamssid	Laayoune Sakia El Hamra	LS	Boujdour	BO	Jraifia Cercle		
+MA	72005	Amgala	Laayoune Sakia El Hamra	LS	Es Semara	ES	Es Semara Cercle		
+MA	72006	Haouza	Laayoune Sakia El Hamra	LS	Es Semara	ES	Es Semara Cercle		
+MA	72012	Jdiriya	Laayoune Sakia El Hamra	LS	Es Semara	ES	Es Semara Cercle		
+MA	72013	Sidi Ahmed Laaroussi	Laayoune Sakia El Hamra	LS	Es Semara	ES	Es Semara Cercle		
+MA	72000	Smara	Laayoune Sakia El Hamra	LS	Es Semara	ES	Es Semara Cercle		
+MA	72014	Tifariti	Laayoune Sakia El Hamra	LS	Es Semara	ES	Es Semara Cercle		
+MA	70022	Foum El Oued	Laayoune Sakia El Hamra	LS	Laayoune	LA	Laayoune Cercle		
+MA	70042	Boukraa	Laayoune Sakia El Hamra	LS	Laayoune	LA	Laayoune Cercle		
+MA	70023	Dcheira	Laayoune Sakia El Hamra	LS	Laayoune	LA	Laayoune Cercle		
+MA	70999	Laayoune	Laayoune Sakia El Hamra	LS	Laayoune	LA	Laayoune Cercle		
+MA	70072	Daoura	Laayoune Sakia El Hamra	LS	Tarfaya	TA	Daoura el Hagounia Cercle		
+MA	70073	Akhfennir	Laayoune Sakia El Hamra	LS	Tarfaya	TA	Tarfaya Cercle		
+MA	70055	Tah	Laayoune Sakia El Hamra	LS	Tarfaya	TA	Tarfaya Cercle		
+MA	70050	Tarfaya	Laayoune Sakia El Hamra	LS	Tarfaya	TA	Tarfaya Pachalik		
+MA	63303	Madagh	L'Oriental	OF	Berkane	BE	Ahfir Cercle		
+MA	63200	Ain Erreggada	L'Oriental	OF	Berkane	BE	Ahfir Cercle		
+MA	63072	Arhbal	L'Oriental	OF	Berkane	BE	Ahfir Cercle		
+MA	63053	Fezouane	L'Oriental	OF	Berkane	BE	Ahfir Cercle		
+MA	63054	Laatamna	L'Oriental	OF	Berkane	BE	Ahfir Cercle		
+MA	63324	Laatmna	L'Oriental	OF	Berkane	BE	Ahfir Cercle		
+MA	63050	Ahfir	L'Oriental	OF	Berkane	BE	Ahfir Pachalik		
+MA	63672	Rislane	L'Oriental	OF	Berkane	BE	Aklim Cercle		
+MA	63323	Zegzel	L'Oriental	OF	Berkane	BE	Aklim Cercle		
+MA	63250	Aklim	L'Oriental	OF	Berkane	BE	Aklim Cercle		
+MA	63254	Boughriba	L'Oriental	OF	Berkane	BE	Aklim Cercle		
+MA	63253	Chouihia	L'Oriental	OF	Berkane	BE	Aklim Cercle		
+MA	63652	Sidi Bouhria	L'Oriental	OF	Berkane	BE	Aklim Cercle		
+MA	63752	Tafoughalt	L'Oriental	OF	Berkane	BE	Aklim Cercle		
+MA	63399	Berkane	L'Oriental	OF	Berkane	BE	Berkane Pachalik		
+MA	63600	Saidia	L'Oriental	OF	Berkane	BE	Saidia  Pachalik		
+MA	63255	Sidi Slimane Echcharraa	L'Oriental	OF	Berkane	BE	Sidi Slimane Echcharaa Pachalik		
+MA	62202	Dar El Kebdani	L'Oriental	OF	Driouch	DR	Driouch Cercle		
+MA	62252	Ain Zohra	L'Oriental	OF	Driouch	DR	Driouch Cercle		
+MA	62255	Amejjaou	L'Oriental	OF	Driouch	DR	Driouch Cercle		
+MA	62253	Driouch	L'Oriental	OF	Driouch	DR	Driouch Cercle		
+MA	62263	Mtalssa	L'Oriental	OF	Driouch	DR	Driouch Cercle		
+MA	62272	Oulad Boubker	L'Oriental	OF	Driouch	DR	Driouch Cercle		
+MA	62502	Midar	L'Oriental	OF	Driouch	DR	Midar Pachalik		
+MA	62123	Talilit	L'Oriental	OF	Driouch	DR	Rif Cercle		
+MA	62256	Azlaf	L'Oriental	OF	Driouch	DR	Rif Cercle		
+MA	62044	Bni Marghnine	L'Oriental	OF	Driouch	DR	Rif Cercle		
+MA	62152	Boudinar	L'Oriental	OF	Driouch	DR	Rif Cercle		
+MA	62045	Iferni	L'Oriental	OF	Driouch	DR	Rif Cercle		
+MA	62452	M'Hajer	L'Oriental	OF	Driouch	DR	Rif Cercle		
+MA	62046	Ouardana	L'Oriental	OF	Driouch	DR	Rif Cercle		
+MA	62172	Oulad Amghar	L'Oriental	OF	Driouch	DR	Rif Cercle		
+MA	62402	Temsamane	L'Oriental	OF	Driouch	DR	Rif Cercle		
+MA	62053	Trougout	L'Oriental	OF	Driouch	DR	Rif Cercle		
+MA	62054	Tsaft	L'Oriental	OF	Driouch	DR	Rif Cercle		
+MA	61052	Ain Chouater	L'Oriental	OF	Figuig	FI	Bni Tadjite Cercle		
+MA	61152	Bouanane	L'Oriental	OF	Figuig	FI	Bni Tadjite Cercle		
+MA	61222	Ain Chair	L'Oriental	OF	Figuig	FI	Bni Tadjite Cercle		
+MA	61102	Bni Tadjite	L'Oriental	OF	Figuig	FI	Bni Tadjite Cercle		
+MA	61273	Boumerieme	L'Oriental	OF	Figuig	FI	Bni Tadjite Cercle		
+MA	61252	Talsint	L'Oriental	OF	Figuig	FI	Bni Tadjite Cercle		
+MA	61302	Tendrara	L'Oriental	OF	Figuig	FI	Figuig Cercle		
+MA	61005	Abbou Lakhal	L'Oriental	OF	Figuig	FI	Figuig Cercle		
+MA	61006	Bni Guil	L'Oriental	OF	Figuig	FI	Figuig Cercle		
+MA	61200	Bouarfa	L'Oriental	OF	Figuig	FI	Figuig Cercle		
+MA	61000	Figuig	L'Oriental	OF	Figuig	FI	Figuig Cercle		
+MA	61012	Maatarka	L'Oriental	OF	Figuig	FI	Figuig Cercle		
+MA	61223	Mengoub	L'Oriental	OF	Figuig	FI	Figuig Cercle		
+MA	35124	Assebbab	L'Oriental	OF	Guercif	GU	Guercif Cercle		
+MA	35105	Saka	L'Oriental	OF	Guercif	GU	Guercif Cercle		
+MA	35102	Barkine	L'Oriental	OF	Guercif	GU	Guercif Cercle		
+MA	35100	Guercif	L'Oriental	OF	Guercif	GU	Guercif Cercle		
+MA	35125	Ras Laksar	L'Oriental	OF	Guercif	GU	Taddart Cercle		
+MA	35104	Mazguitam	L'Oriental	OF	Guercif	GU	Taddart Cercle		
+MA	35026	Msoun	L'Oriental	OF	Guercif	GU	Taddart Cercle		
+MA	35055	Oulad Bourima	L'Oriental	OF	Guercif	GU	Taddart Cercle		
+MA	42076	Taddart	L'Oriental	OF	Guercif	GU	Taddart Cercle		
+MA	64100	Ain Bni Mathar	L'Oriental	OF	Jerada	JE	Ain Bni Mathar Cercle		
+MA	64122	Merija	L'Oriental	OF	Jerada	JE	Ain Bni Mathar Cercle		
+MA	64123	Oulad Ghziyel	L'Oriental	OF	Jerada	JE	Ain Bni Mathar Cercle		
+MA	64103	Oulad Sidi Abdelhakem	L'Oriental	OF	Jerada	JE	Ain Bni Mathar Cercle		
+MA	64872	Tiouli	L'Oriental	OF	Jerada	JE	Jerada Banlieue Cercle		
+MA	64573	Gafait	L'Oriental	OF	Jerada	JE	Jerada Banlieue Cercle		
+MA	64550	Jerada	L'Oriental	OF	Jerada	JE	Jerada Banlieue Cercle		
+MA	64553	Laaouinate	L'Oriental	OF	Jerada	JE	Jerada Banlieue Cercle		
+MA	64554	Lebkhata	L'Oriental	OF	Jerada	JE	Jerada Banlieue Cercle		
+MA	64022	Oued El Heimer	L'Oriental	OF	Jerada	JE	Jerada Banlieue Cercle		
+MA	64555	Ras Asfour	L'Oriental	OF	Jerada	JE	Jerada Banlieue Cercle		
+MA	64850	Touissit	L'Oriental	OF	Jerada	JE	Jerada Banlieue Cercle		
+MA	64902	Zellidja Boubker	L'Oriental	OF	Jerada	JE	Jerada Banlieue Cercle		
+MA	62550	Al Aaroui	L'Oriental	OF	Nador	NA	Al Aaroui Pachalik		
+MA	62050	Bni Ansar	L'Oriental	OF	Nador	NA	Bni Ansar Pachalik		
+MA	62024	Farkhana	L'Oriental	OF	Nador	NA	Bni Ansar Pachalik		
+MA	62872	Bni Sidel Louta	L'Oriental	OF	Nador	NA	Guelaia Cercle		
+MA	62023	Bouarg	L'Oriental	OF	Nador	NA	Guelaia Cercle		
+MA	62673	Ihaddadene	L'Oriental	OF	Nador	NA	Guelaia Cercle		
+MA	62672	Bni Bouifrour	L'Oriental	OF	Nador	NA	Guelaia Cercle		
+MA	62034	Iksane	L'Oriental	OF	Nador	NA	Guelaia Cercle		
+MA	62026	Taouima	L'Oriental	OF	Nador	NA	Guelaia Cercle		
+MA	62650	Zeghanghane	L'Oriental	OF	Nador	NA	Guelaia Cercle		
+MA	62822	Afsou	L'Oriental	OF	Nador	NA	Louta Cercle		
+MA	62902	Hassi Berkane	L'Oriental	OF	Nador	NA	Louta Cercle		
+MA	62922	Oulad Daoud Zkhanine	L'Oriental	OF	Nador	NA	Louta Cercle		
+MA	62802	Tiztoutine	L'Oriental	OF	Nador	NA	Louta Cercle		
+MA	62035	Al Barkanyene	L'Oriental	OF	Nador	NA	Louta Cercle		
+MA	62042	Bni Oukil Oulad M'Hand	L'Oriental	OF	Nador	NA	Louta Cercle		
+MA	62352	Kariat Arkmane	L'Oriental	OF	Nador	NA	Louta Cercle		
+MA	62043	Oulad Settout	L'Oriental	OF	Nador	NA	Louta Cercle		
+MA	62900	Zaio	L'Oriental	OF	Nador	NA	Louta Cercle		
+MA	62999	Nador	L'Oriental	OF	Nador	NA	Nador Pachalik		
+MA	62602	Ras El Ma	L'Oriental	OF	Nador	NA	Ras El Ma Pachalik		
+MA	62702	Selouane	L'Oriental	OF	Nador	NA	Selouane Pachalik		
+MA	60070	Naima	L'Oriental	OF	Oujda Angad	OA	Naima Pachalik		
+MA	60085	Ahl Angad	L'Oriental	OF	Oujda Angad	OA	Oujda Banlieue Nord Cercle		
+MA	60005	Ain Sfa	L'Oriental	OF	Oujda Angad	OA	Oujda Banlieue Nord Cercle		
+MA	60350	Bni Drar	L'Oriental	OF	Oujda Angad	OA	Oujda Banlieue Nord Cercle		
+MA	60064	Bni Khaled	L'Oriental	OF	Oujda Angad	OA	Oujda Banlieue Nord Cercle		
+MA	60006	Bsara	L'Oriental	OF	Oujda Angad	OA	Oujda Banlieue Nord Cercle		
+MA	60086	Isly	L'Oriental	OF	Oujda Angad	OA	Oujda Banlieue Sud Cercle		
+MA	60025	Mestferki	L'Oriental	OF	Oujda Angad	OA	Oujda Banlieue Sud Cercle		
+MA	60065	Sidi Boulenouar	L'Oriental	OF	Oujda Angad	OA	Oujda Banlieue Sud Cercle		
+MA	60066	Sidi Moussa Lemhaya	L'Oriental	OF	Oujda Angad	OA	Oujda Banlieue Sud Cercle		
+MA	60999	Oujda	L'Oriental	OF	Oujda Angad	OA	Oujda Pachalik		
+MA	65400	Debdou	L'Oriental	OF	Taourirt	TA	Debdou Cercle		
+MA	65404	El Atef	L'Oriental	OF	Taourirt	TA	Debdou Cercle		
+MA	65405	Oulad M'hammed	L'Oriental	OF	Taourirt	TA	Debdou Cercle		
+MA	65406	Sidi Ali Bel Quassem	L'Oriental	OF	Taourirt	TA	Debdou Cercle		
+MA	65822	Sidi Lahsen	L'Oriental	OF	Taourirt	TA	Debdou Cercle		
+MA	65474	Tancherfi	L'Oriental	OF	Taourirt	TA	El Aioun Cercle		
+MA	65256	Ain Lehjer	L'Oriental	OF	Taourirt	TA	El Aioun Cercle		
+MA	65812	El Aioun Sidi Mellouk	L'Oriental	OF	Taourirt	TA	El Aioun Cercle		
+MA	65472	Mechraa Hammadi	L'Oriental	OF	Taourirt	TA	El Aioun Cercle		
+MA	65473	Mestegmer	L'Oriental	OF	Taourirt	TA	El Aioun Cercle		
+MA	65823	Melg El Ouidane	L'Oriental	OF	Taourirt	TA	Taourirt Cercle		
+MA	65806	Ahl Oued Za	L'Oriental	OF	Taourirt	TA	Taourirt Cercle		
+MA	65813	Gteter	L'Oriental	OF	Taourirt	TA	Taourirt Cercle		
+MA	65800	Taourirt	L'Oriental	OF	Taourirt	TA	Taourirt Cercle		
+MA	42082	Aït Faska	Marrakech Safi	MS	Al Haouz	AH	Ait Ourir Cercle		
+MA	42083	Aït Sidi Daoud	Marrakech Safi	MS	Al Haouz	AH	Ait Ourir Cercle		
+MA	42272	Tamazouzte	Marrakech Safi	MS	Al Haouz	AH	Ait Ourir Cercle		
+MA	42085	Tidili Mesfioua	Marrakech Safi	MS	Al Haouz	AH	Ait Ourir Cercle		
+MA	42050	Ait Ourir	Marrakech Safi	MS	Al Haouz	AH	Ait Ourir Cercle		
+MA	42252	Ghmate	Marrakech Safi	MS	Al Haouz	AH	Ait Ourir Cercle		
+MA	42054	Iguerferouane	Marrakech Safi	MS	Al Haouz	AH	Ait Ourir Cercle		
+MA	42124	Anougal	Marrakech Safi	MS	Al Haouz	AH	Amizmiz Cercle		
+MA	42122	Azgour	Marrakech Safi	MS	Al Haouz	AH	Amizmiz Cercle		
+MA	42102	Tizguine	Marrakech Safi	MS	Al Haouz	AH	Amizmiz Cercle		
+MA	42104	Amghras	Marrakech Safi	MS	Al Haouz	AH	Amizmiz Cercle		
+MA	42105	Dar Jamaa	Marrakech Safi	MS	Al Haouz	AH	Amizmiz Cercle		
+MA	42202	Lalla Takarkoust	Marrakech Safi	MS	Al Haouz	AH	Amizmiz Cercle		
+MA	42106	Ouazguita	Marrakech Safi	MS	Al Haouz	AH	Amizmiz Cercle		
+MA	42112	Oulad Mtaa	Marrakech Safi	MS	Al Haouz	AH	Amizmiz Cercle		
+MA	42113	Sidi Badhaj	Marrakech Safi	MS	Al Haouz	AH	Amizmiz Cercle		
+MA	42103	Amizmiz	Marrakech Safi	MS	Al Haouz	AH	Amizmiz Pachalik		
+MA	42152	Asni	Marrakech Safi	MS	Al Haouz	AH	Asni Cercle		
+MA	42172	Imgdal	Marrakech Safi	MS	Al Haouz	AH	Asni Cercle		
+MA	42173	Ouirgane	Marrakech Safi	MS	Al Haouz	AH	Asni Cercle		
+MA	42153	Aghbar	Marrakech Safi	MS	Al Haouz	AH	Asni Cercle		
+MA	42154	Ighil	Marrakech Safi	MS	Al Haouz	AH	Asni Cercle		
+MA	42155	Ijoukak	Marrakech Safi	MS	Al Haouz	AH	Asni Cercle		
+MA	42353	Talat N'Yaaqoub	Marrakech Safi	MS	Al Haouz	AH	Asni Cercle		
+MA	42174	Moulay Brahim	Marrakech Safi	MS	Al Haouz	AH	Tahannaout Cercle		
+MA	42304	Aghouatim	Marrakech Safi	MS	Al Haouz	AH	Tahannaout Cercle		
+MA	42303	Sti Fadma	Marrakech Safi	MS	Al Haouz	AH	Tahannaout Cercle		
+MA	42302	Tahanaoute	Marrakech Safi	MS	Al Haouz	AH	Tahannaout Cercle		
+MA	42312	Tameslohte	Marrakech Safi	MS	Al Haouz	AH	Tahannaout Cercle		
+MA	42072	Abadou	Marrakech Safi	MS	Al Haouz	AH	Touama Cercle		
+MA	42073	Aït Aadel	Marrakech Safi	MS	Al Haouz	AH	Touama Cercle		
+MA	42086	Touama	Marrakech Safi	MS	Al Haouz	AH	Touama Cercle		
+MA	42053	Ait Hkim-Ait Yzid	Marrakech Safi	MS	Al Haouz	AH	Touama Cercle		
+MA	42074	Arbaa Tirhedouine	Marrakech Safi	MS	Al Haouz	AH	Touama Cercle		
+MA	42055	Tamaguert	Marrakech Safi	MS	Al Haouz	AH	Touama Cercle		
+MA	42084	Tazart	Marrakech Safi	MS	Al Haouz	AH	Touama Cercle		
+MA	41025	Ahdil	Marrakech Safi	MS	Chichaoua	CH	Chichaoua Cercle		
+MA	41102	Aït Hadi	Marrakech Safi	MS	Chichaoua	CH	Chichaoua Cercle		
+MA	41023	Saidate	Marrakech Safi	MS	Chichaoua	CH	Chichaoua Cercle		
+MA	41000	Chichaoua	Marrakech Safi	MS	Chichaoua	CH	Chichaoua Cercle		
+MA	41003	Oulad Moumna	Marrakech Safi	MS	Chichaoua	CH	Chichaoua Cercle		
+MA	41004	Sidi M'Hamed Dalil	Marrakech Safi	MS	Chichaoua	CH	Chichaoua Cercle		
+MA	41152	Sid L'Mokhtar	Marrakech Safi	MS	Chichaoua	CH	Chichaoua Cercle		
+MA	41084	Afalla Issen	Marrakech Safi	MS	Chichaoua	CH	Imintanoute Cercle		
+MA	41053	Ain Tazitounte	Marrakech Safi	MS	Chichaoua	CH	Imintanoute Cercle		
+MA	41054	Ait Haddou Youssef	Marrakech Safi	MS	Chichaoua	CH	Imintanoute Cercle		
+MA	41050	Imintanoute	Marrakech Safi	MS	Chichaoua	CH	Imintanoute Cercle		
+MA	41055	Irohalen	Marrakech Safi	MS	Chichaoua	CH	Imintanoute Cercle		
+MA	41074	Lalla Aaziza	Marrakech Safi	MS	Chichaoua	CH	Imintanoute Cercle		
+MA	41056	Nfifa	Marrakech Safi	MS	Chichaoua	CH	Imintanoute Cercle		
+MA	41082	Ouad L'bour	Marrakech Safi	MS	Chichaoua	CH	Imintanoute Cercle		
+MA	41076	Timezgadiouine	Marrakech Safi	MS	Chichaoua	CH	Imintanoute Cercle		
+MA	42123	Assif El Mal	Marrakech Safi	MS	Chichaoua	CH	Majjat Cercle		
+MA	41232	Adassil	Marrakech Safi	MS	Chichaoua	CH	Majjat Cercle		
+MA	41223	Gmassa	Marrakech Safi	MS	Chichaoua	CH	Majjat Cercle		
+MA	41233	Imindounit	Marrakech Safi	MS	Chichaoua	CH	Majjat Cercle		
+MA	41022	M'Zouda	Marrakech Safi	MS	Chichaoua	CH	Majjat Cercle		
+MA	41225	Sebt Mzouda	Marrakech Safi	MS	Chichaoua	CH	Majjat Cercle		
+MA	41083	Ichamraren	Marrakech Safi	MS	Chichaoua	CH	Mtouga Cercle		
+MA	41073	Bouabout	Marrakech Safi	MS	Chichaoua	CH	Mtouga Cercle		
+MA	41006	Kouzemt	Marrakech Safi	MS	Chichaoua	CH	Mtouga Cercle		
+MA	41012	Rahhala	Marrakech Safi	MS	Chichaoua	CH	Mtouga Cercle		
+MA	41013	Sidi Abdelmoumen	Marrakech Safi	MS	Chichaoua	CH	Mtouga Cercle		
+MA	41075	Taouloukoult	Marrakech Safi	MS	Chichaoua	CH	Mtouga Cercle		
+MA	41005	Timlilt	Marrakech Safi	MS	Chichaoua	CH	Mtouga Cercle		
+MA	43073	Chtaiba	Marrakech Safi	MS	El Kelaa des Sraghna	EK	El Kelaa Des Sraghna Cercle		
+MA	43052	El Aamria	Marrakech Safi	MS	El Kelaa des Sraghna	EK	El Kelaa Des Sraghna Cercle		
+MA	43023	Mayate	Marrakech Safi	MS	El Kelaa des Sraghna	EK	El Kelaa Des Sraghna Cercle		
+MA	43076	Oulad Aamer	Marrakech Safi	MS	El Kelaa des Sraghna	EK	El Kelaa Des Sraghna Cercle		
+MA	43083	Oulad Msabbel	Marrakech Safi	MS	El Kelaa des Sraghna	EK	El Kelaa Des Sraghna Cercle		
+MA	43026	Oulad Zarrad	Marrakech Safi	MS	El Kelaa des Sraghna	EK	El Kelaa Des Sraghna Cercle		
+MA	43082	Sidi El Hattab	Marrakech Safi	MS	El Kelaa des Sraghna	EK	El Kelaa Des Sraghna Cercle		
+MA	43000	El Kelaa Des Sraghna	Marrakech Safi	MS	El Kelaa des Sraghna	EK	El Kelaa Des Sraghna Cercle		
+MA	43006	El Marbouh	Marrakech Safi	MS	El Kelaa des Sraghna	EK	El Kelaa Des Sraghna Cercle		
+MA	43012	Errafiaya	Marrakech Safi	MS	El Kelaa des Sraghna	EK	El Kelaa Des Sraghna Cercle		
+MA	43034	Hiadna	Marrakech Safi	MS	El Kelaa des Sraghna	EK	El Kelaa Des Sraghna Cercle		
+MA	43013	Oulad Cherki	Marrakech Safi	MS	El Kelaa des Sraghna	EK	El Kelaa Des Sraghna Cercle		
+MA	43014	Oulad El Garne	Marrakech Safi	MS	El Kelaa des Sraghna	EK	El Kelaa Des Sraghna Cercle		
+MA	43015	Oulad Massaoud	Marrakech Safi	MS	El Kelaa des Sraghna	EK	El Kelaa Des Sraghna Cercle		
+MA	43016	Oulad Sbih	Marrakech Safi	MS	El Kelaa des Sraghna	EK	El Kelaa Des Sraghna Cercle		
+MA	43024	Oulad Yaacoub	Marrakech Safi	MS	El Kelaa des Sraghna	EK	El Kelaa Des Sraghna Cercle		
+MA	43032	Taouzint	Marrakech Safi	MS	El Kelaa des Sraghna	EK	El Kelaa Des Sraghna Cercle		
+MA	43033	Znada	Marrakech Safi	MS	El Kelaa des Sraghna	EK	El Kelaa Des Sraghna Cercle		
+MA	43122	Bouya Omar	Marrakech Safi	MS	El Kelaa des Sraghna	EK	Laattaouia Cercle		
+MA	43123	Dzouz	Marrakech Safi	MS	El Kelaa des Sraghna	EK	Laattaouia Cercle		
+MA	43272	Louad Lakhdar	Marrakech Safi	MS	El Kelaa des Sraghna	EK	Laattaouia Cercle		
+MA	43273	Ouargui	Marrakech Safi	MS	El Kelaa des Sraghna	EK	Laattaouia Cercle		
+MA	43274	Sidi Aissa Ben Slimane	Marrakech Safi	MS	El Kelaa des Sraghna	EK	Laattaouia Cercle		
+MA	43112	Choara	Marrakech Safi	MS	El Kelaa des Sraghna	EK	Laattaouia Cercle		
+MA	43100	Laattaouia	Marrakech Safi	MS	El Kelaa des Sraghna	EK	Laattaouia Cercle		
+MA	43102	Laattaouia Ech-chaibia	Marrakech Safi	MS	El Kelaa des Sraghna	EK	Laattaouia Cercle		
+MA	43103	M'Zem Sanhaja	Marrakech Safi	MS	El Kelaa des Sraghna	EK	Laattaouia Cercle		
+MA	43104	Oulad Aarrad	Marrakech Safi	MS	El Kelaa des Sraghna	EK	Laattaouia Cercle		
+MA	43105	Oulad Khallouf	Marrakech Safi	MS	El Kelaa des Sraghna	EK	Laattaouia Cercle		
+MA	43252	Sahrij	Marrakech Safi	MS	El Kelaa des Sraghna	EK	Laattaouia Cercle		
+MA	43106	Sour El Aaz	Marrakech Safi	MS	El Kelaa des Sraghna	EK	Laattaouia Cercle		
+MA	43350	Sidi Rahhal	Marrakech Safi	MS	El Kelaa des Sraghna	EK	Sidi Rahhal Pachalik		
+MA	43372	Zemrane	Marrakech Safi	MS	El Kelaa des Sraghna	EK	Tamallalt Cercle		
+MA	43472	Ejjouala	Marrakech Safi	MS	El Kelaa des Sraghna	EK	Tamallalt Cercle		
+MA	43473	Jbiel	Marrakech Safi	MS	El Kelaa des Sraghna	EK	Tamallalt Cercle		
+MA	43474	Zemrane Charqia	Marrakech Safi	MS	El Kelaa des Sraghna	EK	Tamallalt Cercle		
+MA	43450	Tamallalt	Marrakech Safi	MS	El Kelaa des Sraghna	EK	Tamelelt Pachalik		
+MA	44060	Ait Daoud	Marrakech Safi	MS	Essaouira	ES	Ait Daoud Pachalik		
+MA	44124	Mejji	Marrakech Safi	MS	Essaouira	ES	Essaouira Cercle		
+MA	44276	Mouarid	Marrakech Safi	MS	Essaouira	ES	Essaouira Cercle		
+MA	44133	Ounagha	Marrakech Safi	MS	Essaouira	ES	Essaouira Cercle		
+MA	44134	Sidi Ishaq	Marrakech Safi	MS	Essaouira	ES	Essaouira Cercle		
+MA	44012	Ait Said	Marrakech Safi	MS	Essaouira	ES	Essaouira Cercle		
+MA	44126	Aquermoud	Marrakech Safi	MS	Essaouira	ES	Essaouira Cercle		
+MA	44003	Had Dra	Marrakech Safi	MS	Essaouira	ES	Essaouira Cercle		
+MA	44013	Kechoula	Marrakech Safi	MS	Essaouira	ES	Essaouira Cercle		
+MA	44132	Khemis Takate	Marrakech Safi	MS	Essaouira	ES	Essaouira Cercle		
+MA	44014	Lagdadra	Marrakech Safi	MS	Essaouira	ES	Essaouira Cercle		
+MA	44015	Lahsinate	Marrakech Safi	MS	Essaouira	ES	Essaouira Cercle		
+MA	44123	Lamzilate	Marrakech Safi	MS	Essaouira	ES	Essaouira Cercle		
+MA	44016	M'Khalif	Marrakech Safi	MS	Essaouira	ES	Essaouira Cercle		
+MA	44022	Moulay Bouzarqtoune	Marrakech Safi	MS	Essaouira	ES	Essaouira Cercle		
+MA	44023	Oulad M'Rabet	Marrakech Safi	MS	Essaouira	ES	Essaouira Cercle		
+MA	44272	Sebt Korimate	Marrakech Safi	MS	Essaouira	ES	Essaouira Cercle		
+MA	44024	Sidi Abdeljalil	Marrakech Safi	MS	Essaouira	ES	Essaouira Cercle		
+MA	44025	Sidi Aissa Regragui	Marrakech Safi	MS	Essaouira	ES	Essaouira Cercle		
+MA	44026	Sidi Ali El Korati	Marrakech Safi	MS	Essaouira	ES	Essaouira Cercle		
+MA	44032	Sidi Boulaalam	Marrakech Safi	MS	Essaouira	ES	Essaouira Cercle		
+MA	44033	Sidi Laaroussi	Marrakech Safi	MS	Essaouira	ES	Essaouira Cercle		
+MA	44034	Sidi M'Hamed Ou Marzouq	Marrakech Safi	MS	Essaouira	ES	Essaouira Cercle		
+MA	44102	Tafetachte	Marrakech Safi	MS	Essaouira	ES	Essaouira Cercle		
+MA	44150	Talmest	Marrakech Safi	MS	Essaouira	ES	Essaouira Cercle		
+MA	44004	Zaouia Ben Hmida	Marrakech Safi	MS	Essaouira	ES	Essaouira Cercle		
+MA	44000	Essaouira	Marrakech Safi	MS	Essaouira	ES	Essaouira Pachalik		
+MA	44083	Assais	Marrakech Safi	MS	Essaouira	ES	Tamanar Cercle		
+MA	44252	Bizdad	Marrakech Safi	MS	Essaouira	ES	Tamanar Cercle		
+MA	44223	Ida ou Guelloul	Marrakech Safi	MS	Essaouira	ES	Tamanar Cercle		
+MA	44226	Ida ou Kazzou	Marrakech Safi	MS	Essaouira	ES	Tamanar Cercle		
+MA	44082	Sidi Ahmed Essayeh	Marrakech Safi	MS	Essaouira	ES	Tamanar Cercle		
+MA	44125	Sidi Kaouki	Marrakech Safi	MS	Essaouira	ES	Tamanar Cercle		
+MA	44053	Smimou	Marrakech Safi	MS	Essaouira	ES	Tamanar Cercle		
+MA	44074	Tafedna	Marrakech Safi	MS	Essaouira	ES	Tamanar Cercle		
+MA	44075	Tidzi	Marrakech Safi	MS	Essaouira	ES	Tamanar Cercle		
+MA	44236	Adaghas	Marrakech Safi	MS	Essaouira	ES	Tamanar Cercle		
+MA	44204	Aglif	Marrakech Safi	MS	Essaouira	ES	Tamanar Cercle		
+MA	44205	Aguerd	Marrakech Safi	MS	Essaouira	ES	Tamanar Cercle		
+MA	44273	Ain Zelten	Marrakech Safi	MS	Essaouira	ES	Tamanar Cercle		
+MA	44206	Ait Aissi Ihahane	Marrakech Safi	MS	Essaouira	ES	Tamanar Cercle		
+MA	44212	Bouzemmour	Marrakech Safi	MS	Essaouira	ES	Tamanar Cercle		
+MA	44213	Ezzaouite	Marrakech Safi	MS	Essaouira	ES	Tamanar Cercle		
+MA	44072	Ida Ou Aazza	Marrakech Safi	MS	Essaouira	ES	Tamanar Cercle		
+MA	44214	Imgrade	Marrakech Safi	MS	Essaouira	ES	Tamanar Cercle		
+MA	44215	Sidi El Jazouli	Marrakech Safi	MS	Essaouira	ES	Tamanar Cercle		
+MA	44216	Sidi Hmad Ou Hamed	Marrakech Safi	MS	Essaouira	ES	Tamanar Cercle		
+MA	44232	Sidi H'Mad Ou M'Barek	Marrakech Safi	MS	Essaouira	ES	Tamanar Cercle		
+MA	44233	Tahelouante	Marrakech Safi	MS	Essaouira	ES	Tamanar Cercle		
+MA	44234	Takoucht	Marrakech Safi	MS	Essaouira	ES	Tamanar Cercle		
+MA	44200	Tamanar	Marrakech Safi	MS	Essaouira	ES	Tamanar Cercle		
+MA	44235	Targante	Marrakech Safi	MS	Essaouira	ES	Tamanar Cercle		
+MA	44225	Timizguida-Ouftas	Marrakech Safi	MS	Essaouira	ES	Tamanar Cercle		
+MA	44275	Tnine Ida Ou Zemzem	Marrakech Safi	MS	Essaouira	ES	Tamanar Cercle		
+MA	44076	Tnine Imi Ntlit	Marrakech Safi	MS	Essaouira	ES	Tamanar Cercle		
+MA	41103	Alouidane	Marrakech Safi	MS	Marrakech	MR	Alouidane Cercle		
+MA	41105	Ouahat Sidi Brahim	Marrakech Safi	MS	Marrakech	MR	Alouidane Cercle		
+MA	41104	Harbil	Marrakech Safi	MS	Marrakech	MR	Bour Cercle		
+MA	40152	Kettara	Marrakech Safi	MS	Marrakech	MR	Bour Cercle		
+MA	40064	Ouled Dlim	Marrakech Safi	MS	Marrakech	MR	Bour Cercle		
+MA	40300	Tamansourt	Marrakech Safi	MS	Marrakech	MR	Bour Cercle		
+MA	40254	Agafay	Marrakech Safi	MS	Marrakech	MR	Loudaya Cercle		
+MA	40202	Sid Zouine	Marrakech Safi	MS	Marrakech	MR	Loudaya Cercle		
+MA	40253	Tnine Oudaya	Marrakech Safi	MS	Marrakech	MR	Loudaya Cercle		
+MA	40999	Marrakech	Marrakech Safi	MS	Marrakech	MR	Marrakech Pachalik		
+MA	40065	Tassoultante	Marrakech Safi	MS	Marrakech	MR	Saada Cercle		
+MA	40255	Souihla	Marrakech Safi	MS	Marrakech	MR	Saada Cercle		
+MA	43175	Aït Hammou	Marrakech Safi	MS	Rehamna	RE	Rehamna Cercle		
+MA	43174	Oulad Aamer Tizmarine	Marrakech Safi	MS	Rehamna	RE	Rehamna Cercle		
+MA	43176	Oulad Hassoune Hamri	Marrakech Safi	MS	Rehamna	RE	Rehamna Cercle		
+MA	43423	Sidi Abdallah	Marrakech Safi	MS	Rehamna	RE	Rehamna Cercle		
+MA	43424	Sidi Ghanem	Marrakech Safi	MS	Rehamna	RE	Rehamna Cercle		
+MA	43402	Skhour Rehamna	Marrakech Safi	MS	Rehamna	RE	Rehamna Cercle		
+MA	43412	Ait Taleb	Marrakech Safi	MS	Rehamna	RE	Rehamna Cercle		
+MA	43150	Benguerir	Marrakech Safi	MS	Rehamna	RE	Rehamna Cercle		
+MA	43403	Sidi Ali Labrahla	Marrakech Safi	MS	Rehamna	RE	Rehamna Cercle		
+MA	43404	Sidi Mansour	Marrakech Safi	MS	Rehamna	RE	Rehamna Cercle		
+MA	43405	Skoura Lhadra	Marrakech Safi	MS	Rehamna	RE	Rehamna Cercle		
+MA	43223	Jaidate	Marrakech Safi	MS	Rehamna	RE	Sidi Bou Othmane Cercle		
+MA	43324	Lamharra	Marrakech Safi	MS	Rehamna	RE	Sidi Bou Othmane Cercle		
+MA	43322	Sidi Boubker	Marrakech Safi	MS	Rehamna	RE	Sidi Bou Othmane Cercle		
+MA	43304	Bourrous	Marrakech Safi	MS	Rehamna	RE	Sidi Bou Othmane Cercle		
+MA	43406	Jbilate	Marrakech Safi	MS	Rehamna	RE	Sidi Bou Othmane Cercle		
+MA	43302	Nzalat Laadam	Marrakech Safi	MS	Rehamna	RE	Sidi Bou Othmane Cercle		
+MA	43305	Oulad Imloul	Marrakech Safi	MS	Rehamna	RE	Sidi Bou Othmane Cercle		
+MA	43306	Ras Ain Rehamna	Marrakech Safi	MS	Rehamna	RE	Sidi Bou Othmane Cercle		
+MA	43303	Sidi Bou Othmane	Marrakech Safi	MS	Rehamna	RE	Sidi Bou Othmane Cercle		
+MA	43312	Tlauh	Marrakech Safi	MS	Rehamna	RE	Sidi Bou Othmane Cercle		
+MA	46122	Labkhati	Marrakech Safi	MS	Safi	SA	Abda Cercle		
+MA	46175	Lamrasla	Marrakech Safi	MS	Safi	SA	Abda Cercle		
+MA	46125	Lamsabih	Marrakech Safi	MS	Safi	SA	Abda Cercle		
+MA	46044	Chahda	Marrakech Safi	MS	Safi	SA	Abda Cercle		
+MA	46042	El Gouraani	Marrakech Safi	MS	Safi	SA	Abda Cercle		
+MA	46100	Jamaat Shaim	Marrakech Safi	MS	Safi	SA	Abda Cercle		
+MA	46043	Lahdar	Marrakech Safi	MS	Safi	SA	Abda Cercle		
+MA	23574	Sidi Aissa	Marrakech Safi	MS	Safi	SA	Abda Cercle		
+MA	46024	Sidi Ettiji	Marrakech Safi	MS	Safi	SA	Abda Cercle		
+MA	46124	Tleta Sidi Aissa	Marrakech Safi	MS	Safi	SA	Abda Cercle		
+MA	46172	Atouabet	Marrakech Safi	MS	Safi	SA	Gzoula Cercle		
+MA	46153	Laamamra	Marrakech Safi	MS	Safi	SA	Gzoula Cercle		
+MA	46154	Lamaachate	Marrakech Safi	MS	Safi	SA	Gzoula Cercle		
+MA	46035	Ouled Salmane	Marrakech Safi	MS	Safi	SA	Gzoula Cercle		
+MA	46025	Souira Kedima	Marrakech Safi	MS	Safi	SA	Gzoula Cercle		
+MA	46026	Dar Si Aissa	Marrakech Safi	MS	Safi	SA	Hrara Cercle		
+MA	46023	El Beddouza	Marrakech Safi	MS	Safi	SA	Hrara Cercle		
+MA	46006	Had Harara	Marrakech Safi	MS	Safi	SA	Hrara Cercle		
+MA	46123	Moul El Bergui	Marrakech Safi	MS	Safi	SA	Hrara Cercle		
+MA	46155	Saadla	Marrakech Safi	MS	Safi	SA	Hrara Cercle		
+MA	46999	Safi	Marrakech Safi	MS	Safi	SA	Safi Pachalik		
+MA	46150	Sebt Gzoula	Marrakech Safi	MS	Safi	SA	Sebt Gzoula Pachalik		
+MA	46073	Jdour	Marrakech Safi	MS	Youssoufia	YO	Ahmar Cercle		
+MA	46082	Jnane Bouih	Marrakech Safi	MS	Youssoufia	YO	Ahmar Cercle		
+MA	46076	Sidi Chiker	Marrakech Safi	MS	Youssoufia	YO	Ahmar Cercle		
+MA	46072	Atiamim	Marrakech Safi	MS	Youssoufia	YO	Al Gantour Cercle		
+MA	46202	El Gantour	Marrakech Safi	MS	Youssoufia	YO	Al Gantour Cercle		
+MA	46322	Esbiaat	Marrakech Safi	MS	Youssoufia	YO	Al Gantour Cercle		
+MA	46074	Lakhoualqa	Marrakech Safi	MS	Youssoufia	YO	Al Gantour Cercle		
+MA	26552	Ras El Ain	Marrakech Safi	MS	Youssoufia	YO	Al Gantour Cercle		
+MA	46300	Youssoufia	Marrakech Safi	MS	Youssoufia	YO	Al Gantour Cercle		
+MA	46053	Echemmaia	Marrakech Safi	MS	Youssoufia	YO	Chemaia Pachalik		
+MA	14022	Ben Mansour	Rabat Sale Kenitra	RK	Kenitra	KE	Ben Mansour Cercle		
+MA	14053	Mnasra	Rabat Sale Kenitra	RK	Kenitra	KE	Ben Mansour Cercle		
+MA	14025	Sidi Taibi	Rabat Sale Kenitra	RK	Kenitra	KE	Kenitra Banlieue Cercle		
+MA	14064	Ameur Seflia	Rabat Sale Kenitra	RK	Kenitra	KE	Kenitra Banlieue Cercle		
+MA	14024	Haddada	Rabat Sale Kenitra	RK	Kenitra	KE	Kenitra Banlieue Cercle		
+MA	14065	Ouled Slama	Rabat Sale Kenitra	RK	Kenitra	KE	Kenitra Banlieue Cercle		
+MA	14999	Kénitra	Rabat Sale Kenitra	RK	Kenitra	KE	Kenitra Pachalik		
+MA	14325	Chouafaa	Rabat Sale Kenitra	RK	Kenitra	KE	Lalla Mimouna Cercle		
+MA	14152	Lalla Mimouna	Rabat Sale Kenitra	RK	Kenitra	KE	Lalla Mimouna Cercle		
+MA	14122	Sidi Boubker El Haj	Rabat Sale Kenitra	RK	Kenitra	KE	Lalla Mimouna Cercle		
+MA	14302	Moulay Bousselham	Rabat Sale Kenitra	RK	Kenitra	KE	Lalla Mimouna Cercle		
+MA	14110	Mehdya	Rabat Sale Kenitra	RK	Kenitra	KE	Mehdiya Pachalik		
+MA	14250	Sidi Yahya Du Gharb	Rabat Sale Kenitra	RK	Kenitra	KE	Sidi Yahya du Gharb Pachalik		
+MA	14102	Arbaoua	Rabat Sale Kenitra	RK	Kenitra	KE	Souk Arbaa El Gharb Cercle		
+MA	14123	Oued El Makhazine	Rabat Sale Kenitra	RK	Kenitra	KE	Souk Arbaa El Gharb Cercle		
+MA	14305	Beni Malek	Rabat Sale Kenitra	RK	Kenitra	KE	Souk Arbaa El Gharb Cercle		
+MA	14322	Kariat Ben Aouda	Rabat Sale Kenitra	RK	Kenitra	KE	Souk Arbaa El Gharb Cercle		
+MA	14052	Allal Tazi	Rabat Sale Kenitra	RK	Kenitra	KE	Souk Tlet El Gharb Cercle		
+MA	14066	Bahhara Ouled Ayad	Rabat Sale Kenitra	RK	Kenitra	KE	Souk Tlet El Gharb Cercle		
+MA	14323	Sidi Mohamed El Ahmar	Rabat Sale Kenitra	RK	Kenitra	KE	Souk Tlet El Gharb Cercle		
+MA	14005	Souk Tlet El Gharb	Rabat Sale Kenitra	RK	Kenitra	KE	Souk Tlet El Gharb Cercle		
+MA	15032	Majmaa Tolba	Rabat Sale Kenitra	RK	Khemisset	KH	Khemisset Cercle		
+MA	15004	Sfassif	Rabat Sale Kenitra	RK	Khemisset	KH	Khemisset Cercle		
+MA	14306	Ait Siberne	Rabat Sale Kenitra	RK	Khemisset	KH	Khemisset Cercle		
+MA	15013	El Ganzra	Rabat Sale Kenitra	RK	Khemisset	KH	Khemisset Cercle		
+MA	15003	Khemis Ait Yaddine	Rabat Sale Kenitra	RK	Khemisset	KH	Khemisset Cercle		
+MA	15999	Khemisset	Rabat Sale Kenitra	RK	Khemisset	KH	Khemisset Cercle		
+MA	15005	Sidi Allal Lamsadder	Rabat Sale Kenitra	RK	Khemisset	KH	Khemisset Cercle		
+MA	15033	Sidi El Ghandour	Rabat Sale Kenitra	RK	Khemisset	KH	Khemisset Cercle		
+MA	15124	Aït Ichou	Rabat Sale Kenitra	RK	Khemisset	KH	Oulmes Cercle		
+MA	15053	Maaziz	Rabat Sale Kenitra	RK	Khemisset	KH	Oulmes Cercle		
+MA	15102	Oulmes	Rabat Sale Kenitra	RK	Khemisset	KH	Oulmes Cercle		
+MA	15352	Tiddas	Rabat Sale Kenitra	RK	Khemisset	KH	Oulmes Cercle		
+MA	15122	Bouqachmir	Rabat Sale Kenitra	RK	Khemisset	KH	Oulmes Cercle		
+MA	15123	Tarmilet	Rabat Sale Kenitra	RK	Khemisset	KH	Oulmes Cercle		
+MA	15152	Ain Sbit	Rabat Sale Kenitra	RK	Khemisset	KH	Rommani Cercle		
+MA	15174	Marchouch	Rabat Sale Kenitra	RK	Khemisset	KH	Rommani Cercle		
+MA	15153	Had Brachoua	Rabat Sale Kenitra	RK	Khemisset	KH	Rommani Cercle		
+MA	15173	Jemaat Moul Blad	Rabat Sale Kenitra	RK	Khemisset	KH	Rommani Cercle		
+MA	15072	Moulay Driss Aghbal	Rabat Sale Kenitra	RK	Khemisset	KH	Rommani Cercle		
+MA	15150	Rommani	Rabat Sale Kenitra	RK	Khemisset	KH	Rommani Cercle		
+MA	15154	Zhiliga	Rabat Sale Kenitra	RK	Khemisset	KH	Rommani Cercle		
+MA	15425	Aït Belkacem	Rabat Sale Kenitra	RK	Khemisset	KH	Tiflet Cercle		
+MA	15202	Sidi Abderrazak	Rabat Sale Kenitra	RK	Khemisset	KH	Tiflet Cercle		
+MA	15422	Ain Johra	Rabat Sale Kenitra	RK	Khemisset	KH	Tiflet Cercle		
+MA	15406	Ait Malek	Rabat Sale Kenitra	RK	Khemisset	KH	Tiflet Cercle		
+MA	15423	Khemis Sidi Yahya	Rabat Sale Kenitra	RK	Khemisset	KH	Tiflet Cercle		
+MA	15424	M'qam Tolba	Rabat Sale Kenitra	RK	Khemisset	KH	Tiflet Cercle		
+MA	15252	Sidi Allal El Bahraoui	Rabat Sale Kenitra	RK	Khemisset	KH	Tiflet Cercle		
+MA	15273	Sidi Boukhalkhal	Rabat Sale Kenitra	RK	Khemisset	KH	Tiflet Cercle		
+MA	15400	Tiflet	Rabat Sale Kenitra	RK	Khemisset	KH	Tiflet Cercle		
+MA	10000	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10000	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10190	Abi Rekrak	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10090	Agdal Bas (av. de France-Av, de la Victoire)	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10080	Agdal Haut (avenue de France-Av, Ibn Roch)	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10220	Ain Khallouia	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10050	Akkari	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10200	Al Farah	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10200	Al Inbiat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10100	Allée Al Erytrine	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10100	Allée Alkhaizourane	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10110	Allée Alleerrande	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10110	Allée Alleyord	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10100	Allée Arrand	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10110	Allée Assafsaf	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10100	Allée Assafssaf	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10110	Allée Attourounj	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10100	Allée Est	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10100	Allée Nord	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10100	Allée Ouest	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10100	Allée Sud	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10200	Al Wahda	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10140	Amal	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10140	Amal 1	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10140	Amal 2	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10140	Amal 3	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10140	Amal 4	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10140	Amal 5	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10140	Amal 6	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10030	Ancienne Médina	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10110	Autoroute Auto Route	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10020	Autoroute Bahia	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10020	Autoroute Brihi	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10160	Autoroute Casablanca	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10020	Autoroute Erfoud	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10020	Autoroute Essaouira	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10020	Autoroute Impasse Amieux	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10020	Autoroute Impasse Ouarzazate	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10020	Autoroute Larache	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10020	Autoroute Moulay Abdelaziz	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10020	Autoroute Ouarzazate	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10020	Autoroute Sahat Moulay Ali Cherif	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10020	Autoroute Yacoub El Mansour	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10080	Avenue 16 Nov	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10210	Avenue Aazouza	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10180	Avenue Abda	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10040	Avenue Abdelkrim Al Khattabi	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10060	Avenue Abdelwahed El Marrakechi	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10100	Avenue Abderrahim Bouabid	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10020	Avenue Abderrahman Annegay	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10020	Avenue Abi Raqraq	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10090	Avenue Abtal	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10070	Touarga	Rabat Sale Kenitra	RK	Rabat	RA	Touarga Pachalik		
+MA	11043	Ameur	Rabat Sale Kenitra	RK	Sale	SA	Sale Banlieue Cercle		
+MA	11052	Bouknadel	Rabat Sale Kenitra	RK	Sale	SA	Sale Banlieue Cercle		
+MA	11023	El Arjate	Rabat Sale Kenitra	RK	Sale	SA	Sale Banlieue Cercle		
+MA	11102	Sala Al Jadida	Rabat Sale Kenitra	RK	Sale	SA	Sale Pachalik		
+MA	11999	Sale	Rabat Sale Kenitra	RK	Sale	SA	Sale Pachalik		
+MA	16026	Dar Laaslouji	Rabat Sale Kenitra	RK	Sidi Kacem	SK	Baht Cercle		
+MA	16175	Sidi Al Kamel	Rabat Sale Kenitra	RK	Sidi Kacem	SK	Baht Cercle		
+MA	16153	Ermilate	Rabat Sale Kenitra	RK	Sidi Kacem	SK	Baht Cercle		
+MA	16022	Bir Taleb	Rabat Sale Kenitra	RK	Sidi Kacem	SK	Chrarda Cercle		
+MA	16033	Chbanate	Rabat Sale Kenitra	RK	Sidi Kacem	SK	Chrarda Cercle		
+MA	16024	Zirara	Rabat Sale Kenitra	RK	Sidi Kacem	SK	Chrarda Cercle		
+MA	16012	Bab Tiouka	Rabat Sale Kenitra	RK	Sidi Kacem	SK	Chrarda Cercle		
+MA	16013	Selfat	Rabat Sale Kenitra	RK	Sidi Kacem	SK	Chrarda Cercle		
+MA	16999	Sidi Kacem	Rabat Sale Kenitra	RK	Sidi Kacem	SK	Chrarda Cercle		
+MA	16014	Tekna	Rabat Sale Kenitra	RK	Sidi Kacem	SK	Chrarda Cercle		
+MA	16023	Zaggota	Rabat Sale Kenitra	RK	Sidi Kacem	SK	Chrarda Cercle		
+MA	16010	Dar Gueddari	Rabat Sale Kenitra	RK	Sidi Kacem	SK	Dar Gueddari Pachalik		
+MA	16173	Nouirate	Rabat Sale Kenitra	RK	Sidi Kacem	SK	Gharb Bni Malek Cercle		
+MA	16174	Sefsaf	Rabat Sale Kenitra	RK	Sidi Kacem	SK	Gharb Bni Malek Cercle		
+MA	16150	Mechra Bel Ksiri	Rabat Sale Kenitra	RK	Sidi Kacem	SK	Gharb Bni Malek Cercle		
+MA	16020	Jorf El Melha	Rabat Sale Kenitra	RK	Sidi Kacem	SK	Ouargha Cercle		
+MA	16102	Khnichet	Rabat Sale Kenitra	RK	Sidi Kacem	SK	Ouargha Cercle		
+MA	16055	Lamrabih	Rabat Sale Kenitra	RK	Sidi Kacem	SK	Ouargha Cercle		
+MA	16062	Oulad Nouel	Rabat Sale Kenitra	RK	Sidi Kacem	SK	Ouargha Cercle		
+MA	16064	Sidi M'Hamed Chelh	Rabat Sale Kenitra	RK	Sidi Kacem	SK	Ouargha Cercle		
+MA	16065	Taoughilt	Rabat Sale Kenitra	RK	Sidi Kacem	SK	Ouargha Cercle		
+MA	16072	Sidi Azzouz	Rabat Sale Kenitra	RK	Sidi Kacem	SK	Tilal Al Gharb Cercle		
+MA	16052	Ain Dfali	Rabat Sale Kenitra	RK	Sidi Kacem	SK	Tilal Al Gharb Cercle		
+MA	16054	Bni Oual	Rabat Sale Kenitra	RK	Sidi Kacem	SK	Tilal Al Gharb Cercle		
+MA	16050	Had Kourt	Rabat Sale Kenitra	RK	Sidi Kacem	SK	Tilal Al Gharb Cercle		
+MA	16056	Moulay Abdelkader	Rabat Sale Kenitra	RK	Sidi Kacem	SK	Tilal Al Gharb Cercle		
+MA	16063	Sidi Ahmed Benaissa	Rabat Sale Kenitra	RK	Sidi Kacem	SK	Tilal Al Gharb Cercle		
+MA	16324	Sidi Ameur Al Hadi	Rabat Sale Kenitra	RK	Sidi Kacem	SK	Tilal Al Gharb Cercle		
+MA	14223	Sfafaa	Rabat Sale Kenitra	RK	Sidi Slimane	SL	Kceibya Cercle		
+MA	14206	Ameur Chamalia	Rabat Sale Kenitra	RK	Sidi Slimane	SL	Kceibya Cercle		
+MA	14204	Kceibya	Rabat Sale Kenitra	RK	Sidi Slimane	SL	Kceibya Cercle		
+MA	14224	Azghar	Rabat Sale Kenitra	RK	Sidi Slimane	SL	Sidi Slimane Cercle		
+MA	14222	Dar Bel Amri	Rabat Sale Kenitra	RK	Sidi Slimane	SL	Sidi Slimane Cercle		
+MA	14046	M'saada	Rabat Sale Kenitra	RK	Sidi Slimane	SL	Sidi Slimane Cercle		
+MA	14203	Boumaiz	Rabat Sale Kenitra	RK	Sidi Slimane	SL	Sidi Slimane Cercle		
+MA	14225	Ouled Ben Hammadi	Rabat Sale Kenitra	RK	Sidi Slimane	SL	Sidi Slimane Cercle		
+MA	14205	Ouled H'Cine	Rabat Sale Kenitra	RK	Sidi Slimane	SL	Sidi Slimane Cercle		
+MA	14200	Sidi Slimane	Rabat Sale Kenitra	RK	Sidi Slimane	SL	Sidi Slimane Cercle		
+MA	12013	Ain Attig	Rabat Sale Kenitra	RK	Skhirate Temara	ST	Ain Attig Pachalik		
+MA	12123	El Menzeh	Rabat Sale Kenitra	RK	Skhirate Temara	ST	Ain El Aouda Cercle		
+MA	12122	Oumazza	Rabat Sale Kenitra	RK	Skhirate Temara	ST	Ain El Aouda Cercle		
+MA	12100	Ain El Aouda	Rabat Sale Kenitra	RK	Skhirate Temara	ST	Ain El Aouda Cercle		
+MA	12152	Sidi Yahya Zaer	Rabat Sale Kenitra	RK	Skhirate Temara	ST	Ain El Aouda Cercle		
+MA	12200	Tamesna	Rabat Sale Kenitra	RK	Skhirate Temara	ST	Ain El Aouda Cercle		
+MA	12050	Skhirate	Rabat Sale Kenitra	RK	Skhirate Temara	ST	Skhirat Pachalik		
+MA	12025	Mers El Kheir	Rabat Sale Kenitra	RK	Skhirate Temara	ST	Temara Cercle		
+MA	12072	Sabbah	Rabat Sale Kenitra	RK	Skhirate Temara	ST	Temara Cercle		
+MA	12999	Témara	Rabat Sale Kenitra	RK	Skhirate Temara	ST	Temara Pachalik		
+MA	80752	Aourir	Souss Massa	SS	Agadir Ida Outanane	AI	Agadir Atlantique Cercle		
+MA	80325	Aziar	Souss Massa	SS	Agadir Ida Outanane	AI	Agadir Atlantique Cercle		
+MA	80326	Tadrart	Souss Massa	SS	Agadir Ida Outanane	AI	Agadir Atlantique Cercle		
+MA	80502	Tamri	Souss Massa	SS	Agadir Ida Outanane	AI	Agadir Atlantique Cercle		
+MA	80324	Tiqqi	Souss Massa	SS	Agadir Ida Outanane	AI	Agadir Atlantique Cercle		
+MA	80322	Aqesri	Souss Massa	SS	Agadir Ida Outanane	AI	Agadir Atlantique Cercle		
+MA	80303	Imouzzer	Souss Massa	SS	Agadir Ida Outanane	AI	Agadir Atlantique Cercle		
+MA	80043	Imsouane	Souss Massa	SS	Agadir Ida Outanane	AI	Agadir Atlantique Cercle		
+MA	80102	Taalat	Souss Massa	SS	Agadir Ida Outanane	AI	Agadir Atlantique Cercle		
+MA	80022	Taghazout	Souss Massa	SS	Agadir Ida Outanane	AI	Agadir Atlantique Cercle		
+MA	80023	Tamraght	Souss Massa	SS	Agadir Ida Outanane	AI	Agadir Atlantique Cercle		
+MA	80302	Amskroud	Souss Massa	SS	Agadir Ida Outanane	AI	Agadir Banlieue Cercle		
+MA	80323	Idmine	Souss Massa	SS	Agadir Ida Outanane	AI	Agadir Banlieue Cercle		
+MA	80044	Drargua	Souss Massa	SS	Agadir Ida Outanane	AI	Agadir Banlieue Cercle		
+MA	80999	Agadir	Souss Massa	SS	Agadir Ida Outanane	AI	Agadir Pachalik		
+MA	87132	Aït Ouadrim	Souss Massa	SS	Chtouka Ait Baha	CA	Ait Baha Cercle		
+MA	87552	Tanalt	Souss Massa	SS	Chtouka Ait Baha	CA	Ait Baha Cercle		
+MA	87100	Ait Baha	Souss Massa	SS	Chtouka Ait Baha	CA	Ait Baha Cercle		
+MA	87104	Ait Mzal	Souss Massa	SS	Chtouka Ait Baha	CA	Ait Baha Cercle		
+MA	87105	Aouguenz	Souss Massa	SS	Chtouka Ait Baha	CA	Ait Baha Cercle		
+MA	87124	Imi El Had Tasguedelft	Souss Massa	SS	Chtouka Ait Baha	CA	Ait Baha Cercle		
+MA	87126	Sidi Abdallah El Bouchouari	Souss Massa	SS	Chtouka Ait Baha	CA	Ait Baha Cercle		
+MA	87272	Inchaden	Souss Massa	SS	Chtouka Ait Baha	CA	Belfaa Massa Cercle		
+MA	87452	Massa	Souss Massa	SS	Chtouka Ait Baha	CA	Belfaa Massa Cercle		
+MA	87273	Sebt Ait Milk	Souss Massa	SS	Chtouka Ait Baha	CA	Belfaa Massa Cercle		
+MA	87135	Sidi Ouassay	Souss Massa	SS	Chtouka Ait Baha	CA	Belfaa Massa Cercle		
+MA	87472	Sidi Rbat	Souss Massa	SS	Chtouka Ait Baha	CA	Belfaa Massa Cercle		
+MA	87052	Aït Amira	Souss Massa	SS	Chtouka Ait Baha	CA	Biougra Cercle		
+MA	87222	Imi Mqourn	Souss Massa	SS	Chtouka Ait Baha	CA	Biougra Cercle		
+MA	87274	Sidi Bibi	Souss Massa	SS	Chtouka Ait Baha	CA	Biougra Cercle		
+MA	87200	Biougra	Souss Massa	SS	Chtouka Ait Baha	CA	Biougra Cercle		
+MA	87423	Imhilen	Souss Massa	SS	Chtouka Ait Baha	CA	Biougra Cercle		
+MA	87223	Ouad Essafa	Souss Massa	SS	Chtouka Ait Baha	CA	Biougra Cercle		
+MA	87203	Sidi Boushab	Souss Massa	SS	Chtouka Ait Baha	CA	Biougra Cercle		
+MA	86602	Temsia	Souss Massa	SS	Inezgane Ait Melloul	IA	Ait Melloul Cercle		
+MA	86150	Ait Melloul	Souss Massa	SS	Inezgane Ait Melloul	IA	Ait Meloul Pachalik		
+MA	86199	Inezgane	Souss Massa	SS	Inezgane Ait Melloul	IA	Inezgane Pachalik		
+MA	86356	Lqliaa	Souss Massa	SS	Inezgane Ait Melloul	IA	Lqliaa Pachalik		
+MA	83052	Aoulouz	Souss Massa	SS	Taroudannt	TA	Aoulouz Pachalik		
+MA	83250	Irherm	Souss Massa	SS	Taroudannt	TA	Igherm Pachalik		
+MA	83252	Aït Abdallah	Souss Massa	SS	Taroudannt	TA	Irherm Cercle		
+MA	83284	Tindine	Souss Massa	SS	Taroudannt	TA	Irherm Cercle		
+MA	83264	Amalou	Souss Massa	SS	Taroudannt	TA	Irherm Cercle		
+MA	83265	Azaghar N'Irs	Souss Massa	SS	Taroudannt	TA	Irherm Cercle		
+MA	83285	Imi N'Tayart	Souss Massa	SS	Taroudannt	TA	Irherm Cercle		
+MA	83273	Oualqadi	Souss Massa	SS	Taroudannt	TA	Irherm Cercle		
+MA	83283	Ouzoune	Souss Massa	SS	Taroudannt	TA	Irherm Cercle		
+MA	83253	Sebt Tataoute	Souss Massa	SS	Taroudannt	TA	Irherm Cercle		
+MA	83255	Sidi Boaal	Souss Massa	SS	Taroudannt	TA	Irherm Cercle		
+MA	83256	Sidi Mzal	Souss Massa	SS	Taroudannt	TA	Irherm Cercle		
+MA	83274	Tantamt	Souss Massa	SS	Taroudannt	TA	Irherm Cercle		
+MA	83262	Tisfane	Souss Massa	SS	Taroudannt	TA	Irherm Cercle		
+MA	83282	Toufelaazt	Souss Massa	SS	Taroudannt	TA	Irherm Cercle		
+MA	83263	Toumliline	Souss Massa	SS	Taroudannt	TA	Irherm Cercle		
+MA	83072	El Faid	Souss Massa	SS	Taroudannt	TA	Oulad Berhil Cercle		
+MA	83472	Ouneine	Souss Massa	SS	Taroudannt	TA	Oulad Berhil Cercle		
+MA	83334	Sidi Ouaaziz	Souss Massa	SS	Taroudannt	TA	Oulad Berhil Cercle		
+MA	83452	Tafingoult	Souss Massa	SS	Taroudannt	TA	Oulad Berhil Cercle		
+MA	83333	Toughmart	Souss Massa	SS	Taroudannt	TA	Oulad Berhil Cercle		
+MA	83303	Ida Ougoummad	Souss Massa	SS	Taroudannt	TA	Oulad Berhil Cercle		
+MA	83535	Igoudar Mnabha	Souss Massa	SS	Taroudannt	TA	Oulad Berhil Cercle		
+MA	83304	Lamhara	Souss Massa	SS	Taroudannt	TA	Oulad Berhil Cercle		
+MA	83300	Oulad Berhil	Souss Massa	SS	Taroudannt	TA	Oulad Berhil Cercle		
+MA	83305	Sidi Abdellah Ou Said	Souss Massa	SS	Taroudannt	TA	Oulad Berhil Cercle		
+MA	83332	Tigouga	Souss Massa	SS	Taroudannt	TA	Oulad Berhil Cercle		
+MA	83306	Tinzart	Souss Massa	SS	Taroudannt	TA	Oulad Berhil Cercle		
+MA	83312	Tizi N'Test	Souss Massa	SS	Taroudannt	TA	Oulad Berhil Cercle		
+MA	83102	Argana	Souss Massa	SS	Taroudannt	TA	Oulad Teima Cercle		
+MA	83123	Imilmaiss	Souss Massa	SS	Taroudannt	TA	Oulad Teima Cercle		
+MA	83374	Issen	Souss Massa	SS	Taroudannt	TA	Oulad Teima Cercle		
+MA	83423	Lakhnafif	Souss Massa	SS	Taroudannt	TA	Oulad Teima Cercle		
+MA	83424	Lamhadi	Souss Massa	SS	Taroudannt	TA	Oulad Teima Cercle		
+MA	83382	Sidi Ahmed ou Amar	Souss Massa	SS	Taroudannt	TA	Oulad Teima Cercle		
+MA	83383	Sidi Boumoussa	Souss Massa	SS	Taroudannt	TA	Oulad Teima Cercle		
+MA	83425	Tidsi Nissendalene	Souss Massa	SS	Taroudannt	TA	Oulad Teima Cercle		
+MA	83353	Eddir	Souss Massa	SS	Taroudannt	TA	Oulad Teima Cercle		
+MA	83372	El Koudia El Beida	Souss Massa	SS	Taroudannt	TA	Oulad Teima Cercle		
+MA	83024	Machraa El Ain	Souss Massa	SS	Taroudannt	TA	Oulad Teima Cercle		
+MA	83400	Sebt El Guerdane	Souss Massa	SS	Taroudannt	TA	Oulad Teima Cercle		
+MA	83384	Sidi Moussa Lhamri	Souss Massa	SS	Taroudannt	TA	Oulad Teima Cercle		
+MA	83103	Talmakante	Souss Massa	SS	Taroudannt	TA	Oulad Teima Cercle		
+MA	83172	Ahl Tifnoute	Souss Massa	SS	Taroudannt	TA	Taliouine Cercle		
+MA	83523	Assaki	Souss Massa	SS	Taroudannt	TA	Taliouine Cercle		
+MA	83225	Azrar	Souss Massa	SS	Taroudannt	TA	Taliouine Cercle		
+MA	83173	Iguidi	Souss Massa	SS	Taroudannt	TA	Taliouine Cercle		
+MA	83525	Sidi Hsaine	Souss Massa	SS	Taroudannt	TA	Taliouine Cercle		
+MA	83174	Taouyalte	Souss Massa	SS	Taroudannt	TA	Taliouine Cercle		
+MA	83526	Tassousfi	Souss Massa	SS	Taroudannt	TA	Taliouine Cercle		
+MA	83074	Tisrasse	Souss Massa	SS	Taroudannt	TA	Taliouine Cercle		
+MA	83533	Tizgzaouine	Souss Massa	SS	Taroudannt	TA	Taliouine Cercle		
+MA	83175	Toubkal	Souss Massa	SS	Taroudannt	TA	Taliouine Cercle		
+MA	83532	Agadir Melloul	Souss Massa	SS	Taroudannt	TA	Taliouine Cercle		
+MA	83152	Askaouen	Souss Massa	SS	Taroudannt	TA	Taliouine Cercle		
+MA	83500	Taliouine	Souss Massa	SS	Taroudannt	TA	Taliouine Cercle		
+MA	83503	Zagmouzen	Souss Massa	SS	Taroudannt	TA	Taliouine Cercle		
+MA	83222	Aït Igas	Souss Massa	SS	Taroudannt	TA	Taroudannt Cercle		
+MA	83202	Freija	Souss Massa	SS	Taroudannt	TA	Taroudannt Cercle		
+MA	83034	Ida ou Moumen	Souss Massa	SS	Taroudannt	TA	Taroudannt Cercle		
+MA	83026	Sidi Borja	Souss Massa	SS	Taroudannt	TA	Taroudannt Cercle		
+MA	83022	Ahmar Laglalcha	Souss Massa	SS	Taroudannt	TA	Taroudannt Cercle		
+MA	83200	Ait Iaaza	Souss Massa	SS	Taroudannt	TA	Taroudannt Cercle		
+MA	83012	Ait Makhlouf	Souss Massa	SS	Taroudannt	TA	Taroudannt Cercle		
+MA	83013	Bounrar	Souss Massa	SS	Taroudannt	TA	Taroudannt Cercle		
+MA	83350	Oulad Teima	Souss Massa	SS	Taroudannt	TA	Taroudannt Cercle		
+MA	83014	Sidi Ahmed Ou Abdallah	Souss Massa	SS	Taroudannt	TA	Taroudannt Cercle		
+MA	83015	Sidi Dahmane	Souss Massa	SS	Taroudannt	TA	Taroudannt Cercle		
+MA	83016	Tafraouten	Souss Massa	SS	Taroudannt	TA	Taroudannt Cercle		
+MA	83044	Tamaloukte	Souss Massa	SS	Taroudannt	TA	Taroudannt Cercle		
+MA	83035	Tazemmourt	Souss Massa	SS	Taroudannt	TA	Taroudannt Cercle		
+MA	83224	Tiout	Souss Massa	SS	Taroudannt	TA	Taroudannt Cercle		
+MA	83042	Zaouiat Sidi Tahar	Souss Massa	SS	Taroudannt	TA	Taroudannt Cercle		
+MA	83000	Taroudannt	Souss Massa	SS	Taroudannt	TA	Taroudannt Pachalik		
+MA	84072	Aït Ouabelli	Souss Massa	SS	Tata	TA	Akka Cercle		
+MA	84122	Aguerd Tamanart	Souss Massa	SS	Tata	TA	Akka Cercle		
+MA	84073	Kasbat Sidi Abdellah Ben M'Barek	Souss Massa	SS	Tata	TA	Akka Cercle		
+MA	84074	Tizounine	Souss Massa	SS	Tata	TA	Akka Cercle		
+MA	84050	Akka	Souss Massa	SS	Tata	TA	Akka Pachalik		
+MA	84100	Fam El Hisn	Souss Massa	SS	Tata	TA	Fam El Hisn Pachalik		
+MA	84076	Aguinane	Souss Massa	SS	Tata	TA	Foum Zguid Cercle		
+MA	84022	Akka Ighane	Souss Massa	SS	Tata	TA	Foum Zguid Cercle		
+MA	84172	Allougoum	Souss Massa	SS	Tata	TA	Foum Zguid Cercle		
+MA	84026	Ibn Yacoub	Souss Massa	SS	Tata	TA	Foum Zguid Cercle		
+MA	84053	Tissint	Souss Massa	SS	Tata	TA	Foum Zguid Cercle		
+MA	84174	Tlite	Souss Massa	SS	Tata	TA	Foum Zguid Cercle		
+MA	84150	Foum Zguid	Souss Massa	SS	Tata	TA	Foum Zguid Cercle		
+MA	84024	Oum El Guerdane	Souss Massa	SS	Tata	TA	Tata Cercle		
+MA	84075	Tizaghte	Souss Massa	SS	Tata	TA	Tata Cercle		
+MA	84025	Tagmout	Souss Massa	SS	Tata	TA	Tata Cercle		
+MA	84000	Tata	Souss Massa	SS	Tata	TA	Tata Cercle		
+MA	84003	Tigzmerte	Souss Massa	SS	Tata	TA	Tata Cercle		
+MA	85133	Aït Issafen	Souss Massa	SS	Tiznit	TI	Anezi Cercle		
+MA	85124	Tafraout El Mouloud	Souss Massa	SS	Tiznit	TI	Anezi Cercle		
+MA	85134	Jemaa Ida Oussemlal	Souss Massa	SS	Tiznit	TI	Anezi Cercle		
+MA	85483	Tizoughrane	Souss Massa	SS	Tiznit	TI	Anezi Cercle		
+MA	85455	Ammelne	Souss Massa	SS	Tiznit	TI	Tafraout Cercle		
+MA	85472	Anameur	Souss Massa	SS	Tiznit	TI	Tafraout Cercle		
+MA	85474	Izerbi	Souss Massa	SS	Tiznit	TI	Tafraout Cercle		
+MA	85475	Ou Mesnate	Souss Massa	SS	Tiznit	TI	Tafraout Cercle		
+MA	85450	Tafraout	Souss Massa	SS	Tiznit	TI	Tafraout Cercle		
+MA	85485	Tarsouat	Souss Massa	SS	Tiznit	TI	Tafraout Cercle		
+MA	85482	Tleta Tidli	Souss Massa	SS	Tiznit	TI	Tafraout Cercle		
+MA	85002	Arbaa Sahel	Souss Massa	SS	Tiznit	TI	Tiznit Cercle		
+MA	85422	Sidi Bouabdelli	Souss Massa	SS	Tiznit	TI	Tiznit Cercle		
+MA	85004	Tnine Aglou	Souss Massa	SS	Tiznit	TI	Tiznit Cercle		
+MA	85152	Arbaa Rasmouka	Souss Massa	SS	Tiznit	TI	Tiznit Cercle		
+MA	80522	Assaka	Souss Massa	SS	Tiznit	TI	Tiznit Cercle		
+MA	85402	Bounaamane	Souss Massa	SS	Tiznit	TI	Tiznit Cercle		
+MA	85044	Bouzerz	Souss Massa	SS	Tiznit	TI	Tiznit Cercle		
+MA	85022	El Maader El Kabir	Souss Massa	SS	Tiznit	TI	Tiznit Cercle		
+MA	85003	Ouijjane	Souss Massa	SS	Tiznit	TI	Tiznit Cercle		
+MA	85025	Oulad Jerrar	Souss Massa	SS	Tiznit	TI	Tiznit Cercle		
+MA	85043	Ouled Noummeur	Souss Massa	SS	Tiznit	TI	Tiznit Cercle		
+MA	85000	Tiznit	Souss Massa	SS	Tiznit	TI	Tiznit Cercle		
+MA	85033	Toubouzar	Souss Massa	SS	Tiznit	TI	Tiznit Cercle		
+MA	32000	Al Hoceima	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Al Hoceima Pachalik		
+MA	32050	Bni Bouayach	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Bni Bouayach Pachalik		
+MA	32102	Bni Boufrah	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Bni Boufrah Cercle		
+MA	32013	Senada	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Bni Boufrah Cercle		
+MA	32122	Bni Gmil	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Bni Boufrah Cercle		
+MA	32103	Bni Gmil Maksouline	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Bni Boufrah Cercle		
+MA	32014	Torres De Alcala	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Bni Boufrah Cercle		
+MA	32022	Aït Kamra	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Bni Ouriaghel Cercle		
+MA	32003	Aït Youssef ou Ali	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Bni Ouriaghel Cercle		
+MA	32004	Arbaa Taourirt	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Bni Ouriaghel Cercle		
+MA	32172	Bni Abdallah	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Bni Ouriaghel Cercle		
+MA	32152	Bni Hadifa	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Bni Ouriaghel Cercle		
+MA	32023	Chakrane	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Bni Ouriaghel Cercle		
+MA	32202	Imrabten	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Bni Ouriaghel Cercle		
+MA	32024	Izemmouren	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Bni Ouriaghel Cercle		
+MA	32072	Nekkour	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Bni Ouriaghel Cercle		
+MA	32006	Rouadi	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Bni Ouriaghel Cercle		
+MA	32033	Louta	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Bni Ouriaghel Cercle		
+MA	32032	Tifarouine	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Bni Ouriaghel Cercle		
+MA	32026	Zaouiat Sidi Abdelkader	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Bni Ouriaghel Cercle		
+MA	32250	Imzouren	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Imzouren Pachalik		
+MA	32302	Issaguen	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Ketama Cercle		
+MA	32323	Ketama	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Ketama Cercle		
+MA	32325	Taghzout	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Ketama Cercle		
+MA	32354	Abdelghaya Souahel	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Ketama Cercle		
+MA	32356	Bni Bouchibet	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Ketama Cercle		
+MA	32362	Moulay Ahmed Cherif	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Ketama Cercle		
+MA	32364	Tamsaout	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Ketama Cercle		
+MA	32326	Tizi Tchen	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Ketama Cercle		
+MA	32352	Bni Ammart	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Targuist Cercle		
+MA	32374	Bni Bchir	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Targuist Cercle		
+MA	32373	Bni Bounsar	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Targuist Cercle		
+MA	32375	Sidi Bouzineb	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Targuist Cercle		
+MA	32355	Bni Ahmed Imoukzan	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Targuist Cercle		
+MA	32363	Sidi Boutmim	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Targuist Cercle		
+MA	32350	Targuist	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Targuist Cercle		
+MA	32034	Zarkat	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Targuist Cercle		
+MA	32365	Zarkt	Tanger Tetouan Al Hoceïma	TC	Al Hoceima	AH	Targuist Cercle		
+MA	91052	Bab Berred	Tanger Tetouan Al Hoceïma	TC	Chefchaouen	CH	Bab Berred Cercle		
+MA	91025	Beni Rzen	Tanger Tetouan Al Hoceïma	TC	Chefchaouen	CH	Bab Berred Cercle		
+MA	91122	El Melha	Tanger Tetouan Al Hoceïma	TC	Chefchaouen	CH	Bab Berred Cercle		
+MA	91073	Iounane	Tanger Tetouan Al Hoceïma	TC	Chefchaouen	CH	Bab Berred Cercle		
+MA	91153	Jebha	Tanger Tetouan Al Hoceïma	TC	Chefchaouen	CH	Bab Berred Cercle		
+MA	91072	Tamorot	Tanger Tetouan Al Hoceïma	TC	Chefchaouen	CH	Bab Berred Cercle		
+MA	91002	Bab Taza	Tanger Tetouan Al Hoceïma	TC	Chefchaouen	CH	Bab Taza Cercle		
+MA	91033	Fifi	Tanger Tetouan Al Hoceïma	TC	Chefchaouen	CH	Bab Taza Cercle		
+MA	91005	Bni Darkoul	Tanger Tetouan Al Hoceïma	TC	Chefchaouen	CH	Bab Taza Cercle		
+MA	91006	Bni Faghloum	Tanger Tetouan Al Hoceïma	TC	Chefchaouen	CH	Bab Taza Cercle		
+MA	91012	Bni Salah	Tanger Tetouan Al Hoceïma	TC	Chefchaouen	CH	Bab Taza Cercle		
+MA	91000	Chefchaouen	Tanger Tetouan Al Hoceïma	TC	Chefchaouen	CH	Bab Taza Cercle		
+MA	91042	Derdara	Tanger Tetouan Al Hoceïma	TC	Chefchaouen	CH	Bab Taza Cercle		
+MA	91013	Laghdir	Tanger Tetouan Al Hoceïma	TC	Chefchaouen	CH	Bab Taza Cercle		
+MA	91045	Tanaqoub	Tanger Tetouan Al Hoceïma	TC	Chefchaouen	CH	Bab Taza Cercle		
+MA	91123	Bni Ahmed Gharbia	Tanger Tetouan Al Hoceïma	TC	Chefchaouen	CH	Bni Ahmed Cercle		
+MA	91124	Mansoura	Tanger Tetouan Al Hoceïma	TC	Chefchaouen	CH	Bni Ahmed Cercle		
+MA	91102	Bni Ahmed Cherqia	Tanger Tetouan Al Hoceïma	TC	Chefchaouen	CH	Bni Ahmed Cercle		
+MA	91003	Steha	Tanger Tetouan Al Hoceïma	TC	Chefchaouen	CH	Bou Ahmed Cercle		
+MA	91036	Tassift	Tanger Tetouan Al Hoceïma	TC	Chefchaouen	CH	Bou Ahmed Cercle		
+MA	91034	Bni Bouzra	Tanger Tetouan Al Hoceïma	TC	Chefchaouen	CH	Bou Ahmed Cercle		
+MA	91055	Bni Mansour	Tanger Tetouan Al Hoceïma	TC	Chefchaouen	CH	Bou Ahmed Cercle		
+MA	91044	Talambote	Tanger Tetouan Al Hoceïma	TC	Chefchaouen	CH	Bou Ahmed Cercle		
+MA	91056	Tizgane	Tanger Tetouan Al Hoceïma	TC	Chefchaouen	CH	Bou Ahmed Cercle		
+MA	91173	Amtar	Tanger Tetouan Al Hoceïma	TC	Chefchaouen	CH	Jebha Cercle		
+MA	91172	Bni Smih	Tanger Tetouan Al Hoceïma	TC	Chefchaouen	CH	Jebha Cercle		
+MA	91174	Ouaouzgane	Tanger Tetouan Al Hoceïma	TC	Chefchaouen	CH	Jebha Cercle		
+MA	91062	Bni Rzine	Tanger Tetouan Al Hoceïma	TC	Chefchaouen	CH	Jebha Cercle		
+MA	91054	M'tioua	Tanger Tetouan Al Hoceïma	TC	Chefchaouen	CH	Jebha Cercle		
+MA	94031	Hakkama	Tanger Tetouan Al Hoceïma	TC	Fahs Anjra	FB	Anjra Cercle		
+MA	94032	Jouamaa	Tanger Tetouan Al Hoceïma	TC	Fahs Anjra	FB	Anjra Cercle		
+MA	94033	Ksar El Majaz	Tanger Tetouan Al Hoceïma	TC	Fahs Anjra	FB	Anjra Cercle		
+MA	94152	Ksar Sghir	Tanger Tetouan Al Hoceïma	TC	Fahs Anjra	FB	Fahs Cercle		
+MA	92150	Ksar El Kebir	Tanger Tetouan Al Hoceïma	TC	Larache	LA	Ksar El Kebir Pachalik		
+MA	92000	Larache	Tanger Tetouan Al Hoceïma	TC	Larache	LA	Larache Pachalik		
+MA	92072	Zouada	Tanger Tetouan Al Hoceïma	TC	Larache	LA	Loukouss Cercle		
+MA	92052	Al Aouamra	Tanger Tetouan Al Hoceïma	TC	Larache	LA	Loukouss Cercle		
+MA	92155	Bou Jedyane	Tanger Tetouan Al Hoceïma	TC	Larache	LA	Loukouss Cercle		
+MA	92156	Ksar Bjir	Tanger Tetouan Al Hoceïma	TC	Larache	LA	Loukouss Cercle		
+MA	92164	Souk L'Qolla	Tanger Tetouan Al Hoceïma	TC	Larache	LA	Loukouss Cercle		
+MA	92202	Tatoft	Tanger Tetouan Al Hoceïma	TC	Larache	LA	Loukouss Cercle		
+MA	92024	Zaaroura	Tanger Tetouan Al Hoceïma	TC	Larache	LA	Moulay Abdeslem Ben M chich Cercle		
+MA	92006	Bni Arouss	Tanger Tetouan Al Hoceïma	TC	Larache	LA	Moulay Abdeslem Ben M chich Cercle		
+MA	92013	Tazroute	Tanger Tetouan Al Hoceïma	TC	Larache	LA	Moulay Abdeslem Ben M chich Cercle		
+MA	92272	Rissana Janoubia	Tanger Tetouan Al Hoceïma	TC	Larache	LA	Oued El Makhazine Cercle		
+MA	92173	Souk Tolba	Tanger Tetouan Al Hoceïma	TC	Larache	LA	Oued El Makhazine Cercle		
+MA	92102	Khemis Sahel	Tanger Tetouan Al Hoceïma	TC	Larache	LA	Oued El Makhazine Cercle		
+MA	92162	Oulad Ouchih	Tanger Tetouan Al Hoceïma	TC	Larache	LA	Oued El Makhazine Cercle		
+MA	92012	Rissana Chamalia	Tanger Tetouan Al Hoceïma	TC	Larache	LA	Oued El Makhazine Cercle		
+MA	92163	Souaken	Tanger Tetouan Al Hoceïma	TC	Larache	LA	Oued El Makhazine Cercle		
+MA	92252	Tlata Rissana	Tanger Tetouan Al Hoceïma	TC	Larache	LA	Oued El Makhazine Cercle		
+MA	93100	Fnideq	Tanger Tetouan Al Hoceïma	TC	M'diq Fnideq	FN	Fnideq Pachalik		
+MA	93055	Allyene	Tanger Tetouan Al Hoceïma	TC	M'diq Fnideq	FN	MA140603 Cercle		
+MA	93103	Belyounech	Tanger Tetouan Al Hoceïma	TC	M'diq Fnideq	FN	MA140603 Cercle		
+MA	93150	Martil	Tanger Tetouan Al Hoceïma	TC	M'diq Fnideq	FN	Martil Pachalik		
+MA	93200	M'Diq	Tanger Tetouan Al Hoceïma	TC	M'diq Fnideq	FN	M diq Pachalik		
+MA	91022	Ain Beida	Tanger Tetouan Al Hoceïma	TC	Ouezzane	OU	Moqrisset Cercle		
+MA	91024	Asjen	Tanger Tetouan Al Hoceïma	TC	Ouezzane	OU	Moqrisset Cercle		
+MA	91026	Brikcha	Tanger Tetouan Al Hoceïma	TC	Ouezzane	OU	Moqrisset Cercle		
+MA	16224	Bni Quolla	Tanger Tetouan Al Hoceïma	TC	Ouezzane	OU	Ouezzane Cercle		
+MA	16225	Ounnana	Tanger Tetouan Al Hoceïma	TC	Ouezzane	OU	Ouezzane Cercle		
+MA	16032	Sidi Ahmed Cherif	Tanger Tetouan Al Hoceïma	TC	Ouezzane	OU	Ouezzane Cercle		
+MA	16004	Sidi Bousber	Tanger Tetouan Al Hoceïma	TC	Ouezzane	OU	Ouezzane Cercle		
+MA	16202	Sidi Redouane	Tanger Tetouan Al Hoceïma	TC	Ouezzane	OU	Ouezzane Cercle		
+MA	16252	Teroual	Tanger Tetouan Al Hoceïma	TC	Ouezzane	OU	Ouezzane Cercle		
+MA	16204	Lamjaara	Tanger Tetouan Al Hoceïma	TC	Ouezzane	OU	Ouezzane Cercle		
+MA	16205	Masmouda	Tanger Tetouan Al Hoceïma	TC	Ouezzane	OU	Ouezzane Cercle		
+MA	16206	Mzefroune	Tanger Tetouan Al Hoceïma	TC	Ouezzane	OU	Ouezzane Cercle		
+MA	16212	Zghira	Tanger Tetouan Al Hoceïma	TC	Ouezzane	OU	Ouezzane Cercle		
+MA	16200	Ouezzane	Tanger Tetouan Al Hoceïma	TC	Ouezzane	OU	Ouezzane Pachalik		
+MA	91154	Kalaat Bouqorra	Tanger Tetouan Al Hoceïma	TC	Ouezzane	OU	Zoumi Cercle		
+MA	91202	Zoumi	Tanger Tetouan Al Hoceïma	TC	Ouezzane	OU	Zoumi Cercle		
+MA	90052	Dar Chaoui	Tanger Tetouan Al Hoceïma	TC	Tanger Assilah	TA	Assilah Cercle		
+MA	90062	Al Manzla	Tanger Tetouan Al Hoceïma	TC	Tanger Assilah	TA	Assilah Cercle		
+MA	90064	Aquouass Briech	Tanger Tetouan Al Hoceïma	TC	Tanger Assilah	TA	Assilah Cercle		
+MA	90063	Boukhalef	Tanger Tetouan Al Hoceïma	TC	Tanger Assilah	TA	Assilah Cercle		
+MA	90302	Had Al Gharbia	Tanger Tetouan Al Hoceïma	TC	Tanger Assilah	TA	Assilah Cercle		
+MA	90065	Lkhaloua	Tanger Tetouan Al Hoceïma	TC	Tanger Assilah	TA	Assilah Cercle		
+MA	90066	Sahel Chamali	Tanger Tetouan Al Hoceïma	TC	Tanger Assilah	TA	Assilah Cercle		
+MA	90036	Sebt Azzinate	Tanger Tetouan Al Hoceïma	TC	Tanger Assilah	TA	Assilah Cercle		
+MA	90050	Assilah	Tanger Tetouan Al Hoceïma	TC	Tanger Assilah	TA	Assilah Pachalik		
+MA	90102	Gueznaia	Tanger Tetouan Al Hoceïma	TC	Tanger Assilah	TA	Gueznaia Pachalik		
+MA	90090	Hjar Ennhal	Tanger Tetouan Al Hoceïma	TC	Tanger Assilah	TA	MA140481 Cercle		
+MA	90999	Tanger-Médina	Tanger Tetouan Al Hoceïma	TC	Tanger Assilah	TA	Tanger Pachalik		
+MA	90072	Bghaghza	Tanger Tetouan Al Hoceïma	TC	Tetouan	TE	Jebala Cercle		
+MA	93054	Ain Lahsan	Tanger Tetouan Al Hoceïma	TC	Tetouan	TE	Jebala Cercle		
+MA	93036	AL Kharroub	Tanger Tetouan Al Hoceïma	TC	Tetouan	TE	Jebala Cercle		
+MA	93062	Bni Harchen	Tanger Tetouan Al Hoceïma	TC	Tetouan	TE	Jebala Cercle		
+MA	93023	Bni Idder	Tanger Tetouan Al Hoceïma	TC	Tetouan	TE	Jebala Cercle		
+MA	93063	Mallalienne	Tanger Tetouan Al Hoceïma	TC	Tetouan	TE	Jebala Cercle		
+MA	93064	Saddina	Tanger Tetouan Al Hoceïma	TC	Tetouan	TE	Jebala Cercle		
+MA	93046	Sahtryine	Tanger Tetouan Al Hoceïma	TC	Tetouan	TE	Jebala Cercle		
+MA	93065	Souk Kdim	Tanger Tetouan Al Hoceïma	TC	Tetouan	TE	Jebala Cercle		
+MA	93250	Oued Laou	Tanger Tetouan Al Hoceïma	TC	Tetouan	TE	Oued Laou Pachalik		
+MA	93022	Azla	Tanger Tetouan Al Hoceïma	TC	Tetouan	TE	Tetouan Cercle		
+MA	93066	Al Hamra	Tanger Tetouan Al Hoceïma	TC	Tetouan	TE	Tetouan Cercle		
+MA	93042	Al Oued	Tanger Tetouan Al Hoceïma	TC	Tetouan	TE	Tetouan Cercle		
+MA	93043	Bni Leit	Tanger Tetouan Al Hoceïma	TC	Tetouan	TE	Tetouan Cercle		
+MA	93044	Bni Said	Tanger Tetouan Al Hoceïma	TC	Tetouan	TE	Tetouan Cercle		
+MA	93045	Oulad Ali Mansour	Tanger Tetouan Al Hoceïma	TC	Tetouan	TE	Tetouan Cercle		
+MA	93053	Zaitoune	Tanger Tetouan Al Hoceïma	TC	Tetouan	TE	Tetouan Cercle		
+MA	93032	Zaouiat Sidi Kacem	Tanger Tetouan Al Hoceïma	TC	Tetouan	TE	Tetouan Cercle		
+MA	93999	Tétouan	Tanger Tetouan Al Hoceïma	TC	Tetouan	TE	Tetouan Pachalik		
+MA	20002	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20003	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20004	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20006	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20010	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20012	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20020	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20022	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20023	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20026	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20030	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20033	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20034	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20036	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20040	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20042	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20043	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20045	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20046	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20050	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20052	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20053	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20054	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20055	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20056	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20060	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20062	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20063	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20064	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20070	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20072	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20073	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20075	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20076	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20080	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20090	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20100	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20102	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20103	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20104	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20105	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20110	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20119	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20120	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20130	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20140	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20150	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20152	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20153	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20154	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20160	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20170	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20180	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20190	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20200	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20202	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20203	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20204	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20210	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20220	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20230	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20232	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20233	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20240	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20250	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20252	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20253	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20260	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20270	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20280	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20290	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20300	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20302	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20303	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20310	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20320	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20322	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20330	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20340	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20350	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20352	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20353	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20360	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20370	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20380	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20390	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20400	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20402	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20410	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20420	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20430	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20440	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20450	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20452	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20453	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20454	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20455	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20460	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20470	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20480	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20490	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20500	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20502	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20503	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20504	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20510	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20520	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20530	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20540	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20550	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20552	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20553	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20554	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20560	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20570	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20580	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20590	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20600	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20602	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20603	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20604	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20605	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20606	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20610	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20620	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20630	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20640	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20650	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20660	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20670	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20700	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20702	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20703	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20704	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20705	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20999	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	28119	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	29004	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	30119	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	70119	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	80119	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		
+MA	20002	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20003	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20004	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20006	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20010	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20012	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20020	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20022	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20023	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20026	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20030	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20033	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20034	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20036	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20040	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20042	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20043	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20045	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20046	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20050	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20052	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20053	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20054	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20055	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20056	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20060	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20062	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20063	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20064	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20070	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20072	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20073	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20075	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20076	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20080	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20090	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20100	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20102	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20103	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20104	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20105	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20110	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20119	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20120	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20130	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20140	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20150	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20152	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20153	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20154	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20160	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20170	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20180	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20190	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20200	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20202	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20203	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20204	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20210	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20220	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20230	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20232	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20233	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20240	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20250	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20252	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20253	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20260	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20270	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20280	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20290	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20300	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20302	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20303	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20310	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20320	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20322	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20330	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20340	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20350	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20352	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20353	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20360	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20370	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20380	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20390	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20400	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20402	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20410	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20420	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20430	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20440	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20450	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20452	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20453	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20454	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20455	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20460	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20470	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20480	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20490	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20500	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20502	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20503	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20504	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20510	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20520	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20530	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20540	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20550	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20552	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20553	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20554	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20560	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20570	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20580	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20590	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20600	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20602	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20603	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20604	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20605	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20606	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20610	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20620	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20630	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20640	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20650	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20660	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20670	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20700	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20702	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20703	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20704	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20705	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20999	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	28119	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	29004	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	30119	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	70119	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	80119	Casablanca	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20580	Allée Abou Abdellah Ben Haj	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20580	Allée Amandiers	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	20250	Allée Arancarias	Casablanca Settat	CS	Casablanca	CB	Casablanca Pachalik		Casablanca Pachalik Casablanca
+MA	27184	Oulad Salah	Casablanca Settat	CS	Nouaceur	NC	Bouskoura Cercle		
+MA	26600	Sidi Hajjaj	Casablanca Settat	CS	Settat	SE	Ben Ahmed Cercle		
+MA	34054	Mkansa	Fes Meknes	FK	Taounate	TN	Karia Ba Mohamed Cercle		
+MA	35115	Taddart	L'Oriental	OF	Guercif	GU	Taddart Cercle		
+MA	10002	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10003	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10004	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10005	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10006	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10010	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10014	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10015	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10016	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10020	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10023	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10024	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10030	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10036	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10040	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10044	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10050	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10052	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10053	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10054	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10056	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10060	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10062	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10070	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10080	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10090	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10100	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10102	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10103	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10104	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10105	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10106	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10110	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10112	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10113	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10114	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10115	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10116	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10120	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10130	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10140	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10150	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10152	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10153	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10160	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10170	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10180	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10190	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10200	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10210	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10220	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10999	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		
+MA	10002	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10003	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10004	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10005	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10006	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10010	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10014	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10015	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10016	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10020	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10023	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10024	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10030	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10036	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10040	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10044	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10050	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10052	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10053	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10054	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10056	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10060	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10062	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10070	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10080	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10090	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10100	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10102	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10103	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10104	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10105	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10106	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10110	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10112	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10113	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10114	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10115	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10116	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10120	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10130	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10140	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10150	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10152	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10153	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10160	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10170	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10180	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10190	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10200	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10210	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10220	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10999	Rabat	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10110	Allée Alkhaizourane	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10110	Allée Est	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10110	Allée Nord	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	10110	Avenue Abderrahim Bouabid	Rabat Sale Kenitra	RK	Rabat	RA	Rabat Pachalik		Rabat Pachalik Rabat
+MA	80750	Aourir	Souss Massa	SS	Agadir Ida Outanane	AI	Agadir Atlantique Cercle		
+MA	85035	Assaka	Souss Massa	SS	Tiznit	TI	Tiznit Cercle		

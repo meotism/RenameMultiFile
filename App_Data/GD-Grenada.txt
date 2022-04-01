@@ -1,0 +1,82 @@
+GD	00000		Carriacou and Petite Martinique	CA	Argyle						
+GD	00000		Carriacou and Petite Martinique	CA	Hillsborough						
+GD	00000		Carriacou and Petite Martinique	CA	L'Appelle						
+GD	00000		Saint Andrew	AN	Adelphi						
+GD	00000		Saint Andrew	AN	Barique						
+GD	00000		Saint Andrew	AN	Birch Grove						
+GD	00000		Saint Andrew	AN	Blaize						
+GD	00000		Saint Andrew	AN	Brandon Hall						
+GD	00000		Saint Andrew	AN	Chutz						
+GD	00000		Saint Andrew	AN	Clabony						
+GD	00000		Saint Andrew	AN	Constantine						
+GD	00000		Saint Andrew	AN	Deblando						
+GD	00000		Saint Andrew	AN	Dunfermline						
+GD	00000		Saint Andrew	AN	Granton						
+GD	00000		Saint Andrew	AN	Grenville						
+GD	00000		Saint Andrew	AN	Harford Village						
+GD	00000		Saint Andrew	AN	Hope Bacolet						
+GD	00000		Saint Andrew	AN	La Digue						
+GD	00000		Saint Andrew	AN	La Poterie						
+GD	00000		Saint Andrew	AN	Mango						
+GD	00000		Saint Andrew	AN	Morne Longue						
+GD	00000		Saint Andrew	AN	Mount Carmel						
+GD	00000		Saint Andrew	AN	Mount Fann						
+GD	00000		Saint Andrew	AN	Mount Horne						
+GD	00000		Saint Andrew	AN	Moya						
+GD	00000		Saint Andrew	AN	Nianganfoix						
+GD	00000		Saint Andrew	AN	Paradise						
+GD	00000		Saint Andrew	AN	Parcelete						
+GD	00000		Saint Andrew	AN	Pecher						
+GD	00000		Saint Andrew	AN	Plaisance						
+GD	00000		Saint Andrew	AN	Richmond						
+GD	00000		Saint Andrew	AN	River Salee						
+GD	00000		Saint Andrew	AN	Simon						
+GD	00000		Saint Andrew	AN	Tivoli						
+GD	00000		Saint Andrew	AN	Tricolar						
+GD	00000		Saint Andrew	AN	Upper Pearl						
+GD	00000		Saint David	DA	Badia						
+GD	00000		Saint David	DA	Barrow						
+GD	00000		Saint David	DA	Beaton						
+GD	00000		Saint David	DA	Becke Moui						
+GD	00000		Saint David	DA	Belle Isle						
+GD	00000		Saint David	DA	Bellvue						
+GD	00000		Saint David	DA	Corinth						
+GD	00000		Saint David	DA	Crochu						
+GD	00000		Saint David	DA	Epping Forest						
+GD	00000		Saint David	DA	Maulti						
+GD	00000		Saint David	DA	Red Gate						
+GD	00000		Saint David	DA	Saint David						
+GD	00000		Saint George	GE	Belmont						
+GD	00000		Saint George	GE	Calliste						
+GD	00000		Saint George	GE	Fort Jeudy						
+GD	00000		Saint George	GE	Lance aux Epines						
+GD	00000		Saint George	GE	Marian						
+GD	00000		Saint George	GE	Morne Rouge						
+GD	00000		Saint George	GE	Mount Harman						
+GD	00000		Saint George	GE	Petit Bouc						
+GD	00000		Saint George	GE	Petit Calivigny						
+GD	00000		Saint George	GE	Saint George's						
+GD	00000		Saint John	JO	Concord						
+GD	00000		Saint John	JO	Dothan						
+GD	00000		Saint John	JO	Florida						
+GD	00000		Saint John	JO	Gouyave						
+GD	00000		Saint John	JO	Grand Roy						
+GD	00000		Saint John	JO	Morne Docteur						
+GD	00000		Saint John	JO	Mount Nesbit						
+GD	00000		Saint John	JO	Pleasant's						
+GD	00000		Saint John	JO	Rosemont						
+GD	00000		Saint John	JO	St Mary						
+GD	00000		Saint Mark	MA	Diego Piece						
+GD	00000		Saint Mark	MA	Industry						
+GD	00000		Saint Mark	MA	Maran						
+GD	00000		Saint Mark	MA	Union						
+GD	00000		Saint Mark	MA	Victoria						
+GD	00000		Saint Mark	MA	Waltham						
+GD	00000		Saint Patrick	PA	Bird Island						
+GD	00000		Saint Patrick	PA	Caille Island						
+GD	00000		Saint Patrick	PA	Diamond Island						
+GD	00000		Saint Patrick	PA	Green Island						
+GD	00000		Saint Patrick	PA	Les Tantes						
+GD	00000		Saint Patrick	PA	Morne Fendue						
+GD	00000		Saint Patrick	PA	Ronde Island						
+GD	00000		Saint Patrick	PA	Sauteurs						

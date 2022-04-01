@@ -1,0 +1,478 @@
+BH	607		Capital	CA	Abu Al Aish						
+BH	367		Capital	CA	Abu Buham						
+BH	366		Capital	CA	Adhari						
+BH	369		Capital	CA	Adhari						
+BH	327		Capital	CA	Adliya						
+BH	336		Capital	CA	Adliya						
+BH	623		Capital	CA	Al Akr Al Sharqi						
+BH	361		Capital	CA	Al Belad Al Qadeem						
+BH	362		Capital	CA	Al Belad Al Qadeem						
+BH	363		Capital	CA	Al Belad Al Qadeem						
+BH	364		Capital	CA	Al Belad Al Qadeem						
+BH	322		Capital	CA	Alcornish						
+BH	324		Capital	CA	Al Fatih						
+BH	342		Capital	CA	Al Guraifa						
+BH	611		Capital	CA	Al Hamriya						
+BH	365		Capital	CA	Al Khamiss						
+BH	606		Capital	CA	Al Kharjiya						
+BH	303		Capital	CA	Alnaim						
+BH	314		Capital	CA	Alnaim						
+BH	733		Capital	CA	Al Nasfa						
+BH	438		Capital	CA	Alqalla						
+BH	309		Capital	CA	Alsalmaniya						
+BH	310		Capital	CA	Alsalmaniya						
+BH	311		Capital	CA	Alsalmaniya						
+BH	329		Capital	CA	Alsalmaniya						
+BH	428		Capital	CA	Alseef District						
+BH	436		Capital	CA	Alseef District						
+BH	328		Capital	CA	Al Suqayyah						
+BH	313		Capital	CA	Alsuwayfia						
+BH	351		Capital	CA	Alsuwayfia						
+BH	353		Capital	CA	Alsuwayfia						
+BH	344		Capital	CA	Alwajeha Albhariya						
+BH	346		Capital	CA	Alwajeha Albhariya						
+BH	332		Capital	CA	Bu Asheera						
+BH	373		Capital	CA	Bu Ghasal						
+BH	330		Capital	CA	Bu Ghazal						
+BH	331		Capital	CA	Bu Ghazal						
+BH	354		Capital	CA	Burhama						
+BH	357		Capital	CA	Burhama						
+BH	315		Capital	CA	Commercial Area						
+BH	316		Capital	CA	Commercial Area						
+BH	412		Capital	CA	Daih						
+BH	414		Capital	CA	Daih						
+BH	317		Capital	CA	Diplomatic Area						
+BH	307		Capital	CA	Gudaibiya						
+BH	308		Capital	CA	Gudaibiya						
+BH	321		Capital	CA	Gudaibiya						
+BH	325		Capital	CA	Gudaibiya						
+BH	326		Capital	CA	Gudaibiya						
+BH	338		Capital	CA	Gudaibiya						
+BH	318		Capital	CA	Hoora						
+BH	319		Capital	CA	Hoora						
+BH	320		Capital	CA	Hoora						
+BH	815		Capital	CA	Isa Town						
+BH	816		Capital	CA	Isa Town						
+BH	721		Capital	CA	Jid Ali						
+BH	419		Capital	CA	Jidhafs						
+BH	421		Capital	CA	Jidhafs						
+BH	422		Capital	CA	Jidhafs						
+BH	423		Capital	CA	Jidhafs						
+BH	424 (..)		Capital	CA	Jidhafs						
+BH	340		Capital	CA	Juffair						
+BH	341		Capital	CA	Juffair						
+BH	729		Capital	CA	Jurdab						
+BH	430		Capital	CA	Karbabad						
+BH	432		Capital	CA	Karbabad						
+BH	434		Capital	CA	Karbabad						
+BH	633		Capital	CA	Maameer						
+BH	634		Capital	CA	Maameer						
+BH	602		Capital	CA	Mahaza						
+BH	603		Capital	CA	Mahaza						
+BH	334		Capital	CA	Mahooz						
+BH	323		Capital	CA	Manama Center						
+BH	343		Capital	CA	Minaa Salman Industrial Area						
+BH	605		Capital	CA	Murgoban						
+BH	411		Capital	CA	Musala						
+BH	413		Capital	CA	Musala						
+BH	380		Capital	CA	Nahib Saleh						
+BH	381		Capital	CA	Nahib Saleh						
+BH	382		Capital	CA	Nahib Saleh						
+BH	592		Capital	CA	Nurana						
+BH	644		Capital	CA	Nuwaydirat						
+BH	604		Capital	CA	Qarya						
+BH	312		Capital	CA	Qufool						
+BH	306		Capital	CA	Ras Ruman						
+BH	356		Capital	CA	Salhiya						
+BH	402		Capital	CA	Sanabis						
+BH	404		Capital	CA	Sanabis						
+BH	405		Capital	CA	Sanabis						
+BH	406		Capital	CA	Sanabis						
+BH	408		Capital	CA	Sanabis						
+BH	410		Capital	CA	Sanabis						
+BH	743		Capital	CA	Sanad						
+BH	745		Capital	CA	Sanad						
+BH	601		Capital	CA	Sitra Industrial Area						
+BH	301		Capital	CA	Souq						
+BH	302		Capital	CA	Souq						
+BH	304		Capital	CA	Souq						
+BH	305		Capital	CA	Souq						
+BH	368		Capital	CA	Southern Sehla						
+BH	609		Capital	CA	Sufala						
+BH	407		Capital	CA	Tashan						
+BH	701		Capital	CA	Tubli						
+BH	705		Capital	CA	Tubli						
+BH	707		Capital	CA	Tubli						
+BH	709		Capital	CA	Tubli						
+BH	711		Capital	CA	Tubli						
+BH	713		Capital	CA	Tubli						
+BH	610		Capital	CA	Um Albaidh						
+BH	333		Capital	CA	Um Alhassam						
+BH	335		Capital	CA	Um Alhassam						
+BH	337		Capital	CA	Um Alhassam						
+BH	339		Capital	CA	Um Alhassam						
+BH	608		Capital	CA	Wadyan						
+BH	624		Capital	CA	Western Aker						
+BH	625		Capital	CA	Western Aker						
+BH	626		Capital	CA	Western Aker						
+BH	358		Capital	CA	Zinj						
+BH	359		Capital	CA	Zinj						
+BH	360		Capital	CA	Zinj						
+BH	228		Muharraq	MU	Al Sayh						
+BH	229		Muharraq	MU	Al Sayh						
+BH	257		Muharraq	MU	Amwaj						
+BH	258		Muharraq	MU	Amwaj						
+BH	263		Muharraq	MU	Amwaj						
+BH	264		Muharraq	MU	Amwaj						
+BH	265		Muharraq	MU	Amwaj						
+BH	266		Muharraq	MU	Amwaj						
+BH	269		Muharraq	MU	Amwaj						
+BH	240		Muharraq	MU	Arad						
+BH	241		Muharraq	MU	Arad						
+BH	242		Muharraq	MU	Arad						
+BH	243		Muharraq	MU	Arad						
+BH	244		Muharraq	MU	Arad						
+BH	245		Muharraq	MU	Arad						
+BH	246		Muharraq	MU	Arad						
+BH	221		Muharraq	MU	Busaiteen						
+BH	222		Muharraq	MU	Busaiteen						
+BH	223		Muharraq	MU	Busaiteen						
+BH	225		Muharraq	MU	Busaiteen						
+BH	226		Muharraq	MU	Busaiteen						
+BH	227		Muharraq	MU	Busaiteen						
+BH	231		Muharraq	MU	Dair						
+BH	232		Muharraq	MU	Dair						
+BH	233		Muharraq	MU	Dair						
+BH	251		Muharraq	MU	Galali						
+BH	252		Muharraq	MU	Galali						
+BH	253		Muharraq	MU	Galali						
+BH	254		Muharraq	MU	Galali						
+BH	255		Muharraq	MU	Galali						
+BH	256		Muharraq	MU	Galali						
+BH	248		Muharraq	MU	Halat Alnaim						
+BH	247		Muharraq	MU	Halat Alsulta						
+BH	101		Muharraq	MU	Hidd						
+BH	102		Muharraq	MU	Hidd						
+BH	103		Muharraq	MU	Hidd						
+BH	104		Muharraq	MU	Hidd						
+BH	105		Muharraq	MU	Hidd						
+BH	106		Muharraq	MU	Hidd						
+BH	107		Muharraq	MU	Hidd						
+BH	108		Muharraq	MU	Hidd						
+BH	109		Muharraq	MU	Hidd						
+BH	110		Muharraq	MU	Hidd						
+BH	111		Muharraq	MU	Hidd						
+BH	112		Muharraq	MU	Hidd						
+BH	113		Muharraq	MU	Hidd						
+BH	115		Muharraq	MU	Hidd						
+BH	116		Muharraq	MU	Hidd						
+BH	117		Muharraq	MU	Hidd						
+BH	118		Muharraq	MU	Hidd						
+BH	119		Muharraq	MU	Hidd						
+BH	121		Muharraq	MU	Hidd						
+BH	128		Muharraq	MU	Hidd						
+BH	202		Muharraq	MU	Muharraq						
+BH	203		Muharraq	MU	Muharraq						
+BH	204		Muharraq	MU	Muharraq						
+BH	205		Muharraq	MU	Muharraq						
+BH	206		Muharraq	MU	Muharraq						
+BH	207		Muharraq	MU	Muharraq						
+BH	208		Muharraq	MU	Muharraq						
+BH	209		Muharraq	MU	Muharraq						
+BH	210		Muharraq	MU	Muharraq						
+BH	211		Muharraq	MU	Muharraq						
+BH	212		Muharraq	MU	Muharraq						
+BH	213		Muharraq	MU	Muharraq						
+BH	214		Muharraq	MU	Muharraq						
+BH	215		Muharraq	MU	Muharraq						
+BH	216		Muharraq	MU	Muharraq						
+BH	217		Muharraq	MU	Muharraq						
+BH	224		Muharraq	MU	Muharraq						
+BH	234		Muharraq	MU	Samaheej						
+BH	235		Muharraq	MU	Samaheej						
+BH	236		Muharraq	MU	Samaheej						
+BH	237		Muharraq	MU	Samaheej						
+BH	732		Northern	NO	Aáli						
+BH	734		Northern	NO	Aáli						
+BH	736		Northern	NO	Aáli						
+BH	738		Northern	NO	Aáli						
+BH	740		Northern	NO	Aáli						
+BH	742		Northern	NO	Aáli						
+BH	744		Northern	NO	Aáli						
+BH	469		Northern	NO	Abu Saiba'a						
+BH	471		Northern	NO	Abu Saiba'a						
+BH	473		Northern	NO	Abu Saiba'a						
+BH	475		Northern	NO	Abu Saiba'a						
+BH	463		Northern	NO	Al Hajar						
+BH	465		Northern	NO	Al Hajar						
+BH	1001		Northern	NO	Al Jasra						
+BH	1002		Northern	NO	Al Jasra						
+BH	1003		Northern	NO	Al Jasra						
+BH	1004		Northern	NO	Al Jasra						
+BH	1006		Northern	NO	Al Jasra						
+BH	1016		Northern	NO	Al Lawzi						
+BH	1018		Northern	NO	Al Lawzi						
+BH	1020		Northern	NO	Al Lawzi						
+BH	587		Northern	NO	Al Muhamadyia						
+BH	477		Northern	NO	Al Shakhura						
+BH	479		Northern	NO	Al Shakhura						
+BH	481		Northern	NO	Al Shakhura						
+BH	537		Northern	NO	Bani Jamra						
+BH	539		Northern	NO	Bani Jamra						
+BH	541		Northern	NO	Bani Jamra						
+BH	543		Northern	NO	Bani Jamra						
+BH	518		Northern	NO	Barbar						
+BH	520		Northern	NO	Barbar						
+BH	522		Northern	NO	Barbar						
+BH	524		Northern	NO	Barbar						
+BH	526		Northern	NO	Barbar						
+BH	528		Northern	NO	Barbar						
+BH	530		Northern	NO	Barbar						
+BH	550		Northern	NO	Budaiya						
+BH	552		Northern	NO	Budaiya						
+BH	553		Northern	NO	Budaiya						
+BH	555		Northern	NO	Budaiya						
+BH	557		Northern	NO	Budaiya						
+BH	559		Northern	NO	Budaiya						
+BH	455		Northern	NO	Buqwa						
+BH	457		Northern	NO	Buqwa						
+BH	752		Northern	NO	Buri						
+BH	754		Northern	NO	Buri						
+BH	756		Northern	NO	Buri						
+BH	758		Northern	NO	Buri						
+BH	760		Northern	NO	Buri						
+BH	762		Northern	NO	Buri						
+BH	1017		Northern	NO	Damistan						
+BH	1019		Northern	NO	Damistan						
+BH	1022		Northern	NO	Damistan						
+BH	1046		Northern	NO	Dar Kulaib						
+BH	536		Northern	NO	Diraz						
+BH	538		Northern	NO	Diraz						
+BH	540		Northern	NO	Diraz						
+BH	542		Northern	NO	Diraz						
+BH	544		Northern	NO	Diraz						
+BH	1038		Northern	NO	Hamad Town						
+BH	1203		Northern	NO	Hamad Town						
+BH	1204		Northern	NO	Hamad Town						
+BH	1205		Northern	NO	Hamad Town						
+BH	1206		Northern	NO	Hamad Town						
+BH	1207		Northern	NO	Hamad Town						
+BH	1208		Northern	NO	Hamad Town						
+BH	1209		Northern	NO	Hamad Town						
+BH	1210		Northern	NO	Hamad Town						
+BH	1211		Northern	NO	Hamad Town						
+BH	1212		Northern	NO	Hamad Town						
+BH	1213		Northern	NO	Hamad Town						
+BH	1214		Northern	NO	Hamad Town						
+BH	1215		Northern	NO	Hamad Town						
+BH	1216		Northern	NO	Hamad Town						
+BH	1009		Northern	NO	Hamala						
+BH	1010		Northern	NO	Hamala						
+BH	1012		Northern	NO	Hamala						
+BH	1014		Northern	NO	Hamala						
+BH	444		Northern	NO	Hillat AbdulSaleh						
+BH	714		Northern	NO	Hoarat Aáli						
+BH	730		Northern	NO	Hoarat Aáli						
+BH	431		Northern	NO	Jabalt Hibshi						
+BH	433		Northern	NO	Jabalt Hibshi						
+BH	435		Northern	NO	Jabalt Hibshi						
+BH	561		Northern	NO	Janabiya						
+BH	565		Northern	NO	Janabiya						
+BH	569		Northern	NO	Janabiya						
+BH	571		Northern	NO	Janabiya						
+BH	575 (..)		Northern	NO	Janabiya						
+BH	502		Northern	NO	Jannusan						
+BH	504		Northern	NO	Jannusan						
+BH	506		Northern	NO	Jannusan						
+BH	508		Northern	NO	Jannusan						
+BH	591		Northern	NO	Jedah						
+BH	514		Northern	NO	Jind Al Haj						
+BH	454		Northern	NO	Karana						
+BH	456		Northern	NO	Karana						
+BH	458		Northern	NO	Karana						
+BH	460		Northern	NO	Karana						
+BH	1025		Northern	NO	Karzakan						
+BH	1026		Northern	NO	Karzakan						
+BH	1027		Northern	NO	Karzakan						
+BH	1028		Northern	NO	Karzakan						
+BH	1095		Northern	NO	King Fahad Causway						
+BH	505		Northern	NO	Magaba						
+BH	507		Northern	NO	Magaba						
+BH	509		Northern	NO	Magaba						
+BH	513		Northern	NO	Magaba						
+BH	1032		Northern	NO	Malkiya						
+BH	1033		Northern	NO	Malkiya						
+BH	1034		Northern	NO	Malkiya						
+BH	450		Northern	NO	Maqsha						
+BH	529		Northern	NO	Markh						
+BH	531		Northern	NO	Markh						
+BH	533		Northern	NO	Markh						
+BH	1218		Northern	NO	New districts						
+BH	515		Northern	NO	New districts						
+BH	532		Northern	NO	North City						
+BH	534		Northern	NO	North City						
+BH	535		Northern	NO	North City						
+BH	580		Northern	NO	Northern City						
+BH	581		Northern	NO	Northern City						
+BH	582		Northern	NO	Northern City						
+BH	583		Northern	NO	Northern City						
+BH	584		Northern	NO	Northern City						
+BH	585		Northern	NO	Northern City						
+BH	586		Northern	NO	Northern City						
+BH	588		Northern	NO	Northern City						
+BH	589		Northern	NO	Northern City						
+BH	590		Northern	NO	Northern City						
+BH	439		Northern	NO	Northern Sehla						
+BH	441		Northern	NO	Northern Sehla						
+BH	447		Northern	NO	Qadam						
+BH	449		Northern	NO	Qadam						
+BH	453		Northern	NO	Qadam						
+BH	545		Northern	NO	Quraya						
+BH	547		Northern	NO	Quraya						
+BH	549		Northern	NO	Quraya						
+BH	551		Northern	NO	Quraya						
+BH	517		Northern	NO	Saar						
+BH	521		Northern	NO	Saar						
+BH	523		Northern	NO	Saar						
+BH	525		Northern	NO	Saar						
+BH	527		Northern	NO	Saar						
+BH	1037		Northern	NO	Sadaq						
+BH	1041		Northern	NO	Safriya						
+BH	702		Northern	NO	Salmabad						
+BH	704		Northern	NO	Salmabad						
+BH	706		Northern	NO	Salmabad						
+BH	708		Northern	NO	Salmabad						
+BH	712		Northern	NO	Salmabad						
+BH	1042		Northern	NO	Shahrakan						
+BH	1044		Northern	NO	Shahrakan						
+BH	1089		Northern	NO	Um Al Naasan						
+BH	746		Southern	SO	Aáli						
+BH	748		Southern	SO	Aáli						
+BH	965		Southern	SO	Al Door						
+BH	961		Southern	SO	Algainah						
+BH	929		Southern	SO	Al Hajyat						
+BH	931		Southern	SO	Al Hajyat						
+BH	935		Southern	SO	Al Hajyat						
+BH	939		Southern	SO	Al Hajyat						
+BH	901		Southern	SO	Al Hunaniya						
+BH	903		Southern	SO	Al Hunaniya						
+BH	971		Southern	SO	Al Jaseera						
+BH	1099		Southern	SO	Al Mamtala						
+BH	943		Southern	SO	Al Mazrooeeah						
+BH	949		Southern	SO	Al Moaaskar						
+BH	988		Southern	SO	Al Omar						
+BH	983		Southern	SO	Al Qarah						
+BH	987		Southern	SO	Al Qarah						
+BH	967		Southern	SO	Al Qareen						
+BH	906		Southern	SO	Al Rawdha						
+BH	930		Southern	SO	Al Rawdha						
+BH	947		Southern	SO	Al Riffah						
+BH	995		Southern	SO	Al Romaitha						
+BH	981		Southern	SO	Al Rumamin						
+BH	982		Southern	SO	Al Rumamin						
+BH	989		Southern	SO	Al Shabak						
+BH	951		Southern	SO	Askar						
+BH	945		Southern	SO	Awali						
+BH	946		Southern	SO	Awali						
+BH	1063		Southern	SO	Belaj Al Jazair						
+BH	1064		Southern	SO	Belaj Al Jazair						
+BH	913		Southern	SO	Bu Kuwarah						
+BH	917		Southern	SO	Bu Kuwarah						
+BH	919		Southern	SO	Bu Kuwarah						
+BH	921		Southern	SO	Bu Kuwarah						
+BH	923		Southern	SO	Bu Kuwarah						
+BH	925		Southern	SO	Bu Kuwarah						
+BH	927		Southern	SO	Bu Kuwarah						
+BH	1048		Southern	SO	Dar Kulaib						
+BH	999		Southern	SO	Durrat Al Bahrain						
+BH	905		Southern	SO	East Riffa						
+BH	907		Southern	SO	East Riffa						
+BH	909		Southern	SO	East Riffa						
+BH	911		Southern	SO	East Riffa						
+BH	959		Southern	SO	Hafeera						
+BH	645		Southern	SO	Hawrat Sanad						
+BH	973		Southern	SO	Hidd Al Jamal						
+BH	1067		Southern	SO	Hlaitan						
+BH	1062		Southern	SO	Horat Anaqa						
+BH	801		Southern	SO	Isa Town						
+BH	802		Southern	SO	Isa Town						
+BH	803		Southern	SO	Isa Town						
+BH	804		Southern	SO	Isa Town						
+BH	805		Southern	SO	Isa Town						
+BH	806		Southern	SO	Isa Town						
+BH	807		Southern	SO	Isa Town						
+BH	808		Southern	SO	Isa Town						
+BH	809		Southern	SO	Isa Town						
+BH	810		Southern	SO	Isa Town						
+BH	812		Southern	SO	Isa Town						
+BH	813		Southern	SO	Isa Town						
+BH	814		Southern	SO	Isa Town						
+BH	840		Southern	SO	Isa Town						
+BH	841		Southern	SO	Isa Town						
+BH	920		Southern	SO	Jari Al Shaikh						
+BH	924		Southern	SO	Jari Al Shaikh						
+BH	926		Southern	SO	Jari Al Shaikh						
+BH	957		Southern	SO	Jaw						
+BH	960		Southern	SO	Jaw						
+BH	1061		Southern	SO	Jazaer Beach						
+BH	613		Southern	SO	Juzur Al Dar						
+BH	948		Southern	SO	Lhassay						
+BH	635		Southern	SO	Maameer						
+BH	636		Southern	SO	Maameer						
+BH	1069		Southern	SO	Mamlahat Al Mamtala						
+BH	1070		Southern	SO	Mamlahat Al Mamtala						
+BH	953		Southern	SO	Mazraa						
+BH	1101		Southern	SO	New districts						
+BH	1102		Southern	SO	New districts						
+BH	1103		Southern	SO	New districts						
+BH	1104		Southern	SO	New districts						
+BH	1106		Southern	SO	New districts						
+BH	1107		Southern	SO	New districts						
+BH	1108		Southern	SO	New districts						
+BH	1110		Southern	SO	New districts						
+BH	1111		Southern	SO	New districts						
+BH	1112		Southern	SO	New districts						
+BH	1113		Southern	SO	New districts						
+BH	918		Southern	SO	New districts						
+BH	932		Southern	SO	New districts						
+BH	944		Southern	SO	New districts						
+BH	950		Southern	SO	New districts						
+BH	955		Southern	SO	New districts						
+BH	643		Southern	SO	Nuwaydirat						
+BH	646		Southern	SO	Nuwaydirat						
+BH	954		Southern	SO	Ras Abu Jarjor						
+BH	958		Southern	SO	Ras Hayan						
+BH	952		Southern	SO	Ras Zuwaid						
+BH	914		Southern	SO	Riffa / Albuhair						
+BH	915		Southern	SO	Riffa / Albuhair						
+BH	916		Southern	SO	Riffa / Albuhair						
+BH	922		Southern	SO	Riffa / Albuhair						
+BH	933		Southern	SO	Riffa / Albuhair						
+BH	934		Southern	SO	Riffa / Albuhair						
+BH	937		Southern	SO	Riffa / Albuhair						
+BH	941		Southern	SO	Riffa / Albuhair						
+BH	976		Southern	SO	Sukhair						
+BH	985		Southern	SO	Sukhair						
+BH	942		Southern	SO	Swayfra						
+BH	998		Southern	SO	Trafi						
+BH	614		Southern	SO	Um Albaidh						
+BH	615		Southern	SO	Um Albaidh						
+BH	616		Southern	SO	Um Albaidh						
+BH	986		Southern	SO	Um Jadir						
+BH	997		Southern	SO	Umm Jidr Al Summan						
+BH	1068		Southern	SO	Wadi Ali						
+BH	928		Southern	SO	Wadi Al Sale						
+BH	902		Southern	SO	West Riffa						
+BH	904		Southern	SO	West Riffa						
+BH	908		Southern	SO	West Riffa						
+BH	910		Southern	SO	West Riffa						
+BH	912		Southern	SO	West Riffa						
+BH	1051		Southern	SO	Zallaq						
+BH	1052		Southern	SO	Zallaq						
+BH	1054		Southern	SO	Zallaq						
+BH	1055		Southern	SO	Zallaq						
+BH	1056		Southern	SO	Zallaq						
+BH	1057		Southern	SO	Zallaq						
+BH	1058		Southern	SO	Zallaq						
+BH	718		Southern	SO	Zayed Town						
+BH	720		Southern	SO	Zayed Town						

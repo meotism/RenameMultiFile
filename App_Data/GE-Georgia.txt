@@ -1,0 +1,3382 @@
+GE	6727	Akhaladze	Abkhazia	AB	Gagra Abkhazia	GG					
+GE	6726	Audkhara	Abkhazia	AB	Gagra Abkhazia	GG					
+GE	6728	Bziphi	Abkhazia	AB	Gagra Abkhazia	GG					
+GE	6729	Gantiadi	Abkhazia	AB	Gagra Abkhazia	GG					
+GE	6730	Inkiti	Abkhazia	AB	Gagra Abkhazia	GG					
+GE	6731	Iphnari	Abkhazia	AB	Gagra Abkhazia	GG					
+GE	6732	Kolkhida	Abkhazia	AB	Gagra Abkhazia	GG					
+GE	6733	Leselidze	Abkhazia	AB	Gagra Abkhazia	GG					
+GE	6802	Achigvara	Abkhazia	AB	Gali	GL					
+GE	6822	Chkhortoli	Abkhazia	AB	Gali	GL					
+GE	6824	Chuburkhinji	Abkhazia	AB	Gali	GL					
+GE	6804	Dikhazurga	Abkhazia	AB	Gali	GL					
+GE	6803	Ganakhleba	Abkhazia	AB	Gali	GL					
+GE	6808	Kokhora	Abkhazia	AB	Gali	GL					
+GE	6821	Kvemo Barghebi	Abkhazia	AB	Gali	GL					
+GE	6809	Lekukhona	Abkhazia	AB	Gali	GL					
+GE	6810	Meore Gudava	Abkhazia	AB	Gali	GL					
+GE	6811	Meore Otobaia	Abkhazia	AB	Gali	GL					
+GE	6814	Mukhuri	Abkhazia	AB	Gali	GL					
+GE	6812	Mziuri	Abkhazia	AB	Gali	GL					
+GE	6815	Nabakevi	Abkhazia	AB	Gali	GL					
+GE	6818	Okhurei	Abkhazia	AB	Gali	GL					
+GE	6816	Okumi	Abkhazia	AB	Gali	GL					
+GE	6817	Otobaia	Abkhazia	AB	Gali	GL					
+GE	6819	Partonokhori	Abkhazia	AB	Gali	GL					
+GE	6807	Tagiloni	Abkhazia	AB	Gali	GL					
+GE	6823	Tsarche	Abkhazia	AB	Gali	GL					
+GE	6805	Zemo-Barghebi	Abkhazia	AB	Gali	GL					
+GE	6806	Zemo Ghumurishi	Abkhazia	AB	Gali	GL					
+GE	6909	Aatsi	Abkhazia	AB	Gudauta	GT					
+GE	6910	Abgarkhuki	Abkhazia	AB	Gudauta	GT					
+GE	6912	Achandara	Abkhazia	AB	Gudauta	GT					
+GE	6913	Akhali Atoni	Abkhazia	AB	Gudauta	GT					
+GE	6911	Akhali Sopeli	Abkhazia	AB	Gudauta	GT					
+GE	6916	Barmishi	Abkhazia	AB	Gudauta	GT					
+GE	6917	Blaburkhva	Abkhazia	AB	Gudauta	GT					
+GE	6918	Duripshi	Abkhazia	AB	Gudauta	GT					
+GE	6927	Jirkhva	Abkhazia	AB	Gudauta	GT					
+GE	6920	Kaldakhvara	Abkhazia	AB	Gudauta	GT					
+GE	6921	Kulanurkhva	Abkhazia	AB	Gudauta	GT					
+GE	6922	Likhni	Abkhazia	AB	Gudauta	GT					
+GE	6924	Miusera	Abkhazia	AB	Gudauta	GT					
+GE	6923	Mugudzirkhva	Abkhazia	AB	Gudauta	GT					
+GE	6925	Orjonikidze	Abkhazia	AB	Gudauta	GT					
+GE	6926	Otkhara	Abkhazia	AB	Gudauta	GT					
+GE	6919	Zvandriphshi	Abkhazia	AB	Gudauta	GT					
+GE	7004	Agudzera	Abkhazia	AB	Gulripshi	GP					
+GE	7005	Ajara	Abkhazia	AB	Gulripshi	GP					
+GE	7006	Amtkeli	Abkhazia	AB	Gulripshi	GP					
+GE	7005	Atsgara	Abkhazia	AB	Gulripshi	GP					
+GE	7007	Babushara	Abkhazia	AB	Gulripshi	GP					
+GE	7009	Baghmarani	Abkhazia	AB	Gulripshi	GP					
+GE	7005	Buchukuri	Abkhazia	AB	Gulripshi	GP					
+GE	7005	Budzguri	Abkhazia	AB	Gulripshi	GP					
+GE	7005	Chkhalta	Abkhazia	AB	Gulripshi	GP					
+GE	7011	Dranda	Abkhazia	AB	Gulripshi	GP					
+GE	7012	Estonka	Abkhazia	AB	Gulripshi	GP					
+GE	7010	Gentsvishi	Abkhazia	AB	Gulripshi	GP					
+GE	7005	Gvandra	Abkhazia	AB	Gulripshi	GP					
+GE	7005	Khetskvara	Abkhazia	AB	Gulripshi	GP					
+GE	7005	Khutia	Abkhazia	AB	Gulripshi	GP					
+GE	7005	Kvabchara	Abkhazia	AB	Gulripshi	GP					
+GE	7005	Kvemo Ajara	Abkhazia	AB	Gulripshi	GP					
+GE	7005	Kvemo Zima	Abkhazia	AB	Gulripshi	GP					
+GE	7016	Lata	Abkhazia	AB	Gulripshi	GP					
+GE	7017	Machara	Abkhazia	AB	Gulripshi	GP					
+GE	7005	Mardjvena Gentsvishi	Abkhazia	AB	Gulripshi	GP					
+GE	7005	Mardjvena Ptishi	Abkhazia	AB	Gulripshi	GP					
+GE	7005	Martskhena Gentsvishi	Abkhazia	AB	Gulripshi	GP					
+GE	7005	Martskhena Ptishi	Abkhazia	AB	Gulripshi	GP					
+GE	7018	Merkheuli	Abkhazia	AB	Gulripshi	GP					
+GE	7005	Mramba	Abkhazia	AB	Gulripshi	GP					
+GE	7005	Nakhari	Abkhazia	AB	Gulripshi	GP					
+GE	7005	Omarishara	Abkhazia	AB	Gulripshi	GP					
+GE	7005	Sakeni	Abkhazia	AB	Gulripshi	GP					
+GE	7005	Shabatkvara	Abkhazia	AB	Gulripshi	GP					
+GE	7020	Shaumianovka	Abkhazia	AB	Gulripshi	GP					
+GE	7015	Tkhubuni	Abkhazia	AB	Gulripshi	GP					
+GE	7022	Tsubelda	Abkhazia	AB	Gulripshi	GP					
+GE	7005	Tvibrasheni	Abkhazia	AB	Gulripshi	GP					
+GE	7013	Varche	Abkhazia	AB	Gulripshi	GP					
+GE	7014	Vladimirovka	Abkhazia	AB	Gulripshi	GP					
+GE	7005	Zemo Ajara	Abkhazia	AB	Gulripshi	GP					
+GE	7005	Zemo Omarishara	Abkhazia	AB	Gulripshi	GP					
+GE	7005	Zemo Zima	Abkhazia	AB	Gulripshi	GP					
+GE	7105	Agubedia	Abkhazia	AB	Ochamchire	OC					
+GE	7108	Akhali Kidghi	Abkhazia	AB	Ochamchire	OC					
+GE	7106	Akvaska	Abkhazia	AB	Ochamchire	OC					
+GE	7107	Aradu	Abkhazia	AB	Ochamchire	OC					
+GE	7119	Chlou	Abkhazia	AB	Ochamchire	OC					
+GE	7110	Dacha	Abkhazia	AB	Ochamchire	OC					
+GE	7109	Gupi	Abkhazia	AB	Ochamchire	OC					
+GE	7120	Jukmuri	Abkhazia	AB	Ochamchire	OC					
+GE	7117	Kochara	Abkhazia	AB	Ochamchire	OC					
+GE	7111	Kutoli	Abkhazia	AB	Ochamchire	OC					
+GE	7112	Labra	Abkhazia	AB	Ochamchire	OC					
+GE	7113	Merkula	Abkhazia	AB	Ochamchire	OC					
+GE	7114	Mokvi	Abkhazia	AB	Ochamchire	OC					
+GE	7104	Ochamchire (Turbaza)	Abkhazia	AB	Ochamchire	OC					
+GE	7116	Tamishi	Abkhazia	AB	Ochamchire	OC					
+GE	7118	Tsagera	Abkhazia	AB	Ochamchire	OC					
+GE	6624	Abjakva	Abkhazia	AB	Sukhumi	SK					
+GE	6626	Achadara	Abkhazia	AB	Sukhumi	SK					
+GE	6625	Akhalsopeli	Abkhazia	AB	Sukhumi	SK					
+GE	6626	Eshera	Abkhazia	AB	Sukhumi	SK					
+GE	6625	Gumista	Abkhazia	AB	Sukhumi	SK					
+GE	6628	Kelasuri	Abkhazia	AB	Sukhumi	SK					
+GE	6629	Odishi	Abkhazia	AB	Sukhumi	SK					
+GE	6630	Shroma	Abkhazia	AB	Sukhumi	SK					
+GE	6627	Zemo Eshera	Abkhazia	AB	Sukhumi	SK					
+GE	6100	Abuketa	Ajaria	AJ	Keda	KD					
+GE	6100	Agrota	Ajaria	AJ	Keda	KD					
+GE	6100	Akho	Ajaria	AJ	Keda	KD					
+GE	6100	Akutsa	Ajaria	AJ	Keda	KD					
+GE	6100	Arsenauli	Ajaria	AJ	Keda	KD					
+GE	6100	Baladzeebi	Ajaria	AJ	Keda	KD					
+GE	6100	Bzubzu	Ajaria	AJ	Keda	KD					
+GE	6100	Chalakhmela	Ajaria	AJ	Keda	KD					
+GE	6100	Chetkidzeebi	Ajaria	AJ	Keda	KD					
+GE	6100	Chinkadzeebi	Ajaria	AJ	Keda	KD					
+GE	6100	Dandalo	Ajaria	AJ	Keda	KD					
+GE	6100	Dologani	Ajaria	AJ	Keda	KD					
+GE	6100	Dzentsmani	Ajaria	AJ	Keda	KD					
+GE	6100	Garetke	Ajaria	AJ	Keda	KD					
+GE	6100	Gegelidzeebi	Ajaria	AJ	Keda	KD					
+GE	6100	Gobroneti	Ajaria	AJ	Keda	KD					
+GE	6100	Gogiashvilebi	Ajaria	AJ	Keda	KD					
+GE	6100	Goginidzeebi	Ajaria	AJ	Keda	KD					
+GE	6100	Gulebi	Ajaria	AJ	Keda	KD					
+GE	6100	Gundauri	Ajaria	AJ	Keda	KD					
+GE	6100	Inasharidzeebi	Ajaria	AJ	Keda	KD					
+GE	6100	Jalabashvilebi	Ajaria	AJ	Keda	KD					
+GE	6100	Kantauri	Ajaria	AJ	Keda	KD					
+GE	6100	Keda	Ajaria	AJ	Keda	KD					
+GE	6100	Kharaula	Ajaria	AJ	Keda	KD					
+GE	6100	Khunkuda	Ajaria	AJ	Keda	KD					
+GE	6100	Kokotauri	Ajaria	AJ	Keda	KD					
+GE	6100	Kolotauri	Ajaria	AJ	Keda	KD					
+GE	6100	Koromkheti	Ajaria	AJ	Keda	KD					
+GE	6100	Kuchula	Ajaria	AJ	Keda	KD					
+GE	6100	Kvashta	Ajaria	AJ	Keda	KD					
+GE	6100	Kveda Agara	Ajaria	AJ	Keda	KD					
+GE	6100	Kveda Bzubzu	Ajaria	AJ	Keda	KD					
+GE	6100	Kveda Makhuntseti	Ajaria	AJ	Keda	KD					
+GE	6100	Makhuntseti	Ajaria	AJ	Keda	KD					
+GE	6100	Medzibna	Ajaria	AJ	Keda	KD					
+GE	6100	Merisi	Ajaria	AJ	Keda	KD					
+GE	6100	Milisi	Ajaria	AJ	Keda	KD					
+GE	6100	Mosiashvilebi	Ajaria	AJ	Keda	KD					
+GE	6100	Namlisevi	Ajaria	AJ	Keda	KD					
+GE	6100	Namonastrevi	Ajaria	AJ	Keda	KD					
+GE	6100	Oktomberi	Ajaria	AJ	Keda	KD					
+GE	6100	Ortsva	Ajaria	AJ	Keda	KD					
+GE	6100	Pirveli Maisi	Ajaria	AJ	Keda	KD					
+GE	6100	Sabadauri	Ajaria	AJ	Keda	KD					
+GE	6100	Sasadilokeli	Ajaria	AJ	Keda	KD					
+GE	6100	Shevaburi	Ajaria	AJ	Keda	KD					
+GE	6100	Sikhalidzeebi	Ajaria	AJ	Keda	KD					
+GE	6100	Silibauri	Ajaria	AJ	Keda	KD					
+GE	6100	Sirabidzeebi	Ajaria	AJ	Keda	KD					
+GE	6100	Takidzeebi	Ajaria	AJ	Keda	KD					
+GE	6100	Tskhemna	Ajaria	AJ	Keda	KD					
+GE	6100	Tskhmorisi	Ajaria	AJ	Keda	KD					
+GE	6100	Tsoniarisi	Ajaria	AJ	Keda	KD					
+GE	6100	Uchkhiti	Ajaria	AJ	Keda	KD					
+GE	6100	Vaio	Ajaria	AJ	Keda	KD					
+GE	6100	Vardjanisi	Ajaria	AJ	Keda	KD					
+GE	6100	Zeda Agara	Ajaria	AJ	Keda	KD					
+GE	6100	Zendidi	Ajaria	AJ	Keda	KD					
+GE	6100	Zesopheli	Ajaria	AJ	Keda	KD					
+GE	6100	Zundaga	Ajaria	AJ	Keda	KD					
+GE	6100	Zvare	Ajaria	AJ	Keda	KD					
+GE	6400	Acharisaghmarti	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Acharistskali	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Adlia	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Agnisa	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Akhalsheni	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Akhalsopeli	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Charnali	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Chelta	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Chikuneti	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Chkhutuneti	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Erge	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Ganakhleba	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Gantiadi	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Gonio	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Kakhaberi	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Kapandebi	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Kapnistavi	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Kapreshumi	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Ketqedi	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Khekru	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Kibe	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Kirnati	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Korolistavi	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Kvariati	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Kveda Jocho	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Kveda Sameba	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Machakhlispiri	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Makhinjauri	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Makho	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Makhvilauri	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Maradidi	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Masauri	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Mejinistskali	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Mtsvane Kontskhi	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Nikitauri	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Ortabatumi	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Peria	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Salibauri	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Sarpi	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Sharabidzeebi	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Shavlidzeebi	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Simoneti	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Tkhilnari	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Todogauri	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Tsinsvla	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Urekhi	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Zanakidzeebi	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Zeda Ghele	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Zeda Jocho	Ajaria	AJ	Khelvachauri	KV					
+GE	6400	Zeda Sameba	Ajaria	AJ	Khelvachauri	KV					
+GE	6500	Adadzeebi	Ajaria	AJ	Khulo	KL					
+GE	6500	Akhalsheni	Ajaria	AJ	Khulo	KL					
+GE	6500	Bako	Ajaria	AJ	Khulo	KL					
+GE	6500	Beghleti	Ajaria	AJ	Khulo	KL					
+GE	6500	Bodzavri	Ajaria	AJ	Khulo	KL					
+GE	6500	Boghavri	Ajaria	AJ	Khulo	KL					
+GE	6500	Chakhavri	Ajaria	AJ	Khulo	KL					
+GE	6500	Chao	Ajaria	AJ	Khulo	KL					
+GE	6500	Cheri	Ajaria	AJ	Khulo	KL					
+GE	6500	Danisparauli	Ajaria	AJ	Khulo	KL					
+GE	6500	Dekanashvilebi	Ajaria	AJ	Khulo	KL					
+GE	6500	Diakonidzeebi	Ajaria	AJ	Khulo	KL					
+GE	6500	Didachara	Ajaria	AJ	Khulo	KL					
+GE	6500	Dioknisi	Ajaria	AJ	Khulo	KL					
+GE	6500	Dzirkvadzeebi	Ajaria	AJ	Khulo	KL					
+GE	6500	Dzmagula	Ajaria	AJ	Khulo	KL					
+GE	6500	Ganakhleba	Ajaria	AJ	Khulo	KL					
+GE	6500	Gara	Ajaria	AJ	Khulo	KL					
+GE	6500	Geladzeebi	Ajaria	AJ	Khulo	KL					
+GE	6500	Gelavra	Ajaria	AJ	Khulo	KL					
+GE	6500	Ghurta	Ajaria	AJ	Khulo	KL					
+GE	6500	Godgadzeebi	Ajaria	AJ	Khulo	KL					
+GE	6500	Gorgadzeebi	Ajaria	AJ	Khulo	KL					
+GE	6500	Gurdzauli	Ajaria	AJ	Khulo	KL					
+GE	6500	Iremadzeebi	Ajaria	AJ	Khulo	KL					
+GE	6500	Kalota	Ajaria	AJ	Khulo	KL					
+GE	6500	Kedlebi	Ajaria	AJ	Khulo	KL					
+GE	6500	Khikhadziri	Ajaria	AJ	Khulo	KL					
+GE	6500	Kinchauri	Ajaria	AJ	Khulo	KL					
+GE	6500	Kortokhi	Ajaria	AJ	Khulo	KL					
+GE	6500	Kurduli	Ajaria	AJ	Khulo	KL					
+GE	6500	Kurtskhali	Ajaria	AJ	Khulo	KL					
+GE	6500	Kvatia	Ajaria	AJ	Khulo	KL					
+GE	6500	Kveda Tkhilvana	Ajaria	AJ	Khulo	KL					
+GE	6500	Kveda Vashlovani	Ajaria	AJ	Khulo	KL					
+GE	6500	Maniaketi	Ajaria	AJ	Khulo	KL					
+GE	6500	Mekeidzeebi	Ajaria	AJ	Khulo	KL					
+GE	6500	Merchkheti	Ajaria	AJ	Khulo	KL					
+GE	6500	Mintadzeebi	Ajaria	AJ	Khulo	KL					
+GE	6500	Mtisubani	Ajaria	AJ	Khulo	KL					
+GE	6500	Namonastrevi	Ajaria	AJ	Khulo	KL					
+GE	6500	Okruashvilebi	Ajaria	AJ	Khulo	KL					
+GE	6500	Oktomberi	Ajaria	AJ	Khulo	KL					
+GE	6500	Oshanakhevi	Ajaria	AJ	Khulo	KL					
+GE	6500	Pachkha	Ajaria	AJ	Khulo	KL					
+GE	6500	Paksadzeebi	Ajaria	AJ	Khulo	KL					
+GE	6500	Pantnari	Ajaria	AJ	Khulo	KL					
+GE	6500	Pushrukauli	Ajaria	AJ	Khulo	KL					
+GE	6500	Rakvta	Ajaria	AJ	Khulo	KL					
+GE	6500	Riketi	Ajaria	AJ	Khulo	KL					
+GE	6500	Satsikhuri	Ajaria	AJ	Khulo	KL					
+GE	6500	Shuasopeli	Ajaria	AJ	Khulo	KL					
+GE	6500	Skvana	Ajaria	AJ	Khulo	KL					
+GE	6500	Stepanashvilebi	Ajaria	AJ	Khulo	KL					
+GE	6500	Tabakhmela	Ajaria	AJ	Khulo	KL					
+GE	6500	Tago	Ajaria	AJ	Khulo	KL					
+GE	6500	Tkhilvana	Ajaria	AJ	Khulo	KL					
+GE	6500	Tsablana	Ajaria	AJ	Khulo	KL					
+GE	6500	Tsintskalashvilebi	Ajaria	AJ	Khulo	KL					
+GE	6500	Tunadzeebi	Ajaria	AJ	Khulo	KL					
+GE	6500	Vernebi	Ajaria	AJ	Khulo	KL					
+GE	6500	Zeda Dekanashvilebi	Ajaria	AJ	Khulo	KL					
+GE	6500	Zeda Tkhilvana	Ajaria	AJ	Khulo	KL					
+GE	6500	Zeda Vashlovani	Ajaria	AJ	Khulo	KL					
+GE	6200	Achi	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Achkvistavi	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Alambari	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Bobokvati	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Buknari	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Chaisubani	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Chakhati	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Chakvi	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Chakvistavi	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Dagva	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Gogmachauri	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Gorgadzeebi	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Gvara	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Jikhanjuri	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Kakuti	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Khala	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Khutsubani	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Kobuleti	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Kokhi	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Kveda Achkva	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Kveda Dagva	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Kveda Kondidi	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Kveda Kvirike	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Kveda Sameba	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Kvirike	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Leghva	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Mukhaestate	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Nakaidzeebi	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Natskhavatebi	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Ochkhamuri	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Sachino	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Sakhalvasho	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Shuaghele	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Skura	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Stalinisubani	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Tsetskhlauri	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Tsikhisdziri	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Tskavroka	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Tskhraphona	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Zeda Achkva	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Zeda Dagva	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Zeda-Kondidi	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Zeda Kvirike	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Zeda Sameba	Ajaria	AJ	Kobuleti	KB					
+GE	6200	Zeniti	Ajaria	AJ	Kobuleti	KB					
+GE	6300	Akhaldaba	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Baratauli	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Beselashvilebi	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Brili	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Buturauli	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Chala	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Chanchkhalo	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Chvana	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Dabadzveli	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Darchidzeebi	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Dghvani	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Djanivri	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Gogadzeebi	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Gogniauri	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Gomarduli	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Gori	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Gundauri	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Iakobauri	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Intskvireti	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Jabnidzeebi	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Jumushauri	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Jvari	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Karapeti	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Khichauri	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Kidzinidzeebi	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Kldisubani	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Kobalta	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Kutauri	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Kviakhidzeebi	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Kviriauli	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Laklaketi	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Lomanauri	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Makhalakidzeebi	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Matskvalta	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Mchedluri	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Momtsvari	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Mophrineti	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Naghvarevi	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Nenia	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Nigazeuli	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Okropilauri	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Oladauri	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Paposhvilebi	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Potaro	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Potelauri	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Purtio	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Samoleti	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Shubani	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Skhepi	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Takidzeebi	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Tbeti	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Ternali	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Tomasheti	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Tsablana	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Tsankalauri	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Tsekva	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Tselati	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Tsenteradzeebi	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Tsinareti	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Tsivadzeebi	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Tskarota	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Tskhemlisi	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Vani	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Vardjanauli	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Zamleti	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Zedakana	Ajaria	AJ	Shuakhevi	SH					
+GE	6300	Zemo Khevi	Ajaria	AJ	Shuakhevi	SH					
+GE	4923	Akhalsheni	Guria	GU	Chokhatauri	CK					
+GE	4900	Bakhmaro	Guria	GU	Chokhatauri	CK					
+GE	4918	Basileti	Guria	GU	Chokhatauri	CK					
+GE	4922	Bjolieti	Guria	GU	Chokhatauri	CK					
+GE	4901	Bukistsikhe	Guria	GU	Chokhatauri	CK					
+GE	4902	Buknari	Guria	GU	Chokhatauri	CK					
+GE	4922	Buksireti	Guria	GU	Chokhatauri	CK					
+GE	4914	Burnati	Guria	GU	Chokhatauri	CK					
+GE	4921	Chaisubani	Guria	GU	Chokhatauri	CK					
+GE	4910	Chala-Kadagouri	Guria	GU	Chokhatauri	CK					
+GE	4923	Chichieti	Guria	GU	Chokhatauri	CK					
+GE	4910	Chikitauri	Guria	GU	Chokhatauri	CK					
+GE	4915	Chkhakaura	Guria	GU	Chokhatauri	CK					
+GE	4917	Chometi	Guria	GU	Chokhatauri	CK					
+GE	4907	Dablatsikhe	Guria	GU	Chokhatauri	CK					
+GE	4906	Gaghma Dobiro	Guria	GU	Chokhatauri	CK					
+GE	4906	Gamoghma Dobiro	Guria	GU	Chokhatauri	CK					
+GE	4903	Ganakhleba	Guria	GU	Chokhatauri	CK					
+GE	4904	Gantiadi	Guria	GU	Chokhatauri	CK					
+GE	4900	Gogolesubani	Guria	GU	Chokhatauri	CK					
+GE	4904	Gogouri	Guria	GU	Chokhatauri	CK					
+GE	4905	Goraberedjouli	Guria	GU	Chokhatauri	CK					
+GE	4906	Guristke	Guria	GU	Chokhatauri	CK					
+GE	4900	Guturi	Guria	GU	Chokhatauri	CK					
+GE	4901	Ianeuli	Guria	GU	Chokhatauri	CK					
+GE	4921	Intabueti	Guria	GU	Chokhatauri	CK					
+GE	4917	Kalagoni	Guria	GU	Chokhatauri	CK					
+GE	4922	Khevi	Guria	GU	Chokhatauri	CK					
+GE	4923	Khidistavi	Guria	GU	Chokhatauri	CK					
+GE	4914	Kokhnari	Guria	GU	Chokhatauri	CK					
+GE	4915	Kvabgha	Guria	GU	Chokhatauri	CK					
+GE	4909	Kvemo Erketi	Guria	GU	Chokhatauri	CK					
+GE	4917	Kvemo Kheti	Guria	GU	Chokhatauri	CK					
+GE	4909	Kvemo Onchiketi	Guria	GU	Chokhatauri	CK					
+GE	4918	Kvenobani	Guria	GU	Chokhatauri	CK					
+GE	4917	Mamulari	Guria	GU	Chokhatauri	CK					
+GE	4923	Metsieti	Guria	GU	Chokhatauri	CK					
+GE	4915	Nabeghlavi	Guria	GU	Chokhatauri	CK					
+GE	4914	Nakaduli	Guria	GU	Chokhatauri	CK					
+GE	4907	Sakvavistke	Guria	GU	Chokhatauri	CK					
+GE	4919	Shua Ganakhleba	Guria	GU	Chokhatauri	CK					
+GE	4911	Shua Partskhma	Guria	GU	Chokhatauri	CK					
+GE	4920	Shua Surebi	Guria	GU	Chokhatauri	CK					
+GE	4909	Shubani	Guria	GU	Chokhatauri	CK					
+GE	4910	Shvelour-Tsitsibouri	Guria	GU	Chokhatauri	CK					
+GE	4915	Tavpanta	Guria	GU	Chokhatauri	CK					
+GE	4910	Tavsurebi	Guria	GU	Chokhatauri	CK					
+GE	4904	Tkhilagani	Guria	GU	Chokhatauri	CK					
+GE	4910	Tobakhcho	Guria	GU	Chokhatauri	CK					
+GE	4923	Tsipnagvara	Guria	GU	Chokhatauri	CK					
+GE	4914	Tsipnari	Guria	GU	Chokhatauri	CK					
+GE	4910	Tsitelgora	Guria	GU	Chokhatauri	CK					
+GE	4908	Vani	Guria	GU	Chokhatauri	CK					
+GE	4921	Vaziani	Guria	GU	Chokhatauri	CK					
+GE	4909	Zemo Erketi	Guria	GU	Chokhatauri	CK					
+GE	4909	Zemo-Onchiketi	Guria	GU	Chokhatauri	CK					
+GE	4911	Zemo-Partskhma	Guria	GU	Chokhatauri	CK					
+GE	4910	Zemo Surebi	Guria	GU	Chokhatauri	CK					
+GE	4923	Zenobani	Guria	GU	Chokhatauri	CK					
+GE	4912	Zomleti	Guria	GU	Chokhatauri	CK					
+GE	4913	Zoti	Guria	GU	Chokhatauri	CK					
+GE	2803	Akhalsopeli	Guria	GU	Lanchkhuti	LK					
+GE	2801	Archeuli	Guria	GU	Lanchkhuti	LK					
+GE	2802	Atsana	Guria	GU	Lanchkhuti	LK					
+GE	2805	Baghlepi	Guria	GU	Lanchkhuti	LK					
+GE	2806	Chanchati	Guria	GU	Lanchkhuti	LK					
+GE	2801	Chancheti	Guria	GU	Lanchkhuti	LK					
+GE	2818	Chibati	Guria	GU	Lanchkhuti	LK					
+GE	2801	Chikveti	Guria	GU	Lanchkhuti	LK					
+GE	2807	Chinati	Guria	GU	Lanchkhuti	LK					
+GE	2819	Chkonagora	Guria	GU	Lanchkhuti	LK					
+GE	2820	Chochkhati	Guria	GU	Lanchkhuti	LK					
+GE	2819	Cholobargi	Guria	GU	Lanchkhuti	LK					
+GE	2805	Etseri	Guria	GU	Lanchkhuti	LK					
+GE	2806	Gaguri	Guria	GU	Lanchkhuti	LK					
+GE	2815	Ghrmaghele	Guria	GU	Lanchkhuti	LK					
+GE	2812	Grigoleti	Guria	GU	Lanchkhuti	LK					
+GE	2820	Guliani	Guria	GU	Lanchkhuti	LK					
+GE	2804	Gvimbalauri	Guria	GU	Lanchkhuti	LK					
+GE	2814	Japana	Guria	GU	Lanchkhuti	LK					
+GE	2816	Jikhanjiri	Guria	GU	Lanchkhuti	LK					
+GE	2804	Junetseri	Guria	GU	Lanchkhuti	LK					
+GE	2809	Junmere	Guria	GU	Lanchkhuti	LK					
+GE	2821	Jurukveti	Guria	GU	Lanchkhuti	LK					
+GE	2811	Kela	Guria	GU	Lanchkhuti	LK					
+GE	2810	Khadjalia	Guria	GU	Lanchkhuti	LK					
+GE	2812	Khidmaghala	Guria	GU	Lanchkhuti	LK					
+GE	2820	Khoreti	Guria	GU	Lanchkhuti	LK					
+GE	2820	Kokati	Guria	GU	Lanchkhuti	LK					
+GE	2813	Kvemo Aketi	Guria	GU	Lanchkhuti	LK					
+GE	2818	Kvemo Chibati	Guria	GU	Lanchkhuti	LK					
+GE	2808	Kvemo Mamati	Guria	GU	Lanchkhuti	LK					
+GE	2817	Kvemo Shukhuti	Guria	GU	Lanchkhuti	LK					
+GE	2814	Kviani	Guria	GU	Lanchkhuti	LK					
+GE	2807	Lesa	Guria	GU	Lanchkhuti	LK					
+GE	2809	Machkhvareti	Guria	GU	Lanchkhuti	LK					
+GE	2808	Mamati	Guria	GU	Lanchkhuti	LK					
+GE	2820	Moedani	Guria	GU	Lanchkhuti	LK					
+GE	2819	Nigoeti	Guria	GU	Lanchkhuti	LK					
+GE	2810	Nigvziani	Guria	GU	Lanchkhuti	LK					
+GE	2811	Ninoshvili	Guria	GU	Lanchkhuti	LK					
+GE	2815	Omphareti	Guria	GU	Lanchkhuti	LK					
+GE	2809	Oragve	Guria	GU	Lanchkhuti	LK					
+GE	2815	Ormeti	Guria	GU	Lanchkhuti	LK					
+GE	2816	Shromisubani	Guria	GU	Lanchkhuti	LK					
+GE	2817	Shukhuti	Guria	GU	Lanchkhuti	LK					
+GE	2812	Supsa	Guria	GU	Lanchkhuti	LK					
+GE	2812	Tabanati	Guria	GU	Lanchkhuti	LK					
+GE	2802	Telmani	Guria	GU	Lanchkhuti	LK					
+GE	2822	Tskaltsminda	Guria	GU	Lanchkhuti	LK					
+GE	2806	Zemo-Aketi	Guria	GU	Lanchkhuti	LK					
+GE	2818	Zemo Chibati	Guria	GU	Lanchkhuti	LK					
+GE	2817	Zemo-Shukhuti	Guria	GU	Lanchkhuti	LK					
+GE	3514	Achi	Guria	GU	Ozurgeti	OZ					
+GE	3505	Akhali Sopeli	Guria	GU	Ozurgeti	OZ					
+GE	3500	Anaseuli	Guria	GU	Ozurgeti	OZ					
+GE	3504	Askana	Guria	GU	Ozurgeti	OZ					
+GE	3525	Bagdadi	Guria	GU	Ozurgeti	OZ					
+GE	3505	Baileti	Guria	GU	Ozurgeti	OZ					
+GE	3506	Bakhvi	Guria	GU	Ozurgeti	OZ					
+GE	3527	Bogili	Guria	GU	Ozurgeti	OZ					
+GE	3507	Bokhvauri	Guria	GU	Ozurgeti	OZ					
+GE	3517	Chakhvata	Guria	GU	Ozurgeti	OZ					
+GE	3507	Chala	Guria	GU	Ozurgeti	OZ					
+GE	3514	Chanieti	Guria	GU	Ozurgeti	OZ					
+GE	3505	Chanieturi	Guria	GU	Ozurgeti	OZ					
+GE	3504	Dabali Etseri	Guria	GU	Ozurgeti	OZ					
+GE	3519	Djanaura	Guria	GU	Ozurgeti	OZ					
+GE	3509	Dvabzu	Guria	GU	Ozurgeti	OZ					
+GE	3526	Dzimiti	Guria	GU	Ozurgeti	OZ					
+GE	3527	Dzirijumati	Guria	GU	Ozurgeti	OZ					
+GE	3509	Gaghma Dvabzu	Guria	GU	Ozurgeti	OZ					
+GE	3512	Gantiadi	Guria	GU	Ozurgeti	OZ					
+GE	3515	Gogieti	Guria	GU	Ozurgeti	OZ					
+GE	3523	Gomi	Guria	GU	Ozurgeti	OZ					
+GE	3523	Gonebiskari	Guria	GU	Ozurgeti	OZ					
+GE	3508	Gurianta	Guria	GU	Ozurgeti	OZ					
+GE	3527	Ianeti	Guria	GU	Ozurgeti	OZ					
+GE	3527	Jumati	Guria	GU	Ozurgeti	OZ					
+GE	3514	Kakuti	Guria	GU	Ozurgeti	OZ					
+GE	3524	Khrialeti	Guria	GU	Ozurgeti	OZ					
+GE	3517	Khvarbeti	Guria	GU	Ozurgeti	OZ					
+GE	3512	Konchkati	Guria	GU	Ozurgeti	OZ					
+GE	3514	Kvachalati	Guria	GU	Ozurgeti	OZ					
+GE	3506	Kveda Bakhvi	Guria	GU	Ozurgeti	OZ					
+GE	3526	Kveda Dzimiti	Guria	GU	Ozurgeti	OZ					
+GE	3515	Kveda Makvaneti	Guria	GU	Ozurgeti	OZ					
+GE	3521	Kveda Natanebi	Guria	GU	Ozurgeti	OZ					
+GE	3523	Kviriketi	Guria	GU	Ozurgeti	OZ					
+GE	3513	Laituri	Guria	GU	Ozurgeti	OZ					
+GE	3514	Likhauri	Guria	GU	Ozurgeti	OZ					
+GE	3519	Maghali Etseri	Guria	GU	Ozurgeti	OZ					
+GE	3522	Magnetiti	Guria	GU	Ozurgeti	OZ					
+GE	3515	Makvaneti	Guria	GU	Ozurgeti	OZ					
+GE	3516	Melekeduri	Guria	GU	Ozurgeti	OZ					
+GE	3517	Meria	Guria	GU	Ozurgeti	OZ					
+GE	3524	Motsvnari	Guria	GU	Ozurgeti	OZ					
+GE	3506	Mshvidobauri	Guria	GU	Ozurgeti	OZ					
+GE	3518	Mtispiri	Guria	GU	Ozurgeti	OZ					
+GE	3504	Mziani	Guria	GU	Ozurgeti	OZ					
+GE	3517	Naghobilevi	Guria	GU	Ozurgeti	OZ					
+GE	3519	Nagomari	Guria	GU	Ozurgeti	OZ					
+GE	3513	Naruja	Guria	GU	Ozurgeti	OZ					
+GE	3520	Nasakirali	Guria	GU	Ozurgeti	OZ					
+GE	3521	Natanebi	Guria	GU	Ozurgeti	OZ					
+GE	3514	Niabauri	Guria	GU	Ozurgeti	OZ					
+GE	3524	Ormeti	Guria	GU	Ozurgeti	OZ					
+GE	3507	Ozurgeti	Guria	GU	Ozurgeti	OZ					
+GE	3510	Pampaleti	Guria	GU	Ozurgeti	OZ					
+GE	3521	Shekvetili	Guria	GU	Ozurgeti	OZ					
+GE	3523	Shemokmedi	Guria	GU	Ozurgeti	OZ					
+GE	3524	Shroma	Guria	GU	Ozurgeti	OZ					
+GE	3519	Shua Isnari	Guria	GU	Ozurgeti	OZ					
+GE	3527	Silauri	Guria	GU	Ozurgeti	OZ					
+GE	3511	Tkhinvali	Guria	GU	Ozurgeti	OZ					
+GE	3508	Tsikhisperdi	Guria	GU	Ozurgeti	OZ					
+GE	3523	Tsitelmta	Guria	GU	Ozurgeti	OZ					
+GE	3525	Tskhemliskhidi	Guria	GU	Ozurgeti	OZ					
+GE	3522	Tsvermaghala	Guria	GU	Ozurgeti	OZ					
+GE	3518	Ukanava	Guria	GU	Ozurgeti	OZ					
+GE	3522	Ureki	Guria	GU	Ozurgeti	OZ					
+GE	3524	Vake	Guria	GU	Ozurgeti	OZ					
+GE	3510	Vakidjvari	Guria	GU	Ozurgeti	OZ					
+GE	3518	Vanisqedi	Guria	GU	Ozurgeti	OZ					
+GE	3514	Vashtiali	Guria	GU	Ozurgeti	OZ					
+GE	3506	Zeda Bakhvi	Guria	GU	Ozurgeti	OZ					
+GE	3526	Zeda Dzimiti	Guria	GU	Ozurgeti	OZ					
+GE	3515	Zeda Makvaneti	Guria	GU	Ozurgeti	OZ					
+GE	3525	Zeda-Uchkhubi	Guria	GU	Ozurgeti	OZ					
+GE	3524	Zedubani	Guria	GU	Ozurgeti	OZ					
+GE	3511	Zemo Natanebi	Guria	GU	Ozurgeti	OZ					
+GE	1011	Alismereti	Imereti	IM	Bagdati	BG					
+GE	1005	Didvela	Imereti	IM	Bagdati	BG					
+GE	1001	Dimi	Imereti	IM	Bagdati	BG					
+GE	1011	Kakaskhidi	Imereti	IM	Bagdati	BG					
+GE	1011	Khani	Imereti	IM	Bagdati	BG					
+GE	1000	Nergeeti	Imereti	IM	Bagdati	BG					
+GE	1004	Obcha	Imereti	IM	Bagdati	BG					
+GE	1008	Persati	Imereti	IM	Bagdati	BG					
+GE	1006	Rokhi	Imereti	IM	Bagdati	BG					
+GE	1005	Rokiti	Imereti	IM	Bagdati	BG					
+GE	1001	Saimedo	Imereti	IM	Bagdati	BG					
+GE	1000	Sairme	Imereti	IM	Bagdati	BG					
+GE	1007	Sakraula	Imereti	IM	Bagdati	BG					
+GE	1008	Shubani	Imereti	IM	Bagdati	BG					
+GE	1010	Tsablaraskhevi	Imereti	IM	Bagdati	BG					
+GE	1003	Tsipa	Imereti	IM	Bagdati	BG					
+GE	1009	Tsitelikhevi	Imereti	IM	Bagdati	BG					
+GE	1010	Tskaltashua	Imereti	IM	Bagdati	BG					
+GE	1002	Vartsikhe	Imereti	IM	Bagdati	BG					
+GE	1003	Zegani	Imereti	IM	Bagdati	BG					
+GE	1011	Zekari	Imereti	IM	Bagdati	BG					
+GE	5509	Begiauri	Imereti	IM	Chiatura	CT					
+GE	5501	Beretisa	Imereti	IM	Chiatura	CT					
+GE	5517	Bigha	Imereti	IM	Chiatura	CT					
+GE	5509	Bjinevi	Imereti	IM	Chiatura	CT					
+GE	5500	Bunikauri	Imereti	IM	Chiatura	CT					
+GE	5500	Chilovani	Imereti	IM	Chiatura	CT					
+GE	5511	Chkhirauli	Imereti	IM	Chiatura	CT					
+GE	5505	Darkveti	Imereti	IM	Chiatura	CT					
+GE	5510	Didi Katskhi	Imereti	IM	Chiatura	CT					
+GE	5510	Etseri	Imereti	IM	Chiatura	CT					
+GE	5514	Gezruli	Imereti	IM	Chiatura	CT					
+GE	5518	Ghvitori	Imereti	IM	Chiatura	CT					
+GE	5516	Gundaeti	Imereti	IM	Chiatura	CT					
+GE	5509	Itkhvisi	Imereti	IM	Chiatura	CT					
+GE	5507	Jokhoeti	Imereti	IM	Chiatura	CT					
+GE	5510	Jokoeti	Imereti	IM	Chiatura	CT					
+GE	5515	Kalauri	Imereti	IM	Chiatura	CT					
+GE	5510	Katskhi	Imereti	IM	Chiatura	CT					
+GE	5511	Kbilari	Imereti	IM	Chiatura	CT					
+GE	5519	Khalipauri	Imereti	IM	Chiatura	CT					
+GE	5521	Khreiti	Imereti	IM	Chiatura	CT					
+GE	5519	Khvashiti	Imereti	IM	Chiatura	CT					
+GE	5519	Kvakhajeleti	Imereti	IM	Chiatura	CT					
+GE	5517	Kvatsikhe	Imereti	IM	Chiatura	CT					
+GE	5519	Kveda Chalovani	Imereti	IM	Chiatura	CT					
+GE	5516	Kveda Usakhelo	Imereti	IM	Chiatura	CT					
+GE	5511	Mandaeti	Imereti	IM	Chiatura	CT					
+GE	5511	Mechkheturi	Imereti	IM	Chiatura	CT					
+GE	5518	Melesheeti	Imereti	IM	Chiatura	CT					
+GE	5516	Merevi	Imereti	IM	Chiatura	CT					
+GE	5519	Mghvimevi	Imereti	IM	Chiatura	CT					
+GE	5508	Mokhorotubani	Imereti	IM	Chiatura	CT					
+GE	5510	Mordzgveti	Imereti	IM	Chiatura	CT					
+GE	5510	Navardzeti	Imereti	IM	Chiatura	CT					
+GE	5512	Nigozeti	Imereti	IM	Chiatura	CT					
+GE	5515	Perevisa	Imereti	IM	Chiatura	CT					
+GE	5513	Rgani	Imereti	IM	Chiatura	CT					
+GE	5517	Rtskhilati	Imereti	IM	Chiatura	CT					
+GE	5517	Sakurtsie	Imereti	IM	Chiatura	CT					
+GE	5510	Salieti	Imereti	IM	Chiatura	CT					
+GE	5500	Sarkveletubani	Imereti	IM	Chiatura	CT					
+GE	5515	Shukruti	Imereti	IM	Chiatura	CT					
+GE	5500	Skindori	Imereti	IM	Chiatura	CT					
+GE	5514	Sveri	Imereti	IM	Chiatura	CT					
+GE	5500	Tabagrebi	Imereti	IM	Chiatura	CT					
+GE	5511	Tkemlovana	Imereti	IM	Chiatura	CT					
+GE	5516	Tsasri	Imereti	IM	Chiatura	CT					
+GE	5519	Tsirkvali	Imereti	IM	Chiatura	CT					
+GE	5500	Tsisopeli	Imereti	IM	Chiatura	CT					
+GE	5512	Tskalshavi	Imereti	IM	Chiatura	CT					
+GE	5514	Tskhrukveti	Imereti	IM	Chiatura	CT					
+GE	5514	Tvalueti	Imereti	IM	Chiatura	CT					
+GE	5516	Usakhelo	Imereti	IM	Chiatura	CT					
+GE	5507	Vachevi	Imereti	IM	Chiatura	CT					
+GE	5519	Vakevisa	Imereti	IM	Chiatura	CT					
+GE	5519	Vani	Imereti	IM	Chiatura	CT					
+GE	5501	Zeda-Beretisa	Imereti	IM	Chiatura	CT					
+GE	5519	Zeda-Chalovani	Imereti	IM	Chiatura	CT					
+GE	5512	Zeda Usakhelo	Imereti	IM	Chiatura	CT					
+GE	5508	Zedubani	Imereti	IM	Chiatura	CT					
+GE	5508	Zodi	Imereti	IM	Chiatura	CT					
+GE	5600	Akhalsopeli	Imereti	IM	Kharagauli	KG					
+GE	5601	Amashuketi	Imereti	IM	Kharagauli	KG					
+GE	5607	Babi	Imereti	IM	Kharagauli	KG					
+GE	5600	Bazaleti	Imereti	IM	Kharagauli	KG					
+GE	5607	Bejatubani	Imereti	IM	Kharagauli	KG					
+GE	5612	Bjinevi	Imereti	IM	Kharagauli	KG					
+GE	5604	Bori	Imereti	IM	Kharagauli	KG					
+GE	5601	Boriti	Imereti	IM	Kharagauli	KG					
+GE	5611	Chalkhaeti	Imereti	IM	Kharagauli	KG					
+GE	5607	Chartali	Imereti	IM	Kharagauli	KG					
+GE	5600	Chkheri	Imereti	IM	Kharagauli	KG					
+GE	5603	Chrdili	Imereti	IM	Kharagauli	KG					
+GE	5607	Deisi	Imereti	IM	Kharagauli	KG					
+GE	5606	Didvake	Imereti	IM	Kharagauli	KG					
+GE	5601	Ereta	Imereti	IM	Kharagauli	KG					
+GE	5612	Gedsamania	Imereti	IM	Kharagauli	KG					
+GE	5600	Gharikhevi	Imereti	IM	Kharagauli	KG					
+GE	5609	Ghoresha	Imereti	IM	Kharagauli	KG					
+GE	5600	Ghudumeketi	Imereti	IM	Kharagauli	KG					
+GE	5605	Ghverki	Imereti	IM	Kharagauli	KG					
+GE	5610	Golatubani	Imereti	IM	Kharagauli	KG					
+GE	5613	Golisi	Imereti	IM	Kharagauli	KG					
+GE	5613	Grigaliti	Imereti	IM	Kharagauli	KG					
+GE	5610	Gudautubani	Imereti	IM	Kharagauli	KG					
+GE	5600	Islari	Imereti	IM	Kharagauli	KG					
+GE	5600	Japareuli	Imereti	IM	Kharagauli	KG					
+GE	5605	Khemaghali	Imereti	IM	Kharagauli	KG					
+GE	5613	Khevi	Imereti	IM	Kharagauli	KG					
+GE	5604	Khidari	Imereti	IM	Kharagauli	KG					
+GE	5611	Khoni	Imereti	IM	Kharagauli	KG					
+GE	5608	Khoriti	Imereti	IM	Kharagauli	KG					
+GE	5612	Khunevi	Imereti	IM	Kharagauli	KG					
+GE	5604	Kitskhi	Imereti	IM	Kharagauli	KG					
+GE	5604	Kitskhis-Igoreti	Imereti	IM	Kharagauli	KG					
+GE	5600	Kroli	Imereti	IM	Kharagauli	KG					
+GE	5607	Kvebi	Imereti	IM	Kharagauli	KG					
+GE	5601	Kvesrevi	Imereti	IM	Kharagauli	KG					
+GE	5611	Lakhundara	Imereti	IM	Kharagauli	KG					
+GE	5605	Lashe	Imereti	IM	Kharagauli	KG					
+GE	5605	Lashis-Igoreti	Imereti	IM	Kharagauli	KG					
+GE	5606	Leghvani	Imereti	IM	Kharagauli	KG					
+GE	5601	Makatubani	Imereti	IM	Kharagauli	KG					
+GE	5606	Marelisi	Imereti	IM	Kharagauli	KG					
+GE	5607	Moliti	Imereti	IM	Kharagauli	KG					
+GE	5613	Nadaburi	Imereti	IM	Kharagauli	KG					
+GE	5607	Nebodziri	Imereti	IM	Kharagauli	KG					
+GE	5603	Nunisi	Imereti	IM	Kharagauli	KG					
+GE	5600	Partskhnali	Imereti	IM	Kharagauli	KG					
+GE	5606	Patara Sakhvlari	Imereti	IM	Kharagauli	KG					
+GE	5610	Pona	Imereti	IM	Kharagauli	KG					
+GE	5608	Sabe	Imereti	IM	Kharagauli	KG					
+GE	5600	Saghandzile	Imereti	IM	Kharagauli	KG					
+GE	5604	Sakarikedi	Imereti	IM	Kharagauli	KG					
+GE	5601	Sakasria	Imereti	IM	Kharagauli	KG					
+GE	5608	Sargveshi	Imereti	IM	Kharagauli	KG					
+GE	5602	Serbaisi	Imereti	IM	Kharagauli	KG					
+GE	5600	Skhliti	Imereti	IM	Kharagauli	KG					
+GE	5600	Tetritskaro	Imereti	IM	Kharagauli	KG					
+GE	5613	Tsakva	Imereti	IM	Kharagauli	KG					
+GE	5601	Tsikhisdziri	Imereti	IM	Kharagauli	KG					
+GE	5610	Tsipa	Imereti	IM	Kharagauli	KG					
+GE	5600	Tsipi	Imereti	IM	Kharagauli	KG					
+GE	5608	Tsitelikhevi	Imereti	IM	Kharagauli	KG					
+GE	5613	Tsitsgiuri	Imereti	IM	Kharagauli	KG					
+GE	5611	Tskalaporeti	Imereti	IM	Kharagauli	KG					
+GE	5601	Ubisa	Imereti	IM	Kharagauli	KG					
+GE	5605	Uchameti	Imereti	IM	Kharagauli	KG					
+GE	5602	Vakhani	Imereti	IM	Kharagauli	KG					
+GE	5600	Vani	Imereti	IM	Kharagauli	KG					
+GE	5611	Vardzia	Imereti	IM	Kharagauli	KG					
+GE	5601	Vashlevi	Imereti	IM	Kharagauli	KG					
+GE	5612	Vertkvichala	Imereti	IM	Kharagauli	KG					
+GE	5612	Vertkvila	Imereti	IM	Kharagauli	KG					
+GE	5600	Zarani	Imereti	IM	Kharagauli	KG					
+GE	5602	Zedubani	Imereti	IM	Kharagauli	KG					
+GE	5603	Zvare	Imereti	IM	Kharagauli	KG					
+GE	5904	Akhalbediseuli	Imereti	IM	Khoni	KN					
+GE	5902	Akhalsheni	Imereti	IM	Khoni	KN					
+GE	5908	Besiauri	Imereti	IM	Khoni	KN					
+GE	5908	Dedalauri	Imereti	IM	Khoni	KN					
+GE	5919	Didghvabuna	Imereti	IM	Khoni	KN					
+GE	5912	Didi Kukhi	Imereti	IM	Khoni	KN					
+GE	5919	Djeshki	Imereti	IM	Khoni	KN					
+GE	5918	Dzedzileti	Imereti	IM	Khoni	KN					
+GE	5918	Gelaveri	Imereti	IM	Khoni	KN					
+GE	5917	Ghvedi	Imereti	IM	Khoni	KN					
+GE	5906	Gochajikhaishi	Imereti	IM	Khoni	KN					
+GE	5905	Gordi	Imereti	IM	Khoni	KN					
+GE	5907	Gubi	Imereti	IM	Khoni	KN					
+GE	5918	Gvashtibi	Imereti	IM	Khoni	KN					
+GE	5916	Gvazouri	Imereti	IM	Khoni	KN					
+GE	5909	Ivandidi	Imereti	IM	Khoni	KN					
+GE	5919	Khidi	Imereti	IM	Khoni	KN					
+GE	5910	Kinchkha	Imereti	IM	Khoni	KN					
+GE	5910	Kinchkhapherdi	Imereti	IM	Khoni	KN					
+GE	5911	Kontuati	Imereti	IM	Khoni	KN					
+GE	5912	Kukhi	Imereti	IM	Khoni	KN					
+GE	5916	Kutiri	Imereti	IM	Khoni	KN					
+GE	5910	Kveda Kinchkha	Imereti	IM	Khoni	KN					
+GE	5919	Lepilie	Imereti	IM	Khoni	KN					
+GE	5913	Matkhoji	Imereti	IM	Khoni	KN					
+GE	5914	Nakhakhulevi	Imereti	IM	Khoni	KN					
+GE	5918	Orgveti	Imereti	IM	Khoni	KN					
+GE	5907	Patara-Gubi	Imereti	IM	Khoni	KN					
+GE	5915	Patara Jikhaishi	Imereti	IM	Khoni	KN					
+GE	5912	Patara-Kukhi	Imereti	IM	Khoni	KN					
+GE	5910	Satsiskvilo	Imereti	IM	Khoni	KN					
+GE	5914	Satsulukidzeo	Imereti	IM	Khoni	KN					
+GE	5907	Shua-Gubi	Imereti	IM	Khoni	KN					
+GE	5919	Sukhcha	Imereti	IM	Khoni	KN					
+GE	5910	Zeda-Kinchkha	Imereti	IM	Khoni	KN					
+GE	4003	Argveti	Imereti	IM	Sachkhere	SC					
+GE	4010	Bajiti	Imereti	IM	Sachkhere	SC					
+GE	4003	Bakhioti	Imereti	IM	Sachkhere	SC					
+GE	4013	Chala	Imereti	IM	Sachkhere	SC					
+GE	4014	Chalovani	Imereti	IM	Sachkhere	SC					
+GE	4012	Chikha	Imereti	IM	Sachkhere	SC					
+GE	4009	Chorvila	Imereti	IM	Sachkhere	SC					
+GE	4008	Churnali	Imereti	IM	Sachkhere	SC					
+GE	4013	Darka	Imereti	IM	Sachkhere	SC					
+GE	4013	Drbo	Imereti	IM	Sachkhere	SC					
+GE	4000	Dunta	Imereti	IM	Sachkhere	SC					
+GE	4006	Durevi	Imereti	IM	Sachkhere	SC					
+GE	4006	Eto-Ekhvevi	Imereti	IM	Sachkhere	SC					
+GE	4004	Gaghma Argveti	Imereti	IM	Sachkhere	SC					
+GE	4014	Ghodora	Imereti	IM	Sachkhere	SC					
+GE	4013	Ghona	Imereti	IM	Sachkhere	SC					
+GE	4007	Gogoladzeebi	Imereti	IM	Sachkhere	SC					
+GE	4004	Gorisa	Imereti	IM	Sachkhere	SC					
+GE	4013	Iphkhora	Imereti	IM	Sachkhere	SC					
+GE	4006	Irtavaza	Imereti	IM	Sachkhere	SC					
+GE	4006	Itskisi	Imereti	IM	Sachkhere	SC					
+GE	4005	Ivantsminda	Imereti	IM	Sachkhere	SC					
+GE	4015	Jalaurta	Imereti	IM	Sachkhere	SC					
+GE	4008	Jria	Imereti	IM	Sachkhere	SC					
+GE	4011	Kalvata	Imereti	IM	Sachkhere	SC					
+GE	4007	Kapanadzeebi	Imereti	IM	Sachkhere	SC					
+GE	4008	Karzmani	Imereti	IM	Sachkhere	SC					
+GE	4014	Khvani	Imereti	IM	Sachkhere	SC					
+GE	4007	Korbouli	Imereti	IM	Sachkhere	SC					
+GE	4011	Koreti	Imereti	IM	Sachkhere	SC					
+GE	4012	Kveda Orghuli	Imereti	IM	Sachkhere	SC					
+GE	4010	Kvemo Khevi	Imereti	IM	Sachkhere	SC					
+GE	4014	Lichi	Imereti	IM	Sachkhere	SC					
+GE	4007	Macharashvilebi	Imereti	IM	Sachkhere	SC					
+GE	4003	Makhatauri	Imereti	IM	Sachkhere	SC					
+GE	4005	Merjevi	Imereti	IM	Sachkhere	SC					
+GE	4015	Modzvi	Imereti	IM	Sachkhere	SC					
+GE	4010	Mokhva	Imereti	IM	Sachkhere	SC					
+GE	4007	Nigvzara	Imereti	IM	Sachkhere	SC					
+GE	4008	Perevi	Imereti	IM	Sachkhere	SC					
+GE	4009	Sairkhe	Imereti	IM	Sachkhere	SC					
+GE	4013	Sakokhia	Imereti	IM	Sachkhere	SC					
+GE	4010	Sareki	Imereti	IM	Sachkhere	SC					
+GE	4013	Satite	Imereti	IM	Sachkhere	SC					
+GE	4003	Savane	Imereti	IM	Sachkhere	SC					
+GE	4003	Shalauri	Imereti	IM	Sachkhere	SC					
+GE	4007	Shomakheti	Imereti	IM	Sachkhere	SC					
+GE	4008	Sinaguri	Imereti	IM	Sachkhere	SC					
+GE	4007	Sisvadzeebi	Imereti	IM	Sachkhere	SC					
+GE	4013	Speti	Imereti	IM	Sachkhere	SC					
+GE	4006	Tskhami	Imereti	IM	Sachkhere	SC					
+GE	4010	Tskhomareti	Imereti	IM	Sachkhere	SC					
+GE	4010	Uzunta	Imereti	IM	Sachkhere	SC					
+GE	4014	Vakisa	Imereti	IM	Sachkhere	SC					
+GE	4012	Zeda Orghuli	Imereti	IM	Sachkhere	SC					
+GE	3910	Akhalsopeli	Imereti	IM	Samtredia	SM					
+GE	3907	Bashi	Imereti	IM	Samtredia	SM					
+GE	3916	Bughnara	Imereti	IM	Samtredia	SM					
+GE	3917	Chagani	Imereti	IM	Samtredia	SM					
+GE	3912	Chkhenishi	Imereti	IM	Samtredia	SM					
+GE	3915	Chognari	Imereti	IM	Samtredia	SM					
+GE	3908	Dabla Etseri	Imereti	IM	Samtredia	SM					
+GE	3908	Dablagomi	Imereti	IM	Samtredia	SM					
+GE	3908	Daphnari	Imereti	IM	Samtredia	SM					
+GE	3914	Didi Opheti	Imereti	IM	Samtredia	SM					
+GE	3908	Dobiro	Imereti	IM	Samtredia	SM					
+GE	3910	Etseri	Imereti	IM	Samtredia	SM					
+GE	3915	Gamochinebuli	Imereti	IM	Samtredia	SM					
+GE	3917	Ghaniri	Imereti	IM	Samtredia	SM					
+GE	3908	Gomi	Imereti	IM	Samtredia	SM					
+GE	3908	Gommukhakrua	Imereti	IM	Samtredia	SM					
+GE	3908	Gomnatekhebi	Imereti	IM	Samtredia	SM					
+GE	3909	Gormaghali	Imereti	IM	Samtredia	SM					
+GE	3910	Gvimrala	Imereti	IM	Samtredia	SM					
+GE	3911	Ianeti	Imereti	IM	Samtredia	SM					
+GE	3910	Jigtubani	Imereti	IM	Samtredia	SM					
+GE	3919	Jikhaishi	Imereti	IM	Samtredia	SM					
+GE	3910	Kechinari	Imereti	IM	Samtredia	SM					
+GE	3908	Ketilauri	Imereti	IM	Samtredia	SM					
+GE	3913	Khiblari	Imereti	IM	Samtredia	SM					
+GE	3912	Khunjulauri	Imereti	IM	Samtredia	SM					
+GE	3912	Kulashi	Imereti	IM	Samtredia	SM					
+GE	3909	Kvakude	Imereti	IM	Samtredia	SM					
+GE	3915	Kvemo Abasha	Imereti	IM	Samtredia	SM					
+GE	3908	Kvirike (Gomi Area)	Imereti	IM	Samtredia	SM					
+GE	3912	Kvirike (Kulashi Area)	Imereti	IM	Samtredia	SM					
+GE	3913	Melauri	Imereti	IM	Samtredia	SM					
+GE	3907	Meore Etserbashi	Imereti	IM	Samtredia	SM					
+GE	3913	Mitsabogira	Imereti	IM	Samtredia	SM					
+GE	3914	Mterchveuli	Imereti	IM	Samtredia	SM					
+GE	3908	Mtisdziri	Imereti	IM	Samtredia	SM					
+GE	3912	Nabakevi	Imereti	IM	Samtredia	SM					
+GE	3915	Nigorzghva	Imereti	IM	Samtredia	SM					
+GE	3912	Ninua-Kutkhe	Imereti	IM	Samtredia	SM					
+GE	3916	Nogha	Imereti	IM	Samtredia	SM					
+GE	3910	Ochopha	Imereti	IM	Samtredia	SM					
+GE	3914	Opheti	Imereti	IM	Samtredia	SM					
+GE	3910	Patara Etseri	Imereti	IM	Samtredia	SM					
+GE	3914	Patara Opheti	Imereti	IM	Samtredia	SM					
+GE	3907	Pirveli Etserbashi	Imereti	IM	Samtredia	SM					
+GE	3915	Sajavakho	Imereti	IM	Samtredia	SM					
+GE	3907	Shua Bashi	Imereti	IM	Samtredia	SM					
+GE	3916	Tolebi	Imereti	IM	Samtredia	SM					
+GE	3914	Tsiaghubani	Imereti	IM	Samtredia	SM					
+GE	3908	Tsivtskala	Imereti	IM	Samtredia	SM					
+GE	3916	Vazisubani	Imereti	IM	Samtredia	SM					
+GE	3907	Zeda-Bashi	Imereti	IM	Samtredia	SM					
+GE	3908	Zeda-Etseri	Imereti	IM	Samtredia	SM					
+GE	3915	Zemo Abasha	Imereti	IM	Samtredia	SM					
+GE	2402	Akhali Terjola	Imereti	IM	Terjola	TJ					
+GE	2403	Bardubani	Imereti	IM	Terjola	TJ					
+GE	2422	Bediauri	Imereti	IM	Terjola	TJ					
+GE	2405	Broliqedi	Imereti	IM	Terjola	TJ					
+GE	2405	Chalastavi	Imereti	IM	Terjola	TJ					
+GE	2415	Chikhori	Imereti	IM	Terjola	TJ					
+GE	2421	Chkhari	Imereti	IM	Terjola	TJ					
+GE	2416	Chkharietseri	Imereti	IM	Terjola	TJ					
+GE	2423	Chognari	Imereti	IM	Terjola	TJ					
+GE	2415	Deltasubani	Imereti	IM	Terjola	TJ					
+GE	2422	Dzevri	Imereti	IM	Terjola	TJ					
+GE	2406	Etseri	Imereti	IM	Terjola	TJ					
+GE	2420	Ghvankiti	Imereti	IM	Terjola	TJ					
+GE	2405	Godogani	Imereti	IM	Terjola	TJ					
+GE	2404	Gogni	Imereti	IM	Terjola	TJ					
+GE	2407	Jgilati	Imereti	IM	Terjola	TJ					
+GE	2411	Kakabouri	Imereti	IM	Terjola	TJ					
+GE	2415	Komisrebi	Imereti	IM	Terjola	TJ					
+GE	2412	Kvakhchiri	Imereti	IM	Terjola	TJ					
+GE	2417	Kveda Alisubani	Imereti	IM	Terjola	TJ					
+GE	2418	Kveda Simoneti	Imereti	IM	Terjola	TJ					
+GE	2408	Machitouri	Imereti	IM	Terjola	TJ					
+GE	2410	Mudjireti	Imereti	IM	Terjola	TJ					
+GE	2405	Nagarevi	Imereti	IM	Terjola	TJ					
+GE	2413	Nakhshirghele	Imereti	IM	Terjola	TJ					
+GE	2412	Odilauri	Imereti	IM	Terjola	TJ					
+GE	2421	Okona	Imereti	IM	Terjola	TJ					
+GE	2421	Oktomberi	Imereti	IM	Terjola	TJ					
+GE	2414	Ruphoti	Imereti	IM	Terjola	TJ					
+GE	2412	Sarbevi	Imereti	IM	Terjola	TJ					
+GE	2403	Satemo	Imereti	IM	Terjola	TJ					
+GE	2415	Sazano	Imereti	IM	Terjola	TJ					
+GE	2422	Sephareti	Imereti	IM	Terjola	TJ					
+GE	2415	Shamshilakedi	Imereti	IM	Terjola	TJ					
+GE	2416	Siktarva	Imereti	IM	Terjola	TJ					
+GE	2410	Skande	Imereti	IM	Terjola	TJ					
+GE	2410	Tavasa	Imereti	IM	Terjola	TJ					
+GE	2414	Telepha	Imereti	IM	Terjola	TJ					
+GE	2408	Tkhiltatskaro	Imereti	IM	Terjola	TJ					
+GE	2405	Tskaltsitela	Imereti	IM	Terjola	TJ					
+GE	2411	Tuzi	Imereti	IM	Terjola	TJ					
+GE	2407	Vardigora	Imereti	IM	Terjola	TJ					
+GE	2408	Zemo Alisubani	Imereti	IM	Terjola	TJ					
+GE	2409	Zemo Simoneti	Imereti	IM	Terjola	TJ					
+GE	4312	Akhaldaba	Imereti	IM	Tkibuli	TQ					
+GE	4305	Antoria	Imereti	IM	Tkibuli	TQ					
+GE	4305	Boboti	Imereti	IM	Tkibuli	TQ					
+GE	4312	Bueti	Imereti	IM	Tkibuli	TQ					
+GE	4309	Dabadzveli	Imereti	IM	Tkibuli	TQ					
+GE	4309	Dzirovani	Imereti	IM	Tkibuli	TQ					
+GE	4310	Dzmuisi	Imereti	IM	Tkibuli	TQ					
+GE	4312	Dzuknuri	Imereti	IM	Tkibuli	TQ					
+GE	4312	Gadaghma Tskaltsitela	Imereti	IM	Tkibuli	TQ					
+GE	4312	Gamoghma Tskaltsitela	Imereti	IM	Tkibuli	TQ					
+GE	4306	Gelati	Imereti	IM	Tkibuli	TQ					
+GE	4305	Gurna	Imereti	IM	Tkibuli	TQ					
+GE	4312	Ivaneuli	Imereti	IM	Tkibuli	TQ					
+GE	4308	Jonia	Imereti	IM	Tkibuli	TQ					
+GE	4313	Jvarisa	Imereti	IM	Tkibuli	TQ					
+GE	4312	Khresili	Imereti	IM	Tkibuli	TQ					
+GE	4313	Kirovi	Imereti	IM	Tkibuli	TQ					
+GE	4305	Kisoreti	Imereti	IM	Tkibuli	TQ					
+GE	4305	Kitkhiji	Imereti	IM	Tkibuli	TQ					
+GE	4308	Koka	Imereti	IM	Tkibuli	TQ					
+GE	4305	Koreeti	Imereti	IM	Tkibuli	TQ					
+GE	4306	Kursebi	Imereti	IM	Tkibuli	TQ					
+GE	4308	Kveda Chkepi	Imereti	IM	Tkibuli	TQ					
+GE	4308	Lapheti	Imereti	IM	Tkibuli	TQ					
+GE	4313	Lashia	Imereti	IM	Tkibuli	TQ					
+GE	4312	Leghva	Imereti	IM	Tkibuli	TQ					
+GE	4308	Mandikori	Imereti	IM	Tkibuli	TQ					
+GE	4306	Motsameta	Imereti	IM	Tkibuli	TQ					
+GE	4307	Mukhura	Imereti	IM	Tkibuli	TQ					
+GE	4308	Naboslevi	Imereti	IM	Tkibuli	TQ					
+GE	4305	Nadzva	Imereti	IM	Tkibuli	TQ					
+GE	4313	Odjola	Imereti	IM	Tkibuli	TQ					
+GE	4308	Okhomira	Imereti	IM	Tkibuli	TQ					
+GE	4308	Orpiri	Imereti	IM	Tkibuli	TQ					
+GE	4309	Satsire	Imereti	IM	Tkibuli	TQ					
+GE	4308	Shukeri	Imereti	IM	Tkibuli	TQ					
+GE	4310	Sochkheti	Imereti	IM	Tkibuli	TQ					
+GE	4305	Tsikhia	Imereti	IM	Tkibuli	TQ					
+GE	4310	Tsknori	Imereti	IM	Tkibuli	TQ					
+GE	4311	Tsutskhvati	Imereti	IM	Tkibuli	TQ					
+GE	4308	Zeda-Chkepi	Imereti	IM	Tkibuli	TQ					
+GE	4309	Zedubani	Imereti	IM	Tkibuli	TQ					
+GE	5415	Akhali Sakulia	Imereti	IM	Tskaltubo	TS					
+GE	5406	Banoja	Imereti	IM	Tskaltubo	TS					
+GE	5410	Bentqoula	Imereti	IM	Tskaltubo	TS					
+GE	5411	Brotseula	Imereti	IM	Tskaltubo	TS					
+GE	5410	Chashleti	Imereti	IM	Tskaltubo	TS					
+GE	5414	Cholevi	Imereti	IM	Tskaltubo	TS					
+GE	5420	Chuneshi	Imereti	IM	Tskaltubo	TS					
+GE	5410	Derchi	Imereti	IM	Tskaltubo	TS					
+GE	5407	Dghnorisa	Imereti	IM	Tskaltubo	TS					
+GE	5412	Djoneti	Imereti	IM	Tskaltubo	TS					
+GE	5404	Geguti	Imereti	IM	Tskaltubo	TS					
+GE	5405	Gubistskali	Imereti	IM	Tskaltubo	TS					
+GE	5412	Gumati	Imereti	IM	Tskaltubo	TS					
+GE	5406	Gumbra	Imereti	IM	Tskaltubo	TS					
+GE	5405	Gvishtibi	Imereti	IM	Tskaltubo	TS					
+GE	5412	Jimastaro	Imereti	IM	Tskaltubo	TS					
+GE	5402	Khomuli	Imereti	IM	Tskaltubo	TS					
+GE	5421	Kumistavi	Imereti	IM	Tskaltubo	TS					
+GE	5410	Kveda Oncheishi	Imereti	IM	Tskaltubo	TS					
+GE	5420	Kvilishori	Imereti	IM	Tskaltubo	TS					
+GE	5419	Kvitiri	Imereti	IM	Tskaltubo	TS					
+GE	5407	Lekhidristavi	Imereti	IM	Tskaltubo	TS					
+GE	5408	Maghlaki	Imereti	IM	Tskaltubo	TS					
+GE	5414	Mamatsminda	Imereti	IM	Tskaltubo	TS					
+GE	5414	Mechkheri	Imereti	IM	Tskaltubo	TS					
+GE	5410	Mekvena	Imereti	IM	Tskaltubo	TS					
+GE	5420	Meoreubani	Imereti	IM	Tskaltubo	TS					
+GE	5409	Meskheti	Imereti	IM	Tskaltubo	TS					
+GE	5418	Mindori	Imereti	IM	Tskaltubo	TS					
+GE	5408	Mitsatsiteli	Imereti	IM	Tskaltubo	TS					
+GE	5411	Mukhiani	Imereti	IM	Tskaltubo	TS					
+GE	5412	Namokhvani	Imereti	IM	Tskaltubo	TS					
+GE	5414	Nogha	Imereti	IM	Tskaltubo	TS					
+GE	5413	Ophshkviti	Imereti	IM	Tskaltubo	TS					
+GE	5412	Ophurchkheti	Imereti	IM	Tskaltubo	TS					
+GE	5417	Partskhanakanebi	Imereti	IM	Tskaltubo	TS					
+GE	5416	Patrigeti	Imereti	IM	Tskaltubo	TS					
+GE	5405	Pirveli Tskaltubo	Imereti	IM	Tskaltubo	TS					
+GE	5414	Rioni	Imereti	IM	Tskaltubo	TS					
+GE	5407	Sachkheura	Imereti	IM	Tskaltubo	TS					
+GE	5412	Sakire	Imereti	IM	Tskaltubo	TS					
+GE	5415	Sakulia	Imereti	IM	Tskaltubo	TS					
+GE	5414	Sormoni	Imereti	IM	Tskaltubo	TS					
+GE	5403	Ternali	Imereti	IM	Tskaltubo	TS					
+GE	5416	Tkachiri	Imereti	IM	Tskaltubo	TS					
+GE	5420	Tskaltubo	Imereti	IM	Tskaltubo	TS					
+GE	5421	Tskhunkuri	Imereti	IM	Tskaltubo	TS					
+GE	5411	Ukaneti	Imereti	IM	Tskaltubo	TS					
+GE	5410	Vanischala	Imereti	IM	Tskaltubo	TS					
+GE	5414	Zarati	Imereti	IM	Tskaltubo	TS					
+GE	1902	Amagleba	Imereti	IM	Vani	VA					
+GE	1916	Baboti	Imereti	IM	Vani	VA					
+GE	1910	Bagineti	Imereti	IM	Vani	VA					
+GE	1903	Bzvani	Imereti	IM	Vani	VA					
+GE	1908	Chagan-Chkvishi	Imereti	IM	Vani	VA					
+GE	1918	Chkvishi	Imereti	IM	Vani	VA					
+GE	1905	Dikhashkho	Imereti	IM	Vani	VA					
+GE	1917	Dutskhuni	Imereti	IM	Vani	VA					
+GE	1912	Dzulukhi	Imereti	IM	Vani	VA					
+GE	1914	Etseri	Imereti	IM	Vani	VA					
+GE	1906	Gadidi	Imereti	IM	Vani	VA					
+GE	1904	Gora	Imereti	IM	Vani	VA					
+GE	1902	Inashauri	Imereti	IM	Vani	VA					
+GE	1905	Isriti	Imereti	IM	Vani	VA					
+GE	1917	Kumuri	Imereti	IM	Vani	VA					
+GE	1914	Kushubouri	Imereti	IM	Vani	VA					
+GE	1903	Kveda Bzvani	Imereti	IM	Vani	VA					
+GE	1904	Kveda Gora	Imereti	IM	Vani	VA					
+GE	1909	Kveda Mukedi	Imereti	IM	Vani	VA					
+GE	1917	Maisouri	Imereti	IM	Vani	VA					
+GE	1914	Mikelephoni	Imereti	IM	Vani	VA					
+GE	1908	Mtisdziri	Imereti	IM	Vani	VA					
+GE	1909	Mukedi	Imereti	IM	Vani	VA					
+GE	1906	Ondjokheti	Imereti	IM	Vani	VA					
+GE	1916	Pereta	Imereti	IM	Vani	VA					
+GE	1913	Romaneti	Imereti	IM	Vani	VA					
+GE	1913	Saprasia	Imereti	IM	Vani	VA					
+GE	1907	Shua-Gora	Imereti	IM	Vani	VA					
+GE	1918	Shuamta	Imereti	IM	Vani	VA					
+GE	1912	Sulori	Imereti	IM	Vani	VA					
+GE	1906	Tkelvani	Imereti	IM	Vani	VA					
+GE	1914	Tobanieri	Imereti	IM	Vani	VA					
+GE	1901	Tsikhesulori	Imereti	IM	Vani	VA					
+GE	1905	Tsikhisubani	Imereti	IM	Vani	VA					
+GE	1915	Ukhuti	Imereti	IM	Vani	VA					
+GE	1903	Zeda-Bzvani	Imereti	IM	Vani	VA					
+GE	1904	Zeda-Gora	Imereti	IM	Vani	VA					
+GE	1909	Zeda-Mukedi	Imereti	IM	Vani	VA					
+GE	1906	Zeda-Vani	Imereti	IM	Vani	VA					
+GE	1907	Zeindari	Imereti	IM	Vani	VA					
+GE	1911	Zenobani	Imereti	IM	Vani	VA					
+GE	2023	Adjara	Imereti	IM	Zestaponi	ZP					
+GE	2012	Ajameti	Imereti	IM	Zestaponi	ZP					
+GE	2002	Alaverdi	Imereti	IM	Zestaponi	ZP					
+GE	2021	Amsaisi	Imereti	IM	Zestaponi	ZP					
+GE	2004	Argveta	Imereti	IM	Zestaponi	ZP					
+GE	2009	Beghlevi	Imereti	IM	Zestaponi	ZP					
+GE	2004	Chalatke	Imereti	IM	Zestaponi	ZP					
+GE	2003	Dilikauri	Imereti	IM	Zestaponi	ZP					
+GE	2023	Dzirula	Imereti	IM	Zestaponi	ZP					
+GE	2022	Dzlourdaneti	Imereti	IM	Zestaponi	ZP					
+GE	2006	Gamoghma Boslevi	Imereti	IM	Zestaponi	ZP					
+GE	2023	Gantiadi	Imereti	IM	Zestaponi	ZP					
+GE	2011	Ilemi	Imereti	IM	Zestaponi	ZP					
+GE	2021	Kandara	Imereti	IM	Zestaponi	ZP					
+GE	2008	Kinoti	Imereti	IM	Zestaponi	ZP					
+GE	2008	Kldeeti	Imereti	IM	Zestaponi	ZP					
+GE	2017	Kvaliti	Imereti	IM	Zestaponi	ZP					
+GE	2017	Kveda Kvaliti	Imereti	IM	Zestaponi	ZP					
+GE	2004	Kveda Saqara	Imereti	IM	Zestaponi	ZP					
+GE	2018	Kveda Sazano	Imereti	IM	Zestaponi	ZP					
+GE	2003	Kveletubani	Imereti	IM	Zestaponi	ZP					
+GE	2023	Leledziseuli	Imereti	IM	Zestaponi	ZP					
+GE	2020	Martotubani	Imereti	IM	Zestaponi	ZP					
+GE	2002	Mtskeristsikhe	Imereti	IM	Zestaponi	ZP					
+GE	2016	Puti	Imereti	IM	Zestaponi	ZP					
+GE	2004	Rikis Ubani	Imereti	IM	Zestaponi	ZP					
+GE	2012	Rodianauli	Imereti	IM	Zestaponi	ZP					
+GE	2020	Saghvine	Imereti	IM	Zestaponi	ZP					
+GE	2020	Sanakhshire	Imereti	IM	Zestaponi	ZP					
+GE	2018	Sasakhle	Imereti	IM	Zestaponi	ZP					
+GE	2021	Satsable	Imereti	IM	Zestaponi	ZP					
+GE	2018	Shimshilakedi	Imereti	IM	Zestaponi	ZP					
+GE	2020	Shorapani	Imereti	IM	Zestaponi	ZP					
+GE	2021	Shrosha	Imereti	IM	Zestaponi	ZP					
+GE	2017	Shua Kvaliti	Imereti	IM	Zestaponi	ZP					
+GE	2012	Svetimaghali	Imereti	IM	Zestaponi	ZP					
+GE	2013	Sviri	Imereti	IM	Zestaponi	ZP					
+GE	2008	Tabakini	Imereti	IM	Zestaponi	ZP					
+GE	2018	Tklapi	Imereti	IM	Zestaponi	ZP					
+GE	2018	Tklapivake	Imereti	IM	Zestaponi	ZP					
+GE	2023	Tseva	Imereti	IM	Zestaponi	ZP					
+GE	2020	Tsiplavake	Imereti	IM	Zestaponi	ZP					
+GE	2012	Tskhentaro	Imereti	IM	Zestaponi	ZP					
+GE	2022	Tskhratskaro	Imereti	IM	Zestaponi	ZP					
+GE	2002	Tvrini	Imereti	IM	Zestaponi	ZP					
+GE	2008	Zeda Kldeeti	Imereti	IM	Zestaponi	ZP					
+GE	2022	Zeda-Kvaliti	Imereti	IM	Zestaponi	ZP					
+GE	2009	Zeda Sakara	Imereti	IM	Zestaponi	ZP					
+GE	2010	Zovreti	Imereti	IM	Zestaponi	ZP					
+GE	2021	Zvare	Imereti	IM	Zestaponi	ZP					
+GE	0910	Akhaldaba	Kakheti	KA	Akhmeta	AM					
+GE	0908	Akhshaani	Kakheti	KA	Akhmeta	AM					
+GE	0908	Akhshnisvelebi	Kakheti	KA	Akhmeta	AM					
+GE	0906	Alaverdi	Kakheti	KA	Akhmeta	AM					
+GE	0908	Arashenda	Kakheti	KA	Akhmeta	AM					
+GE	0904	Argokhi	Kakheti	KA	Akhmeta	AM					
+GE	0910	Atskuri	Kakheti	KA	Akhmeta	AM					
+GE	0909	Babaneuri	Kakheti	KA	Akhmeta	AM					
+GE	0907	Bakilovani	Kakheti	KA	Akhmeta	AM					
+GE	0911	Birkiani	Kakheti	KA	Akhmeta	AM					
+GE	0900	Bughaani	Kakheti	KA	Akhmeta	AM					
+GE	0910	Chabinaani	Kakheti	KA	Akhmeta	AM					
+GE	0900	Chachkhriala	Kakheti	KA	Akhmeta	AM					
+GE	0910	Charekauli	Kakheti	KA	Akhmeta	AM					
+GE	0900	Chartala	Kakheti	KA	Akhmeta	AM					
+GE	0905	Dano	Kakheti	KA	Akhmeta	AM					
+GE	0905	Dartlo	Kakheti	KA	Akhmeta	AM					
+GE	0907	Dedispheruli	Kakheti	KA	Akhmeta	AM					
+GE	0905	Diklo	Kakheti	KA	Akhmeta	AM					
+GE	0905	Dochu	Kakheti	KA	Akhmeta	AM					
+GE	0901	Duisi	Kakheti	KA	Akhmeta	AM					
+GE	0911	Dumasturi	Kakheti	KA	Akhmeta	AM					
+GE	0911	Dzibakhevi	Kakheti	KA	Akhmeta	AM					
+GE	0910	Imerliant Ubani	Kakheti	KA	Akhmeta	AM					
+GE	0908	Ingeti	Kakheti	KA	Akhmeta	AM					
+GE	0911	Jokolo	Kakheti	KA	Akhmeta	AM					
+GE	0900	Kasristskali	Kakheti	KA	Akhmeta	AM					
+GE	0905	Khakhabo	Kakheti	KA	Akhmeta	AM					
+GE	0907	Khevischala	Kakheti	KA	Akhmeta	AM					
+GE	0905	Khiso	Kakheti	KA	Akhmeta	AM					
+GE	0910	Khodasheni	Kakheti	KA	Akhmeta	AM					
+GE	0902	Khorbalo	Kakheti	KA	Akhmeta	AM					
+GE	0910	Khorkheli	Kakheti	KA	Akhmeta	AM					
+GE	0908	Kistauri	Kakheti	KA	Akhmeta	AM					
+GE	0908	Kodjori	Kakheti	KA	Akhmeta	AM					
+GE	0906	Koghoto	Kakheti	KA	Akhmeta	AM					
+GE	0907	Koreti	Kakheti	KA	Akhmeta	AM					
+GE	0905	Kumelaurta	Kakheti	KA	Akhmeta	AM					
+GE	0907	Kutsakhta	Kakheti	KA	Akhmeta	AM					
+GE	0907	Kvareltskali	Kakheti	KA	Akhmeta	AM					
+GE	0909	Kvemo Alvani	Kakheti	KA	Akhmeta	AM					
+GE	0901	Kvemo Khalatsani	Kakheti	KA	Akhmeta	AM					
+GE	0904	Maghraani	Kakheti	KA	Akhmeta	AM					
+GE	0903	Matani	Kakheti	KA	Akhmeta	AM					
+GE	0900	Naduknari	Kakheti	KA	Akhmeta	AM					
+GE	0906	Ojio	Kakheti	KA	Akhmeta	AM					
+GE	0905	Omalo	Kakheti	KA	Akhmeta	AM					
+GE	0908	Osiauri	Kakheti	KA	Akhmeta	AM					
+GE	0904	Pichkhovani	Kakheti	KA	Akhmeta	AM					
+GE	0900	Pitniani	Kakheti	KA	Akhmeta	AM					
+GE	0900	Sabero	Kakheti	KA	Akhmeta	AM					
+GE	0900	Sabue	Kakheti	KA	Akhmeta	AM					
+GE	0908	Sachale	Kakheti	KA	Akhmeta	AM					
+GE	0907	Sakobiano	Kakheti	KA	Akhmeta	AM					
+GE	0900	Shakhvetila	Kakheti	KA	Akhmeta	AM					
+GE	0905	Shenako	Kakheti	KA	Akhmeta	AM					
+GE	0905	Shtrolta	Kakheti	KA	Akhmeta	AM					
+GE	0901	Shua-Khalatsani	Kakheti	KA	Akhmeta	AM					
+GE	0901	Tsinubani	Kakheti	KA	Akhmeta	AM					
+GE	0900	Vedzebi	Kakheti	KA	Akhmeta	AM					
+GE	0902	Zemo Alvani	Kakheti	KA	Akhmeta	AM					
+GE	0901	Zemo Khalatsani	Kakheti	KA	Akhmeta	AM					
+GE	1602	Arboshiki	Kakheti	KA	Dedoplis Tskaro	DD					
+GE	1603	Arkhiloskalo	Kakheti	KA	Dedoplis Tskaro	DD					
+GE	1604	Gamarjveba	Kakheti	KA	Dedoplis Tskaro	DD					
+GE	1611	Japaridze	Kakheti	KA	Dedoplis Tskaro	DD					
+GE	1610	Kvemo Kedi	Kakheti	KA	Dedoplis Tskaro	DD					
+GE	1605	Mirzaani	Kakheti	KA	Dedoplis Tskaro	DD					
+GE	1607	Ozaani	Kakheti	KA	Dedoplis Tskaro	DD					
+GE	1609	Pirosmani	Kakheti	KA	Dedoplis Tskaro	DD					
+GE	1608	Sabatlo	Kakheti	KA	Dedoplis Tskaro	DD					
+GE	1609	Samtatskaro	Kakheti	KA	Dedoplis Tskaro	DD					
+GE	1600	Tavtskaro	Kakheti	KA	Dedoplis Tskaro	DD					
+GE	1606	Zemo Kedi	Kakheti	KA	Dedoplis Tskaro	DD					
+GE	1605	Zemo Machkhaani	Kakheti	KA	Dedoplis Tskaro	DD					
+GE	1502	Akhasheni	Kakheti	KA	Gurjaani	GJ					
+GE	1501	Arashenda	Kakheti	KA	Gurjaani	GJ					
+GE	1503	Bakurtsikhe	Kakheti	KA	Gurjaani	GJ					
+GE	1518	Chalaubani	Kakheti	KA	Gurjaani	GJ					
+GE	1520	Chandari	Kakheti	KA	Gurjaani	GJ					
+GE	1521	Cheremi	Kakheti	KA	Gurjaani	GJ					
+GE	1519	Chumlaki	Kakheti	KA	Gurjaani	GJ					
+GE	1515	Darchieti	Kakheti	KA	Gurjaani	GJ					
+GE	1520	Dzirkoki	Kakheti	KA	Gurjaani	GJ					
+GE	1516	Gurjaani	Kakheti	KA	Gurjaani	GJ					
+GE	1522	Jimiti	Kakheti	KA	Gurjaani	GJ					
+GE	1510	Kachreti	Kakheti	KA	Gurjaani	GJ					
+GE	1505	Kakhiphari	Kakheti	KA	Gurjaani	GJ					
+GE	1508	Kalauri	Kakheti	KA	Gurjaani	GJ					
+GE	1509	Kardenakhi	Kakheti	KA	Gurjaani	GJ					
+GE	1519	Kitaani	Kakheti	KA	Gurjaani	GJ					
+GE	1501	Kodalo	Kakheti	KA	Gurjaani	GJ					
+GE	1511	Kolagi	Kakheti	KA	Gurjaani	GJ					
+GE	1512	Makharadze	Kakheti	KA	Gurjaani	GJ					
+GE	1513	Melaani	Kakheti	KA	Gurjaani	GJ					
+GE	1514	Mukuzani	Kakheti	KA	Gurjaani	GJ					
+GE	1515	Naniani	Kakheti	KA	Gurjaani	GJ					
+GE	1517	Shashiani	Kakheti	KA	Gurjaani	GJ					
+GE	1505	Vachnadziani	Kakheti	KA	Gurjaani	GJ					
+GE	1504	Vazisubani	Kakheti	KA	Gurjaani	GJ					
+GE	1507	Vejini	Kakheti	KA	Gurjaani	GJ					
+GE	1506	Velistsikhe	Kakheti	KA	Gurjaani	GJ					
+GE	1514	Zegaani	Kakheti	KA	Gurjaani	GJ					
+GE	1501	Ziari	Kakheti	KA	Gurjaani	GJ					
+GE	4802	Akhalsopeli	Kakheti	KA	Kvareli	QV					
+GE	4801	Almati	Kakheti	KA	Kvareli	QV					
+GE	4804	Balghojiani	Kakheti	KA	Kvareli	QV					
+GE	4814	Chikaani	Kakheti	KA	Kvareli	QV					
+GE	4807	Eniseli	Kakheti	KA	Kvareli	QV					
+GE	4805	Gavazi	Kakheti	KA	Kvareli	QV					
+GE	4806	Grdzeli Chala	Kakheti	KA	Kvareli	QV					
+GE	4806	Gremi	Kakheti	KA	Kvareli	QV					
+GE	4808	Kuchatani	Kakheti	KA	Kvareli	QV					
+GE	4809	Mtisdziri	Kakheti	KA	Kvareli	QV					
+GE	4814	Oktomberi	Kakheti	KA	Kvareli	QV					
+GE	4811	Sabue	Kakheti	KA	Kvareli	QV					
+GE	4800	Sanavardo	Kakheti	KA	Kvareli	QV					
+GE	4802	Saruso	Kakheti	KA	Kvareli	QV					
+GE	4802	Satskhene	Kakheti	KA	Kvareli	QV					
+GE	4815	Shakriani	Kakheti	KA	Kvareli	QV					
+GE	4816	Shilda	Kakheti	KA	Kvareli	QV					
+GE	4803	Tivi	Kakheti	KA	Kvareli	QV					
+GE	4804	Tkhilistskaro	Kakheti	KA	Kvareli	QV					
+GE	4800	Tsitskanaantseri	Kakheti	KA	Kvareli	QV					
+GE	2701	Apheni	Kakheti	KA	Lagodekhi	LG					
+GE	2701	Araphsherani	Kakheti	KA	Lagodekhi	LG					
+GE	2701	Bagdadi	Kakheti	KA	Lagodekhi	LG					
+GE	2702	Baisubani	Kakheti	KA	Lagodekhi	LG					
+GE	2707	Balta	Kakheti	KA	Lagodekhi	LG					
+GE	2707	Beburiani	Kakheti	KA	Lagodekhi	LG					
+GE	2706	Bolokiani	Kakheti	KA	Lagodekhi	LG					
+GE	2701	Chabukiani	Kakheti	KA	Lagodekhi	LG					
+GE	2711	Chaduniani	Kakheti	KA	Lagodekhi	LG					
+GE	2705	Dona	Kakheti	KA	Lagodekhi	LG					
+GE	2708	Ganatleba	Kakheti	KA	Lagodekhi	LG					
+GE	2705	Ganjala	Kakheti	KA	Lagodekhi	LG					
+GE	2708	Gelati	Kakheti	KA	Lagodekhi	LG					
+GE	2703	Giorgeti	Kakheti	KA	Lagodekhi	LG					
+GE	2708	Gurgeniani	Kakheti	KA	Lagodekhi	LG					
+GE	2701	Gvimriani	Kakheti	KA	Lagodekhi	LG					
+GE	2709	Heretiskari	Kakheti	KA	Lagodekhi	LG					
+GE	2705	Kabali	Kakheti	KA	Lagodekhi	LG					
+GE	2707	Kalkva-Namesrali	Kakheti	KA	Lagodekhi	LG					
+GE	2705	Karajala	Kakheti	KA	Lagodekhi	LG					
+GE	2706	Kartubani	Kakheti	KA	Lagodekhi	LG					
+GE	2710	Kavshiri	Kakheti	KA	Lagodekhi	LG					
+GE	2701	Kevkhiani	Kakheti	KA	Lagodekhi	LG					
+GE	2708	Khizabavra	Kakheti	KA	Lagodekhi	LG					
+GE	2701	Khoshatiani	Kakheti	KA	Lagodekhi	LG					
+GE	2701	Kvemo-Bolkvi	Kakheti	KA	Lagodekhi	LG					
+GE	2705	Kvemo-Khechili	Kakheti	KA	Lagodekhi	LG					
+GE	2702	Kvemo-Mskhalgori	Kakheti	KA	Lagodekhi	LG					
+GE	2701	Kvemo-Nashovari	Kakheti	KA	Lagodekhi	LG					
+GE	2703	Laphniani	Kakheti	KA	Lagodekhi	LG					
+GE	2707	Leliani	Kakheti	KA	Lagodekhi	LG					
+GE	2700	Matsimi	Kakheti	KA	Lagodekhi	LG					
+GE	2707	Mirskiseuli	Kakheti	KA	Lagodekhi	LG					
+GE	2704	Mshvidobiani	Kakheti	KA	Lagodekhi	LG					
+GE	2706	Naindrovali	Kakheti	KA	Lagodekhi	LG					
+GE	2706	Natsiskvilari	Kakheti	KA	Lagodekhi	LG					
+GE	2708	Ninigori	Kakheti	KA	Lagodekhi	LG					
+GE	2701	Onanauri	Kakheti	KA	Lagodekhi	LG					
+GE	2702	Patara-Gori	Kakheti	KA	Lagodekhi	LG					
+GE	2703	Pichkhis-Bogiri	Kakheti	KA	Lagodekhi	LG					
+GE	2701	Podaani	Kakheti	KA	Lagodekhi	LG					
+GE	2705	Pona	Kakheti	KA	Lagodekhi	LG					
+GE	2700	Rachisubani	Kakheti	KA	Lagodekhi	LG					
+GE	2704	Sakobo	Kakheti	KA	Lagodekhi	LG					
+GE	2711	Sheerteba	Kakheti	KA	Lagodekhi	LG					
+GE	2710	Shroma	Kakheti	KA	Lagodekhi	LG					
+GE	2704	Svideba	Kakheti	KA	Lagodekhi	LG					
+GE	2711	Svobodnoe	Kakheti	KA	Lagodekhi	LG					
+GE	2709	Tamariani	Kakheti	KA	Lagodekhi	LG					
+GE	2711	Tela	Kakheti	KA	Lagodekhi	LG					
+GE	2711	Tsiplistskaro	Kakheti	KA	Lagodekhi	LG					
+GE	2709	Tsiteli Gora	Kakheti	KA	Lagodekhi	LG					
+GE	2711	Tsodniskari	Kakheti	KA	Lagodekhi	LG					
+GE	2709	Ulianovka	Kakheti	KA	Lagodekhi	LG					
+GE	2705	Uzuntala	Kakheti	KA	Lagodekhi	LG					
+GE	2704	Vardisubani	Kakheti	KA	Lagodekhi	LG					
+GE	2703	Verkhvis-Mindori	Kakheti	KA	Lagodekhi	LG					
+GE	2701	Zemo Bolkvi	Kakheti	KA	Lagodekhi	LG					
+GE	2705	Zemo-Khechili	Kakheti	KA	Lagodekhi	LG					
+GE	2708	Zemo-Khiza	Kakheti	KA	Lagodekhi	LG					
+GE	2702	Zemo-Mskhalgori	Kakheti	KA	Lagodekhi	LG					
+GE	2701	Zemo-Nashovari	Kakheti	KA	Lagodekhi	LG					
+GE	3803	Antoki	Kakheti	KA	Sagarejo	SG					
+GE	3804	Askilauri	Kakheti	KA	Sagarejo	SG					
+GE	3802	Badiauri	Kakheti	KA	Sagarejo	SG					
+GE	3802	Bogdanovka	Kakheti	KA	Sagarejo	SG					
+GE	3808	Burdiani	Kakheti	KA	Sagarejo	SG					
+GE	3813	Chailuri	Kakheti	KA	Sagarejo	SG					
+GE	3806	Duzagrama	Kakheti	KA	Sagarejo	SG					
+GE	3803	Giorgitsminda	Kakheti	KA	Sagarejo	SG					
+GE	3804	Gombori	Kakheti	KA	Sagarejo	SG					
+GE	3804	Gorana	Kakheti	KA	Sagarejo	SG					
+GE	3804	Ikvlivgorana	Kakheti	KA	Sagarejo	SG					
+GE	3806	Iormughanlo	Kakheti	KA	Sagarejo	SG					
+GE	3807	Kakabeti	Kakheti	KA	Sagarejo	SG					
+GE	3812	Kandaura	Kakheti	KA	Sagarejo	SG					
+GE	3806	Kazlari	Kakheti	KA	Sagarejo	SG					
+GE	3806	Keshalo	Kakheti	KA	Sagarejo	SG					
+GE	3814	Khashmi	Kakheti	KA	Sagarejo	SG					
+GE	3804	Kochbaani	Kakheti	KA	Sagarejo	SG					
+GE	3806	Lambalo	Kakheti	KA	Sagarejo	SG					
+GE	3808	Manavi	Kakheti	KA	Sagarejo	SG					
+GE	3803	Mariamjvari	Kakheti	KA	Sagarejo	SG					
+GE	3809	Ninotsminda	Kakheti	KA	Sagarejo	SG					
+GE	3804	Otaraani	Kakheti	KA	Sagarejo	SG					
+GE	3811	Paldo	Kakheti	KA	Sagarejo	SG					
+GE	3806	Palio	Kakheti	KA	Sagarejo	SG					
+GE	3813	Patara Chailuri	Kakheti	KA	Sagarejo	SG					
+GE	3810	Patardzeuli	Kakheti	KA	Sagarejo	SG					
+GE	3804	Rusiani	Kakheti	KA	Sagarejo	SG					
+GE	3802	Shibliani	Kakheti	KA	Sagarejo	SG					
+GE	3805	Tokhliauri	Kakheti	KA	Sagarejo	SG					
+GE	3809	Tskarostavi	Kakheti	KA	Sagarejo	SG					
+GE	3806	Tulari	Kakheti	KA	Sagarejo	SG					
+GE	3801	Udabno	Kakheti	KA	Sagarejo	SG					
+GE	3811	Ujarma	Kakheti	KA	Sagarejo	SG					
+GE	3804	Vashlovani	Kakheti	KA	Sagarejo	SG					
+GE	3807	Verkhviani	Kakheti	KA	Sagarejo	SG					
+GE	3804	Verona	Kakheti	KA	Sagarejo	SG					
+GE	4201	Anaga	Kakheti	KA	Sighnaghi	SI					
+GE	4202	Asanuri	Kakheti	KA	Sighnaghi	SI					
+GE	4203	Bodbiskhevi	Kakheti	KA	Sighnaghi	SI					
+GE	4206	Chotori	Kakheti	KA	Sighnaghi	SI					
+GE	4215	Dzveli Anaga	Kakheti	KA	Sighnaghi	SI					
+GE	4218	Jugaani	Kakheti	KA	Sighnaghi	SI					
+GE	4214	Karaghaji	Kakheti	KA	Sighnaghi	SI					
+GE	4200	Kedeli	Kakheti	KA	Sighnaghi	SI					
+GE	4217	Khirsa	Kakheti	KA	Sighnaghi	SI					
+GE	4214	Khornabudji	Kakheti	KA	Sighnaghi	SI					
+GE	4211	Kvemo Bodbe	Kakheti	KA	Sighnaghi	SI					
+GE	4213	Kvemo Machkhaani	Kakheti	KA	Sighnaghi	SI					
+GE	4212	Kvemo Magharo	Kakheti	KA	Sighnaghi	SI					
+GE	4202	Kvenakeli	Kakheti	KA	Sighnaghi	SI					
+GE	4208	Mashnaari	Kakheti	KA	Sighnaghi	SI					
+GE	4206	Nukriani	Kakheti	KA	Sighnaghi	SI					
+GE	4213	Paniani	Kakheti	KA	Sighnaghi	SI					
+GE	4209	Prasiaani	Kakheti	KA	Sighnaghi	SI					
+GE	4208	Sakobo	Kakheti	KA	Sighnaghi	SI					
+GE	4209	Tibaani	Kakheti	KA	Sighnaghi	SI					
+GE	4216	Tsnori	Kakheti	KA	Sighnaghi	SI					
+GE	4210	Ulianovka	Kakheti	KA	Sighnaghi	SI					
+GE	4204	Vakiri	Kakheti	KA	Sighnaghi	SI					
+GE	4205	Zemo-Bodbe	Kakheti	KA	Sighnaghi	SI					
+GE	4206	Zemo Magharo	Kakheti	KA	Sighnaghi	SI					
+GE	2202	Akura	Kakheti	KA	Telavi	TE					
+GE	2213	Artana	Kakheti	KA	Telavi	TE					
+GE	2218	Busheti	Kakheti	KA	Telavi	TE					
+GE	2203	Gulguli	Kakheti	KA	Telavi	TE					
+GE	2206	Ikalto	Kakheti	KA	Telavi	TE					
+GE	2213	Jughaani	Kakheti	KA	Telavi	TE					
+GE	2215	Karadjala	Kakheti	KA	Telavi	TE					
+GE	2207	Kisiskhevi	Kakheti	KA	Telavi	TE					
+GE	2205	Kobadze	Kakheti	KA	Telavi	TE					
+GE	2208	Kondoli	Kakheti	KA	Telavi	TE					
+GE	2209	Kurdgelauri	Kakheti	KA	Telavi	TE					
+GE	2218	Kvemo Khodasheni	Kakheti	KA	Telavi	TE					
+GE	2214	Laliskuri	Kakheti	KA	Telavi	TE					
+GE	2210	Laphankuri	Kakheti	KA	Telavi	TE					
+GE	2214	Lechuri	Kakheti	KA	Telavi	TE					
+GE	2205	Nadikvari	Kakheti	KA	Telavi	TE					
+GE	2211	Naphareuli	Kakheti	KA	Telavi	TE					
+GE	2207	Nasamkhrali	Kakheti	KA	Telavi	TE					
+GE	2205	Pantiani	Kakheti	KA	Telavi	TE					
+GE	2214	Pshaveli	Kakheti	KA	Telavi	TE					
+GE	2212	Ruispiri	Kakheti	KA	Telavi	TE					
+GE	2205	Salebeli	Kakheti	KA	Telavi	TE					
+GE	2213	Saniore	Kakheti	KA	Telavi	TE					
+GE	2205	Serodani	Kakheti	KA	Telavi	TE					
+GE	2216	Shalauri	Kakheti	KA	Telavi	TE					
+GE	2205	Tetritsklebi	Kakheti	KA	Telavi	TE					
+GE	2217	Tsinandali	Kakheti	KA	Telavi	TE					
+GE	2202	Vanta	Kakheti	KA	Telavi	TE					
+GE	2204	Vardisubani	Kakheti	KA	Telavi	TE					
+GE	1110	Akaurta	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1105	Balakhauri	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1103	Balitchi	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1111	Bertakari	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1101	Bolnisi	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1112	Chapala	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1102	Chreshi	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1102	Darbazi	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1100	Disveli	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1111	Dzedzvnariani	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1111	Dzveli Kveshi	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1111	Geta	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1111	Itsria	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1110	Javshaniani	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1103	Kazreti	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1102	Khakhalajvari	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1108	Khataveti	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1100	Khatisopeli	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1105	Khidiskuri	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1110	Kianeti	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1108	Kvemo Arqevani	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1109	Kvemo Bolnisi	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1110	Kveshi	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1104	Mamkhuti	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1106	Mtskneti	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1105	Mukhrana	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1110	Mushevani	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1105	Nakhiduri	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1105	Parizi	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1107	Patara Darbazi	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1111	Potskhveriani	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1106	Rachisubani	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1100	Ratevani	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1106	Samtredo	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1101	Samtsevrisi	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1112	Savaneti	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1111	Senebi	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1101	Shua Bolnisi	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1107	Talaveri	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1111	Tandzia	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1102	Tsipori	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1105	Tsurtavi	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1100	Vanati	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1108	Zemo Arkevani	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1100	Zvareti	Kvemo Kartli	KK	Bolnisi	BL					
+GE	1709	Akha	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1701	Amamlo	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1714	Angrevani	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1702	Azkakliani	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1710	Bakhchalari	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1701	Bazaqlo	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1702	Boslebi	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1710	Dagarakhlo	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1700	Daliari	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1706	Didi Dmanisi	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1704	Ganakhleba	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1703	Gantiadi	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1709	Godagdaghi	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1704	Gomareti	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1715	Gora	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1705	Guguti	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1700	Iaguphlo	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1707	Irganchai	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1703	Javakhi	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1708	Kamarlo	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1705	Kamishlo	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1709	Karabulakhi	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1708	Kariani	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1710	Kirovisi	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1710	Kizilajlo	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1716	Kizil-Kilisa	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1709	Kvemo Karabulakhi	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1715	Kvemo Orozmani	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1714	Lokchandari	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1709	Mamishlari	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1701	Mamishlo	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1704	Mamulo	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1711	Mashavera	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1712	Mtisdziri	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1716	Ormasheni	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1713	Pantiani	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1706	Patara Dmanisi	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1710	Sadja	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1705	Sakire	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1709	Salamaleiki	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1714	Sapharlo	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1704	Sarkineti	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1708	Shakhmarlo	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1700	Shindlari	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1709	Sogutlo	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1701	Tkispiri	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1703	Tnusi	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1711	Ukangora	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1709	Useinkandi	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1715	Vake	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1706	Vardisubani	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1704	Velispiri	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1709	Zemo Karabulakhi	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1713	Zemo-Orozmani	Kvemo Kartli	KK	Dmanisi	DM					
+GE	1305	Aghtakla	Kvemo Kartli	KK	Gardabani	GD					
+GE	1304	Akhali Samgori	Kvemo Kartli	KK	Gardabani	GD					
+GE	1316	Akhalsheni	Kvemo Kartli	KK	Gardabani	GD					
+GE	1303	Akhalsopeli	Kvemo Kartli	KK	Gardabani	GD					
+GE	1313	Akhaltskaro	Kvemo Kartli	KK	Gardabani	GD					
+GE	1316	Ambartapha	Kvemo Kartli	KK	Gardabani	GD					
+GE	1316	Birliki	Kvemo Kartli	KK	Gardabani	GD					
+GE	1316	Botanika	Kvemo Kartli	KK	Gardabani	GD					
+GE	1320	Brotseula	Kvemo Kartli	KK	Gardabani	GD					
+GE	1317	Dideba	Kvemo Kartli	KK	Gardabani	GD					
+GE	1305	Gachiani	Kvemo Kartli	KK	Gardabani	GD					
+GE	1306	Gamarjveba	Kvemo Kartli	KK	Gardabani	GD					
+GE	1330	Jandara	Kvemo Kartli	KK	Gardabani	GD					
+GE	1316	Kalinino	Kvemo Kartli	KK	Gardabani	GD					
+GE	1300	Kapanakhchi	Kvemo Kartli	KK	Gardabani	GD					
+GE	1329	Karajalari	Kvemo Kartli	KK	Gardabani	GD					
+GE	1305	Karataqla	Kvemo Kartli	KK	Gardabani	GD					
+GE	1327	Kesalo	Kvemo Kartli	KK	Gardabani	GD					
+GE	1315	Krtsanisi	Kvemo Kartli	KK	Gardabani	GD					
+GE	1313	Kumisi	Kvemo Kartli	KK	Gardabani	GD					
+GE	1328	Kvemo Ponichala	Kvemo Kartli	KK	Gardabani	GD					
+GE	1313	Kvemo-Teleti	Kvemo Kartli	KK	Gardabani	GD					
+GE	1323	Kvishiani	Kvemo Kartli	KK	Gardabani	GD					
+GE	1301	Lelashkha	Kvemo Kartli	KK	Gardabani	GD					
+GE	1319	Lemshveniera	Kvemo Kartli	KK	Gardabani	GD					
+GE	1320	Martkophi	Kvemo Kartli	KK	Gardabani	GD					
+GE	1324	Mughanlo	Kvemo Kartli	KK	Gardabani	GD					
+GE	1313	Mukhran-Teleti	Kvemo Kartli	KK	Gardabani	GD					
+GE	1324	Mukhrovani	Kvemo Kartli	KK	Gardabani	GD					
+GE	1319	Mzianeti	Kvemo Kartli	KK	Gardabani	GD					
+GE	1321	Nagebi	Kvemo Kartli	KK	Gardabani	GD					
+GE	1322	Nazarlo	Kvemo Kartli	KK	Gardabani	GD					
+GE	1323	Norio	Kvemo Kartli	KK	Gardabani	GD					
+GE	1316	Roza	Kvemo Kartli	KK	Gardabani	GD					
+GE	1303	Saakadze	Kvemo Kartli	KK	Gardabani	GD					
+GE	0122	Samadlo	Kvemo Kartli	KK	Gardabani	GD					
+GE	1306	Samgori'S Bird Farm	Kvemo Kartli	KK	Gardabani	GD					
+GE	1306	Samgoris Dasakhleba	Kvemo Kartli	KK	Gardabani	GD					
+GE	1324	Sartichala	Kvemo Kartli	KK	Gardabani	GD					
+GE	1303	Satskhenisi	Kvemo Kartli	KK	Gardabani	GD					
+GE	0123	Tabakhmela	Kvemo Kartli	KK	Gardabani	GD					
+GE	1316	Tazakendi	Kvemo Kartli	KK	Gardabani	GD					
+GE	1301	Tbiltskaro	Kvemo Kartli	KK	Gardabani	GD					
+GE	1313	Teleti	Kvemo Kartli	KK	Gardabani	GD					
+GE	1313	Tsalaskuri	Kvemo Kartli	KK	Gardabani	GD					
+GE	1323	Tsitelubani	Kvemo Kartli	KK	Gardabani	GD					
+GE	1312	Vakhtangisi	Kvemo Kartli	KK	Gardabani	GD					
+GE	1310	Vaziani	Kvemo Kartli	KK	Gardabani	GD					
+GE	1313	Zemo Teleti	Kvemo Kartli	KK	Gardabani	GD					
+GE	3002	Adjiisqendi	Kvemo Kartli	KK	Marneuli	MN					
+GE	3003	Aghmamedlo	Kvemo Kartli	KK	Marneuli	MN					
+GE	3007	Akhali Dioknisi	Kvemo Kartli	KK	Marneuli	MN					
+GE	3004	Akhali-Mamudlo	Kvemo Kartli	KK	Marneuli	MN					
+GE	3019	Akhkula	Kvemo Kartli	KK	Marneuli	MN					
+GE	3006	Akhlo	Kvemo Kartli	KK	Marneuli	MN					
+GE	3005	Akhqerpi	Kvemo Kartli	KK	Marneuli	MN					
+GE	3007	Alavari	Kvemo Kartli	KK	Marneuli	MN					
+GE	3001	Algeti	Kvemo Kartli	KK	Marneuli	MN					
+GE	3001	Ambarovka	Kvemo Kartli	KK	Marneuli	MN					
+GE	3004	Araplo	Kvemo Kartli	KK	Marneuli	MN					
+GE	3002	Azizqendi	Kvemo Kartli	KK	Marneuli	MN					
+GE	3015	Baidari	Kvemo Kartli	KK	Marneuli	MN					
+GE	3009	Baitalo	Kvemo Kartli	KK	Marneuli	MN					
+GE	3010	Begliari	Kvemo Kartli	KK	Marneuli	MN					
+GE	3009	Beitarapchi	Kvemo Kartli	KK	Marneuli	MN					
+GE	3020	Budionovka	Kvemo Kartli	KK	Marneuli	MN					
+GE	3021	Burdadzori	Kvemo Kartli	KK	Marneuli	MN					
+GE	3012	Burma	Kvemo Kartli	KK	Marneuli	MN					
+GE	3005	Chanakhchi	Kvemo Kartli	KK	Marneuli	MN					
+GE	3006	Damia	Kvemo Kartli	KK	Marneuli	MN					
+GE	3006	Damia Giaurarkhi	Kvemo Kartli	KK	Marneuli	MN					
+GE	3020	Dashtapha	Kvemo Kartli	KK	Marneuli	MN					
+GE	3015	Didi Mughanlo	Kvemo Kartli	KK	Marneuli	MN					
+GE	3004	Enikendi	Kvemo Kartli	KK	Marneuli	MN					
+GE	3021	Gulbakhi	Kvemo Kartli	KK	Marneuli	MN					
+GE	3013	Ilmazlo	Kvemo Kartli	KK	Marneuli	MN					
+GE	3020	Imiri	Kvemo Kartli	KK	Marneuli	MN					
+GE	3000	Jandara	Kvemo Kartli	KK	Marneuli	MN					
+GE	3019	Jankhoshi	Kvemo Kartli	KK	Marneuli	MN					
+GE	3016	Kachaghani	Kvemo Kartli	KK	Marneuli	MN					
+GE	3013	Kapanakhchi	Kvemo Kartli	KK	Marneuli	MN					
+GE	3009	Kasumlo	Kvemo Kartli	KK	Marneuli	MN					
+GE	3014	Keshalo	Kvemo Kartli	KK	Marneuli	MN					
+GE	3008	Khanjigazlo	Kvemo Kartli	KK	Marneuli	MN					
+GE	3019	Khikhani	Kvemo Kartli	KK	Marneuli	MN					
+GE	3022	Khodjorni	Kvemo Kartli	KK	Marneuli	MN					
+GE	3011	Khokhmeli	Kvemo Kartli	KK	Marneuli	MN					
+GE	3012	Khuldara	Kvemo Kartli	KK	Marneuli	MN					
+GE	3015	Khutori Lejbadini	Kvemo Kartli	KK	Marneuli	MN					
+GE	3008	Kirach-Mughanlo	Kvemo Kartli	KK	Marneuli	MN					
+GE	3018	Kirikhlo	Kvemo Kartli	KK	Marneuli	MN					
+GE	3006	Kirovka	Kvemo Kartli	KK	Marneuli	MN					
+GE	3017	Kizil-Ajlo	Kvemo Kartli	KK	Marneuli	MN					
+GE	3020	Krasnoe	Kvemo Kartli	KK	Marneuli	MN					
+GE	3019	Kudro	Kvemo Kartli	KK	Marneuli	MN					
+GE	3018	Kulari	Kvemo Kartli	KK	Marneuli	MN					
+GE	3015	Kurtlari	Kvemo Kartli	KK	Marneuli	MN					
+GE	3003	Kushchi	Kvemo Kartli	KK	Marneuli	MN					
+GE	3018	Kvemo Kulari	Kvemo Kartli	KK	Marneuli	MN					
+GE	3020	Kvemo-Sarali	Kvemo Kartli	KK	Marneuli	MN					
+GE	3015	Ledjbadini	Kvemo Kartli	KK	Marneuli	MN					
+GE	3013	Meore-Kesalo	Kvemo Kartli	KK	Marneuli	MN					
+GE	3010	Mirzoevka	Kvemo Kartli	KK	Marneuli	MN					
+GE	3012	Molaoghli	Kvemo Kartli	KK	Marneuli	MN					
+GE	3011	Ophreti	Kvemo Kartli	KK	Marneuli	MN					
+GE	3010	Orjonikidze	Kvemo Kartli	KK	Marneuli	MN					
+GE	3013	Pirveli-Kesalo	Kvemo Kartli	KK	Marneuli	MN					
+GE	3002	Sabirkendi	Kvemo Kartli	KK	Marneuli	MN					
+GE	3012	Sadakhlo	Kvemo Kartli	KK	Marneuli	MN					
+GE	3004	Seidkhojalo	Kvemo Kartli	KK	Marneuli	MN					
+GE	3019	Shaumiani	Kvemo Kartli	KK	Marneuli	MN					
+GE	3020	Shulaveri	Kvemo Kartli	KK	Marneuli	MN					
+GE	3019	Sioni	Kvemo Kartli	KK	Marneuli	MN					
+GE	3007	Tamarisi	Kvemo Kartli	KK	Marneuli	MN					
+GE	3002	Tazakendi	Kvemo Kartli	KK	Marneuli	MN					
+GE	3008	Tekali	Kvemo Kartli	KK	Marneuli	MN					
+GE	3019	Tserakvi	Kvemo Kartli	KK	Marneuli	MN					
+GE	3010	Tsereteli	Kvemo Kartli	KK	Marneuli	MN					
+GE	3021	Tsopi	Kvemo Kartli	KK	Marneuli	MN					
+GE	3003	Ulashlo	Kvemo Kartli	KK	Marneuli	MN					
+GE	3005	Ulianovka	Kvemo Kartli	KK	Marneuli	MN					
+GE	3018	Zemo-Kulari	Kvemo Kartli	KK	Marneuli	MN					
+GE	3020	Zemo-Sarali	Kvemo Kartli	KK	Marneuli	MN					
+GE	2311	Abeliani	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2314	Abrameti	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2310	Akhali-Zirbiti	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2302	Akhalsopeli	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2307	Aleqseevka	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2309	Algeti	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2310	Amlevi	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2314	Ardisubani	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2309	Arkhoti	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2301	Asureti	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2314	Bogvi	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2303	Borbalo	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2309	Chinchriani	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2313	Chivchavi	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2311	Chkhikvta	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2305	Dagheti	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	0126	Didgori	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2315	Didi Durnuki	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2310	Dre	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2313	Dumanisi	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2302	Dzveli Zirbiti	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2301	Enageti	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2303	Ertisi	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2310	Gholovani	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2303	Ghoubani	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2310	Ghvevi	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2302	Gokhnari	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2304	Golteti	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2311	Gudarekhi	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2313	Iphnari	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2307	Iraga	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2307	Ivanovka	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2314	Jorjiashvili	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2309	Jvriskhevi	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2315	Khaishi	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2311	Khopisi	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2307	Kldeisi	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2308	Koda	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2309	Kodistskaro	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2312	Kosalari	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2315	Kotishi	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2311	Ksovreti	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2313	Lipa	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2314	Madani	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2309	Manglisi	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2308	Marabda	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2311	Matsevani	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2307	Menkalisi	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2306	Mokhisi	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2308	Mukhati	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2309	Namtvriani	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2309	Napilnari	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2307	Navtiani	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2310	Orbeti	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2310	Pantiani	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2314	Partskhisi	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2315	Patara-Durnuki	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2306	Patara Toneti	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2314	Saghrasheni	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2313	Samghereti	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2305	Samshvilde	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2302	Sapudzrebi	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2310	Shamta	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2301	Shavsakdari	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2309	Shekhvetila	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2313	Shikhilo	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2311	Tbisi	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2306	Toneti	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2312	Tsintskaro	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2310	Tsklureti	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2309	Ugudeti	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2311	Vake	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2310	Vaneti	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	2303	Vashlovani	Kvemo Kartli	KK	Tetri Tskaro	TR					
+GE	5313	Aiazmi	Kvemo Kartli	KK	Tsalka	TK					
+GE	5304	Akhaliki	Kvemo Kartli	KK	Tsalka	TK					
+GE	5302	Arjevan-Sarvani	Kvemo Kartli	KK	Tsalka	TK					
+GE	5320	Ashkala	Kvemo Kartli	KK	Tsalka	TK					
+GE	5301	Avranlo	Kvemo Kartli	KK	Tsalka	TK					
+GE	5305	Bashkoi	Kvemo Kartli	KK	Tsalka	TK					
+GE	5310	Bediani	Kvemo Kartli	KK	Tsalka	TK					
+GE	5306	Beshtasheni	Kvemo Kartli	KK	Tsalka	TK					
+GE	5312	Burnasheti	Kvemo Kartli	KK	Tsalka	TK					
+GE	5310	Chapaevka	Kvemo Kartli	KK	Tsalka	TK					
+GE	5317	Chivtkilisa	Kvemo Kartli	KK	Tsalka	TK					
+GE	5302	Choliani	Kvemo Kartli	KK	Tsalka	TK					
+GE	5318	Darakoi	Kvemo Kartli	KK	Tsalka	TK					
+GE	5300	Dashbashi	Kvemo Kartli	KK	Tsalka	TK					
+GE	5309	Edikilisa	Kvemo Kartli	KK	Tsalka	TK					
+GE	5320	Gumbati	Kvemo Kartli	KK	Tsalka	TK					
+GE	5308	Gunia-Kala	Kvemo Kartli	KK	Tsalka	TK					
+GE	5305	Imera	Kvemo Kartli	KK	Tsalka	TK					
+GE	5320	Jinisi	Kvemo Kartli	KK	Tsalka	TK					
+GE	5311	Kaburi	Kvemo Kartli	KK	Tsalka	TK					
+GE	5305	Karakomi	Kvemo Kartli	KK	Tsalka	TK					
+GE	5306	Kariaki	Kvemo Kartli	KK	Tsalka	TK					
+GE	5319	Khachkoi	Kvemo Kartli	KK	Tsalka	TK					
+GE	5300	Khadiki	Kvemo Kartli	KK	Tsalka	TK					
+GE	5314	Khando	Kvemo Kartli	KK	Tsalka	TK					
+GE	5310	Khramhesi	Kvemo Kartli	KK	Tsalka	TK					
+GE	5316	Kizil-Kilisa	Kvemo Kartli	KK	Tsalka	TK					
+GE	5312	Kushchi	Kvemo Kartli	KK	Tsalka	TK					
+GE	5304	Kvemo-Kharaba	Kvemo Kartli	KK	Tsalka	TK					
+GE	5305	Livadi	Kvemo Kartli	KK	Tsalka	TK					
+GE	5313	Nardevani	Kvemo Kartli	KK	Tsalka	TK					
+GE	5312	Oliangi	Kvemo Kartli	KK	Tsalka	TK					
+GE	5316	Ozni	Kvemo Kartli	KK	Tsalka	TK					
+GE	5314	Rekha	Kvemo Kartli	KK	Tsalka	TK					
+GE	5318	Santa	Kvemo Kartli	KK	Tsalka	TK					
+GE	5304	Shipiaki	Kvemo Kartli	KK	Tsalka	TK					
+GE	5306	Shua-Kharaba	Kvemo Kartli	KK	Tsalka	TK					
+GE	5317	Tazakharaba	Kvemo Kartli	KK	Tsalka	TK					
+GE	5302	Tejisi	Kvemo Kartli	KK	Tsalka	TK					
+GE	5309	Tikilisa	Kvemo Kartli	KK	Tsalka	TK					
+GE	5310	Trialeti	Kvemo Kartli	KK	Tsalka	TK					
+GE	5318	Tsintskaro	Kvemo Kartli	KK	Tsalka	TK					
+GE	0601	Abrevi	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0600	Akhmaji	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0602	Balaani	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0606	Basharti	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0604	Bazuani	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0600	Bejantkevi	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0602	Chorchokhi	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0606	Dabakneti	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0606	Dadianeti	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0600	Delkani	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0606	Doretkari	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0600	Dzeglevi	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0607	Dzukatkau	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0602	Eloiani	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0600	Ereda	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0600	Garubani	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0605	Gdu	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0607	Gduleti	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0605	Gezevreti	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0604	Ikoti	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0604	Kanchaveti	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0602	Kenkaani	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0603	Kitriuli	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0605	Korinta	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0605	Kurta	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0605	Kvemo Alevi	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0600	Kvemo-Boli	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0605	Kvemo Ghru	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0603	Kvemo-Tsiri	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0603	Kvemo-Tsolda	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0603	Kvemo-Tsubeni	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0603	Kvemo Zakori	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0606	Largvisi	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0606	Makhiareti	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0606	Martiani	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0606	Metskeri	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0602	Midelaani	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0606	Mochaleti	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0600	Morbedaani	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0600	Mosabruni	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0606	Mshvelieti	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0603	Mskhlebi	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0600	Nagomevi	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0605	Nakhidi	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0601	Orchosani	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0602	Pavliani	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0605	Sadzeguri	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0600	Salbieri	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0605	Shua Alevi	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0603	Shua-Tsiri	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0603	Shua-Tsubeni	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0603	Shua Zakori	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0602	Tinikaani	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0606	Tokhta	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0607	Tsinagari	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0605	Tsirkoli	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0603	Ukana Tsiri	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0600	Vashlovani	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0603	Zakori	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0600	Zemo-Boli	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0605	Zemo Ghru	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0603	Zemo-Tsiri	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0603	Zemo Tsolda	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0603	Zemo Tsubeni	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	0603	Zemo Zakori	Mtskheta Mtianeti	MM	Akhalgori	AG					
+GE	1806	Ache	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1817	Akhadi	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1800	Akhalaani	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1807	Akhali Burghuli	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1811	Akhali Kadoeti	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1809	Akhali-Osebi	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1800	Akhali Toncha	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1802	Akhaltsikhe	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1819	Akhatani	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1816	Akhieli	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1806	Akneli	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1806	Akusho	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1806	Amgha	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1803	Ananuri	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1816	Andaqi	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1810	Aphsho	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1804	Aragvispiri	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1815	Arakhveti	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1813	Aranisi	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1810	Arbachkhani	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1807	Arboeti	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1816	Ardoti	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1800	Arghuni	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1806	Arkhoti	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1806	Atabe	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1808	Atnokhi	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1803	Avenisi	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1801	Baga	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1808	Bakhani	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1808	Bakurkhevi	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1814	Bantsuri	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1803	Bantsurtkari	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1812	Baqaqurebi	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1806	Barisakho	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1806	Batsaligo	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1805	Bazaleti	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1815	Bedoni	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1815	Benian-Begoni	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1817	Betischrdili	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1813	Bichnigauri	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1817	Bindaurta	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1806	Biso	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1806	Blo	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1806	Bochkvilo	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1813	Bodavi	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1804	Bodorna	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1808	Boseli	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1818	Buchaani	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1806	Buchukurta	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1802	Bulachauri	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1808	Bursachiri	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1813	Bzikurt Kari	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1814	Chadistsikhe	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1818	Chalisubani	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1801	Chanadirtkari	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1810	Chargali	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1818	Chartali	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1812	Chasha	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1817	Chicho	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1806	Chie	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1814	Chikani	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1813	Chikhaani	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1811	Chilurti	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1806	Chimgha	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1813	Chinti	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1805	Chirdileliaantkari	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1806	Chirdili	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1814	Chiriki	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1818	Chitaurebi	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1803	Chivilaani	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1806	Chkhuba	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1808	Chobalaurni	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1815	Chokhelni	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1808	Chokhi	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1806	Chomershavi	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1805	Chontili	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1819	Choporti	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1805	Chubiniantkari	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1806	Datvisi	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1809	Davati	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1814	Daviturni	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1803	Dgnali	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1800	Didebaani	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1808	Didebani	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1808	Dikhcho	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1813	Djinvali	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1815	Djodjoni	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1818	Dolaskedi	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1802	Dolosha	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1800	Dudaurebi	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1808	Dumatskho	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1800	Dusheti	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1806	Dzedzeurta	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1807	Dzveli Burghuli	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1809	Dzveli Osebi	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1811	Ebnisi	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1813	Etvalisi	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1808	Gamsi	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1802	Gharistskaro	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1806	Ghelisvake	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1806	Ghuli	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1816	Giorgitsminda	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1815	Gognauri	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1817	Gogolaurta	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1810	Gometsari	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1807	Gremiskhevi	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1805	Grigolaantkari	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1806	Gudani	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1810	Gudarakhi	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1813	Gudrukhi	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1806	Gveleti	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1815	Gvidake	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1812	Iltoza	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1810	Ino	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1800	Iori	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1815	Iukho	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1815	Jaghmiani	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1800	Javakhiantkari	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1818	Jughisi	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1803	Kadoeti	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1815	Kaishaurni	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1803	Kaiskhevi	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1810	Kalilo	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1810	Kanatia	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1800	Karaulebi	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1800	Kariaultkari	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1807	Karkushaani	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1801	Karsimaantkari	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1806	Kartsaulta	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1810	Katsalkhevi	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1807	Kedeloba	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1800	Kenara	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1802	Kenchaklde	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1809	Keriaantkari	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1816	Khakhabo	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1806	Khakhmati	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1815	Kharkheti	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1813	Khartisho	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1802	Kheoba	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1814	Khevsha	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1810	Khiliana	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	1802	Abanoskhevi	Mtskheta Mtianeti	MM	Dusheti	DU					
+GE	3308	Aghdgomliantkari	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3308	Akhaldaba	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3310	Akhali-Nichbisi	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3311	Akhalsopeli	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3308	Akhalubani	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3303	Arashenda	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3301	Armazi	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3307	Bevreti	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3303	Bitsmendi	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3303	Buriani	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3318	Chardakhi	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3303	Chilaantkari	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3315	Dzalisi	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3316	Dzegvi	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3317	Dzveli Kanda	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3315	Ereda	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3303	Galavani	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3318	Gorovani	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3303	Jighaura	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3301	Karsani	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3314	Kevliani	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3316	Khekordzi	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3303	Kotoraantkari	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3312	Ksani	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3313	Ksovrisi	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3310	Kvemo Nichbisi	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3308	Lami	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3307	Lelobi	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3300	Lelubani	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3307	Lisi	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3300	Mamkoda	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3308	Misaktsieli	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3307	Mskhaldidi	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3307	Mukhadtskaro	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3301	Mukhatgverdi	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3309	Mukhrani	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3308	Natakhtari	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3308	Navazari	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3303	Navdaraantkari	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3310	Nichbisi	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3309	Patara Kanda	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3308	Prezeti	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3309	Rozentali	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3311	Saguramo	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3310	Saskhori	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3311	Shankevani	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3318	Skhaltba	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3307	Tabaruki	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3314	Tezami	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3318	Tserovani	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3312	Tsikhisdziri	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3319	Tsilkani	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3303	Tsinamdzghvriantkari	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3311	Tsitsamuri	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3314	Tskhvarichamia	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3307	Tsodoreti	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3308	Upureti	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3309	Vardisubani	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3309	Vaziani	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3303	Zakaro	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	3310	Zemo Nichbisi	Mtskheta Mtianeti	MM	Mtskheta	MK					
+GE	4701	Abano	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4704	Achkhoti	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4704	Akhaltsikhe	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4701	Almasiani	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4701	Arsha	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4704	Artkhmo	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4701	Burmashigi	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4701	Desi	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4701	Gaiboteni	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4702	Ganisi	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4703	Garbani	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4700	Gergeti	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4701	Gimra	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4703	Goristsikhe	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4702	Gudauri	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4700	Gveleti	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4704	Juta	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4701	Kaiaikau	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4701	Kanobi	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4704	Karkucha	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4701	Ketrisi	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4703	Khurtisi	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4701	Kobi	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4704	Koselni	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4702	Kumlistsikhe	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4701	Kvemo Oqrokana	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4701	Mna	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4701	Nogkau	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4701	Okrokana	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4702	Palamkau	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4701	Pansheti	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4703	Pkhelshe	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4701	Resi	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4702	Sakuriani	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4702	Seturni	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4701	Shevardeni	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4703	Sioni	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4704	Sno	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4701	Tephi	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4703	Tkarsheti	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4701	Toti	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4700	Tsdo	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4701	Tsotsolta	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4701	Ukhati	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	4703	Vardisubani	Mtskheta Mtianeti	MM	Stepantsminda	QZ					
+GE	2502	Akhalsopeli	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2509	Alachani	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2511	Aloti	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2501	Artani	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2507	Badaani	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2510	Balebiskhevi	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2505	Betsentsurebi	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2503	Bochorma	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2501	Bodakheva	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2511	Bokoni	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2502	Chabano	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2511	Chekuraantgori	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2502	Chiaura	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2500	Churchelaurebi	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2512	Devenaantkhevi	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2500	Djebota	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2505	Doreulebi	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2501	Duluzaurebi	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2500	Dzebniaurebi	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2501	Ghorgha	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2510	Ghulelebi	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2502	Godjiaanebi	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2506	Gorana	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2503	Grdzelvelebi	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2504	Iaradjulebi	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2509	Jervalidzeebi	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2504	Jijeti	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2509	Kakhoianebi	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2502	Katsalo	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2502	Khaisho	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2512	Khevsurtsopeli	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2504	Khoptsa	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2503	Kudro	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2501	Kushkhevi	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2500	Lelovani	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2501	Lisho	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2505	Magraneti	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2500	Mamadaanebi	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2506	Meliaskhevi	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2509	Mglianebi	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2506	Nadokra	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2505	Nakalakari	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2503	Omaraani	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2507	Orkhevi	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2504	Padiuraanebi	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2507	Sajinibo	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2508	Sakdrioni	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2501	Sakhevi	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2504	Sakrechio	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2504	Sharakhevi	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2506	Simoniantkhevi	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2507	Sioni	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2510	Siontgori	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2500	Tegeraanebi	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2500	Tetrakheva	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2501	Tetraulebi	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2510	Tolatsopeli	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2506	Tolendji	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2510	Trani	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2506	Tsalughelaantkari	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2509	Tsikvliantkari	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2509	Tushurebi	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2505	Vedzatkheva	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2504	Verkhveli	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2504	Zaridzeebi	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	2505	Zurabebi	Mtskheta Mtianeti	MM	Tianeti	TI					
+GE	0401	Abanoeti	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0406	Abari	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0417	Agara	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0400	Akhalsopeli	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0413	Badji	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0401	Bareuli	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0402	Betlevi	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0410	Bostana	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0401	Bugeuli	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0417	Cheliaghele	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0419	Chkvishi	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0401	Chorjo	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0418	Chrebalo	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0418	Djoshkha	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0400	Dzirageuli	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0418	Gendushi	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0413	Ghadishi	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0415	Ghvardia	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0410	Ghviara	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0415	Gogoleti	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0400	Gori	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0401	Gorisubani	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0400	Itsa	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0414	Jvarisa	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0408	Kachaeti	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0414	Kedisubani	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0408	Kharistvala	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0405	Khimshi	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0407	Khonchiori	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0421	Khotevi	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0420	Khvanchkara	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0410	Kldisubani	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0402	Korti	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0400	Krikhi	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0405	Kvatskhuti	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0415	Kveda Ghvardia	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0418	Kveda Joshkha	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0413	Kveda Shavri	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0404	Kveda Tlugi	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0419	Kvishari	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0406	Likheti	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0420	Meore Tola	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0400	Metskera	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0403	Motkiari	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0416	Mukhli	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0407	Namanevi	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0408	Nikortsminda	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0409	Patara-Oni	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0418	Pirveli-Tola	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0411	Putieti	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0410	Sadmeli	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0403	Saketsia	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0402	Shkhivana	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0414	Shroma	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0421	Skhartali	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0409	Tbeti	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0407	Tkhmori	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0404	Tlughi	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0415	Tsakhi	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0416	Tsesi	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0421	Tskadisi	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0417	Ukeshi	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0412	Uravi	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0402	Velevi	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0407	Zeda-Shavra	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0411	Zedaskhvava	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0404	Zeda Tlughi	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	0403	Znakva	Racha Lochkhumi Kvemo Svaneti	RK	Ambrolauri	AL					
+GE	2905	Akhalsheni	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2900	Babili	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2907	Bavari	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2901	Buleshi	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2905	Chikhareshi	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2902	Chukuli	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2901	Chvelieri	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2901	Chvelpi	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2902	Djakhunderi	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2901	Durashi	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2905	Ghobi	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2900	Gulida	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2903	Gvimbrala	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2900	Kakhura	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2900	Karishi	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2907	Khacheshi	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2907	Kheledi	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2902	Kheria	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2908	Khopuri	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2906	Koruldashi	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2903	Kvedreshi	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2903	Laghvarvashi	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2902	Lamphalashi	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2905	Lashkharashi	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2900	Laskadura	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2902	Leghvani	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2904	Lekosandi	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2900	Leksura	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2902	Lemzagori	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2900	Lentekhi	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2907	Lesema	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2901	Leusheri	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2904	Luji	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2905	Makhashi	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2901	Mami	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2907	Mananauri	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2905	Margvishi	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2900	Matskhvarlamezuri	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2908	Mazashi	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2904	Mebetsi	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2905	Mele	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2900	Melura	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2901	Mutsdi	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2903	Naghomari	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2908	Nanari	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2905	Natsuli	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2907	Paki	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2901	Panaga	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2903	Rtskhmeluri	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2901	Sakdari	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2904	Sasashi	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2905	Shkedi	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2901	Shtvili	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2901	Tekali	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2906	Tsana	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2907	Tsanashi	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2908	Tsiplakakia	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2907	Tskhumaldi	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2901	Tvibi	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	2906	Zeskho	Racha Lochkhumi Kvemo Svaneti	RK	Lentekhi	LE					
+GE	3611	Bajikhevi	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3601	Bari	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3604	Bokva	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3606	Bortso	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3600	Chala	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3609	Chibrevi	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3612	Chiora	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3609	Chordi	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3607	Chvebari	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3608	Djamiereti	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3605	Djashkva	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3607	Gadamshi	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3600	Ghari	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3610	Ghebi	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3602	Glola	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3608	Gomi	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3603	Iri	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3608	Jinchvisi	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3606	Khidashlebi	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3600	Khirkhonisi	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3600	Khuruti	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3600	Komandeli	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3600	Kristesi	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3604	Kvashkhieti	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3603	Kvedi	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3601	Kvemo Bari	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3600	Lachta	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3600	Lagvanta	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3606	Madjieti	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3601	Mravaldzali	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3601	Mtiskalta	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3608	Nakieti	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3608	Nigavzebi	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3600	Nigzvnara	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3605	Onchevi	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3600	Oni	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3605	Papileti	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3609	Parakheti	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3608	Parvaneshi	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3611	Psori	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3606	Sakao	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3609	Seva	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3609	Shardometi	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3600	Sheubani	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3604	Shkmeri	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3600	Shovi	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3600	Somitso	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3607	Sori	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3600	Sortuani	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3603	Tsedisi	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3611	Tskhmori	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3600	Tsmendauri	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3600	Tsola	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3608	Utsera	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	3604	Zudali	Racha Lochkhumi Kvemo Svaneti	RK	Oni	ON					
+GE	5101	Adjara	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5101	Alpana	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5113	Bardnala	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5111	Chalistavi	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5112	Chkhuteli	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5113	Chkumi	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5104	Dekhviri	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5105	Gagulechi	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5103	Ghu	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5111	Gveso	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5102	Isunderi	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5113	Kenashi	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5105	Khodji	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5109	Korenishi	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5113	Kulbaki	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5110	Kveda Ghvirishi	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5100	Kveda Lukhvano	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5111	Kveda Tsageri	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5103	Lailashi	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5105	Lajana	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5109	Lakhepha	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5113	Larchvali	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5112	Laskhana	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5104	Lasuriashi	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5105	Latsoria	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5107	Lesindi	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5104	Makhashi	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5102	Makhura	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5106	Nakuraleshi	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5110	Nasperi	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5108	Okureshi	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5108	Ophitara	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5107	Orbeli	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5109	Orkhevi	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5101	Sairme	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5110	Sanorchi	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5113	Shua Aghvi	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5105	Spatagori	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5103	Surmushi	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5103	Tabori	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5101	Tsagera	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5107	Tsilamieri	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5113	Tsiperchi	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5106	Tskhukusheri	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5109	Tvishi	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5105	Usakhelo	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5110	Utskheri	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5100	Zaragula	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5110	Zeda Ghvirishi	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5107	Zeda Lajana	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5100	Zeda-Lukhvano	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5107	Zeda Orbeli	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5101	Zogishi	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	5102	Zubi	Racha Lochkhumi Kvemo Svaneti	RK	Tsageri	TG					
+GE	0208	Abashispiri	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0209	Barbaskari	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0215	Bolvani	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0200	Didi Kvenata	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0208	Dziguri	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0209	Dzveli Abasha	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0213	Etseri	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0208	Gaghma Dziguri	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0204	Gaghma Kodori	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0213	Gaghma Zanati	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0207	Gamoghma Kodori	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0213	Gamoghma Zanati	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0208	Ganatlebiskari	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0210	Gautskinari	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0200	Gezati	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0215	Gugunakati	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0204	Guleikari	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0200	Gulukheti	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0200	Kapana	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0204	Ketilari	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0204	Kodori	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0215	Kolobani	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0210	Kvishanchala	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0211	Maidani	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0206	Maranchala	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0206	Marani	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0209	Meore Ontopho	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0207	Naesakao	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0200	Noghokhashi	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0208	Norio	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0209	Ontopho	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0200	Patara Kvenata	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0210	Pirveli Maisi	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0208	Sabokuchavo	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0209	Saghvanio	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0208	Sagvazao	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0200	Sakacharavo	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0213	Sakhoshtario	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0209	Sakordzakhio	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0209	Sakuprao	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0209	Salabartkao	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0211	Samikao	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0213	Sanodio	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0209	Sephieti	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0207	Shua Qalaqi	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0213	Sujuna	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0210	Tkhmelari	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0210	Tkviri	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0213	Tsalikari	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0208	Tskemi	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0213	Zanati	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	0202	Etseri	Samegrelo Zemo Svateni	SZ	Abasha	AS					
+GE	5001	Akhuti	Samegrelo Zemo Svateni	SZ	Chkhorotsku	CQ					
+GE	5000	Garakha	Samegrelo Zemo Svateni	SZ	Chkhorotsku	CQ					
+GE	5005	Jumiti	Samegrelo Zemo Svateni	SZ	Chkhorotsku	CQ					
+GE	5015	Khabume	Samegrelo Zemo Svateni	SZ	Chkhorotsku	CQ					
+GE	5010	Khantski	Samegrelo Zemo Svateni	SZ	Chkhorotsku	CQ					
+GE	5004	Kirtskhi	Samegrelo Zemo Svateni	SZ	Chkhorotsku	CQ					
+GE	5008	Koko	Samegrelo Zemo Svateni	SZ	Chkhorotsku	CQ					
+GE	5014	Kveda Chkhorotsku	Samegrelo Zemo Svateni	SZ	Chkhorotsku	CQ					
+GE	5002	Kvemo Zumi	Samegrelo Zemo Svateni	SZ	Chkhorotsku	CQ					
+GE	5009	Leakhale	Samegrelo Zemo Svateni	SZ	Chkhorotsku	CQ					
+GE	5010	Ledarsale	Samegrelo Zemo Svateni	SZ	Chkhorotsku	CQ					
+GE	5008	Legakhare	Samegrelo Zemo Svateni	SZ	Chkhorotsku	CQ					
+GE	5014	Lejikie	Samegrelo Zemo Svateni	SZ	Chkhorotsku	CQ					
+GE	5009	Lekarche	Samegrelo Zemo Svateni	SZ	Chkhorotsku	CQ					
+GE	5007	Lekobale	Samegrelo Zemo Svateni	SZ	Chkhorotsku	CQ					
+GE	5005	Letsurtsume	Samegrelo Zemo Svateni	SZ	Chkhorotsku	CQ					
+GE	5001	Meore Akhuti	Samegrelo Zemo Svateni	SZ	Chkhorotsku	CQ					
+GE	5007	Meore Chogha	Samegrelo Zemo Svateni	SZ	Chkhorotsku	CQ					
+GE	5006	Meore-Lesichine	Samegrelo Zemo Svateni	SZ	Chkhorotsku	CQ					
+GE	5008	Mukhuri	Samegrelo Zemo Svateni	SZ	Chkhorotsku	CQ					
+GE	5005	Nagvazu	Samegrelo Zemo Svateni	SZ	Chkhorotsku	CQ					
+GE	5009	Nakiani	Samegrelo Zemo Svateni	SZ	Chkhorotsku	CQ					
+GE	5010	Napichkhovo	Samegrelo Zemo Svateni	SZ	Chkhorotsku	CQ					
+GE	5006	Ochkhomuri	Samegrelo Zemo Svateni	SZ	Chkhorotsku	CQ					
+GE	5001	Pirveli Akhuti	Samegrelo Zemo Svateni	SZ	Chkhorotsku	CQ					
+GE	5012	Pirveli Chogha	Samegrelo Zemo Svateni	SZ	Chkhorotsku	CQ					
+GE	5011	Pirveli Lesechine	Samegrelo Zemo Svateni	SZ	Chkhorotsku	CQ					
+GE	5001	Sachitaio	Samegrelo Zemo Svateni	SZ	Chkhorotsku	CQ					
+GE	5013	Sarakoni	Samegrelo Zemo Svateni	SZ	Chkhorotsku	CQ					
+GE	5000	Sarodinao	Samegrelo Zemo Svateni	SZ	Chkhorotsku	CQ					
+GE	5003	Taia	Samegrelo Zemo Svateni	SZ	Chkhorotsku	CQ					
+GE	5002	Zemo Zumi	Samegrelo Zemo Svateni	SZ	Chkhorotsku	CQ					
+GE	5002	Zumi	Samegrelo Zemo Svateni	SZ	Chkhorotsku	CQ					
+GE	5803	Akhali Khibula	Samegrelo Zemo Svateni	SZ	Khobi	KH					
+GE	5804	Akhali Sopeli	Samegrelo Zemo Svateni	SZ	Khobi	KH					
+GE	5801	Alioni	Samegrelo Zemo Svateni	SZ	Khobi	KH					
+GE	5806	Belitsku	Samegrelo Zemo Svateni	SZ	Khobi	KH					
+GE	5805	Bia	Samegrelo Zemo Svateni	SZ	Khobi	KH					
+GE	5820	Chitaushkuri	Samegrelo Zemo Svateni	SZ	Khobi	KH					
+GE	5819	Dzveli Khibula	Samegrelo Zemo Svateni	SZ	Khobi	KH					
+GE	5807	Gaghma Sajijao	Samegrelo Zemo Svateni	SZ	Khobi	KH					
+GE	5802	Guriphuli	Samegrelo Zemo Svateni	SZ	Khobi	KH					
+GE	5815	Kariata	Samegrelo Zemo Svateni	SZ	Khobi	KH					
+GE	5821	Khamiskuri	Samegrelo Zemo Svateni	SZ	Khobi	KH					
+GE	5822	Kheta	Samegrelo Zemo Svateni	SZ	Khobi	KH					
+GE	5817	Kulevi	Samegrelo Zemo Svateni	SZ	Khobi	KH					
+GE	5816	Kvemo Kvaloni	Samegrelo Zemo Svateni	SZ	Khobi	KH					
+GE	5809	Nojikhevi	Samegrelo Zemo Svateni	SZ	Khobi	KH					
+GE	5810	Patara Poti	Samegrelo Zemo Svateni	SZ	Khobi	KH					
+GE	5811	Pirveli Khorga	Samegrelo Zemo Svateni	SZ	Khobi	KH					
+GE	5812	Sabadjo	Samegrelo Zemo Svateni	SZ	Khobi	KH					
+GE	5813	Sagvichio	Samegrelo Zemo Svateni	SZ	Khobi	KH					
+GE	5814	Sajijao	Samegrelo Zemo Svateni	SZ	Khobi	KH					
+GE	5818	Shua Khorga	Samegrelo Zemo Svateni	SZ	Khobi	KH					
+GE	5808	Torsa	Samegrelo Zemo Svateni	SZ	Khobi	KH					
+GE	3101	Abedati	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3102	Bandza	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3121	Bomboti	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3117	Chaburta	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3110	Dgvana	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3105	Didi Chkoni	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3104	Didi Inchkhuri	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3105	Djinota	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3110	Doberarzeni	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3106	Doshake	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3122	Etseri	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3103	Gachedili	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3110	Godogani	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3101	Jolevi	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3110	Kurzu	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3100	Kvaiti	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3124	Kveda Khuntsi	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3123	Kveda Nagvazao	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3105	Ladgebe	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3104	Lebachie	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3106	Ledjvanie	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3120	Legulordave	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3101	Lekadjaie	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3102	Lekekelie	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3111	Lekhaindrao	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3108	Lekvantalie	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3101	Lemikave (Abediskari Area)	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3106	Lemikave (Didi Chkona Area)	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3102	Lepataraie	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3107	Leporchkhue	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3120	Leskhulukhe	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3120	Letsave	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3124	Letsitskhvaie	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3102	Levakhane	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3107	Makhati	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3112	Meore Balda	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3113	Meore Kitsia	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3114	Meore Namikolao	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3112	Mesame-Balda	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3107	Mukhurcha	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3115	Nadjakhao	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3115	Nageberao	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3100	Nakharebao	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3116	Nakhunao	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3100	Nalephsao	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3122	Nobulevi	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3111	Nodjikhevi	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3117	Nogha	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3105	Oche	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3118	Onoghia	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3107	Orka	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3120	Patara Djinota	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3104	Patara-Inchkhuri	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3109	Patara Namikolao	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3122	Patara Oche	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3103	Patara-Tamakoni	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3112	Pirveli Balda	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3119	Pirveli Gurdzemi	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3110	Saberulavo	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3100	Saeliao	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3110	Sanachkebio	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3121	Sergieti	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3103	Skurdi	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3111	Stephasdabali	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3122	Taleri	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3109	Tamakoni	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3109	Targameuli	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3120	Tsachkhure	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3117	Tsinakverkve	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3120	Vakha	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3107	Vedidkari	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3124	Zeda Khuntsi	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3108	Zeda Nagvazao	Samegrelo Zemo Svateni	SZ	Martvili	MV					
+GE	3205	Adishi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3206	Agrai	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3210	Akhalsheni	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3216	Artskheli	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3215	Atsi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3217	Barjashi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3204	Barshi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3202	Bogdanari	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3205	Bogreshi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3214	Chadjashi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3204	Cheliri	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3202	Chkidanari	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3215	Chobani	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3210	Chokhuldi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3216	Cholashi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3216	Chvabiani	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3217	Chveri	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3214	Chvibiani	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3206	Davberi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3201	Dizi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3216	Djabeshi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3216	Djamushi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3214	Djibiani	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3202	Dolasviphi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3202	Doli	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3204	Ebuti	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3215	Eli	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3217	Gaghma Khaishi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3213	Gheshderi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3212	Ghobaldi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3216	Ghvebra	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3204	Gvalderi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3207	Hamash-Totuleshi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3217	Idliani	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3203	Ienashi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3205	Iphari	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3203	Iphkhi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3206	Iphrali	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3204	Iskari	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3217	Jorkvali	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3208	Kaeri	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3204	Kalashi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3209	Kari	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3202	Kartvani	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3208	Kashveti	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3213	Katskhi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3201	Kazakhi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3217	Khaishi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3206	Khalde	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3206	Khe	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3201	Khelra	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3211	Kherkhvashi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3208	Kheshkildi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3213	Khosrali	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3211	Kichkhuldashi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3204	Kurashi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3213	Kvana	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3203	Kvanchianari	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3201	Kveda-Ipari	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3207	Kveda Lakhamula	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3209	Kveda Margi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3217	Kveda Tsvirmindi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3217	Kveda Vedi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3212	Labskaldi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3204	Ladleri	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3203	Lahili	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3209	Lakhami	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3207	Lakhamula	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3216	Lakhiri	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3203	Lakhushdi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3213	Lakviri	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3206	Lalkhori	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3213	Lamkheri	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3215	Lamuldi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3202	Lankhvri	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3204	Lanteli	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3209	Larilari	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3204	Lashkhleri	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3208	Lashtkhveri	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3206	Laskrali	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3216	Lasunkviri	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3209	Lekulmakha	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3208	Lemsia	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3203	Leshukvi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3209	Letspheri	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3212	Lezgara	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3209	Lukhi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3212	Magardeli	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3216	Majvdieri	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3203	Matskhvarishi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3210	Mazeri	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3214	Murkmeli	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3216	Murshkeli	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3211	Naki	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3205	Nakiphari	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3202	Nashtkoli	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3208	Nesguni	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3207	Nodashi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3213	Pari	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3204	Pkhutreri	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3212	Sgobuldi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3209	Sgurishi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3201	Shdikhiri	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3203	Shkaleri	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3203	Sidianari	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3217	Skormeti	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3208	Soli	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3212	Sviphi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3211	Tavrali	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3209	Tita	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3217	Tobari	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3217	Totani	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3204	Tsalanari	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3216	Tsaldashi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3217	Tsitskhvari	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3215	Tsvirmi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3210	Tvebishi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3204	Usgviri	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3202	Ushkhvanari	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3206	Vichnashi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3213	Zagrali	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3216	Zardlashi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3207	Zeda Lakhamula	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3209	Zeda Marghi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3217	Zeda Tsvirmindi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3217	Zeda Vedi	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	3205	Zegani	Samegrelo Zemo Svateni	SZ	Mestia	MS					
+GE	4106	Akhalsopeli	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4114	Betlemi	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4112	Chaladidi	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4106	Dzondziri	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4121	Dzveli Senaki	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4110	Eki	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4110	Etseri	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4107	Gejeti	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4112	Golaskuri	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4106	Isula	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4122	Khorshi	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4121	Kotianeti	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4114	Kvauti	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4114	Legogie	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4114	Lidzadzame	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4105	Menji	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4119	Meore Nosiri	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4115	Nokalakevi	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4116	Nosiri	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4118	Ptskho	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4116	Sabeselio	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4116	Sabokhuo	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4110	Saesebuo	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4106	Sagadelio	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4106	Sajvanio	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4116	Sakilasonio	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4110	Sakvashalio	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4116	Saodishario	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4110	Sashurghaio	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4116	Sasimonio	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4116	Sasirio	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4110	Satkebuchao	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4101	Shkhepi	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4120	Shua Norisi	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4112	Teklati	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4112	Tkiri	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4117	Ushapati	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4110	Zana	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	4112	Zemo Chaladidi	Samegrelo Zemo Svateni	SZ	Senaki	SN					
+GE	5220	Chale	Samegrelo Zemo Svateni	SZ	Tsalenjikha	TL					
+GE	5219	Chkvaleri	Samegrelo Zemo Svateni	SZ	Tsalenjikha	TL					
+GE	5221	Jaghira	Samegrelo Zemo Svateni	SZ	Tsalenjikha	TL					
+GE	5222	Jgali	Samegrelo Zemo Svateni	SZ	Tsalenjikha	TL					
+GE	5223	Jvari	Samegrelo Zemo Svateni	SZ	Tsalenjikha	TL					
+GE	5203	Kveda Mazandara	Samegrelo Zemo Svateni	SZ	Tsalenjikha	TL					
+GE	5204	Lara-Medani	Samegrelo Zemo Svateni	SZ	Tsalenjikha	TL					
+GE	5202	Lenin'S Farm	Samegrelo Zemo Svateni	SZ	Tsalenjikha	TL					
+GE	5205	Lia	Samegrelo Zemo Svateni	SZ	Tsalenjikha	TL					
+GE	5206	Mikava	Samegrelo Zemo Svateni	SZ	Tsalenjikha	TL					
+GE	5207	Mudjava	Samegrelo Zemo Svateni	SZ	Tsalenjikha	TL					
+GE	5208	Nakiphu	Samegrelo Zemo Svateni	SZ	Tsalenjikha	TL					
+GE	5209	Obuji	Samegrelo Zemo Svateni	SZ	Tsalenjikha	TL					
+GE	5211	Ochane	Samegrelo Zemo Svateni	SZ	Tsalenjikha	TL					
+GE	5210	Orjonikidze	Samegrelo Zemo Svateni	SZ	Tsalenjikha	TL					
+GE	5217	Pakhulani	Samegrelo Zemo Svateni	SZ	Tsalenjikha	TL					
+GE	5212	Palouri	Samegrelo Zemo Svateni	SZ	Tsalenjikha	TL					
+GE	5218	Potskhoetseri	Samegrelo Zemo Svateni	SZ	Tsalenjikha	TL					
+GE	5214	Sachino	Samegrelo Zemo Svateni	SZ	Tsalenjikha	TL					
+GE	5216	Uluria	Samegrelo Zemo Svateni	SZ	Tsalenjikha	TL					
+GE	5202	Zeda Mazandara	Samegrelo Zemo Svateni	SZ	Tsalenjikha	TL					
+GE	2108	Abastumani	Samegrelo Zemo Svateni	SZ	Zugdidi	ZG					
+GE	2110	Akhalkakhati	Samegrelo Zemo Svateni	SZ	Zugdidi	ZG					
+GE	2111	Akhalsopeli	Samegrelo Zemo Svateni	SZ	Zugdidi	ZG					
+GE	2109	Anaklia	Samegrelo Zemo Svateni	SZ	Zugdidi	ZG					
+GE	2138	Chakvinji	Samegrelo Zemo Svateni	SZ	Zugdidi	ZG					
+GE	2139	Chitatskari	Samegrelo Zemo Svateni	SZ	Zugdidi	ZG					
+GE	2140	Chkaduashi	Samegrelo Zemo Svateni	SZ	Zugdidi	ZG					
+GE	2136	Chkhoria	Samegrelo Zemo Svateni	SZ	Zugdidi	ZG					
+GE	2114	Darcheli	Samegrelo Zemo Svateni	SZ	Zugdidi	ZG					
+GE	2115	Didi Nedzi	Samegrelo Zemo Svateni	SZ	Zugdidi	ZG					
+GE	2116	Ergeta	Samegrelo Zemo Svateni	SZ	Zugdidi	ZG					
+GE	2112	Ganarjiis Mukhuri	Samegrelo Zemo Svateni	SZ	Zugdidi	ZG					
+GE	2134	Grigolishi	Samegrelo Zemo Svateni	SZ	Zugdidi	ZG					
+GE	2118	Ingiri	Samegrelo Zemo Svateni	SZ	Zugdidi	ZG					
+GE	2119	Ingiri Tea Farm	Samegrelo Zemo Svateni	SZ	Zugdidi	ZG					
+GE	2141	Jikhaskari	Samegrelo Zemo Svateni	SZ	Zugdidi	ZG					
+GE	2111	Jumi	Samegrelo Zemo Svateni	SZ	Zugdidi	ZG					
+GE	2120	Kakhati	Samegrelo Zemo Svateni	SZ	Zugdidi	ZG					
+GE	2108	Khetsera	Samegrelo Zemo Svateni	SZ	Zugdidi	ZG					
+GE	2121	Koki	Samegrelo Zemo Svateni	SZ	Zugdidi	ZG					
+GE	2122	Kortskheli	Samegrelo Zemo Svateni	SZ	Zugdidi	ZG					
+GE	2134	Kulishkari	Samegrelo Zemo Svateni	SZ	Zugdidi	ZG					
+GE	2123	Narazeni	Samegrelo Zemo Svateni	SZ	Zugdidi	ZG					
+GE	2130	Natsuluku	Samegrelo Zemo Svateni	SZ	Zugdidi	ZG					
+GE	2125	Odishi	Samegrelo Zemo Svateni	SZ	Zugdidi	ZG					
+GE	2128	Oktomberi	Samegrelo Zemo Svateni	SZ	Zugdidi	ZG					
+GE	2126	Orsantia	Samegrelo Zemo Svateni	SZ	Zugdidi	ZG					
+GE	2127	Oruli	Samegrelo Zemo Svateni	SZ	Zugdidi	ZG					
+GE	2129	Rike	Samegrelo Zemo Svateni	SZ	Zugdidi	ZG					
+GE	2130	Rukhi	Samegrelo Zemo Svateni	SZ	Zugdidi	ZG					
+GE	2135	Shamgona	Samegrelo Zemo Svateni	SZ	Zugdidi	ZG					
+GE	2132	Tkaia	Samegrelo Zemo Svateni	SZ	Zugdidi	ZG					
+GE	2137	Tsaishi	Samegrelo Zemo Svateni	SZ	Zugdidi	ZG					
+GE	2133	Urta	Samegrelo Zemo Svateni	SZ	Zugdidi	ZG					
+GE	2117	Zeda Etseri	Samegrelo Zemo Svateni	SZ	Zugdidi	ZG					
+GE	0301	Abastumani	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0300	Adigeni	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0301	Aghobili	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0300	Amkheri	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0307	Aphieti	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0302	Arali	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0301	Arazindo	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0303	Benara	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0304	Boladjuri	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0307	Chechla	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0307	Chela	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0300	Chorchani	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0307	Dertseli	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0300	Didi Smada	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0307	Ghortubani	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0300	Gomaro	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0300	Gorguli	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0300	Idjareti	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0300	Kakhareti	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0300	Karatubani	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0307	Kekhovani	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0305	Kevasheni	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0305	Kharjami	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0307	Kikibo	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0305	Kikineti	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0307	Kvabisdjvari	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0304	Kvemo Enteli	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0300	Lelovani	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0306	Mlashe	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0307	Mokhe	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0305	Nakurdevi	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0307	Naminauri	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0301	Observatoria	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0303	Parekha	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0300	Patara Smada	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0300	Patara Zanavi	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0304	Pkhero	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0306	Plate	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0305	Saghrdze	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0307	Sairme	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0300	Samkuri	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0304	Shoka	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0303	Sholaveri	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0305	Tsakhani	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0305	Tsakhantskaro	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0302	Tsarbastumani	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0307	Tsikhisubani	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0308	Ude	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0303	Untsa	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0306	Urtkisubani	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0305	Varkhani	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0300	Zanavi	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0306	Zarzma	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0308	Zazalo	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0307	Zedubani	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0301	Zekari	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0304	Zemo Enteli	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0305	Abastumani	Samtskhe Javakheti	SJ	Adigeni	AD					
+GE	0714	Abuli	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0717	Agana	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0702	Alastani	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0717	Alatumani	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0719	Aphnia	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0703	Aragva	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0701	Azavreti	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0719	Azmana	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0712	Balkho	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0704	Baraleti	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0700	Bavra	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0705	Bejano	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0721	Bozali	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0712	Bugasheni	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0706	Burnasheti	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0714	Buzaveti	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0700	Chamdura	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0710	Chunchkha	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0721	Dabnia	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0709	Dadeshi	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0720	Didi-Samsari	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0710	Diliska	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0721	Erindja	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0706	Ghadolari	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0719	Gogasheni	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0702	Gokio	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0707	Gomani	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0708	Gulikami	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0713	Ikhtila	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0714	Kartikami	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0715	Kartsakhi	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0719	Kartsepi	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0715	Kazakhi	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0723	Khando	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0721	Khaveti	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0700	Khorenia	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0700	Khospio	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0700	Khulgumo	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0717	Kochio	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0716	Korkhi	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0704	Kotelia	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0718	Kumurdo	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0706	Lomaturtskhi	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0700	Machatia	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0700	Martuni	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0713	Merenia	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0721	Miasnikiani	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0705	Modega	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0711	Murdjakheti	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0719	Okami	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0707	Olaverdi	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0723	Ordja	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0720	Patara-Samsari	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0715	Philipovka	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0710	Ptena	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0717	Sirkva	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0721	Sulda	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0714	Takhcha	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0712	Tirkna	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0716	Totkhami	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0722	Turtskhi	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0711	Vachiani	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0702	Varevani	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0712	Zakvi	Samtskhe Javakheti	SJ	Akhalkalaki	AK					
+GE	0812	Abatkhevi	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0801	Agara	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0811	Anda	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0811	Andriatsminda	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0803	Ani	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0802	Atsquri	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0809	Boga	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0800	Chacharaki	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0803	Chvinta	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0807	Didi Pamadji	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0803	Eliatsminda	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0800	Ghreli	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0806	Giorgitsminda	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0801	Gurkeli	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0810	Ivlita	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0812	Julgha	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0808	Khaki	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0811	Kheoti	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0805	Klde	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0807	Kulalisi	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0813	Mikeltsminda	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0800	Minadze	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0806	Mugareti	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0811	Muskhi	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0812	Naokhrebi	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0807	Orali	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0807	Patara Pamadji	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0806	Persa	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0808	Sadzeli	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0801	Sakuneti	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0809	Sviri	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0809	Tatanisi	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0802	Tiseli	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0802	Tkemlana	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0801	Tsinubani	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0813	Tsira	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0812	Tskaltbila	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0811	Tskordza	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0813	Tskruti	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0805	Tsnisi	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0811	Uraveli	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0804	Vale	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0801	Zikilia	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0812	Tsinubani	Samtskhe Javakheti	SJ	Akhaltsikhe	AT					
+GE	0505	Atskvita	Samtskhe Javakheti	SJ	Aspindza	AZ					
+GE	0506	Chobareti	Samtskhe Javakheti	SJ	Aspindza	AZ					
+GE	0501	Damala	Samtskhe Javakheti	SJ	Aspindza	AZ					
+GE	0506	Dzveli	Samtskhe Javakheti	SJ	Aspindza	AZ					
+GE	0505	Gulsunda	Samtskhe Javakheti	SJ	Aspindza	AZ					
+GE	0502	Idumala	Samtskhe Javakheti	SJ	Aspindza	AZ					
+GE	0500	Iveria	Samtskhe Javakheti	SJ	Aspindza	AZ					
+GE	0505	Khertvisi	Samtskhe Javakheti	SJ	Aspindza	AZ					
+GE	0507	Khizabavra	Samtskhe Javakheti	SJ	Aspindza	AZ					
+GE	0503	Mirashkhani	Samtskhe Javakheti	SJ	Aspindza	AZ					
+GE	0503	Nakalakevi	Samtskhe Javakheti	SJ	Aspindza	AZ					
+GE	0505	Nidjgori	Samtskhe Javakheti	SJ	Aspindza	AZ					
+GE	0506	Orgora	Samtskhe Javakheti	SJ	Aspindza	AZ					
+GE	0502	Oshora	Samtskhe Javakheti	SJ	Aspindza	AZ					
+GE	0500	Ota	Samtskhe Javakheti	SJ	Aspindza	AZ					
+GE	0503	Pia	Samtskhe Javakheti	SJ	Aspindza	AZ					
+GE	0504	Rustavi	Samtskhe Javakheti	SJ	Aspindza	AZ					
+GE	0506	Sakudabeli	Samtskhe Javakheti	SJ	Aspindza	AZ					
+GE	0507	Saro	Samtskhe Javakheti	SJ	Aspindza	AZ					
+GE	0503	Tmogvi	Samtskhe Javakheti	SJ	Aspindza	AZ					
+GE	0507	Toki	Samtskhe Javakheti	SJ	Aspindza	AZ					
+GE	0505	Toloshi	Samtskhe Javakheti	SJ	Aspindza	AZ					
+GE	0507	Vargavi	Samtskhe Javakheti	SJ	Aspindza	AZ					
+GE	1203	Akhaldaba	Samtskhe Javakheti	SJ	Borjomi	BR					
+GE	1211	Andeziti	Samtskhe Javakheti	SJ	Borjomi	BR					
+GE	1204	Bakuriani	Samtskhe Javakheti	SJ	Borjomi	BR					
+GE	1205	Balanta	Samtskhe Javakheti	SJ	Borjomi	BR					
+GE	1200	Besheti	Samtskhe Javakheti	SJ	Borjomi	BR					
+GE	1205	Chikharula	Samtskhe Javakheti	SJ	Borjomi	BR					
+GE	1210	Chitakhevi	Samtskhe Javakheti	SJ	Borjomi	BR					
+GE	1210	Chobiskhevi	Samtskhe Javakheti	SJ	Borjomi	BR					
+GE	1212	Daba	Samtskhe Javakheti	SJ	Borjomi	BR					
+GE	1207	Dgvari	Samtskhe Javakheti	SJ	Borjomi	BR					
+GE	1204	Didi Mitarbi	Samtskhe Javakheti	SJ	Borjomi	BR					
+GE	1206	Dviri	Samtskhe Javakheti	SJ	Borjomi	BR					
+GE	1200	Kortaneti	Samtskhe Javakheti	SJ	Borjomi	BR					
+GE	1206	Kvabiskhevi	Samtskhe Javakheti	SJ	Borjomi	BR					
+GE	1209	Kvibisi	Samtskhe Javakheti	SJ	Borjomi	BR					
+GE	1208	Libani	Samtskhe Javakheti	SJ	Borjomi	BR					
+GE	1205	Moliti	Samtskhe Javakheti	SJ	Borjomi	BR					
+GE	1212	Mzetamze	Samtskhe Javakheti	SJ	Borjomi	BR					
+GE	1204	Patara Mitarbi	Samtskhe Javakheti	SJ	Borjomi	BR					
+GE	1200	Rveli	Samtskhe Javakheti	SJ	Borjomi	BR					
+GE	1208	Sadgeri	Samtskhe Javakheti	SJ	Borjomi	BR					
+GE	1207	Sakire	Samtskhe Javakheti	SJ	Borjomi	BR					
+GE	1205	Tabatskuri	Samtskhe Javakheti	SJ	Borjomi	BR					
+GE	1207	Tadzrisi	Samtskhe Javakheti	SJ	Borjomi	BR					
+GE	1208	Tba	Samtskhe Javakheti	SJ	Borjomi	BR					
+GE	1212	Timotesubani	Samtskhe Javakheti	SJ	Borjomi	BR					
+GE	1212	Tsaghveri	Samtskhe Javakheti	SJ	Borjomi	BR					
+GE	1208	Tsemi	Samtskhe Javakheti	SJ	Borjomi	BR					
+GE	1211	Tsikhisjvari	Samtskhe Javakheti	SJ	Borjomi	BR					
+GE	1200	Vardgineti	Samtskhe Javakheti	SJ	Borjomi	BR					
+GE	1200	Zanavi	Samtskhe Javakheti	SJ	Borjomi	BR					
+GE	3414	Aspara	Samtskhe Javakheti	SJ	Ninotsminda	NI					
+GE	3402	Didi Araqali	Samtskhe Javakheti	SJ	Ninotsminda	NI					
+GE	3404	Didi Gondrio	Samtskhe Javakheti	SJ	Ninotsminda	NI					
+GE	3400	Didi Khanchali	Samtskhe Javakheti	SJ	Ninotsminda	NI					
+GE	3404	Diliti	Samtskhe Javakheti	SJ	Ninotsminda	NI					
+GE	3405	Djdanovi	Samtskhe Javakheti	SJ	Ninotsminda	NI					
+GE	3405	Efremovka	Samtskhe Javakheti	SJ	Ninotsminda	NI					
+GE	3407	Eshtia	Samtskhe Javakheti	SJ	Ninotsminda	NI					
+GE	3403	Gandzani	Samtskhe Javakheti	SJ	Ninotsminda	NI					
+GE	3405	Gorelovka	Samtskhe Javakheti	SJ	Ninotsminda	NI					
+GE	3417	Jigrasheni	Samtskhe Javakheti	SJ	Ninotsminda	NI					
+GE	3400	Katnatu	Samtskhe Javakheti	SJ	Ninotsminda	NI					
+GE	3407	Kaurma	Samtskhe Javakheti	SJ	Ninotsminda	NI					
+GE	3416	Kulalisi	Samtskhe Javakheti	SJ	Ninotsminda	NI					
+GE	3404	Mamzvara	Samtskhe Javakheti	SJ	Ninotsminda	NI					
+GE	3409	Orlovka	Samtskhe Javakheti	SJ	Ninotsminda	NI					
+GE	3413	Orojolari	Samtskhe Javakheti	SJ	Ninotsminda	NI					
+GE	3402	Patara-Arakali	Samtskhe Javakheti	SJ	Ninotsminda	NI					
+GE	3404	Patara Gondrio	Samtskhe Javakheti	SJ	Ninotsminda	NI					
+GE	3400	Patara Khanchali	Samtskhe Javakheti	SJ	Ninotsminda	NI					
+GE	3417	Patara Khorenia	Samtskhe Javakheti	SJ	Ninotsminda	NI					
+GE	3415	Poka	Samtskhe Javakheti	SJ	Ninotsminda	NI					
+GE	3412	Rodionovka	Samtskhe Javakheti	SJ	Ninotsminda	NI					
+GE	3403	Saghamo	Samtskhe Javakheti	SJ	Ninotsminda	NI					
+GE	3413	Satkhe	Samtskhe Javakheti	SJ	Ninotsminda	NI					
+GE	3409	Spasovka	Samtskhe Javakheti	SJ	Ninotsminda	NI					
+GE	3414	Tambovka	Samtskhe Javakheti	SJ	Ninotsminda	NI					
+GE	3408	Toria	Samtskhe Javakheti	SJ	Ninotsminda	NI					
+GE	3408	Ujmana	Samtskhe Javakheti	SJ	Ninotsminda	NI					
+GE	3415	Vladimirovka	Samtskhe Javakheti	SJ	Ninotsminda	NI					
+GE	1416	Adzvi	Shida Kartli	SD	Gori	GR					
+GE	1409	Akhaldaba	Shida Kartli	SD	Gori	GR					
+GE	1418	Akhalkhiza	Shida Kartli	SD	Gori	GR					
+GE	1412	Akhalsheni	Shida Kartli	SD	Gori	GR					
+GE	1416	Akhalubani	Shida Kartli	SD	Gori	GR					
+GE	1416	Akhrisi	Shida Kartli	SD	Gori	GR					
+GE	1406	Arbo	Shida Kartli	SD	Gori	GR					
+GE	1407	Argvitsi	Shida Kartli	SD	Gori	GR					
+GE	1409	Ashenda	Shida Kartli	SD	Gori	GR					
+GE	1402	Ateni	Shida Kartli	SD	Gori	GR					
+GE	1408	Atsriskhevi	Shida Kartli	SD	Gori	GR					
+GE	1432	Azneti	Shida Kartli	SD	Gori	GR					
+GE	1408	Beloti	Shida Kartli	SD	Gori	GR					
+GE	1403	Berbuki	Shida Kartli	SD	Gori	GR					
+GE	1404	Bershueti	Shida Kartli	SD	Gori	GR					
+GE	1407	Berula	Shida Kartli	SD	Gori	GR					
+GE	1405	Biisi	Shida Kartli	SD	Gori	GR					
+GE	1402	Bnavisi	Shida Kartli	SD	Gori	GR					
+GE	1405	Bobnevi	Shida Kartli	SD	Gori	GR					
+GE	1405	Boshuri	Shida Kartli	SD	Gori	GR					
+GE	1419	Brotsleti	Shida Kartli	SD	Gori	GR					
+GE	1426	Charebi	Shida Kartli	SD	Gori	GR					
+GE	1414	Didi Garedjvari	Shida Kartli	SD	Gori	GR					
+GE	1426	Disevi	Shida Kartli	SD	Gori	GR					
+GE	1406	Ditsi	Shida Kartli	SD	Gori	GR					
+GE	1422	Dzartsemi	Shida Kartli	SD	Gori	GR					
+GE	1430	Dzevera	Shida Kartli	SD	Gori	GR					
+GE	1407	Eredvi	Shida Kartli	SD	Gori	GR					
+GE	1419	Ergneti	Shida Kartli	SD	Gori	GR					
+GE	1402	Ghvarebi	Shida Kartli	SD	Gori	GR					
+GE	1410	Gogiantkari	Shida Kartli	SD	Gori	GR					
+GE	1418	Gorijvari	Shida Kartli	SD	Gori	GR					
+GE	1415	Gugutiantkari	Shida Kartli	SD	Gori	GR					
+GE	1416	Jariasheni	Shida Kartli	SD	Gori	GR					
+GE	1414	Karaleti	Shida Kartli	SD	Gori	GR					
+GE	1415	Karbi	Shida Kartli	SD	Gori	GR					
+GE	1427	Kekhvi	Shida Kartli	SD	Gori	GR					
+GE	1429	Kelktseuli	Shida Kartli	SD	Gori	GR					
+GE	1422	Kemerti	Shida Kartli	SD	Gori	GR					
+GE	1415	Kere	Shida Kartli	SD	Gori	GR					
+GE	1422	Kheiti	Shida Kartli	SD	Gori	GR					
+GE	1431	Kheltubani	Shida Kartli	SD	Gori	GR					
+GE	1432	Khidistavi	Shida Kartli	SD	Gori	GR					
+GE	1428	Khurvaleti	Shida Kartli	SD	Gori	GR					
+GE	1404	Kirbali	Shida Kartli	SD	Gori	GR					
+GE	1425	Kitsnisi	Shida Kartli	SD	Gori	GR					
+GE	1408	Kokhati	Shida Kartli	SD	Gori	GR					
+GE	1406	Kordi	Shida Kartli	SD	Gori	GR					
+GE	1415	Koshka	Shida Kartli	SD	Gori	GR					
+GE	1418	Koshkebi	Shida Kartli	SD	Gori	GR					
+GE	1426	Ksuisi	Shida Kartli	SD	Gori	GR					
+GE	1427	Kurta	Shida Kartli	SD	Gori	GR					
+GE	1423	Kvakhvreli	Shida Kartli	SD	Gori	GR					
+GE	1411	Kvarkheti	Shida Kartli	SD	Gori	GR					
+GE	1405	Kvelaantubani	Shida Kartli	SD	Gori	GR					
+GE	1413	Kvemo Achabeti	Shida Kartli	SD	Gori	GR					
+GE	1412	Kvemo-Akhalsopeli	Shida Kartli	SD	Gori	GR					
+GE	1424	Kvemo-Artsevi	Shida Kartli	SD	Gori	GR					
+GE	1410	Kvemo-Ikorta	Shida Kartli	SD	Gori	GR					
+GE	1429	Kvemo-Khviti	Shida Kartli	SD	Gori	GR					
+GE	1412	Kvemo-Sobisi	Shida Kartli	SD	Gori	GR					
+GE	1424	Kveshi	Shida Kartli	SD	Gori	GR					
+GE	1405	Levitana	Shida Kartli	SD	Gori	GR					
+GE	1407	Mamisaantubani	Shida Kartli	SD	Gori	GR					
+GE	1420	Marana	Shida Kartli	SD	Gori	GR					
+GE	1419	Meghvrekisi	Shida Kartli	SD	Gori	GR					
+GE	1416	Mejvriskhevi	Shida Kartli	SD	Gori	GR					
+GE	1415	Mereti	Shida Kartli	SD	Gori	GR					
+GE	1402	Mghebriani	Shida Kartli	SD	Gori	GR					
+GE	1427	Monasteri	Shida Kartli	SD	Gori	GR					
+GE	1428	Nadarbazevi	Shida Kartli	SD	Gori	GR					
+GE	1428	Natsreti	Shida Kartli	SD	Gori	GR					
+GE	1417	Nikozi	Shida Kartli	SD	Gori	GR					
+GE	1432	Okhera	Shida Kartli	SD	Gori	GR					
+GE	1402	Olozi	Shida Kartli	SD	Gori	GR					
+GE	1405	Ormotsi	Shida Kartli	SD	Gori	GR					
+GE	1414	Patara Garedjvari	Shida Kartli	SD	Gori	GR					
+GE	1405	Pitsesi	Shida Kartli	SD	Gori	GR					
+GE	1429	Pkhvenisi	Shida Kartli	SD	Gori	GR					
+GE	1421	Plavi	Shida Kartli	SD	Gori	GR					
+GE	1421	Plavismani	Shida Kartli	SD	Gori	GR					
+GE	1407	Prisi	Shida Kartli	SD	Gori	GR					
+GE	1403	Rekha	Shida Kartli	SD	Gori	GR					
+GE	1418	Rieti	Shida Kartli	SD	Gori	GR					
+GE	1409	Sakasheti	Shida Kartli	SD	Gori	GR					
+GE	1425	Satemo	Shida Kartli	SD	Gori	GR					
+GE	1408	Satskheneti	Shida Kartli	SD	Gori	GR					
+GE	1428	Shavshvebi	Shida Kartli	SD	Gori	GR					
+GE	1430	Shertuli	Shida Kartli	SD	Gori	GR					
+GE	1429	Shindisi	Shida Kartli	SD	Gori	GR					
+GE	1418	Skra	Shida Kartli	SD	Gori	GR					
+GE	1403	Sveneti	Shida Kartli	SD	Gori	GR					
+GE	1422	Sveri	Shida Kartli	SD	Gori	GR					
+GE	1413	Tamarasheni	Shida Kartli	SD	Gori	GR					
+GE	1419	Tirdznisi	Shida Kartli	SD	Gori	GR					
+GE	1424	Tiriphonhesi	Shida Kartli	SD	Gori	GR					
+GE	1420	Tkviavi	Shida Kartli	SD	Gori	GR					
+GE	1431	Tortiza	Shida Kartli	SD	Gori	GR					
+GE	1402	Tsedisi	Shida Kartli	SD	Gori	GR					
+GE	1416	Tsitsagiantkari	Shida Kartli	SD	Gori	GR					
+GE	1423	Uplistsikhe	Shida Kartli	SD	Gori	GR					
+GE	1408	Vanati	Shida Kartli	SD	Gori	GR					
+GE	1409	Variani	Shida Kartli	SD	Gori	GR					
+GE	1423	Velebi	Shida Kartli	SD	Gori	GR					
+GE	1415	Zardiaantkari	Shida Kartli	SD	Gori	GR					
+GE	1402	Zeda Ksovrisi	Shida Kartli	SD	Gori	GR					
+GE	1412	Zeghduleti	Shida Kartli	SD	Gori	GR					
+GE	1427	Zemo Achabeti	Shida Kartli	SD	Gori	GR					
+GE	1405	Zemo Akhalsopheli	Shida Kartli	SD	Gori	GR					
+GE	1410	Zemo Artsevi	Shida Kartli	SD	Gori	GR					
+GE	1405	Zemo-Boshuri	Shida Kartli	SD	Gori	GR					
+GE	1417	Zemo-Khviti	Shida Kartli	SD	Gori	GR					
+GE	1404	Zemo-Sobisi	Shida Kartli	SD	Gori	GR					
+GE	1411	Zerti	Shida Kartli	SD	Gori	GR					
+GE	7401	Ertso	Shida Kartli	SD	Java Shida Kartli	JV					
+GE	7404	Keshelta	Shida Kartli	SD	Java Shida Kartli	JV					
+GE	7406	Khvtse	Shida Kartli	SD	Java Shida Kartli	JV					
+GE	7403	Kvaisa	Shida Kartli	SD	Java Shida Kartli	JV					
+GE	7405	Shua Roka	Shida Kartli	SD	Java Shida Kartli	JV					
+GE	7402	Vaneli	Shida Kartli	SD	Java Shida Kartli	JV					
+GE	4502	Abano	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4501	Abisi	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4503	Agara	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4506	Akhalsopeli	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4501	Aphnisi	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4508	Aradeti	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4511	Atotsi	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4504	Avlevi	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4505	Avnevi	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4500	Bebnisi	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4501	Berdzenauli	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4510	Bredza	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4508	Breti	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4513	Chandrebi	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4502	Chvrinisi	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4511	Dirbi	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4512	Dvani	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4509	Dzlevijvari	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4519	Ghogheti	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4513	Ghvlevi	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4514	Gverdzineti	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4514	Imerkhevi	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4515	Kekhijvari	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4513	Kheoba	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4515	Kldu	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4504	Knolevi	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4515	Kobesaantubani	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4516	Koda	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4519	Kvemo-Shakshaketi	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4513	Kvenaplavi	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4520	Kvenatkotsa	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4501	Leteti	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4516	Mokhisi	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4505	Muguti	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4505	Nuli	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4519	Ptsa	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4517	Ruisi	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4508	Sagolasheni	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4515	Samtserisi	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4515	Sanebeli	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4509	Sasireti	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4502	Satsikhuri	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4512	Takhtisdziri	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4519	Tamarasheni	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4515	Tatanaantubani	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4504	Tseronisi	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4508	Tsveri	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4518	Urbnisi	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4515	Vedreba	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4513	Zemo Khvedureti	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4516	Zemo-Shakshaketi	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	4514	Zghuderi	Shida Kartli	SD	Kareli Shida Kartli	KR					
+GE	2601	Aghaiani	Shida Kartli	SD	Kaspi	KP					
+GE	2602	Akhalqalaqi	Shida Kartli	SD	Kaspi	KP					
+GE	2617	Akhalshena	Shida Kartli	SD	Kaspi	KP					
+GE	2602	Akhalsopeli	Shida Kartli	SD	Kaspi	KP					
+GE	2603	Akhaltsikhe	Shida Kartli	SD	Kaspi	KP					
+GE	2613	Barnabiantkari	Shida Kartli	SD	Kaspi	KP					
+GE	2615	Bodjami	Shida Kartli	SD	Kaspi	KP					
+GE	2616	Borta	Shida Kartli	SD	Kaspi	KP					
+GE	2602	Chachubeti	Shida Kartli	SD	Kaspi	KP					
+GE	2614	Changilari	Shida Kartli	SD	Kaspi	KP					
+GE	2606	Chkopiani	Shida Kartli	SD	Kaspi	KP					
+GE	2605	Chobalauri	Shida Kartli	SD	Kaspi	KP					
+GE	2604	Doesi	Shida Kartli	SD	Kaspi	KP					
+GE	2602	Ertatsminda	Shida Kartli	SD	Kaspi	KP					
+GE	2610	Ezati	Shida Kartli	SD	Kaspi	KP					
+GE	2617	Gamdlistskaro	Shida Kartli	SD	Kaspi	KP					
+GE	2602	Garikula	Shida Kartli	SD	Kaspi	KP					
+GE	2610	Gomisjvari	Shida Kartli	SD	Kaspi	KP					
+GE	2617	Goraka	Shida Kartli	SD	Kaspi	KP					
+GE	2602	Gostibe	Shida Kartli	SD	Kaspi	KP					
+GE	2604	Grakali	Shida Kartli	SD	Kaspi	KP					
+GE	2610	Gudaleti	Shida Kartli	SD	Kaspi	KP					
+GE	2610	Idleti	Shida Kartli	SD	Kaspi	KP					
+GE	2609	Igoeti	Shida Kartli	SD	Kaspi	KP					
+GE	2602	Kaprashiani	Shida Kartli	SD	Kaspi	KP					
+GE	2605	Karapila	Shida Kartli	SD	Kaspi	KP					
+GE	2610	Kavtiskhevi	Shida Kartli	SD	Kaspi	KP					
+GE	2610	Kebaani	Shida Kartli	SD	Kaspi	KP					
+GE	2601	Khidiskuri	Shida Kartli	SD	Kaspi	KP					
+GE	2618	Khovle	Shida Kartli	SD	Kaspi	KP					
+GE	2611	Khviti	Shida Kartli	SD	Kaspi	KP					
+GE	2605	Kodistskaro	Shida Kartli	SD	Kaspi	KP					
+GE	2617	Kvemo Chala	Shida Kartli	SD	Kaspi	KP					
+GE	2610	Kvemo-Chocheti	Shida Kartli	SD	Kaspi	KP					
+GE	2616	Kvemo Gomi	Shida Kartli	SD	Kaspi	KP					
+GE	2605	Kvemo-Rene	Shida Kartli	SD	Kaspi	KP					
+GE	2611	Lamiskana	Shida Kartli	SD	Kaspi	KP					
+GE	2610	Lavriskhevi	Shida Kartli	SD	Kaspi	KP					
+GE	2613	Metekhi (Station)	Shida Kartli	SD	Kaspi	KP					
+GE	2609	Mrgvali Chala	Shida Kartli	SD	Kaspi	KP					
+GE	2603	Mtiuleti	Shida Kartli	SD	Kaspi	KP					
+GE	2616	Niabi	Shida Kartli	SD	Kaspi	KP					
+GE	2605	Nigoza	Shida Kartli	SD	Kaspi	KP					
+GE	2603	Noste	Shida Kartli	SD	Kaspi	KP					
+GE	2614	Okami	Shida Kartli	SD	Kaspi	KP					
+GE	2617	Pantiani	Shida Kartli	SD	Kaspi	KP					
+GE	2606	Pashiani	Shida Kartli	SD	Kaspi	KP					
+GE	2614	Perma	Shida Kartli	SD	Kaspi	KP					
+GE	2602	Rkoni	Shida Kartli	SD	Kaspi	KP					
+GE	2601	Sakadagiano	Shida Kartli	SD	Kaspi	KP					
+GE	2617	Sakorintlo	Shida Kartli	SD	Kaspi	KP					
+GE	2615	Samtavisi	Shida Kartli	SD	Kaspi	KP					
+GE	2605	Saribali	Shida Kartli	SD	Kaspi	KP					
+GE	2608	Sasireti	Shida Kartli	SD	Kaspi	KP					
+GE	2602	Tedzmiskhevi	Shida Kartli	SD	Kaspi	KP					
+GE	2610	Telatgori	Shida Kartli	SD	Kaspi	KP					
+GE	2608	Teliani	Shida Kartli	SD	Kaspi	KP					
+GE	2614	Tezi	Shida Kartli	SD	Kaspi	KP					
+GE	2615	Togoiani	Shida Kartli	SD	Kaspi	KP					
+GE	2610	Tsinarekhi	Shida Kartli	SD	Kaspi	KP					
+GE	2603	Tskhaveri	Shida Kartli	SD	Kaspi	KP					
+GE	2610	Tvaladi	Shida Kartli	SD	Kaspi	KP					
+GE	2611	Tvaurebi	Shida Kartli	SD	Kaspi	KP					
+GE	2617	Vake	Shida Kartli	SD	Kaspi	KP					
+GE	2605	Zadiantkari	Shida Kartli	SD	Kaspi	KP					
+GE	2602	Zemo-Chocheti	Shida Kartli	SD	Kaspi	KP					
+GE	2606	Zemo Khandaki	Shida Kartli	SD	Kaspi	KP					
+GE	2605	Zemo Rene	Shida Kartli	SD	Kaspi	KP					
+GE	2606	Zenadrisi	Shida Kartli	SD	Kaspi	KP					
+GE	5702	Agarebi	Shida Kartli	SD	Khashuri	KS					
+GE	5709	Akhalsheni	Shida Kartli	SD	Khashuri	KS					
+GE	5704	Akhalsopeli	Shida Kartli	SD	Khashuri	KS					
+GE	5701	Akhalubani	Shida Kartli	SD	Khashuri	KS					
+GE	5709	Aleqsandrestskaro	Shida Kartli	SD	Khashuri	KS					
+GE	5701	Ali	Shida Kartli	SD	Khashuri	KS					
+GE	5707	Beghleti	Shida Kartli	SD	Khashuri	KS					
+GE	5706	Bidjnisi	Shida Kartli	SD	Khashuri	KS					
+GE	5701	Brili	Shida Kartli	SD	Khashuri	KS					
+GE	5706	Bughaura	Shida Kartli	SD	Khashuri	KS					
+GE	5707	Bulbulistsikhe	Shida Kartli	SD	Khashuri	KS					
+GE	5703	Chorchana	Shida Kartli	SD	Khashuri	KS					
+GE	5706	Chumateleti	Shida Kartli	SD	Khashuri	KS					
+GE	5708	Damchkhreula	Shida Kartli	SD	Khashuri	KS					
+GE	5706	Didi-Bekami	Shida Kartli	SD	Khashuri	KS					
+GE	5709	Didi-Keleti	Shida Kartli	SD	Khashuri	KS					
+GE	5709	Didi Khalebi	Shida Kartli	SD	Khashuri	KS					
+GE	5709	Didi Khavleti	Shida Kartli	SD	Khashuri	KS					
+GE	5703	Didi Phlevi	Shida Kartli	SD	Khashuri	KS					
+GE	5702	Didi-Sative	Shida Kartli	SD	Khashuri	KS					
+GE	5709	Didi-Tkhinala	Shida Kartli	SD	Khashuri	KS					
+GE	5701	Dumatskhovi	Shida Kartli	SD	Khashuri	KS					
+GE	5709	Gharta	Shida Kartli	SD	Khashuri	KS					
+GE	5709	Ghvriatskali	Shida Kartli	SD	Khashuri	KS					
+GE	5702	Gomi	Shida Kartli	SD	Khashuri	KS					
+GE	5706	Gverdisubani	Shida Kartli	SD	Khashuri	KS					
+GE	5709	Imerliantkari	Shida Kartli	SD	Khashuri	KS					
+GE	5706	Itria	Shida Kartli	SD	Khashuri	KS					
+GE	5708	Kashveti	Shida Kartli	SD	Khashuri	KS					
+GE	5706	Kemperi	Shida Kartli	SD	Khashuri	KS					
+GE	5702	Khidiskuri	Shida Kartli	SD	Khashuri	KS					
+GE	5709	Khtsisi	Shida Kartli	SD	Khashuri	KS					
+GE	5701	Kindzati	Shida Kartli	SD	Khashuri	KS					
+GE	5705	Kipiantubani	Shida Kartli	SD	Khashuri	KS					
+GE	5701	Kldistskaro (Ali Area)	Shida Kartli	SD	Khashuri	KS					
+GE	5703	Kldistskaro (Tsaghveli Area)	Shida Kartli	SD	Khashuri	KS					
+GE	5703	Kobi	Shida Kartli	SD	Khashuri	KS					
+GE	5709	Kriskhevi	Shida Kartli	SD	Khashuri	KS					
+GE	5702	Kvemo-Adzvisi	Shida Kartli	SD	Khashuri	KS					
+GE	5703	Kvemo-Brolosani	Shida Kartli	SD	Khashuri	KS					
+GE	5704	Kvemo-Osiauri	Shida Kartli	SD	Khashuri	KS					
+GE	5707	Kvishkheti	Shida Kartli	SD	Khashuri	KS					
+GE	5709	Mitsobi	Shida Kartli	SD	Khashuri	KS					
+GE	5707	Monasteri	Shida Kartli	SD	Khashuri	KS					
+GE	5701	Mtskhetisdjvari	Shida Kartli	SD	Khashuri	KS					
+GE	5701	Nabakhtevi	Shida Kartli	SD	Khashuri	KS					
+GE	5709	Nadarbazevi	Shida Kartli	SD	Khashuri	KS					
+GE	5703	Natsargora	Shida Kartli	SD	Khashuri	KS					
+GE	5706	Odzisi	Shida Kartli	SD	Khashuri	KS					
+GE	5704	Osiauri	Shida Kartli	SD	Khashuri	KS					
+GE	5706	Patara-Bekami	Shida Kartli	SD	Khashuri	KS					
+GE	5709	Patara-Keleti	Shida Kartli	SD	Khashuri	KS					
+GE	5709	Patara Khalebi	Shida Kartli	SD	Khashuri	KS					
+GE	5703	Patara-Plevi	Shida Kartli	SD	Khashuri	KS					
+GE	5702	Patara-Sative	Shida Kartli	SD	Khashuri	KS					
+GE	5709	Patara Tkhinala	Shida Kartli	SD	Khashuri	KS					
+GE	5708	Rbona	Shida Kartli	SD	Khashuri	KS					
+GE	5705	Rusaantubani	Shida Kartli	SD	Khashuri	KS					
+GE	5707	Sarmanishviliskari	Shida Kartli	SD	Khashuri	KS					
+GE	5709	Sartkela	Shida Kartli	SD	Khashuri	KS					
+GE	5707	Sative	Shida Kartli	SD	Khashuri	KS					
+GE	5705	Savanisubani	Shida Kartli	SD	Khashuri	KS					
+GE	5706	Surami	Shida Kartli	SD	Khashuri	KS					
+GE	5708	Tagveti	Shida Kartli	SD	Khashuri	KS					
+GE	5707	Tashiskari	Shida Kartli	SD	Khashuri	KS					
+GE	5705	Tezeri	Shida Kartli	SD	Khashuri	KS					
+GE	5703	Titvinistskaro	Shida Kartli	SD	Khashuri	KS					
+GE	5703	Tkotsa	Shida Kartli	SD	Khashuri	KS					
+GE	5706	Tsablovana	Shida Kartli	SD	Khashuri	KS					
+GE	5710	Tsaghvli	Shida Kartli	SD	Khashuri	KS					
+GE	5706	Tsedani	Shida Kartli	SD	Khashuri	KS					
+GE	5703	Tseghveri	Shida Kartli	SD	Khashuri	KS					
+GE	5706	Tsivtskaro	Shida Kartli	SD	Khashuri	KS					
+GE	5708	Tskhramukha	Shida Kartli	SD	Khashuri	KS					
+GE	5706	Tsotskhnara	Shida Kartli	SD	Khashuri	KS					
+GE	5706	Urtkhva	Shida Kartli	SD	Khashuri	KS					
+GE	5701	Utslevi	Shida Kartli	SD	Khashuri	KS					
+GE	5702	Vaka	Shida Kartli	SD	Khashuri	KS					
+GE	5706	Zekota	Shida Kartli	SD	Khashuri	KS					
+GE	5701	Zemo-Adzvisi	Shida Kartli	SD	Khashuri	KS					
+GE	5703	Zemo-Brolosani	Shida Kartli	SD	Khashuri	KS					
+GE	5704	Zemo Osiauri	Shida Kartli	SD	Khashuri	KS					
+GE	0100	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0101	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0102	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0103	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0104	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0105	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0107	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0108	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0109	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0112	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0113	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0114	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0117	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0118	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0119	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0120	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0121	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0131	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0132	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0133	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0136	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0137	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0141	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0143	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0144	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0145	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0148	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0151	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0152	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0153	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0154	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0158	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0159	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0160	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0162	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0163	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0165	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0167	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0168	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0171	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0172	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0177	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0178	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0179	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0180	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0181	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0182	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0183	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0186	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0189	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0190	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0191	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0192	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0193	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0194	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0197	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	0198	Tbilisi	Tbilisi	TB	Tbilisi	TB					
+GE	1054	Tbilisi	Tbilisi	TB	Tbilisi	TB					

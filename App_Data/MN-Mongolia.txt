@@ -1,0 +1,1824 @@
+MN	65111	Bayan Uul	Arhangai	AR	Battsengel				
+MN	65105	Dair bor	Arhangai	AR	Battsengel				
+MN	65109	Del	Arhangai	AR	Battsengel				
+MN	65101	Hunug	Arhangai	AR	Battsengel				
+MN	65107	Tsats	Arhangai	AR	Battsengel				
+MN	65103	Ulaan chuluu	Arhangai	AR	Battsengel				
+MN	65121	Bayanbulag	Arhangai	AR	Bulgan				
+MN	65123	Tamir	Arhangai	AR	Bulgan				
+MN	65127	Tusgalt	Arhangai	AR	Bulgan				
+MN	65125	Zuunmod	Arhangai	AR	Bulgan				
+MN	65221	Hairhan	Arhangai	AR	Chuluut				
+MN	65225	Haluun us	Arhangai	AR	Chuluut				
+MN	65223	Hyrem	Arhangai	AR	Chuluut				
+MN	65229	Ulziit gol	Arhangai	AR	Chuluut				
+MN	65227	Zuunmod	Arhangai	AR	Chuluut				
+MN	65131	Erdenebulgan	Arhangai	AR	Erdenebulgan				
+MN	65155	Alag Uul	Arhangai	AR	Erdenemandal				
+MN	65161	Erdene Uul	Arhangai	AR	Erdenemandal				
+MN	65159	Han Undur	Arhangai	AR	Erdenemandal				
+MN	65151	Ider Ulaan	Arhangai	AR	Erdenemandal				
+MN	65153	Teel	Arhangai	AR	Erdenemandal				
+MN	65157	Ulziit	Arhangai	AR	Erdenemandal				
+MN	65067	Asgat	Arhangai	AR	Hairhan				
+MN	65069	Hairhan	Arhangai	AR	Hairhan				
+MN	65063	Jarantai	Arhangai	AR	Hairhan				
+MN	65061	Mogoi	Arhangai	AR	Hairhan				
+MN	65065	Uguumur	Arhangai	AR	Hairhan				
+MN	65257	Ar bayasgalan	Arhangai	AR	Hangai				
+MN	65253	Bayan Ulaan	Arhangai	AR	Hangai				
+MN	65259	CHandmani	Arhangai	AR	Hangai				
+MN	65251	Gichgene	Arhangai	AR	Hangai				
+MN	65255	Noen hangai	Arhangai	AR	Hangai				
+MN	65261	Terh	Arhangai	AR	Hangai				
+MN	65015	Bayan	Arhangai	AR	Hashaat				
+MN	65013	Jargalant	Arhangai	AR	Hashaat				
+MN	65011	Nomgon	Arhangai	AR	Hashaat				
+MN	65017	Tsagaan had	Arhangai	AR	Hashaat				
+MN	65019	Tsaidam	Arhangai	AR	Hashaat				
+MN	65041	Burgaltai	Arhangai	AR	Hotont				
+MN	65045	Hotont	Arhangai	AR	Hotont				
+MN	65049	Huuvur	Arhangai	AR	Hotont				
+MN	65047	Orhon	Arhangai	AR	Hotont				
+MN	65043	Ulaan CHuluu	Arhangai	AR	Hotont				
+MN	65051	Undur sant	Arhangai	AR	Hotont				
+MN	65177	Bort	Arhangai	AR	Ih Tamir				
+MN	65171	Bugat	Arhangai	AR	Ih Tamir				
+MN	65173	Erdenetolgoi	Arhangai	AR	Ih Tamir				
+MN	65179	Han Undur	Arhangai	AR	Ih Tamir				
+MN	65181	Huhnuur	Arhangai	AR	Ih Tamir				
+MN	65175	Taihar	Arhangai	AR	Ih Tamir				
+MN	65207	Asait	Arhangai	AR	Jargalant				
+MN	65203	Bayantsagaan	Arhangai	AR	Jargalant				
+MN	65205	Erdene uul	Arhangai	AR	Jargalant				
+MN	65209	Hoolt	Arhangai	AR	Jargalant				
+MN	65201	Zuslan	Arhangai	AR	Jargalant				
+MN	65233	Altaid	Arhangai	AR	Tariat				
+MN	65235	Buuruljyyt	Arhangai	AR	Tariat				
+MN	65237	Horgo	Arhangai	AR	Tariat				
+MN	65231	Murun	Arhangai	AR	Tariat				
+MN	65243	Suman	Arhangai	AR	Tariat				
+MN	65241	Terh	Arhangai	AR	Tariat				
+MN	65239	Tsagaannuur	Arhangai	AR	Tariat				
+MN	65275	Bayangol	Arhangai	AR	Tsahir				
+MN	65273	Han Uul	Arhangai	AR	Tsahir				
+MN	65271	Tsahir	Arhangai	AR	Tsahir				
+MN	65085	Altan Ovoo	Arhangai	AR	Tsenher				
+MN	65081	Builan	Arhangai	AR	Tsenher				
+MN	65091	Orhon	Arhangai	AR	Tsenher				
+MN	65083	Tamir	Arhangai	AR	Tsenher				
+MN	65087	Tsenher	Arhangai	AR	Tsenher				
+MN	65089	Tsetserleg	Arhangai	AR	Tsenher				
+MN	65199	Chuluut	Arhangai	AR	Tsetserleg				
+MN	65191	Hongorj	Arhangai	AR	Tsetserleg				
+MN	65195	Hujirt	Arhangai	AR	Tsetserleg				
+MN	65193	Ih Bulag	Arhangai	AR	Tsetserleg				
+MN	65197	Tuulant	Arhangai	AR	Tsetserleg				
+MN	65071	Bayan Undur	Arhangai	AR	Tuvshryyleh				
+MN	65075	Erdenetolgoi	Arhangai	AR	Tuvshryyleh				
+MN	65073	Jaarai	Arhangai	AR	Tuvshryyleh				
+MN	65077	Surt	Arhangai	AR	Tuvshryyleh				
+MN	65027	Doit	Arhangai	AR	Ugiinuur				
+MN	65021	Orhon	Arhangai	AR	Ugiinuur				
+MN	65029	Togloh	Arhangai	AR	Ugiinuur				
+MN	65023	Ugii	Arhangai	AR	Ugiinuur				
+MN	65025	Zegstei	Arhangai	AR	Ugiinuur				
+MN	65037	Baishir	Arhangai	AR	Ulziit				
+MN	65035	Bodont	Arhangai	AR	Ulziit				
+MN	65033	Hushuut	Arhangai	AR	Ulziit				
+MN	65031	Yumaat	Arhangai	AR	Ulziit				
+MN	65215	Azarga	Arhangai	AR	Undur Ulaan				
+MN	65219	Belhi	Arhangai	AR	Undur Ulaan				
+MN	65213	Dongoi	Arhangai	AR	Undur Ulaan				
+MN	65211	Hanui	Arhangai	AR	Undur Ulaan				
+MN	65217	Teel	Arhangai	AR	Undur Ulaan				
+MN	64163	Bayanbulag	Bayunhongor	BH	Baatsagaan				
+MN	64157	Bayansair	Bayunhongor	BH	Baatsagaan				
+MN	64161	Huh Byrd	Bayunhongor	BH	Baatsagaan				
+MN	64153	Norovlin	Bayunhongor	BH	Baatsagaan				
+MN	64159	Sonor	Bayunhongor	BH	Baatsagaan				
+MN	64155	Sumin tuv	Bayunhongor	BH	Baatsagaan				
+MN	64151	Tsorj	Bayunhongor	BH	Baatsagaan				
+MN	64265	Byrd	Bayunhongor	BH	Bayunbulag				
+MN	64261	Hangal	Bayunhongor	BH	Bayunbulag				
+MN	64263	Jargalant	Bayunhongor	BH	Bayunbulag				
+MN	64267	Sangiin dalai	Bayunhongor	BH	Bayunbulag				
+MN	64133	Heltgii bulag	Bayunhongor	BH	Bayungovi				
+MN	64139	Tsoohor	Bayunhongor	BH	Bayungovi				
+MN	64135	Urgun	Bayunhongor	BH	Bayungovi				
+MN	64137	Urht	Bayunhongor	BH	Bayungovi				
+MN	64141	Zalaa	Bayunhongor	BH	Bayungovi				
+MN	64103		Bayunhongor	BH	Duursah				
+MN	64091		Bayunhongor	BH	Erdenemandal				
+MN	64105		Bayunhongor	BH	Gegeen shavi				
+MN	64101		Bayunhongor	BH	Nomgon				
+MN	64093		Bayunhongor	BH	Shargaljuut				
+MN	64095		Bayunhongor	BH	Tsagaanchuluut				
+MN	64097		Bayunhongor	BH	Tsahir				
+MN	64099		Bayunhongor	BH	Ugalz				
+MN	64011	Baga bayan	Bayunhongor	BH	Bayunlig				
+MN	64015	Bayan Aarag	Bayunhongor	BH	Bayunlig				
+MN	64013	Halbagant	Bayunhongor	BH	Bayunlig				
+MN	64017	Hatan suudal	Bayunhongor	BH	Bayunlig				
+MN	64019	Ih bayan	Bayunhongor	BH	Bayunlig				
+MN	64213	Bayanbulag	Bayunhongor	BH	Bayuntsagaan				
+MN	64217	Delgereh	Bayunhongor	BH	Bayuntsagaan				
+MN	64219	Gichgene	Bayunhongor	BH	Bayuntsagaan				
+MN	64215	Jargalant	Bayunhongor	BH	Bayuntsagaan				
+MN	64211	Tsetsen	Bayunhongor	BH	Bayuntsagaan				
+MN	64081	Asgamba	Bayunhongor	BH	Bayun Ovoo				
+MN	64085	Huh Burd	Bayunhongor	BH	Bayun Ovoo				
+MN	64083	Mandal hairhan	Bayunhongor	BH	Bayun Ovoo				
+MN	64087	Uran hairhan	Bayunhongor	BH	Bayun Ovoo				
+MN	64253	Bulgan	Bayunhongor	BH	Bayun Undur				
+MN	64251	Elgen	Bayunhongor	BH	Bayun Undur				
+MN	64255	Ulaan yzyyr	Bayunhongor	BH	Bayun Undur				
+MN	64059	Buyant	Bayunhongor	BH	Bogd				
+MN	64061	Dalan tyryy	Bayunhongor	BH	Bogd				
+MN	64057	Horiult	Bayunhongor	BH	Bogd				
+MN	64055	Huuvur	Bayunhongor	BH	Bogd				
+MN	64053	Luugar	Bayunhongor	BH	Bogd				
+MN	64051	Tselger	Bayunhongor	BH	Bogd				
+MN	64177	Hotin bulan	Bayunhongor	BH	Bumbugur				
+MN	64171	Huh tolgoi	Bayunhongor	BH	Bumbugur				
+MN	64173	Ulaan sair	Bayunhongor	BH	Bumbugur				
+MN	64175	Zadgai	Bayunhongor	BH	Bumbugur				
+MN	64227	Bayan	Bayunhongor	BH	Buutsagaan				
+MN	64221	Bayanbyrd	Bayunhongor	BH	Buutsagaan				
+MN	64223	Naran	Bayunhongor	BH	Buutsagaan				
+MN	64225	Temeet	Bayunhongor	BH	Buutsagaan				
+MN	64229	Ulziit	Bayunhongor	BH	Buutsagaan				
+MN	64021	Janjin	Bayunhongor	BH	Erdenetsogt				
+MN	64029	Senjit	Bayunhongor	BH	Erdenetsogt				
+MN	64025	Tsagaan denj	Bayunhongor	BH	Erdenetsogt				
+MN	64023	Uvgunjargalant	Bayunhongor	BH	Erdenetsogt				
+MN	64027	Yumaat	Bayunhongor	BH	Erdenetsogt				
+MN	64115	Bayan hoshuu	Bayunhongor	BH	Galuut				
+MN	64119	Bayannuur	Bayunhongor	BH	Galuut				
+MN	64111	Hairhan	Bayunhongor	BH	Galuut				
+MN	64117	Mandal	Bayunhongor	BH	Galuut				
+MN	64113	Symber	Bayunhongor	BH	Galuut				
+MN	64121	Ynegt	Bayunhongor	BH	Galuut				
+MN	64233	Buga	Bayunhongor	BH	Gurvanbulag				
+MN	64231	Davaani am	Bayunhongor	BH	Gurvanbulag				
+MN	64235	Huviin am	Bayunhongor	BH	Gurvanbulag				
+MN	64239	Pioner tolgoi	Bayunhongor	BH	Gurvanbulag				
+MN	64237	Tsengel	Bayunhongor	BH	Gurvanbulag				
+MN	64245	Delger murun	Bayunhongor	BH	Hyreemaral				
+MN	64241	Huh byrd	Bayunhongor	BH	Hyreemaral				
+MN	64247	Norovlin	Bayunhongor	BH	Hyreemaral				
+MN	64249	Sonor	Bayunhongor	BH	Hyreemaral				
+MN	64243	Tsorj	Bayunhongor	BH	Hyreemaral				
+MN	64185	Emeeltolgoi	Bayunhongor	BH	Jargalant				
+MN	64183	Hundlun bulag	Bayunhongor	BH	Jargalant				
+MN	64181	Nam tolgoi	Bayunhongor	BH	Jargalant				
+MN	64187	Ulziit undur	Bayunhongor	BH	Jargalant				
+MN	64073	Bodi	Bayunhongor	BH	Jinst				
+MN	64077	Hunug	Bayunhongor	BH	Jinst				
+MN	64075	Hyis	Bayunhongor	BH	Jinst				
+MN	64071	Tsagaan us	Bayunhongor	BH	Jinst				
+MN	64079	Uu bulan	Bayunhongor	BH	Jinst				
+MN	64197	Ehen havtsgai	Bayunhongor	BH	Shinejinst				
+MN	64191	Erdeneshand	Bayunhongor	BH	Shinejinst				
+MN	64195	Urtin gol	Bayunhongor	BH	Shinejinst				
+MN	64193	Zaraa	Bayunhongor	BH	Shinejinst				
+MN	64037	Bain am	Bayunhongor	BH	Ulziit				
+MN	64035	Biir	Bayunhongor	BH	Ulziit				
+MN	64041	Burhant	Bayunhongor	BH	Ulziit				
+MN	64031	Elin am	Bayunhongor	BH	Ulziit				
+MN	64033	Hudag urt	Bayunhongor	BH	Ulziit				
+MN	64039	Ulaan uul	Bayunhongor	BH	Ulziit				
+MN	64205	Bayan bulag	Bayunhongor	BH	Zag				
+MN	64207	Bayan Ulaan	Bayunhongor	BH	Zag				
+MN	64201	CHandmani Ovoo	Bayunhongor	BH	Zag				
+MN	64203	Zalaa Ovoo	Bayunhongor	BH	Zag				
+MN	83153	Bardam	Bayun Ulgii	BO	Altai				
+MN	83155	Chihertei	Bayun Ulgii	BO	Altai				
+MN	83157	Har nuur	Bayun Ulgii	BO	Altai				
+MN	83151	Ulaan had	Bayun Ulgii	BO	Altai				
+MN	83045	Bayanbulag	Bayun Ulgii	BO	Altantsugts				
+MN	83047	Hash	Bayun Ulgii	BO	Altantsugts				
+MN	83041	Tsagaantunge	Bayun Ulgii	BO	Altantsugts				
+MN	83043	Ulaanhargana	Bayun Ulgii	BO	Altantsugts				
+MN	83033	Bayannuur	Bayun Ulgii	BO	Bayunnuur				
+MN	83031	Shar Tsehee	Bayun Ulgii	BO	Bayunnuur				
+MN	83037	Tsagaan Aral	Bayun Ulgii	BO	Bayunnuur				
+MN	83035	Tsetsegt	Bayun Ulgii	BO	Bayunnuur				
+MN	83039	Tsul Ulaan	Bayun Ulgii	BO	Bayunnuur				
+MN	83053	Bugat	Bayun Ulgii	BO	Bugat				
+MN	83057	Bugiin gol	Bayun Ulgii	BO	Bugat				
+MN	83051	Hatuu	Bayun Ulgii	BO	Bugat				
+MN	83055	Ulaantolgoi	Bayun Ulgii	BO	Bugat				
+MN	83015	Bulgan	Bayun Ulgii	BO	Bulgan				
+MN	83019	Hujirt	Bayun Ulgii	BO	Bulgan				
+MN	83021	Jargalant	Bayun Ulgii	BO	Bulgan				
+MN	83023	Saihan	Bayun Ulgii	BO	Bulgan				
+MN	83013	Sunhul	Bayun Ulgii	BO	Bulgan				
+MN	83017	Ulaagchin	Bayun Ulgii	BO	Bulgan				
+MN	83011	Ulaan hus	Bayun Ulgii	BO	Bulgan				
+MN	83141	Huh ereg	Bayun Ulgii	BO	Buyunt				
+MN	83143	Hultsuut	Bayun Ulgii	BO	Buyunt				
+MN	83147	Shar tohoit	Bayun Ulgii	BO	Buyunt				
+MN	83145	Umnugol	Bayun Ulgii	BO	Buyunt				
+MN	83075	Angirlag buyu Saralhaz	Bayun Ulgii	BO	Delyyn				
+MN	83069	Bugat	Bayun Ulgii	BO	Delyyn				
+MN	83063	Byrged	Bayun Ulgii	BO	Delyyn				
+MN	83077	CHihertei	Bayun Ulgii	BO	Delyyn				
+MN	83073	Gants mod	Bayun Ulgii	BO	Delyyn				
+MN	83071	Har-Uul	Bayun Ulgii	BO	Delyyn				
+MN	83065	Huhtolgoi	Bayun Ulgii	BO	Delyyn				
+MN	83067	Hyiten nuur	Bayun Ulgii	BO	Delyyn				
+MN	83079	Tal nuur	Bayun Ulgii	BO	Delyyn				
+MN	83061	Tuviin bag	Bayun Ulgii	BO	Delyyn				
+MN	83111	Asgat	Bayun Ulgii	BO	Nogoonnuur				
+MN	83109	Bahlag	Bayun Ulgii	BO	Nogoonnuur				
+MN	83103	CHihtei	Bayun Ulgii	BO	Nogoonnuur				
+MN	83115	Hizilhain	Bayun Ulgii	BO	Nogoonnuur				
+MN	83105	Hoshargai	Bayun Ulgii	BO	Nogoonnuur				
+MN	83101	Hovd	Bayun Ulgii	BO	Nogoonnuur				
+MN	83113	Tsagaannuur tosgon	Bayun Ulgii	BO	Nogoonnuur				
+MN	83107	Yumaat	Bayun Ulgii	BO	Nogoonnuur				
+MN	83165	Ahhorim	Bayun Ulgii	BO	Sagsai				
+MN	83169	Hag	Bayun Ulgii	BO	Sagsai				
+MN	83161	Hol Agash	Bayun Ulgii	BO	Sagsai				
+MN	83167	Uujim	Bayun Ulgii	BO	Sagsai				
+MN	83163	Yamaat	Bayun Ulgii	BO	Sagsai				
+MN	83081	Buraat	Bayun Ulgii	BO	Tolbo				
+MN	83083	Duruu nuur	Bayun Ulgii	BO	Tolbo				
+MN	83091	Hongor Ulun	Bayun Ulgii	BO	Tolbo				
+MN	83085	Hosh	Bayun Ulgii	BO	Tolbo				
+MN	83087	Huh tolgoi	Bayun Ulgii	BO	Tolbo				
+MN	83089	Tolbo nuur	Bayun Ulgii	BO	Tolbo				
+MN	83197	Borburgas	Bayun Ulgii	BO	Tsengel				
+MN	83205	Doloon Gatalga	Bayun Ulgii	BO	Tsengel				
+MN	83191	Harganat	Bayun Ulgii	BO	Tsengel				
+MN	83193	Hushuut	Bayun Ulgii	BO	Tsengel				
+MN	83207	Partizan	Bayun Ulgii	BO	Tsengel				
+MN	83203	Shar govi	Bayun Ulgii	BO	Tsengel				
+MN	83201	Tsagaan gol	Bayun Ulgii	BO	Tsengel				
+MN	83195	Tsagaantynge	Bayun Ulgii	BO	Tsengel				
+MN	83199	Zagast nuur	Bayun Ulgii	BO	Tsengel				
+MN	83175	Bayanzyrh	Bayun Ulgii	BO	Ulaanhus				
+MN	83171	Bilyy-1	Bayun Ulgii	BO	Ulaanhus				
+MN	83181	Bilyy-2	Bayun Ulgii	BO	Ulaanhus				
+MN	83183	Dayan	Bayun Ulgii	BO	Ulaanhus				
+MN	83177	Huh hutul	Bayun Ulgii	BO	Ulaanhus				
+MN	83179	Huljaa	Bayun Ulgii	BO	Ulaanhus				
+MN	83185	Ih - Oigor	Bayun Ulgii	BO	Ulaanhus				
+MN	83173	Sogoog	Bayun Ulgii	BO	Ulaanhus				
+MN	83125	Buhiin tal	Bayun Ulgii	BO	Ulgii				
+MN	83135	Hotgor	Bayun Ulgii	BO	Ulgii				
+MN	83129	Hovd gol	Bayun Ulgii	BO	Ulgii				
+MN	83137	Huh had	Bayun Ulgii	BO	Ulgii				
+MN	83133	Huh tuv	Bayun Ulgii	BO	Ulgii				
+MN	83131	Hust ahnur	Bayun Ulgii	BO	Ulgii				
+MN	83121	Hust aral	Bayun Ulgii	BO	Ulgii				
+MN	83127	Ih Bulan	Bayun Ulgii	BO	Ulgii				
+MN	83123	Tsagaan ereg	Bayun Ulgii	BO	Ulgii				
+MN	63013	Shar tal	Bulgan	BU	Bayunnuur				
+MN	63011	Ulziit	Bulgan	BU	Bayunnuur				
+MN	63187	Bayanhairhan	Bulgan	BU	Bayun Agt				
+MN	63189	Bayanzyrh	Bulgan	BU	Bayun Agt				
+MN	63181	Dulaanhaan	Bulgan	BU	Bayun Agt				
+MN	63183	Haltar	Bulgan	BU	Bayun Agt				
+MN	63185	Hyremt	Bulgan	BU	Bayun Agt				
+MN	63191	Sharga	Bulgan	BU	Bayun Agt				
+MN	63093	Bayantugul	Bulgan	BU	Bugat				
+MN	63091	Bugat	Bulgan	BU	Bugat				
+MN	63095	Hanjargalant	Bulgan	BU	Bugat				
+MN	63085		Bulgan	BU	Achuut				
+MN	63081		Bulgan	BU	Aguit				
+MN	63087		Bulgan	BU	Hujirt				
+MN	63083		Bulgan	BU	Rashaant				
+MN	63057	Bumbat	Bulgan	BU	Byreghangai				
+MN	63055	Darhan	Bulgan	BU	Byreghangai				
+MN	63051	Derst	Bulgan	BU	Byreghangai				
+MN	63053	Tsaht	Bulgan	BU	Byreghangai				
+MN	63063	Dorgont	Bulgan	BU	Dashinchilen				
+MN	63061	Haraat	Bulgan	BU	Dashinchilen				
+MN	63067	Lah	Bulgan	BU	Dashinchilen				
+MN	63065	Tuv	Bulgan	BU	Dashinchilen				
+MN	63123	Agit	Bulgan	BU	Gurvanbulag				
+MN	63127	Avzaga	Bulgan	BU	Gurvanbulag				
+MN	63129	Berh	Bulgan	BU	Gurvanbulag				
+MN	63121	Hugnu	Bulgan	BU	Gurvanbulag				
+MN	63125	Hulst	Bulgan	BU	Gurvanbulag				
+MN	63131	Togoo	Bulgan	BU	Gurvanbulag				
+MN	63037		Bulgan	BU	Hangal				
+MN	63035		Bulgan	BU	Hyalganat				
+MN	63033		Bulgan	BU	Sumin tuv				
+MN	63031		Bulgan	BU	Surt				
+MN	63111	Banzar	Bulgan	BU	Hishig Undur				
+MN	63113	Hyremt	Bulgan	BU	Hishig Undur				
+MN	63117	Jargalant	Bulgan	BU	Hishig Undur				
+MN	63115	Maanit	Bulgan	BU	Hishig Undur				
+MN	63119	Teeg	Bulgan	BU	Hishig Undur				
+MN	63141	Hantai	Bulgan	BU	Hutag Undur				
+MN	63143	Hongor	Bulgan	BU	Hutag Undur				
+MN	63145	Sumin tuv	Bulgan	BU	Hutag Undur				
+MN	63149	Teel	Bulgan	BU	Hutag Undur				
+MN	63147	Unit	Bulgan	BU	Hutag Undur				
+MN	63151	Bayangol	Bulgan	BU	Mogod				
+MN	63153	Bayan Uul	Bulgan	BU	Mogod				
+MN	63157	Bayasgalant	Bulgan	BU	Mogod				
+MN	63155	Erht	Bulgan	BU	Mogod				
+MN	63159	Jargalant	Bulgan	BU	Mogod				
+MN	63047	Ar bulag	Bulgan	BU	Orhon				
+MN	63049	Byht	Bulgan	BU	Orhon				
+MN	63041	Haliun	Bulgan	BU	Orhon				
+MN	63043	Maanit	Bulgan	BU	Orhon				
+MN	63045	Sumin tuv	Bulgan	BU	Orhon				
+MN	63073	Har chuluut	Bulgan	BU	Rashaant				
+MN	63075	Hugnu Han	Bulgan	BU	Rashaant				
+MN	63071	Ulaan SHiveet	Bulgan	BU	Rashaant				
+MN	63171	Hulij	Bulgan	BU	Saihan				
+MN	63163	Hyremt	Bulgan	BU	Saihan				
+MN	63167	Manuult	Bulgan	BU	Saihan				
+MN	63169	Saihan Ovoo	Bulgan	BU	Saihan				
+MN	63165	Ugalz	Bulgan	BU	Saihan				
+MN	63161	Undrah	Bulgan	BU	Saihan				
+MN	63025	Inget	Bulgan	BU	Selenge				
+MN	63021	Sangaltai	Bulgan	BU	Selenge				
+MN	63023	Selenge	Bulgan	BU	Selenge				
+MN	63027	Taraihtai	Bulgan	BU	Selenge				
+MN	63029	Tarimal	Bulgan	BU	Selenge				
+MN	63109	Dalan	Bulgan	BU	Teshig				
+MN	63103	Eren	Bulgan	BU	Teshig				
+MN	63107	Hargal	Bulgan	BU	Teshig				
+MN	63101	Hujirt	Bulgan	BU	Teshig				
+MN	63105	Jargalant	Bulgan	BU	Teshig				
+MN	45041	Darhan	Darhan Uul	DA	Darhan Darhan Uul				
+MN	45025	Buural	Darhan Uul	DA	Hongor				
+MN	45023	Buurt	Darhan Uul	DA	Hongor				
+MN	45021	Salhit	Darhan Uul	DA	Hongor				
+MN	45033	Bayan Ulziit	Darhan Uul	DA	Darhan Darhan Uul				
+MN	45031	Enhtal	Darhan Uul	DA	Darhan Darhan Uul				
+MN	45013	Darhan	Darhan Uul	DA	Sharin Gol				
+MN	45015	Hairhan	Darhan Uul	DA	Sharin Gol				
+MN	45011	Sanjint	Darhan Uul	DA	Sharin Gol				
+MN	21121	Hairhan	Dornod	DD	Bayundun				
+MN	21127	Naran	Dornod	DD	Bayundun				
+MN	21125	Tyrgen	Dornod	DD	Bayundun				
+MN	21123	Yurgai	Dornod	DD	Bayundun				
+MN	21051	Jargalant	Dornod	DD	Bayuntymen				
+MN	21055	Tsagaan ders	Dornod	DD	Bayuntymen				
+MN	21053	Ulziit	Dornod	DD	Bayuntymen				
+MN	21169	Berh	Dornod	DD	Bayun Uul				
+MN	21161	Bityygiin adag	Dornod	DD	Bayun Uul				
+MN	21163	Har chuluut	Dornod	DD	Bayun Uul				
+MN	21167	Javart hoshuu	Dornod	DD	Bayun Uul				
+MN	21171	Urtin adag	Dornod	DD	Bayun Uul				
+MN	21165	Uvur ereen	Dornod	DD	Bayun Uul				
+MN	21091		Dornod	DD	Bayan-Uul				
+MN	21093		Dornod	DD	Hulsan shand				
+MN	21095		Dornod	DD	Undur hoshuu				
+MN	21041	Enger shand	Dornod	DD	Choibalsan				
+MN	21043	Hulstai	Dornod	DD	Choibalsan				
+MN	21045	Symber	Dornod	DD	Choibalsan				
+MN	21033	Delger	Dornod	DD	Chuluunhoroot				
+MN	21035	Galuut	Dornod	DD	Chuluunhoroot				
+MN	21031	Tsagaanchuluut	Dornod	DD	Chuluunhoroot				
+MN	21101	CHuh nomint	Dornod	DD	Dashbalbar				
+MN	21107	Harzat	Dornod	DD	Dashbalbar				
+MN	21105	Sevsyyl Jaraahai	Dornod	DD	Dashbalbar				
+MN	21103	Ulz	Dornod	DD	Dashbalbar				
+MN	21081	Rashaant	Dornod	DD	Gurvanzagal				
+MN	21083	Tsagaan hoshuu	Dornod	DD	Gurvanzagal				
+MN	21011	Symber	Dornod	DD	Halhgol				
+MN	21015	Tashgai	Dornod	DD	Halhgol				
+MN	21013	Yulalt	Dornod	DD	Halhgol				
+MN	21061	Herlen	Dornod	DD	Herlen				
+MN	21153	Bathaan	Dornod	DD	Hulunbuir				
+MN	21151	Bayan	Dornod	DD	Hulunbuir				
+MN	21025	Bayanhangai	Dornod	DD	Matad				
+MN	21023	Buyan Undur	Dornod	DD	Matad				
+MN	21027	Jargalant	Dornod	DD	Matad				
+MN	21021	Tymenhaan	Dornod	DD	Matad				
+MN	21117	Barchin	Dornod	DD	Sergelen				
+MN	21115	Bayan	Dornod	DD	Sergelen				
+MN	21113	Galin gol	Dornod	DD	Sergelen				
+MN	21119	Hurgan	Dornod	DD	Sergelen				
+MN	21111	Ochirhyree	Dornod	DD	Sergelen				
+MN	21135	Bayangol	Dornod	DD	Tsagaan Ovoo				
+MN	21141	Elst	Dornod	DD	Tsagaan Ovoo				
+MN	21139	Gyn tsengeleg	Dornod	DD	Tsagaan Ovoo				
+MN	21137	Huuvur	Dornod	DD	Tsagaan Ovoo				
+MN	21133	Hyreet	Dornod	DD	Tsagaan Ovoo				
+MN	21131	Zyrh	Dornod	DD	Tsagaan Ovoo				
+MN	44127	Nard	Dornogovi	DG	Airag				
+MN	44123	Nyden	Dornogovi	DG	Airag				
+MN	44121	Sain us	Dornogovi	DG	Airag				
+MN	44125	Tsagaan durvulj	Dornogovi	DG	Airag				
+MN	44075	CHuluun gishger	Dornogovi	DG	Altanshiree				
+MN	44077	Hayaa	Dornogovi	DG	Altanshiree				
+MN	44073	Toig	Dornogovi	DG	Altanshiree				
+MN	44071	Zaraa	Dornogovi	DG	Altanshiree				
+MN	44137	Bichigt	Dornogovi	DG	Dalanjargalan				
+MN	44135	Eldew	Dornogovi	DG	Dalanjargalan				
+MN	44133	Tsomog	Dornogovi	DG	Dalanjargalan				
+MN	44131	Ungut	Dornogovi	DG	Dalanjargalan				
+MN	44041	Amanshand	Dornogovi	DG	Delgereh				
+MN	44043	Bumbat	Dornogovi	DG	Delgereh				
+MN	44045	Hongor	Dornogovi	DG	Delgereh				
+MN	44047	Tsagaanhad	Dornogovi	DG	Delgereh				
+MN	44029	Byrdene	Dornogovi	DG	Erdene				
+MN	44021	Durvulj	Dornogovi	DG	Erdene				
+MN	44023	Enshuuv	Dornogovi	DG	Erdene				
+MN	44027	Tsagaan hutul	Dornogovi	DG	Erdene				
+MN	44025	Ulaan uul	Dornogovi	DG	Erdene				
+MN	44089	Agaruut	Dornogovi	DG	Hatanbulag				
+MN	44085	Aman us	Dornogovi	DG	Hatanbulag				
+MN	44087	Ergel	Dornogovi	DG	Hatanbulag				
+MN	44081	Haliv	Dornogovi	DG	Hatanbulag				
+MN	44083	Sulinheer	Dornogovi	DG	Hatanbulag				
+MN	44067		Dornogovi	DG	Chuluut				
+MN	44065		Dornogovi	DG	Elst				
+MN	44063		Dornogovi	DG	Huvsgul				
+MN	44061		Dornogovi	DG	Javhlant				
+MN	44091	Bayan	Dornogovi	DG	Ihhet				
+MN	44095	Byrdene	Dornogovi	DG	Ihhet				
+MN	44093	Zylegt	Dornogovi	DG	Ihhet				
+MN	44143	Alhan teeg	Dornogovi	DG	Mandah				
+MN	44149	Bayanhoshuu	Dornogovi	DG	Mandah				
+MN	44141	Serven bayan hoshuu	Dornogovi	DG	Mandah				
+MN	44147	Tuhum	Dornogovi	DG	Mandah				
+MN	44145	Uehii	Dornogovi	DG	Mandah				
+MN	44115	Jargalant	Dornogovi	DG	Saihandulaan				
+MN	44113	Tsohio	Dornogovi	DG	Saihandulaan				
+MN	44111	Ulaan shoroot	Dornogovi	DG	Saihandulaan				
+MN	44117	Ulziit	Dornogovi	DG	Saihandulaan				
+MN	44101	Sainshand	Dornogovi	DG	Sainshand				
+MN	44057	Argalant	Dornogovi	DG	Ulaanbadrah				
+MN	44051	Bayanbogd	Dornogovi	DG	Ulaanbadrah				
+MN	44055	Nyden	Dornogovi	DG	Ulaanbadrah				
+MN	44053	Sangiin dalai	Dornogovi	DG	Ulaanbadrah				
+MN	44033	Bayanmunh	Dornogovi	DG	Urgun				
+MN	44035	Senj	Dornogovi	DG	Urgun				
+MN	44037	Sumiin bulag	Dornogovi	DG	Urgun				
+MN	44031	Symber	Dornogovi	DG	Urgun				
+MN	44011	Zamin-Yyd	Dornogovi	DG	Zamin Yyd				
+MN	48145	Ar urt	Dundgovi	DU	Adaatsag				
+MN	48149	Hashaat	Dundgovi	DU	Adaatsag				
+MN	48147	Sym	Dundgovi	DU	Adaatsag				
+MN	48143	Tavin	Dundgovi	DU	Adaatsag				
+MN	48141	Uvur urt	Dundgovi	DU	Adaatsag				
+MN	48023	Enger us	Dundgovi	DU	Bayunjargalan				
+MN	48021	Shiliin gol	Dundgovi	DU	Bayunjargalan				
+MN	48175	Ar shavagtai	Dundgovi	DU	Delgerhangai				
+MN	48173	Sumin tuv	Dundgovi	DU	Delgerhangai				
+MN	48177	Taragt	Dundgovi	DU	Delgerhangai				
+MN	48171	Toli	Dundgovi	DU	Delgerhangai				
+MN	48115	Bayanbulag	Dundgovi	DU	Delgertsogt				
+MN	48111	Delger Emt	Dundgovi	DU	Delgertsogt				
+MN	48113	Tsahiurt	Dundgovi	DU	Delgertsogt				
+MN	48085	Alag Undur	Dundgovi	DU	Deren				
+MN	48081	Bumbat	Dundgovi	DU	Deren				
+MN	48083	Dolood	Dundgovi	DU	Deren				
+MN	48087	Saruul	Dundgovi	DU	Deren				
+MN	48151	Rashaant	Dundgovi	DU	Erdenedalai				
+MN	48155	Sangiin dalai	Dundgovi	DU	Erdenedalai				
+MN	48157	Sumin tuv	Dundgovi	DU	Erdenedalai				
+MN	48159	Tengeleg	Dundgovi	DU	Erdenedalai				
+MN	48153	Tsagaan ovoo	Dundgovi	DU	Erdenedalai				
+MN	48161	Tsavchir	Dundgovi	DU	Erdenedalai				
+MN	48163	Ungut	Dundgovi	DU	Erdenedalai				
+MN	48075	Ajirhai	Dundgovi	DU	Govi Ugtaal				
+MN	48071	Hongor	Dundgovi	DU	Govi Ugtaal				
+MN	48073	Morit	Dundgovi	DU	Govi Ugtaal				
+MN	48067	Chuluut	Dundgovi	DU	Gurvansaihan				
+MN	48069	Dersene us	Dundgovi	DU	Gurvansaihan				
+MN	48061	Elgen	Dundgovi	DU	Gurvansaihan				
+MN	48063	Gurvansaihan	Dundgovi	DU	Gurvansaihan				
+MN	48065	Suugaant	Dundgovi	DU	Gurvansaihan				
+MN	48137	Byleen	Dundgovi	DU	Huld				
+MN	48133	Oldoh	Dundgovi	DU	Huld				
+MN	48131	Shuvuutai	Dundgovi	DU	Huld				
+MN	48135	Uul	Dundgovi	DU	Huld				
+MN	48121	Naran	Dundgovi	DU	Luus				
+MN	48123	Suvarga	Dundgovi	DU	Luus				
+MN	48187	Maanit	Dundgovi	DU	Saihan Ovoo				
+MN	48183	Naiz	Dundgovi	DU	Saihan Ovoo				
+MN	48185	Ongi	Dundgovi	DU	Saihan Ovoo				
+MN	48181	Tugrug	Dundgovi	DU	Saihan Ovoo				
+MN	48095	Airag	Dundgovi	DU	Saintsagaan				
+MN	48093	Borjigon	Dundgovi	DU	Saintsagaan				
+MN	48091	Dalai	Dundgovi	DU	Saintsagaan				
+MN	48097	Mandal	Dundgovi	DU	Saintsagaan				
+MN	48107	Naran	Dundgovi	DU	Saintsagaan				
+MN	48101	Narlag	Dundgovi	DU	Saintsagaan				
+MN	48099	Ravjih	Dundgovi	DU	Saintsagaan				
+MN	48105	Tevsh	Dundgovi	DU	Saintsagaan				
+MN	48103	Yizen	Dundgovi	DU	Saintsagaan				
+MN	48031	Delgereh zam	Dundgovi	DU	Tsagaandelger				
+MN	48037	Haraat	Dundgovi	DU	Tsagaandelger				
+MN	48035	Jargalan	Dundgovi	DU	Tsagaandelger				
+MN	48033	Zamin ulaan	Dundgovi	DU	Tsagaandelger				
+MN	48041	Ulziit	Dundgovi	DU	Ulziit				
+MN	48011	Talin nar	Dundgovi	DU	Undurshil				
+MN	48013	Tsog	Dundgovi	DU	Undurshil				
+MN	42041	Bayuntal	Govisymber	GS	Bayuntal				
+MN	42031	Shiveegovi	Govisymber	GS	Shiveegovi				
+MN	42011	Symber	Govisymber	GS	Symber				
+MN	82135	Badral	Govi Altai	GA	Altai				
+MN	82137	Bayan Ovoo	Govi Altai	GA	Altai				
+MN	82131	Bayantsagaan	Govi Altai	GA	Altai				
+MN	82133	Urt	Govi Altai	GA	Altai				
+MN	82155	Altangadas	Govi Altai	GA	Bayun Uul				
+MN	82153	Bayanbogd	Govi Altai	GA	Bayun Uul				
+MN	82161	Bayangovi	Govi Altai	GA	Bayun Uul				
+MN	82157	Bayanhairhan	Govi Altai	GA	Bayun Uul				
+MN	82151	CHandmanihairhan	Govi Altai	GA	Bayun Uul				
+MN	82159	Hyisiin govi	Govi Altai	GA	Bayun Uul				
+MN	82049	Buudai	Govi Altai	GA	Biger				
+MN	82041	Hyrent	Govi Altai	GA	Biger				
+MN	82043	Myangai	Govi Altai	GA	Biger				
+MN	82047	Olon bulag	Govi Altai	GA	Biger				
+MN	82045	Urtin gol	Govi Altai	GA	Biger				
+MN	82203	Bayangol	Govi Altai	GA	Bugat				
+MN	82207	Bij	Govi Altai	GA	Bugat				
+MN	82209	Ferm	Govi Altai	GA	Bugat				
+MN	82201	Gahanch	Govi Altai	GA	Bugat				
+MN	82205	Syj	Govi Altai	GA	Bugat				
+MN	82021	CHandmani Uul	Govi Altai	GA	Chandmani				
+MN	82023	Erdene Uul	Govi Altai	GA	Chandmani				
+MN	82027	Serh Uul	Govi Altai	GA	Chandmani				
+MN	82025	Ulziibulag	Govi Altai	GA	Chandmani				
+MN	82193	Hujirt	Govi Altai	GA	Darvi				
+MN	82197	Ihes nuur	Govi Altai	GA	Darvi				
+MN	82191	Javhlan	Govi Altai	GA	Darvi				
+MN	82195	Yildver	Govi Altai	GA	Darvi				
+MN	82019	Bayanbuural	Govi Altai	GA	Delger				
+MN	82013	Bayanhongor	Govi Altai	GA	Delger				
+MN	82017	Bayansan	Govi Altai	GA	Delger				
+MN	82011	Bayan Undur	Govi Altai	GA	Delger				
+MN	82015	Guulin	Govi Altai	GA	Delger				
+MN	82037	Sangiin dalai	Govi Altai	GA	Erdene				
+MN	82031	Tsagaan Uul	Govi Altai	GA	Erdene				
+MN	82035	Tsetseg nuur	Govi Altai	GA	Erdene				
+MN	82033	Ulziit	Govi Altai	GA	Erdene				
+MN	82085	Naran	Govi Altai	GA	Esunbulag				
+MN	82089	Rashaant	Govi Altai	GA	Esunbulag				
+MN	82101	CHatsran	Govi Altai	GA	Haliun				
+MN	82103	Gyybariach	Govi Altai	GA	Haliun				
+MN	82107	Olonbulag	Govi Altai	GA	Haliun				
+MN	82105	Syyj	Govi Altai	GA	Haliun				
+MN	82187	Hyisiin govi	Govi Altai	GA	Huhmorit				
+MN	82185	Sain Ust	Govi Altai	GA	Huhmorit				
+MN	82181	Sangiin dalai	Govi Altai	GA	Huhmorit				
+MN	82189	Tsoohor nuur	Govi Altai	GA	Huhmorit				
+MN	82183	Zavhan gol	Govi Altai	GA	Huhmorit				
+MN	82113	Byren	Govi Altai	GA	Jargalan				
+MN	82115	Teel	Govi Altai	GA	Jargalan				
+MN	82111	Zavhan gol	Govi Altai	GA	Jargalan				
+MN	82145	Bayangol	Govi Altai	GA	Sharga				
+MN	82147	Hamtin hych	Govi Altai	GA	Sharga				
+MN	82143	Sonduult	Govi Altai	GA	Sharga				
+MN	82141	Ulaan tug	Govi Altai	GA	Sharga				
+MN	82075	Dalan	Govi Altai	GA	Taishir				
+MN	82073	Galuut	Govi Altai	GA	Taishir				
+MN	82071	Hurimt	Govi Altai	GA	Taishir				
+MN	82215	Altain Orgil	Govi Altai	GA	Tonhil				
+MN	82219	Altansoembo	Govi Altai	GA	Tonhil				
+MN	82211	Bys Uul	Govi Altai	GA	Tonhil				
+MN	82213	Tamch	Govi Altai	GA	Tonhil				
+MN	82217	Zyil	Govi Altai	GA	Tonhil				
+MN	82125	Bayangol	Govi Altai	GA	Tseel				
+MN	82121	Byren	Govi Altai	GA	Tseel				
+MN	82127	Derstei	Govi Altai	GA	Tseel				
+MN	82123	Jargalt	Govi Altai	GA	Tseel				
+MN	82055	Bayantooroi	Govi Altai	GA	Tsogt				
+MN	82063	Bayan-Ulaan	Govi Altai	GA	Tsogt				
+MN	82057	Bayan Undur	Govi Altai	GA	Tsogt				
+MN	82053	Dalan	Govi Altai	GA	Tsogt				
+MN	82051	Gegeet	Govi Altai	GA	Tsogt				
+MN	82059	Rashaant	Govi Altai	GA	Tsogt				
+MN	82061	Tugrug	Govi Altai	GA	Tsogt				
+MN	82171	Hyrengol	Govi Altai	GA	Tugrug				
+MN	82179	Maanit	Govi Altai	GA	Tugrug				
+MN	82177	Tsagaanhairhan	Govi Altai	GA	Tugrug				
+MN	82175	Tugrugiin eh	Govi Altai	GA	Tugrug				
+MN	82173	Tungalag	Govi Altai	GA	Tugrug				
+MN	23041	Bayan	Hentii	HN	Batnorov				
+MN	23045	Bayanbulag	Hentii	HN	Batnorov				
+MN	23047	Berh	Hentii	HN	Batnorov				
+MN	23043	Ehen byrd	Hentii	HN	Batnorov				
+MN	23049	Erdenechandmani	Hentii	HN	Batnorov				
+MN	23053	Idermeg	Hentii	HN	Batnorov				
+MN	23051	Tuviin bag	Hentii	HN	Batnorov				
+MN	23161	Barh	Hentii	HN	Batshireet				
+MN	23163	Hurh	Hentii	HN	Batshireet				
+MN	23165	Norvolin	Hentii	HN	Batshireet				
+MN	23167	Onon	Hentii	HN	Batshireet				
+MN	23177	Bayanbulag	Hentii	HN	Bayunmunh				
+MN	23171	Dulaan	Hentii	HN	Bayunmunh				
+MN	23173	Herlen	Hentii	HN	Bayunmunh				
+MN	23175	Ulaan ereg	Hentii	HN	Bayunmunh				
+MN	23071	Adarga	Hentii	HN	Bayun Adarga				
+MN	23075	Duurlag	Hentii	HN	Bayun Adarga				
+MN	23077	Jargalant	Hentii	HN	Bayun Adarga				
+MN	23073	Saihan	Hentii	HN	Bayun Adarga				
+MN	23061	Jargalant	Hentii	HN	Bayun Hutag				
+MN	23065	Tsantin hooloi	Hentii	HN	Bayun Hutag				
+MN	23063	Ulaan Undur	Hentii	HN	Bayun Hutag				
+MN	23107	Bayangol	Hentii	HN	Binder				
+MN	23103	Bayan Undur	Hentii	HN	Binder				
+MN	23101	Delgerhaan	Hentii	HN	Binder				
+MN	23109	Mandalhaan	Hentii	HN	Binder				
+MN	23105	Onon	Hentii	HN	Binder				
+MN	23031	Agats	Hentii	HN	Dadal				
+MN	23037	Balj	Hentii	HN	Dadal				
+MN	23033	Bayan-Ovoo	Hentii	HN	Dadal				
+MN	23035	Onon	Hentii	HN	Dadal				
+MN	23185	Bor-Undur	Hentii	HN	Darhan				
+MN	23189	Dotuur bulag	Hentii	HN	Darhan				
+MN	23187	Haraat	Hentii	HN	Darhan				
+MN	23183	Mergen hoshuu	Hentii	HN	Darhan				
+MN	23181	Shajin	Hentii	HN	Darhan				
+MN	23203	Avarga	Hentii	HN	Delgerhaan				
+MN	23205	Dolood	Hentii	HN	Delgerhaan				
+MN	23207	Herlenbayan ulaan	Hentii	HN	Delgerhaan				
+MN	23201	Herlen toono	Hentii	HN	Delgerhaan				
+MN	23087	Arvin	Hentii	HN	Galshir				
+MN	23089	Bayanbadral	Hentii	HN	Galshir				
+MN	23085	Buyntbulag	Hentii	HN	Galshir				
+MN	23083	Jargalant	Hentii	HN	Galshir				
+MN	23091	Och	Hentii	HN	Galshir				
+MN	23081	Sangiin dalai	Hentii	HN	Galshir				
+MN	23117	Bayanmunh	Hentii	HN	Herlen				
+MN	23125	Bulag	Hentii	HN	Herlen				
+MN	23123	Herlen	Hentii	HN	Herlen				
+MN	23119	Sarig	Hentii	HN	Herlen				
+MN	23111	Tahilgat	Hentii	HN	Herlen				
+MN	23121	Tsogt-Undur	Hentii	HN	Herlen				
+MN	23115	Ulziit	Hentii	HN	Herlen				
+MN	23113	Undurhaan 5-r bag	Hentii	HN	Herlen				
+MN	23199	Bayan Erdene	Hentii	HN	Jargalthaan				
+MN	23197	Bayantsogt	Hentii	HN	Jargalthaan				
+MN	23193	Chuluut	Hentii	HN	Jargalthaan				
+MN	23191	Gichgene	Hentii	HN	Jargalthaan				
+MN	23195	Tuv	Hentii	HN	Jargalthaan				
+MN	23131	Byreet	Hentii	HN	Murun				
+MN	23135	CHandgan	Hentii	HN	Murun				
+MN	23133	Tsagaan tolgoi	Hentii	HN	Murun				
+MN	23137	Ulziit	Hentii	HN	Murun				
+MN	23139	Zuulun	Hentii	HN	Murun				
+MN	23025	Angirt	Hentii	HN	Norovlin				
+MN	23027	Bayan-Ulziit	Hentii	HN	Norovlin				
+MN	23021	Onon	Hentii	HN	Norovlin				
+MN	23023	Tuv	Hentii	HN	Norovlin				
+MN	23213	Bayanmod	Hentii	HN	Tsenhermandal				
+MN	23211	Hujhan	Hentii	HN	Tsenhermandal				
+MN	23217	Nugaar	Hentii	HN	Tsenhermandal				
+MN	23215	Sogoot	Hentii	HN	Tsenhermandal				
+MN	23151	Bayanzyrh	Hentii	HN	Umnudelger				
+MN	23145	CHandgan	Hentii	HN	Umnudelger				
+MN	23143	Gurvan bayan	Hentii	HN	Umnudelger				
+MN	23147	Hentii	Hentii	HN	Umnudelger				
+MN	23153	Naran	Hentii	HN	Umnudelger				
+MN	23141	Talin bulag	Hentii	HN	Umnudelger				
+MN	23149	Tuv	Hentii	HN	Umnudelger				
+MN	84085	Altangadas	Hovd	HD	Altai				
+MN	84081	Barlag	Hovd	HD	Altai				
+MN	84083	Bodonch	Hovd	HD	Altai				
+MN	84087	Tahilt	Hovd	HD	Altai				
+MN	84221		Hovd	HD	Alagtolgoi				
+MN	84219		Hovd	HD	Baitag				
+MN	84217		Hovd	HD	Bayangol				
+MN	84215		Hovd	HD	Bayansudal				
+MN	84211		Hovd	HD	Byrenhairhan				
+MN	84213		Hovd	HD	Dalt				
+MN	84097	Naranhairhan	Hovd	HD	Buyunt				
+MN	84091	Nariin gol	Hovd	HD	Buyunt				
+MN	84095	Norjinhairhan	Hovd	HD	Buyunt				
+MN	84093	Tsagaan burgas	Hovd	HD	Buyunt				
+MN	84099	Tsagaan ereg	Hovd	HD	Buyunt				
+MN	84039	Bayanhairhan	Hovd	HD	Chandmani				
+MN	84035	Jargalant	Hovd	HD	Chandmani				
+MN	84041	Syljee	Hovd	HD	Chandmani				
+MN	84033	Tahilt	Hovd	HD	Chandmani				
+MN	84031	Talin bulag	Hovd	HD	Chandmani				
+MN	84037	Urd gol	Hovd	HD	Chandmani				
+MN	84011	Bulag	Hovd	HD	Darvi				
+MN	84015	Bulgan	Hovd	HD	Darvi				
+MN	84013	Delger	Hovd	HD	Darvi				
+MN	84017	Mungun ayaga	Hovd	HD	Darvi				
+MN	84019	Murun	Hovd	HD	Darvi				
+MN	84027	Agvash	Hovd	HD	Durgun				
+MN	84021	Argalant	Hovd	HD	Durgun				
+MN	84023	Seer	Hovd	HD	Durgun				
+MN	84025	Uguumur	Hovd	HD	Durgun				
+MN	84203	Bosgo	Hovd	HD	Duut				
+MN	84205	Huh belchir	Hovd	HD	Duut				
+MN	84207	Shiver	Hovd	HD	Duut				
+MN	84201	Tsagaan burgas	Hovd	HD	Duut				
+MN	84183	Bayangol	Hovd	HD	Erdenebyren				
+MN	84181	Har us	Hovd	HD	Erdenebyren				
+MN	84187	Hongio	Hovd	HD	Erdenebyren				
+MN	84189	Namarzan	Hovd	HD	Erdenebyren				
+MN	84185	Shurag	Hovd	HD	Erdenebyren				
+MN	84171	Baruun salaa	Hovd	HD	Hovd				
+MN	84177	Bayanbulag	Hovd	HD	Hovd				
+MN	84175	Dund us	Hovd	HD	Hovd				
+MN	84179	Tsagaanburgas	Hovd	HD	Hovd				
+MN	84173	Ulaanburaa	Hovd	HD	Hovd				
+MN	84163	Alagtolgoi	Hovd	HD	Jargalant				
+MN	84161	Baatarhairhan	Hovd	HD	Jargalant				
+MN	84159	Bichigt	Hovd	HD	Jargalant				
+MN	84157	Bugat	Hovd	HD	Jargalant				
+MN	84155	Buyant	Hovd	HD	Jargalant				
+MN	84143	Hairhan	Hovd	HD	Jargalant				
+MN	84153	Jargalan	Hovd	HD	Jargalant				
+MN	84151	Magsarjav	Hovd	HD	Jargalant				
+MN	84149	Naran	Hovd	HD	Jargalant				
+MN	84147	Rashaant	Hovd	HD	Jargalant				
+MN	84145	Tahilt	Hovd	HD	Jargalant				
+MN	84141	Tsambagarav	Hovd	HD	Jargalant				
+MN	84113	Bayangol	Hovd	HD	Manhan				
+MN	84117	Botgon	Hovd	HD	Manhan				
+MN	84119	Tahilt	Hovd	HD	Manhan				
+MN	84115	Tugrug gol	Hovd	HD	Manhan				
+MN	84121	Ulaan hyree	Hovd	HD	Manhan				
+MN	84111	Zereg gol	Hovd	HD	Manhan				
+MN	84191	Alag	Hovd	HD	Munhhairhan				
+MN	84195	Bort	Hovd	HD	Munhhairhan				
+MN	84197	Hag	Hovd	HD	Munhhairhan				
+MN	84193	Senher	Hovd	HD	Munhhairhan				
+MN	84079	Bayanhairhan	Hovd	HD	Must				
+MN	84077	Davst	Hovd	HD	Must				
+MN	84075	Hujirt	Hovd	HD	Must				
+MN	84073	Tsetseg gol	Hovd	HD	Must				
+MN	84071	Ulaantolgoi	Hovd	HD	Must				
+MN	84101	Bayanbulag	Hovd	HD	Myungad				
+MN	84105	Bayan hoshuu	Hovd	HD	Myungad				
+MN	84107	CHatsargant	Hovd	HD	Myungad				
+MN	84109	Gahait	Hovd	HD	Myungad				
+MN	84103	Tsagaan bulan	Hovd	HD	Myungad				
+MN	84057	Bayangol	Hovd	HD	Tsetseg				
+MN	84059	Bayan Ovoo	Hovd	HD	Tsetseg				
+MN	84051	Hajinga	Hovd	HD	Tsetseg				
+MN	84053	Hushuut	Hovd	HD	Tsetseg				
+MN	84055	Tsetseg nuur	Hovd	HD	Tsetseg				
+MN	84133	Huh yzyyr	Hovd	HD	Yench				
+MN	84137	Jargalan	Hovd	HD	Yench				
+MN	84131	Nariin gol	Hovd	HD	Yench				
+MN	84139	Tsagaantynge	Hovd	HD	Yench				
+MN	84135	Uliast	Hovd	HD	Yench				
+MN	84063	Buraa	Hovd	HD	Zereg				
+MN	84067	Burgasan	Hovd	HD	Zereg				
+MN	84061	Ehen	Hovd	HD	Zereg				
+MN	84069	Gyvee	Hovd	HD	Zereg				
+MN	84065	Hundlun	Hovd	HD	Zereg				
+MN	67143	Hatgal tosgon	Huvsgul	HG	Alag Erdene				
+MN	67147	Manhan	Huvsgul	HG	Alag Erdene				
+MN	67149	Shuvuut	Huvsgul	HG	Alag Erdene				
+MN	67141	Tsagaan burgas	Huvsgul	HG	Alag Erdene				
+MN	67151	Ujig	Huvsgul	HG	Alag Erdene				
+MN	67145	Yurgis	Huvsgul	HG	Alag Erdene				
+MN	67211	Bel bulag	Huvsgul	HG	Arbulag				
+MN	67209	Bor gol	Huvsgul	HG	Arbulag				
+MN	67201	Havtaga	Huvsgul	HG	Arbulag				
+MN	67203	Symber	Huvsgul	HG	Arbulag				
+MN	67207	Targannuur	Huvsgul	HG	Arbulag				
+MN	67205	Urtbulag	Huvsgul	HG	Arbulag				
+MN	67299	Agar	Huvsgul	HG	Bayunzyrh				
+MN	67295	Beltes	Huvsgul	HG	Bayunzyrh				
+MN	67293	Emt	Huvsgul	HG	Bayunzyrh				
+MN	67297	Hais	Huvsgul	HG	Bayunzyrh				
+MN	67291	Toom	Huvsgul	HG	Bayunzyrh				
+MN	67225	Bayanhoshuu	Huvsgul	HG	Byrentogtoh				
+MN	67231	Byrenhaan	Huvsgul	HG	Byrentogtoh				
+MN	67221	Erchim	Huvsgul	HG	Byrentogtoh				
+MN	67227	Ih uul	Huvsgul	HG	Byrentogtoh				
+MN	67229	Sangiin dalai	Huvsgul	HG	Byrentogtoh				
+MN	67223	Tuyaa	Huvsgul	HG	Byrentogtoh				
+MN	67087	Elgos	Huvsgul	HG	Chandmani Undur				
+MN	67083	Huhuu	Huvsgul	HG	Chandmani Undur				
+MN	67081	Shivert	Huvsgul	HG	Chandmani Undur				
+MN	67085	Ulaan asga	Huvsgul	HG	Chandmani Undur				
+MN	67035	Bulgan tal	Huvsgul	HG	Erdenebulgan				
+MN	67039	Buurulj	Huvsgul	HG	Erdenebulgan				
+MN	67037	Duurga	Huvsgul	HG	Erdenebulgan				
+MN	67033	Udgan	Huvsgul	HG	Erdenebulgan				
+MN	67031	Zerleg	Huvsgul	HG	Erdenebulgan				
+MN	67197	Galt	Huvsgul	HG	Galt				
+MN	67193	Hujirt	Huvsgul	HG	Galt				
+MN	67199	Nyht	Huvsgul	HG	Galt				
+MN	67195	Rashaant	Huvsgul	HG	Galt				
+MN	67191	Zyrh	Huvsgul	HG	Galt				
+MN	67075	Horoo	Huvsgul	HG	Hanh				
+MN	67071	Turag	Huvsgul	HG	Hanh				
+MN	67073	Turt (Tuviin bag)	Huvsgul	HG	Hanh				
+MN	67055	Asgat	Huvsgul	HG	Ih Uul				
+MN	67051	Ih-Uul	Huvsgul	HG	Ih Uul				
+MN	67053	Mandal	Huvsgul	HG	Ih Uul				
+MN	67057	Selenge	Huvsgul	HG	Ih Uul				
+MN	67059	Shivee	Huvsgul	HG	Ih Uul				
+MN	67253	Hargana	Huvsgul	HG	Jargalant				
+MN	67255	Orgil	Huvsgul	HG	Jargalant				
+MN	67257	Toi	Huvsgul	HG	Jargalant				
+MN	67251	Tsagaan burgas	Huvsgul	HG	Jargalant				
+MN	67259	Tsetsyyh	Huvsgul	HG	Jargalant				
+MN	67121	Murun	Huvsgul	HG	Murun				
+MN	67063	Enh tal	Huvsgul	HG	Rashaant				
+MN	67061	Ih ats	Huvsgul	HG	Rashaant				
+MN	67069	Talin us	Huvsgul	HG	Rashaant				
+MN	67065	Teel 1 r bag	Huvsgul	HG	Rashaant				
+MN	67067	Tsengel	Huvsgul	HG	Rashaant				
+MN	67171	Dalain zah	Huvsgul	HG	Renchinlhymbe				
+MN	67173	Elt	Huvsgul	HG	Renchinlhymbe				
+MN	67175	Hodon	Huvsgul	HG	Renchinlhymbe				
+MN	67179	Hooloin zah	Huvsgul	HG	Renchinlhymbe				
+MN	67181	Hundii	Huvsgul	HG	Renchinlhymbe				
+MN	67177	Zuulun	Huvsgul	HG	Renchinlhymbe				
+MN	67245	Bayannuur	Huvsgul	HG	Shine Ider				
+MN	67241	Bayan Zyrh	Huvsgul	HG	Shine Ider				
+MN	67243	Nuht	Huvsgul	HG	Shine Ider				
+MN	67247	Sangiin Dalai	Huvsgul	HG	Shine Ider				
+MN	67011	Ar tarhi	Huvsgul	HG	Tarialan				
+MN	67021	Bayanhoshuu	Huvsgul	HG	Tarialan				
+MN	67017	Davaani ar	Huvsgul	HG	Tarialan				
+MN	67015	Mandal	Huvsgul	HG	Tarialan				
+MN	67019	Selenge	Huvsgul	HG	Tarialan				
+MN	67013	Tavan tolgoi	Huvsgul	HG	Tarialan				
+MN	67111	Muhar hundii	Huvsgul	HG	Tosontsengel				
+MN	67113	Selenge	Huvsgul	HG	Tosontsengel				
+MN	67117	Syyl Ulaan	Huvsgul	HG	Tosontsengel				
+MN	67119	Teel	Huvsgul	HG	Tosontsengel				
+MN	67115	Tsengel	Huvsgul	HG	Tosontsengel				
+MN	67261	Tuv	Huvsgul	HG	Tsagaannuur				
+MN	67263	Zuun taiga	Huvsgul	HG	Tsagaannuur				
+MN	67311	Agar	Huvsgul	HG	Tsagaan Uul				
+MN	67309	Hujirt	Huvsgul	HG	Tsagaan Uul				
+MN	67301	Jargalant	Huvsgul	HG	Tsagaan Uul				
+MN	67307	Sharga	Huvsgul	HG	Tsagaan Uul				
+MN	67303	Toson bag	Huvsgul	HG	Tsagaan Uul				
+MN	67305	Uvgud	Huvsgul	HG	Tsagaan Uul				
+MN	67043	Bulgan	Huvsgul	HG	Tsagaan Yyr				
+MN	67047	Darhit	Huvsgul	HG	Tsagaan Yyr				
+MN	67041	Uilgan	Huvsgul	HG	Tsagaan Yyr				
+MN	67045	Yyr	Huvsgul	HG	Tsagaan Yyr				
+MN	67331	Delgerhaan	Huvsgul	HG	Tsetserleg				
+MN	67327	Halban	Huvsgul	HG	Tsetserleg				
+MN	67321	Jargalant	Huvsgul	HG	Tsetserleg				
+MN	67323	Sogoot	Huvsgul	HG	Tsetserleg				
+MN	67325	Uranhairhan buyu Rinchenjugnai	Huvsgul	HG	Tsetserleg				
+MN	67329	Zuun mod	Huvsgul	HG	Tsetserleg				
+MN	67167	Bygdgeen	Huvsgul	HG	Tumurbulag				
+MN	67165	Jargalant	Huvsgul	HG	Tumurbulag				
+MN	67163	Nariin	Huvsgul	HG	Tumurbulag				
+MN	67161	Tariat	Huvsgul	HG	Tumurbulag				
+MN	67169	Teel	Huvsgul	HG	Tumurbulag				
+MN	67101	Altgana	Huvsgul	HG	Tynel				
+MN	67099	Bayan Erhet	Huvsgul	HG	Tynel				
+MN	67097	Biij	Huvsgul	HG	Tynel				
+MN	67095	Bulag	Huvsgul	HG	Tynel				
+MN	67093	Navchiltai	Huvsgul	HG	Tynel				
+MN	67091	Zuni gol	Huvsgul	HG	Tynel				
+MN	67279	Mungarag	Huvsgul	HG	Ulaan Uul				
+MN	67271	Shivleg	Huvsgul	HG	Ulaan Uul				
+MN	67277	Soeo	Huvsgul	HG	Ulaan Uul				
+MN	67273	Toom	Huvsgul	HG	Ulaan Uul				
+MN	67275	Tugul	Huvsgul	HG	Ulaan Uul				
+MN	61040	Bayanbulag	Orhon	ER	Bayun Undur				
+MN	61021	Bayantsagaan	Orhon	ER	Bayun Undur				
+MN	61039	Bulag	Orhon	ER	Bayun Undur				
+MN	61031	Byrenbyst	Orhon	ER	Bayun Undur				
+MN	61037	Denj	Orhon	ER	Bayun Undur				
+MN	61038	Erdene	Orhon	ER	Bayun Undur				
+MN	61023	Govil	Orhon	ER	Bayun Undur				
+MN	61027	Hyrenbulag	Orhon	ER	Bayun Undur				
+MN	61044	Ih zaluu	Orhon	ER	Bayun Undur				
+MN	61045	Malchin	Orhon	ER	Bayun Undur				
+MN	61047	Naran	Orhon	ER	Bayun Undur				
+MN	61025	Ouut	Orhon	ER	Bayun Undur				
+MN	61051	Rashaant	Orhon	ER	Bayun Undur				
+MN	61043	Shand	Orhon	ER	Bayun Undur				
+MN	61035	Sogoot	Orhon	ER	Bayun Undur				
+MN	61041	Tsagaanchuluut	Orhon	ER	Bayun Undur				
+MN	61033	Urtbulag	Orhon	ER	Bayun Undur				
+MN	61049	Uurhaichin	Orhon	ER	Bayun Undur				
+MN	61029	Zest	Orhon	ER	Bayun Undur				
+MN	61011	Dulaan Uul	Orhon	ER	Jargalant				
+MN	61015	Jargalant	Orhon	ER	Jargalant				
+MN	61013	Ulaantolgoi	Orhon	ER	Jargalant				
+MN	43045	Byrgedtei	Selenge	SL	Altanbulag				
+MN	43043	Suvarga	Selenge	SL	Altanbulag				
+MN	43041	Tsuh	Selenge	SL	Altanbulag				
+MN	43173	Burgaltai	Selenge	SL	Baruunbyren				
+MN	43171	Iven	Selenge	SL	Baruunbyren				
+MN	43175	Tsagaan ovoo	Selenge	SL	Baruunbyren				
+MN	43061	Bayan	Selenge	SL	Bayungol				
+MN	43063	Gonir	Selenge	SL	Bayungol				
+MN	43065	Haraa	Selenge	SL	Bayungol				
+MN	43011	Bugant	Selenge	SL	Eruu				
+MN	43013	Buurgachin	Selenge	SL	Eruu				
+MN	43015	Tavin	Selenge	SL	Eruu				
+MN	43123	Daagat	Selenge	SL	Hushaat				
+MN	43121	Munhtolgoi	Selenge	SL	Hushaat				
+MN	43021	Bayantsagaan	Selenge	SL	Hyder				
+MN	43023	Tarvagatai	Selenge	SL	Hyder				
+MN	43053	Bumbat	Selenge	SL	Javhlant				
+MN	43051	Monostoi	Selenge	SL	Javhlant				
+MN	43039	Bayansuudal	Selenge	SL	Mandal				
+MN	43037	Herh	Selenge	SL	Mandal				
+MN	43033	Shirhentseg	Selenge	SL	Mandal				
+MN	43035	Tumur zamchdiin 1-r bag	Selenge	SL	Mandal				
+MN	43031	Tynhel	Selenge	SL	Mandal				
+MN	43161	Bayantsogt	Selenge	SL	Orhontuul				
+MN	43165	Hongor ovoo	Selenge	SL	Orhontuul				
+MN	43163	Shar us	Selenge	SL	Orhontuul				
+MN	43141	Belen dalai	Selenge	SL	Orhon				
+MN	43143	Orhon	Selenge	SL	Orhon				
+MN	43135	Gavshgai	Selenge	SL	Saihan				
+MN	43131	Hutul	Selenge	SL	Saihan				
+MN	43133	Nomgon	Selenge	SL	Saihan				
+MN	43151	Hushaat	Selenge	SL	Sant				
+MN	43153	Iven	Selenge	SL	Sant				
+MN	43073	Delgerhaan	Selenge	SL	Shaamar				
+MN	43071	Dulaanhaan	Selenge	SL	Shaamar				
+MN	43075	Ohindii	Selenge	SL	Shaamar				
+MN	43089	Bayanhaan	Selenge	SL	Syhbaatar				
+MN	43087	Bor gyvee	Selenge	SL	Syhbaatar				
+MN	43083	Hongor morit	Selenge	SL	Syhbaatar				
+MN	43085	Salhit	Selenge	SL	Syhbaatar				
+MN	43081	Tsagaan ereg	Selenge	SL	Syhbaatar				
+MN	43113	Huurch	Selenge	SL	Tsagaannuur				
+MN	43115	Orgih	Selenge	SL	Tsagaannuur				
+MN	43111	Tiireg	Selenge	SL	Tsagaannuur				
+MN	43101	Ar nuga	Selenge	SL	Tyshig				
+MN	43103	Jargalmandah	Selenge	SL	Tyshig				
+MN	43095	Belchir	Selenge	SL	Zyynbyren				
+MN	43093	Jargalant	Selenge	SL	Zyynbyren				
+MN	43091	Mangirt	Selenge	SL	Zyynbyren				
+MN	22051	Duhum	Syhbaatar	SB	Asgat				
+MN	22057	Ih Uul	Syhbaatar	SB	Asgat				
+MN	22055	Jargalan	Syhbaatar	SB	Asgat				
+MN	22053	Ulziit	Syhbaatar	SB	Asgat				
+MN	22071	Baruun-Urt	Syhbaatar	SB	Baruun Urt				
+MN	22121	Bayan	Syhbaatar	SB	Bayundelger				
+MN	22119	Delger	Syhbaatar	SB	Bayundelger				
+MN	22113	Duhum	Syhbaatar	SB	Bayundelger				
+MN	22111	Hongor	Syhbaatar	SB	Bayundelger				
+MN	22115	Shireet	Syhbaatar	SB	Bayundelger				
+MN	22117	Tuv	Syhbaatar	SB	Bayundelger				
+MN	22047	Aman Us	Syhbaatar	SB	Dariganga				
+MN	22041	Badrah	Syhbaatar	SB	Dariganga				
+MN	22045	Ovoot	Syhbaatar	SB	Dariganga				
+MN	22043	Urnu ders	Syhbaatar	SB	Dariganga				
+MN	22025	Altan Ovoo	Syhbaatar	SB	Erdenetsagaan				
+MN	22021	Badrah	Syhbaatar	SB	Erdenetsagaan				
+MN	22015	Bilyyt	Syhbaatar	SB	Erdenetsagaan				
+MN	22013	Hadin bulag	Syhbaatar	SB	Erdenetsagaan				
+MN	22019	Hongor	Syhbaatar	SB	Erdenetsagaan				
+MN	22011	Hundlun hailaast	Syhbaatar	SB	Erdenetsagaan				
+MN	22023	Jargalant	Syhbaatar	SB	Erdenetsagaan				
+MN	22017	Tsagaan ovoo	Syhbaatar	SB	Erdenetsagaan				
+MN	22107	Halzan shand	Syhbaatar	SB	Halzan				
+MN	22105	Hatavch	Syhbaatar	SB	Halzan				
+MN	22103	Sahiul	Syhbaatar	SB	Halzan				
+MN	22101	Sainshand	Syhbaatar	SB	Halzan				
+MN	22141	Bayanterem	Syhbaatar	SB	Munhhaan				
+MN	22145	Bayan tsagaan	Syhbaatar	SB	Munhhaan				
+MN	22143	Bayan Uul	Syhbaatar	SB	Munhhaan				
+MN	22147	Byrentsogt	Syhbaatar	SB	Munhhaan				
+MN	22065	Gynhudag	Syhbaatar	SB	Naran				
+MN	22061	Naranbulag	Syhbaatar	SB	Naran				
+MN	22063	Tosongiin gol	Syhbaatar	SB	Naran				
+MN	22097	Havirga	Syhbaatar	SB	Ongon				
+MN	22091	Ihbulag	Syhbaatar	SB	Ongon				
+MN	22099	Nyden	Syhbaatar	SB	Ongon				
+MN	22093	Sharbyrd	Syhbaatar	SB	Ongon				
+MN	22095	Tsungurug	Syhbaatar	SB	Ongon				
+MN	22031	Bayangol	Syhbaatar	SB	Syhbaatar				
+MN	22035	Hailaast	Syhbaatar	SB	Syhbaatar				
+MN	22033	Hulgar	Syhbaatar	SB	Syhbaatar				
+MN	22039	Sainshand	Syhbaatar	SB	Syhbaatar				
+MN	22037	Shinebulag	Syhbaatar	SB	Syhbaatar				
+MN	22157	Bayantsogt	Syhbaatar	SB	Tymentsogt				
+MN	22151	Hoshmig	Syhbaatar	SB	Tymentsogt				
+MN	22153	Lhymbe	Syhbaatar	SB	Tymentsogt				
+MN	22161	Delgerhaan	Syhbaatar	SB	Tyvshinshiree				
+MN	22163	Sergelen	Syhbaatar	SB	Tyvshinshiree				
+MN	22167	Uguumur	Syhbaatar	SB	Tyvshinshiree				
+MN	22165	Ulziit	Syhbaatar	SB	Tyvshinshiree				
+MN	22169	Ynegt	Syhbaatar	SB	Tyvshinshiree				
+MN	22139	Bayan	Syhbaatar	SB	Uulbayun				
+MN	22131	Delger	Syhbaatar	SB	Uulbayun				
+MN	22135	Jargalant	Syhbaatar	SB	Uulbayun				
+MN	22133	Javhlant	Syhbaatar	SB	Uulbayun				
+MN	22137	Tegsh	Syhbaatar	SB	Uulbayun				
+MN	41135	Altan ovoo	Tuv	TO	Altanbulag				
+MN	41133	Argal	Tuv	TO	Altanbulag				
+MN	41131	Symt	Tuv	TO	Altanbulag				
+MN	41137	Zamt	Tuv	TO	Altanbulag				
+MN	41181	Argalin uul	Tuv	TO	Argalant				
+MN	41183	Hushuut	Tuv	TO	Argalant				
+MN	41061	Narst	Tuv	TO	Arhust				
+MN	41063	Noen shand	Tuv	TO	Arhust				
+MN	41121	Bayangol	Tuv	TO	Batsymber				
+MN	41127	Mandal	Tuv	TO	Batsymber				
+MN	41123	Tsogt Undur	Tuv	TO	Batsymber				
+MN	41125	Ydleg	Tuv	TO	Batsymber				
+MN	41075	Maanit	Tuv	TO	Bayun				
+MN	41073	Tsant	Tuv	TO	Bayun				
+MN	41077	Tsavchir	Tuv	TO	Bayun				
+MN	41071	Uguumur	Tuv	TO	Bayun				
+MN	41075	Maanit	Tuv	TO	Bayun		Unjyyl		
+MN	41073	Tsant	Tuv	TO	Bayun		Unjyyl		
+MN	41077	Tsavchir	Tuv	TO	Bayun		Unjyyl		
+MN	41071	Uguumur	Tuv	TO	Bayun		Unjyyl		
+MN	41075	Maanit	Tuv	TO	Bayun				
+MN	41073	Tsant	Tuv	TO	Bayun				
+MN	41077	Tsavchir	Tuv	TO	Bayun				
+MN	41071	Uguumur	Tuv	TO	Bayun				
+MN	41075	Maanit	Tuv	TO	Bayun				
+MN	41073	Tsant	Tuv	TO	Bayun				
+MN	41077	Tsavchir	Tuv	TO	Bayun				
+MN	41071	Uguumur	Tuv	TO	Bayun				
+MN	41075	Maanit	Tuv	TO	Bayun				
+MN	41073	Tsant	Tuv	TO	Bayun				
+MN	41077	Tsavchir	Tuv	TO	Bayun				
+MN	41071	Uguumur	Tuv	TO	Bayun				
+MN	41075	Maanit	Tuv	TO	Bayun				
+MN	41073	Tsant	Tuv	TO	Bayun				
+MN	41077	Tsavchir	Tuv	TO	Bayun				
+MN	41071	Uguumur	Tuv	TO	Bayun				
+MN	41075	Maanit	Tuv	TO	Bayun				
+MN	41073	Tsant	Tuv	TO	Bayun				
+MN	41077	Tsavchir	Tuv	TO	Bayun				
+MN	41071	Uguumur	Tuv	TO	Bayun				
+MN	41075	Maanit	Tuv	TO	Bayun				
+MN	41073	Tsant	Tuv	TO	Bayun				
+MN	41077	Tsavchir	Tuv	TO	Bayun				
+MN	41071	Uguumur	Tuv	TO	Bayun				
+MN	41163	CHandmani	Tuv	TO	Bayun				
+MN	41165	Erdene	Tuv	TO	Bayun				
+MN	41161	Zamt	Tuv	TO	Bayun				
+MN	41033	Baidlag	Tuv	TO	Bayun				
+MN	41035	Galuut	Tuv	TO	Bayun				
+MN	41031	Rashaant	Tuv	TO	Bayun				
+MN	41037	Tahilt	Tuv	TO	Bayun				
+MN	41211	Hushuut	Tuv	TO	Bayun				
+MN	41213	Nairamdal	Tuv	TO	Bayun				
+MN	41023	Erdene	Tuv	TO	Bayun				
+MN	41025	Jargalant	Tuv	TO	Bayun				
+MN	41021	Ulaan uhaa	Tuv	TO	Bayun				
+MN	41089	Altat	Tuv	TO	Bayun				
+MN	41083	Bayan airag	Tuv	TO	Bayun				
+MN	41081	Gurvan tyryy	Tuv	TO	Bayun				
+MN	41087	Ulziit	Tuv	TO	Bayun				
+MN	41085	Zogsool	Tuv	TO	Bayun				
+MN	41175	Dargiat	Tuv	TO	Bayun				
+MN	41171	Guna	Tuv	TO	Bayun				
+MN	41173	Sarlag	Tuv	TO	Bayun				
+MN	41143	Baraat	Tuv	TO	Bayun				
+MN	41141	Byrd	Tuv	TO	Bayun				
+MN	41145	Tseel	Tuv	TO	Bayun				
+MN	41157	Bichigt	Tuv	TO	Bornuur				
+MN	41151	Mandal	Tuv	TO	Bornuur				
+MN	41155	Nart	Tuv	TO	Bornuur				
+MN	41153	Uguumur	Tuv	TO	Bornuur				
+MN	41269	Bayantsogt	Tuv	TO	Byren				
+MN	41261	Bulangaa	Tuv	TO	Byren				
+MN	41265	Erdenehangai	Tuv	TO	Byren				
+MN	41263	Mongol	Tuv	TO	Byren				
+MN	41267	Tuhum	Tuv	TO	Byren				
+MN	41285	Davst	Tuv	TO	Delgerhaan Tuv				
+MN	41287	Duut-Hurimt	Tuv	TO	Delgerhaan Tuv				
+MN	41283	Mandal	Tuv	TO	Delgerhaan Tuv				
+MN	41281	Targan	Tuv	TO	Delgerhaan Tuv				
+MN	41299	Bargialt	Tuv	TO	Erdenesant				
+MN	41297	Bayan Uul	Tuv	TO	Erdenesant				
+MN	41295	Buyant	Tuv	TO	Erdenesant				
+MN	41293	Ugalzat	Tuv	TO	Erdenesant				
+MN	41291	Ulaanhudag	Tuv	TO	Erdenesant				
+MN	41051	Bayantuul	Tuv	TO	Erdene Tuv				
+MN	41043	Chuluut	Tuv	TO	Erdene Tuv				
+MN	41049	Hushinga	Tuv	TO	Erdene Tuv				
+MN	41045	Tamgan	Tuv	TO	Erdene Tuv				
+MN	41041	Uguumur	Tuv	TO	Erdene Tuv				
+MN	41047	Uvur Janchivlan	Tuv	TO	Erdene Tuv				
+MN	41205	Bayanbulag	Tuv	TO	Jargalant Tuv				
+MN	41201	Buural	Tuv	TO	Jargalant Tuv				
+MN	41203	Uguumur	Tuv	TO	Jargalant Tuv				
+MN	41207	Zagdal	Tuv	TO	Jargalant Tuv				
+MN	41241	Avdrant	Tuv	TO	Lyn				
+MN	41243	Tsagaan uul	Tuv	TO	Lyn				
+MN	41245	Tuviin	Tuv	TO	Lyn				
+MN	41247	Uguumur	Tuv	TO	Lyn				
+MN	41013	Baidlag	Tuv	TO	Mungunmorit				
+MN	41011	Bulag	Tuv	TO	Mungunmorit				
+MN	41015	Jargalant	Tuv	TO	Mungunmorit				
+MN	41097	Advar	Tuv	TO	Sergelen Tuv				
+MN	41093	Bayanbyrd	Tuv	TO	Sergelen Tuv				
+MN	41091	Erdene uul	Tuv	TO	Sergelen Tuv				
+MN	41099	Hairhan	Tuv	TO	Sergelen Tuv				
+MN	41095	Hushig	Tuv	TO	Sergelen Tuv				
+MN	41193	Javhlant	Tuv	TO	Symber Tuv				
+MN	41191	Symber	Tuv	TO	Symber Tuv				
+MN	41231	Hyyleehan	Tuv	TO	Tseel Tuv				
+MN	41239	Maihan	Tuv	TO	Tseel Tuv				
+MN	41235	Orgil	Tuv	TO	Tseel Tuv				
+MN	41233	Syyl buga	Tuv	TO	Tseel Tuv				
+MN	41237	Talin hairhan	Tuv	TO	Tseel Tuv				
+MN	41221	Asgat	Tuv	TO	Ugtaaltsaidam				
+MN	41223	Har chuluut	Tuv	TO	Ugtaaltsaidam				
+MN	41225	Talin uul	Tuv	TO	Ugtaaltsaidam				
+MN	41251	Bayantuul	Tuv	TO	Undurshireet				
+MN	41255	Hairhan	Tuv	TO	Undurshireet				
+MN	41253	Sant	Tuv	TO	Undurshireet				
+MN	41257	Uyanga	Tuv	TO	Undurshireet				
+MN	41275	Hailaast	Tuv	TO	Zaamar				
+MN	41273	Toson	Tuv	TO	Zaamar				
+MN	41277	Tumstei	Tuv	TO	Zaamar				
+MN	41271	Tuv	Tuv	TO	Zaamar				
+MN	41105	Baruun zuunmod	Tuv	TO	Zuunmod				
+MN	41103	Bayanhoshuu	Tuv	TO	Zuunmod				
+MN	41107	Lans	Tuv	TO	Zuunmod				
+MN	41109	Natsagdorj	Tuv	TO	Zuunmod				
+MN	41111	Nomt	Tuv	TO	Zuunmod				
+MN	41101	Zyyndelger	Tuv	TO	Zuunmod				
+MN	16010	Ulaanbaatar	Ulaanbaatar	UB	Bayangol				
+MN	13010	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	15010	Ulaanbaatar	Ulaanbaatar	UB	Chingeltei				
+MN	17010	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	18010	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	14010	Ulaanbaatar	Ulaanbaatar	UB	Sukhbaatar				
+MN	46121	Bayan	Umnugovi	OG	Bayundalai				
+MN	46123	Naran	Umnugovi	OG	Bayundalai				
+MN	46125	Tuhum	Umnugovi	OG	Bayundalai				
+MN	46033	Harzag	Umnugovi	OG	Bayun Ovoo Umnugovi				
+MN	46031	Mogoi	Umnugovi	OG	Bayun Ovoo Umnugovi				
+MN	46035	Nalih	Umnugovi	OG	Bayun Ovoo Umnugovi				
+MN	46113	Bulgan	Umnugovi	OG	Bulgan Umnugovi				
+MN	46111	Dal	Umnugovi	OG	Bulgan Umnugovi				
+MN	46117	Den	Umnugovi	OG	Bulgan Umnugovi				
+MN	46115	Havtsgait	Umnugovi	OG	Bulgan Umnugovi				
+MN	46089	Baruunsaihan	Umnugovi	OG	Dalanzadgad				
+MN	46087	Dalan	Umnugovi	OG	Dalanzadgad				
+MN	46085	Dundsaihan	Umnugovi	OG	Dalanzadgad				
+MN	46081	Han-Uul	Umnugovi	OG	Dalanzadgad				
+MN	46083	Zyynsaihan	Umnugovi	OG	Dalanzadgad				
+MN	46151	Bayasah	Umnugovi	OG	Gurvantes				
+MN	46153	Goeot	Umnugovi	OG	Gurvantes				
+MN	46157	Tost	Umnugovi	OG	Gurvantes				
+MN	46155	Urt	Umnugovi	OG	Gurvantes				
+MN	46013	Bayan	Umnugovi	OG	Hanbogd				
+MN	46017	Gaviluud	Umnugovi	OG	Hanbogd				
+MN	46015	Javhlant	Umnugovi	OG	Hanbogd				
+MN	46011	Nomgon	Umnugovi	OG	Hanbogd				
+MN	46019	Ouutolgoi	Umnugovi	OG	Hanbogd				
+MN	46071	Hondot	Umnugovi	OG	Hanhongor				
+MN	46075	Jargalant	Umnugovi	OG	Hanhongor				
+MN	46077	Mandah	Umnugovi	OG	Hanhongor				
+MN	46073	Uguumur	Umnugovi	OG	Hanhongor				
+MN	46101	Hyrmen	Umnugovi	OG	Hyrmen				
+MN	46105	Janjin	Umnugovi	OG	Hyrmen				
+MN	46103	Tulga	Umnugovi	OG	Hyrmen				
+MN	46091	Bayanhoshuu	Umnugovi	OG	Mandal Ovoo				
+MN	46095	Mandal	Umnugovi	OG	Mandal Ovoo				
+MN	46093	Utgun	Umnugovi	OG	Mandal Ovoo				
+MN	46027	Dalai	Umnugovi	OG	Manlai				
+MN	46025	Jargalant	Umnugovi	OG	Manlai				
+MN	46021	Uguumur	Umnugovi	OG	Manlai				
+MN	46023	Uuhii	Umnugovi	OG	Manlai				
+MN	46143	Ganzagad	Umnugovi	OG	Noen				
+MN	46141	Sairan	Umnugovi	OG	Noen				
+MN	46051	Bogt	Umnugovi	OG	Nomgon				
+MN	46057	Dersene Us	Umnugovi	OG	Nomgon				
+MN	46053	Emgen bulag	Umnugovi	OG	Nomgon				
+MN	46055	Harmagtai	Umnugovi	OG	Nomgon				
+MN	46059	Tuhum	Umnugovi	OG	Nomgon				
+MN	46133	Byilsen	Umnugovi	OG	Sevrei				
+MN	46131	Hoolt	Umnugovi	OG	Sevrei				
+MN	46135	Sainshand	Umnugovi	OG	Sevrei				
+MN	46041	Bilgeh	Umnugovi	OG	Tsogttsetsii				
+MN	46043	Siirst	Umnugovi	OG	Tsogttsetsii				
+MN	46045	Tsagaan Ovoo	Umnugovi	OG	Tsogttsetsii				
+MN	46061	Borteeg	Umnugovi	OG	Tsogt Ovoo				
+MN	46065	Naiz	Umnugovi	OG	Tsogt Ovoo				
+MN	46063	Zamin shand	Umnugovi	OG	Tsogt Ovoo				
+MN	85025	Bayan airag	Uvs	UV	Baruunturuun				
+MN	85023	Shand	Uvs	UV	Baruunturuun				
+MN	85027	Turuun	Uvs	UV	Baruunturuun				
+MN	85021	Zyynturuun	Uvs	UV	Baruunturuun				
+MN	85225	3 jigertei	Uvs	UV	Buhmurun				
+MN	85223	Baishint	Uvs	UV	Buhmurun				
+MN	85221	Har altad	Uvs	UV	Buhmurun				
+MN	85125	Handgait	Uvs	UV	Davst				
+MN	85121	Torhilog	Uvs	UV	Davst				
+MN	85123	Zyyn huvuu	Uvs	UV	Davst				
+MN	85237	Achit	Uvs	UV	Hovd Uvs				
+MN	85235	Haliunbulag	Uvs	UV	Hovd Uvs				
+MN	85233	Hovd	Uvs	UV	Hovd Uvs				
+MN	85231	Shiver	Uvs	UV	Hovd Uvs				
+MN	85083	Bugat	Uvs	UV	Hyurgas				
+MN	85085	Delger	Uvs	UV	Hyurgas				
+MN	85087	Hairhan	Uvs	UV	Hyurgas				
+MN	85081	Hangai	Uvs	UV	Hyurgas				
+MN	85091	Bayan Erdene	Uvs	UV	Malchin				
+MN	85097	Bayanhairhan	Uvs	UV	Malchin				
+MN	85095	Bayanmandal	Uvs	UV	Malchin				
+MN	85093	Tsalgar	Uvs	UV	Malchin				
+MN	85115	Aldar	Uvs	UV	Naranbulag				
+MN	85113	Gynbyrd	Uvs	UV	Naranbulag				
+MN	85111	Hujirt	Uvs	UV	Naranbulag				
+MN	85117	Ulaan yzyyr	Uvs	UV	Naranbulag				
+MN	85197	Bayanzyrh	Uvs	UV	Sagil				
+MN	85191	Borshoo	Uvs	UV	Sagil				
+MN	85195	Har mod	Uvs	UV	Sagil				
+MN	85193	Undur mod	Uvs	UV	Sagil				
+MN	85199	Yyreg nuur	Uvs	UV	Sagil				
+MN	85135	Burgastai	Uvs	UV	Tarialan Uvs				
+MN	85131	Harhiraa	Uvs	UV	Tarialan Uvs				
+MN	85137	Huhuu	Uvs	UV	Tarialan Uvs				
+MN	85141	Myangan	Uvs	UV	Tarialan Uvs				
+MN	85133	Tarvagatai	Uvs	UV	Tarialan Uvs				
+MN	85139	Toli	Uvs	UV	Tarialan Uvs				
+MN	85063	Tes	Uvs	UV	Tes Uvs				
+MN	85053	Ar bulag	Uvs	UV	Tsagaanhairhan Uvs				
+MN	85051	Dalanhuruu	Uvs	UV	Tsagaanhairhan Uvs				
+MN	85057	Hulj	Uvs	UV	Tsagaanhairhan Uvs				
+MN	85055	Hunt	Uvs	UV	Tsagaanhairhan Uvs				
+MN	85201	Bayanhairhan	Uvs	UV	Tyrgen				
+MN	85203	Erdenehairhan	Uvs	UV	Tyrgen				
+MN	85205	Rashaant	Uvs	UV	Tyrgen				
+MN	85161	Ulaangom	Uvs	UV	Ulaangom				
+MN	85155	CHargat	Uvs	UV	Ulgii Uvs				
+MN	85153	Hudulmur	Uvs	UV	Ulgii Uvs				
+MN	85151	Hulst nuur	Uvs	UV	Ulgii Uvs				
+MN	85157	Ulgii nuur	Uvs	UV	Ulgii Uvs				
+MN	85215	Bayangol	Uvs	UV	Umnugovi Uvs				
+MN	85211	Holboo	Uvs	UV	Umnugovi Uvs				
+MN	85213	Namir	Uvs	UV	Umnugovi Uvs				
+MN	85217	Orlogo	Uvs	UV	Umnugovi Uvs				
+MN	85219	Uliast	Uvs	UV	Umnugovi Uvs				
+MN	85033	Batsaihan	Uvs	UV	Undurhangai				
+MN	85039	Jargalant	Uvs	UV	Undurhangai				
+MN	85037	Tsagaan nuur	Uvs	UV	Undurhangai				
+MN	85031	Tsaluu	Uvs	UV	Undurhangai				
+MN	85035	Tsetserleg	Uvs	UV	Undurhangai				
+MN	85103	Airagnuur	Uvs	UV	Zavhan Uvs				
+MN	85105	Harmagt	Uvs	UV	Zavhan Uvs				
+MN	85109	Hyargas nuur	Uvs	UV	Zavhan Uvs				
+MN	85107	Shar bulag	Uvs	UV	Zavhan Uvs				
+MN	85043	Bayannuur	Uvs	UV	Zyyngovi				
+MN	85049	Suvarga	Uvs	UV	Zyyngovi				
+MN	85041	Tohoi	Uvs	UV	Zyyngovi				
+MN	85047	Uguumur	Uvs	UV	Zyyngovi				
+MN	85045	Zeliin gol	Uvs	UV	Zyyngovi				
+MN	85017	Bayangol	Uvs	UV	Zyynhangai				
+MN	85011	Dalanbulag	Uvs	UV	Zyynhangai				
+MN	85013	Hairhan	Uvs	UV	Zyynhangai				
+MN	85015	Jargalant	Uvs	UV	Zyynhangai				
+MN	62173	Arvaiheer	Uvurhangai	OH	Arvaiheer				
+MN	62175	Burhi	Uvurhangai	OH	Arvaiheer				
+MN	62177	Delgereh	Uvurhangai	OH	Arvaiheer				
+MN	62167	Delgerehiin denj	Uvurhangai	OH	Arvaiheer				
+MN	62163	Emt	Uvurhangai	OH	Arvaiheer				
+MN	62169	Rashaant	Uvurhangai	OH	Arvaiheer				
+MN	62165	Sogoot	Uvurhangai	OH	Arvaiheer				
+MN	62171	Ulziit	Uvurhangai	OH	Arvaiheer				
+MN	62161	Yugaan tolgoi	Uvurhangai	OH	Arvaiheer				
+MN	62275	Huuvur	Uvurhangai	OH	Baruunbayun Ula				
+MN	62273	Hyyhdiin-Us	Uvurhangai	OH	Baruunbayun Ula				
+MN	62277	Tsagaan-Ovoo	Uvurhangai	OH	Baruunbayun Ula				
+MN	62271	Ulziit hoshuu	Uvurhangai	OH	Baruunbayun Ula				
+MN	62211	Buregtii	Uvurhangai	OH	Bat Ulzii				
+MN	62217	Ulaan-Am	Uvurhangai	OH	Bat Ulzii				
+MN	62215	Uvt	Uvurhangai	OH	Bat Ulzii				
+MN	62213	Zuryyleg	Uvurhangai	OH	Bat Ulzii				
+MN	62069	Ergen denj	Uvurhangai	OH	Bayungol Uvurhangai				
+MN	62061	Haya	Uvurhangai	OH	Bayungol Uvurhangai				
+MN	62065	Shiree	Uvurhangai	OH	Bayungol Uvurhangai				
+MN	62063	Tsagaan bulan	Uvurhangai	OH	Bayungol Uvurhangai				
+MN	62067	Tsavin iher	Uvurhangai	OH	Bayungol Uvurhangai				
+MN	62071	Unts	Uvurhangai	OH	Bayungol Uvurhangai				
+MN	62013	Bathaan	Uvurhangai	OH	Bayun Undur Uvurhangai				
+MN	62017	Bumbat	Uvurhangai	OH	Bayun Undur Uvurhangai				
+MN	62019	Bumbii	Uvurhangai	OH	Bayun Undur Uvurhangai				
+MN	62015	Har toirom	Uvurhangai	OH	Bayun Undur Uvurhangai				
+MN	62011	Uvur zylegt	Uvurhangai	OH	Bayun Undur Uvurhangai				
+MN	62193	Bayantuhum	Uvurhangai	OH	Bogd Uvurhangai				
+MN	62195	Dalan	Uvurhangai	OH	Bogd Uvurhangai				
+MN	62191	Gyn Us	Uvurhangai	OH	Bogd Uvurhangai				
+MN	62197	Hovd	Uvurhangai	OH	Bogd Uvurhangai				
+MN	62199	Huuvur	Uvurhangai	OH	Bogd Uvurhangai				
+MN	62203	Tsagaan tolgoi	Uvurhangai	OH	Bogd Uvurhangai				
+MN	62201	Yulaatai	Uvurhangai	OH	Bogd Uvurhangai				
+MN	62027	Ar hushuut	Uvurhangai	OH	Byrd				
+MN	62021	Ar jargalant	Uvurhangai	OH	Byrd				
+MN	62023	Dongit	Uvurhangai	OH	Byrd				
+MN	62029	Ih Borigdoi	Uvurhangai	OH	Byrd				
+MN	62025	Ongon	Uvurhangai	OH	Byrd				
+MN	62035	Ereen	Uvurhangai	OH	Esunzyil				
+MN	62037	Hairhan	Uvurhangai	OH	Esunzyil				
+MN	62033	Munhbulag	Uvurhangai	OH	Esunzyil				
+MN	62031	Tahilga	Uvurhangai	OH	Esunzyil				
+MN	62187	Argalant	Uvurhangai	OH	Guchin Us				
+MN	62185	Arguit	Uvurhangai	OH	Guchin Us				
+MN	62183	Guchin	Uvurhangai	OH	Guchin Us				
+MN	62181	Huuvur	Uvurhangai	OH	Guchin Us				
+MN	62251	Ar aguit	Uvurhangai	OH	Hairhandulaan				
+MN	62249	Burhant	Uvurhangai	OH	Hairhandulaan				
+MN	62247	Dersen honhor	Uvurhangai	OH	Hairhandulaan				
+MN	62241	Emeel	Uvurhangai	OH	Hairhandulaan				
+MN	62245	Marzat	Uvurhangai	OH	Hairhandulaan				
+MN	62243	Nart	Uvurhangai	OH	Hairhandulaan				
+MN	62097	Erdene tolgoi	Uvurhangai	OH	Harhorin				
+MN	62099	Gangan Orhon	Uvurhangai	OH	Harhorin				
+MN	62091	Jalbaa	Uvurhangai	OH	Harhorin				
+MN	62095	Nariin hyr	Uvurhangai	OH	Harhorin				
+MN	62093	Ongotson Uhaa	Uvurhangai	OH	Harhorin				
+MN	62105	Orhon	Uvurhangai	OH	Harhorin				
+MN	62103	Shanh	Uvurhangai	OH	Harhorin				
+MN	62101	Vangiin ovoo	Uvurhangai	OH	Harhorin				
+MN	62117	Berh	Uvurhangai	OH	Hujirt				
+MN	62115	Shiveet	Uvurhangai	OH	Hujirt				
+MN	62113	Shunhlai	Uvurhangai	OH	Hujirt				
+MN	62119	Uujim	Uvurhangai	OH	Hujirt				
+MN	62111	Uvur modot	Uvurhangai	OH	Hujirt				
+MN	62261	Bayanteeg	Uvurhangai	OH	Nariinteel				
+MN	62267	Sharga	Uvurhangai	OH	Nariinteel				
+MN	62265	Tsagaan-Ovoo	Uvurhangai	OH	Nariinteel				
+MN	62263	Undur humug	Uvurhangai	OH	Nariinteel				
+MN	62047	Maihan	Uvurhangai	OH	Sant Uvurhangai				
+MN	62041	Tsahiurt	Uvurhangai	OH	Sant Uvurhangai				
+MN	62049	Tsarig	Uvurhangai	OH	Sant Uvurhangai				
+MN	62043	Ulaan Ovoo	Uvurhangai	OH	Sant Uvurhangai				
+MN	62045	Zalaa	Uvurhangai	OH	Sant Uvurhangai				
+MN	62143	Altan tal	Uvurhangai	OH	Taragt				
+MN	62149	Arvain tal	Uvurhangai	OH	Taragt				
+MN	62151	Hyremt	Uvurhangai	OH	Taragt				
+MN	62141	Ih bulag	Uvurhangai	OH	Taragt				
+MN	62147	Tuyaa	Uvurhangai	OH	Taragt				
+MN	62145	Urt	Uvurhangai	OH	Taragt				
+MN	62083	Hoolt	Uvurhangai	OH	Tugrug Uvurhangai				
+MN	62085	Ih us	Uvurhangai	OH	Tugrug Uvurhangai				
+MN	62087	Mazar	Uvurhangai	OH	Tugrug Uvurhangai				
+MN	62081	Sain tugrug	Uvurhangai	OH	Tugrug Uvurhangai				
+MN	62053	Arguit	Uvurhangai	OH	Ulziit Uvurhangai				
+MN	62051	Bor hoshuu	Uvurhangai	OH	Ulziit Uvurhangai				
+MN	62055	Guulin	Uvurhangai	OH	Ulziit Uvurhangai				
+MN	62057	Yurgait	Uvurhangai	OH	Ulziit Uvurhangai				
+MN	62231	Badral	Uvurhangai	OH	Uyunga				
+MN	62223	Buuruljyyt	Uvurhangai	OH	Uyunga				
+MN	62233	Jargalant	Uvurhangai	OH	Uyunga				
+MN	62229	Ongi	Uvurhangai	OH	Uyunga				
+MN	62227	Shivee Ovoo	Uvurhangai	OH	Uyunga				
+MN	62235	Shuranga	Uvurhangai	OH	Uyunga				
+MN	62225	Taats	Uvurhangai	OH	Uyunga				
+MN	62221	Ult	Uvurhangai	OH	Uyunga				
+MN	62131	Bayan-Ulaan	Uvurhangai	OH	Zyynbayun Ulaan				
+MN	62123	Devshil	Uvurhangai	OH	Zyynbayun Ulaan				
+MN	62129	Emged	Uvurhangai	OH	Zyynbayun Ulaan				
+MN	62125	Had	Uvurhangai	OH	Zyynbayun Ulaan				
+MN	62127	Tsahiurt	Uvurhangai	OH	Zyynbayun Ulaan				
+MN	62121	Tsohiot	Uvurhangai	OH	Zyynbayun Ulaan				
+MN	81195	Aldar	Zavhan	DZ	Aldarhaan				
+MN	81199	Argalant	Zavhan	DZ	Aldarhaan				
+MN	81191	Bogdin gol	Zavhan	DZ	Aldarhaan				
+MN	81193	CHigestei	Zavhan	DZ	Aldarhaan				
+MN	81201	Mandaat	Zavhan	DZ	Aldarhaan				
+MN	81197	Uguumur	Zavhan	DZ	Aldarhaan				
+MN	81171	Argalant	Zavhan	DZ	Asgat Zavhan				
+MN	81173	Suvarga	Zavhan	DZ	Asgat Zavhan				
+MN	81181	Asgat	Zavhan	DZ	Bayunhairhan				
+MN	81187	Minj	Zavhan	DZ	Bayunhairhan				
+MN	81183	naran	Zavhan	DZ	Bayunhairhan				
+MN	81185	Tuunt	Zavhan	DZ	Bayunhairhan				
+MN	81167	Bujir	Zavhan	DZ	Bayuntes				
+MN	81163	Hachig	Zavhan	DZ	Bayuntes				
+MN	81165	Javhlan	Zavhan	DZ	Bayuntes				
+MN	81161	Zaigal	Zavhan	DZ	Bayuntes				
+MN	81283	Buga	Zavhan	DZ	Durvuljin				
+MN	81285	Buural	Zavhan	DZ	Durvuljin				
+MN	81289	Onts	Zavhan	DZ	Durvuljin				
+MN	81287	Tavan tolgoi	Zavhan	DZ	Durvuljin				
+MN	81281	Tsogt	Zavhan	DZ	Durvuljin				
+MN	81245	Altan	Zavhan	DZ	Erdenehairhan				
+MN	81243	Baganuur	Zavhan	DZ	Erdenehairhan				
+MN	81247	Bayanzyrh	Zavhan	DZ	Erdenehairhan				
+MN	81249	Hairhan	Zavhan	DZ	Erdenehairhan				
+MN	81241	Musun	Zavhan	DZ	Erdenehairhan				
+MN	81063	Darhan Uul	Zavhan	DZ	Ider				
+MN	81061	Manuustai	Zavhan	DZ	Ider				
+MN	81065	Tsetserleg	Zavhan	DZ	Ider				
+MN	81067	Zagastai	Zavhan	DZ	Ider				
+MN	81017	Bayan Uhaa	Zavhan	DZ	Ih Uul Zavhan				
+MN	81013	Hongor	Zavhan	DZ	Ih Uul Zavhan				
+MN	81011	Huyagt	Zavhan	DZ	Ih Uul Zavhan				
+MN	81015	Tsetsyyh	Zavhan	DZ	Ih Uul Zavhan				
+MN	81019	Yrjil	Zavhan	DZ	Ih Uul Zavhan				
+MN	81021	Zart	Zavhan	DZ	Ih Uul Zavhan				
+MN	81119	Bayanzyrh	Zavhan	DZ	Numrug				
+MN	81113	Darhan Uul	Zavhan	DZ	Numrug				
+MN	81117	Hairhan	Zavhan	DZ	Numrug				
+MN	81115	Hudrug	Zavhan	DZ	Numrug				
+MN	81111	Nuur	Zavhan	DZ	Numrug				
+MN	81081	Badral	Zavhan	DZ	Otgon				
+MN	81071	Bayanbulag	Zavhan	DZ	Otgon				
+MN	81073	Buyant	Zavhan	DZ	Otgon				
+MN	81075	Hujirt	Zavhan	DZ	Otgon				
+MN	81079	Onts	Zavhan	DZ	Otgon				
+MN	81077	Soel	Zavhan	DZ	Otgon				
+MN	81267	Bayandavs	Zavhan	DZ	Santmargats				
+MN	81265	Bayannuur	Zavhan	DZ	Santmargats				
+MN	81261	Bayan Ulaan	Zavhan	DZ	Santmargats				
+MN	81263	Holboo	Zavhan	DZ	Santmargats				
+MN	81145	Bayan Ulaan	Zavhan	DZ	Shilyystei				
+MN	81143	CHandmani	Zavhan	DZ	Shilyystei				
+MN	81147	Hugjil	Zavhan	DZ	Shilyystei				
+MN	81141	Saihan	Zavhan	DZ	Shilyystei				
+MN	81235	Airag	Zavhan	DZ	Songino				
+MN	81237	Bayan Airag	Zavhan	DZ	Songino				
+MN	81233	Bor Undur	Zavhan	DZ	Songino				
+MN	81231	Shar nuruu	Zavhan	DZ	Songino				
+MN	81239	Tariat	Zavhan	DZ	Songino				
+MN	81055	Bayan Airag	Zavhan	DZ	Telmen				
+MN	81053	Bayantegsh	Zavhan	DZ	Telmen				
+MN	81051	Nuur	Zavhan	DZ	Telmen				
+MN	81059	Shurgah	Zavhan	DZ	Telmen				
+MN	81057	Uguumur	Zavhan	DZ	Telmen				
+MN	81253	Bayan Uul	Zavhan	DZ	Tes Zavhan				
+MN	81257	Doono	Zavhan	DZ	Tes Zavhan				
+MN	81255	Niseg	Zavhan	DZ	Tes Zavhan				
+MN	81251	Zyr	Zavhan	DZ	Tes Zavhan				
+MN	81043	Bayan Ulaan	Zavhan	DZ	Tosontsengel Zavhan				
+MN	81041	Darhan Uul	Zavhan	DZ	Tosontsengel Zavhan				
+MN	81031	Hairhan	Zavhan	DZ	Tosontsengel Zavhan				
+MN	81039	Ider	Zavhan	DZ	Tosontsengel Zavhan				
+MN	81037	Orgih	Zavhan	DZ	Tosontsengel Zavhan				
+MN	81035	Rashaant	Zavhan	DZ	Tosontsengel Zavhan				
+MN	81033	Ulaan tolgoi	Zavhan	DZ	Tosontsengel Zavhan				
+MN	81151	Arts	Zavhan	DZ	Tsagaanchuluut				
+MN	81155	Bayanhairhan	Zavhan	DZ	Tsagaanchuluut				
+MN	81153	Delger	Zavhan	DZ	Tsagaanchuluut				
+MN	81157	Javtsag	Zavhan	DZ	Tsagaanchuluut				
+MN	81127	Agit	Zavhan	DZ	Tsagaanhairhan Zavhan				
+MN	81125	Bayanbulag	Zavhan	DZ	Tsagaanhairhan Zavhan				
+MN	81123	Onts	Zavhan	DZ	Tsagaanhairhan Zavhan				
+MN	81121	Tsetserleg	Zavhan	DZ	Tsagaanhairhan Zavhan				
+MN	81229	Batsuuri	Zavhan	DZ	Tsetsen Uul				
+MN	81227	Jargalant	Zavhan	DZ	Tsetsen Uul				
+MN	81223	Oroin tovgor	Zavhan	DZ	Tsetsen Uul				
+MN	81225	Sangiin dalai	Zavhan	DZ	Tsetsen Uul				
+MN	81221	Shotoi	Zavhan	DZ	Tsetsen Uul				
+MN	81213	Argalant	Zavhan	DZ	Tydevtei				
+MN	81217	Bayantsagaan	Zavhan	DZ	Tydevtei				
+MN	81211	Oigon	Zavhan	DZ	Tydevtei				
+MN	81215	Tsorgo	Zavhan	DZ	Tydevtei				
+MN	81091	Bogdin gol	Zavhan	DZ	Uliastai				
+MN	81101	CHigestei	Zavhan	DZ	Uliastai				
+MN	81093	Jargalant	Zavhan	DZ	Uliastai				
+MN	81095	Jinst	Zavhan	DZ	Uliastai				
+MN	81099	Tovtsog	Zavhan	DZ	Uliastai				
+MN	81097	Ulziit	Zavhan	DZ	Uliastai				
+MN	81295	Bayan Ulaan	Zavhan	DZ	Urgamal				
+MN	81293	Hulij	Zavhan	DZ	Urgamal				
+MN	81291	Nuur zuuhii	Zavhan	DZ	Urgamal				
+MN	81299	Tosguur	Zavhan	DZ	Urgamal				
+MN	81297	Tuv	Zavhan	DZ	Urgamal				
+MN	81135	CHandmani	Zavhan	DZ	Yuruu				
+MN	81137	Hets ulaan	Zavhan	DZ	Yuruu				
+MN	81131	Jargalant	Zavhan	DZ	Yuruu				
+MN	81133	Urgun	Zavhan	DZ	Yuruu				
+MN	81139	Zyil	Zavhan	DZ	Yuruu				
+MN	81275	Mandal	Zavhan	DZ	Zavhanmandal				
+MN	81271	Nuga	Zavhan	DZ	Zavhanmandal				
+MN	81277	Olonbulag	Zavhan	DZ	Zavhanmandal				
+MN	81273	Olontyryy	Zavhan	DZ	Zavhanmandal				
+MN	65133	Erdenebulgan	Arhangai	AR	Erdenebulgan Arhangai				
+MN	65135	Erdenebulgan	Arhangai	AR	Erdenebulgan Arhangai				
+MN	65137	Erdenebulgan	Arhangai	AR	Erdenebulgan Arhangai				
+MN	65139	Erdenebulgan	Arhangai	AR	Erdenebulgan Arhangai				
+MN	65141	Erdenebulgan	Arhangai	AR	Erdenebulgan Arhangai				
+MN	45043	Darhan	Darhan Uul	DA	Darhan Darhan Uul				
+MN	45045	Darhan	Darhan Uul	DA	Darhan Darhan Uul				
+MN	45047	Darhan	Darhan Uul	DA	Darhan Darhan Uul				
+MN	45049	Darhan	Darhan Uul	DA	Darhan Darhan Uul				
+MN	45051	Darhan	Darhan Uul	DA	Darhan Darhan Uul				
+MN	45053	Darhan	Darhan Uul	DA	Darhan Darhan Uul				
+MN	45055	Darhan	Darhan Uul	DA	Darhan Darhan Uul				
+MN	45057	Darhan	Darhan Uul	DA	Darhan Darhan Uul				
+MN	45059	Darhan	Darhan Uul	DA	Darhan Darhan Uul				
+MN	45061	Darhan	Darhan Uul	DA	Darhan Darhan Uul				
+MN	45063	Darhan	Darhan Uul	DA	Darhan Darhan Uul				
+MN	45065	Darhan	Darhan Uul	DA	Darhan Darhan Uul				
+MN	45067	Darhan	Darhan Uul	DA	Darhan Darhan Uul				
+MN	45069	Darhan	Darhan Uul	DA	Darhan Darhan Uul				
+MN	45071	Darhan	Darhan Uul	DA	Darhan Darhan Uul				
+MN	21063	Herlen	Dornod	DD	Herlen Dornod				
+MN	21065	Herlen	Dornod	DD	Herlen Dornod				
+MN	21067	Herlen	Dornod	DD	Herlen Dornod				
+MN	21069	Herlen	Dornod	DD	Herlen Dornod				
+MN	21071	Herlen	Dornod	DD	Herlen Dornod				
+MN	21073	Herlen	Dornod	DD	Herlen Dornod				
+MN	21075	Herlen	Dornod	DD	Herlen Dornod				
+MN	21077	Herlen	Dornod	DD	Herlen Dornod				
+MN	21079	Herlen	Dornod	DD	Herlen Dornod				
+MN	44103	Sainshand	Dornogovi	DG	Sainshand				
+MN	44105	Sainshand	Dornogovi	DG	Sainshand				
+MN	44107	Sainshand	Dornogovi	DG	Sainshand				
+MN	44109	Sainshand	Dornogovi	DG	Sainshand				
+MN	44013	Zamin-Yyd	Dornogovi	DG	Zamin Yyd				
+MN	48043	Ulziit	Dundgovi	DU	Ulziit Dundgovi				
+MN	48045	Ulziit	Dundgovi	DU	Ulziit Dundgovi				
+MN	48047	Ulziit	Dundgovi	DU	Ulziit Dundgovi				
+MN	48049	Ulziit	Dundgovi	DU	Ulziit Dundgovi				
+MN	48051	Ulziit	Dundgovi	DU	Ulziit Dundgovi				
+MN	42043	Bayuntal	Govisymber	GS	Bayuntal				
+MN	42032	Shiveegovi	Govisymber	GS	Shiveegovi				
+MN	42013	Symber	Govisymber	GS	Symber Govisymber				
+MN	42015	Symber	Govisymber	GS	Symber Govisymber				
+MN	42017	Symber	Govisymber	GS	Symber Govisymber				
+MN	42019	Symber	Govisymber	GS	Symber Govisymber				
+MN	42021	Symber	Govisymber	GS	Symber Govisymber				
+MN	67123	Murun	Huvsgul	HG	Murun Huvsgul				
+MN	67125	Murun	Huvsgul	HG	Murun Huvsgul				
+MN	67127	Murun	Huvsgul	HG	Murun Huvsgul				
+MN	67129	Murun	Huvsgul	HG	Murun Huvsgul				
+MN	67131	Murun	Huvsgul	HG	Murun Huvsgul				
+MN	67133	Murun	Huvsgul	HG	Murun Huvsgul				
+MN	67135	Murun	Huvsgul	HG	Murun Huvsgul				
+MN	67137	Murun	Huvsgul	HG	Murun Huvsgul				
+MN	67139	Murun	Huvsgul	HG	Murun Huvsgul				
+MN	22073	Baruun-Urt	Syhbaatar	SB	Baruun Urt				
+MN	22075	Baruun-Urt	Syhbaatar	SB	Baruun Urt				
+MN	22077	Baruun-Urt	Syhbaatar	SB	Baruun Urt				
+MN	22079	Baruun-Urt	Syhbaatar	SB	Baruun Urt				
+MN	22081	Baruun-Urt	Syhbaatar	SB	Baruun Urt				
+MN	22083	Baruun-Urt	Syhbaatar	SB	Baruun Urt				
+MN	22085	Baruun-Urt	Syhbaatar	SB	Baruun Urt				
+MN	22087	Baruun-Urt	Syhbaatar	SB	Baruun Urt				
+MN	16020	Ulaanbaatar	Ulaanbaatar	UB	Bayangol				
+MN	16030	Ulaanbaatar	Ulaanbaatar	UB	Bayangol				
+MN	16040	Ulaanbaatar	Ulaanbaatar	UB	Bayangol				
+MN	16050	Ulaanbaatar	Ulaanbaatar	UB	Bayangol				
+MN	16051	Ulaanbaatar	Ulaanbaatar	UB	Bayangol				
+MN	16052	Ulaanbaatar	Ulaanbaatar	UB	Bayangol				
+MN	16060	Ulaanbaatar	Ulaanbaatar	UB	Bayangol				
+MN	16061	Ulaanbaatar	Ulaanbaatar	UB	Bayangol				
+MN	16062	Ulaanbaatar	Ulaanbaatar	UB	Bayangol				
+MN	16063	Ulaanbaatar	Ulaanbaatar	UB	Bayangol				
+MN	16064	Ulaanbaatar	Ulaanbaatar	UB	Bayangol				
+MN	16065	Ulaanbaatar	Ulaanbaatar	UB	Bayangol				
+MN	16066	Ulaanbaatar	Ulaanbaatar	UB	Bayangol				
+MN	16067	Ulaanbaatar	Ulaanbaatar	UB	Bayangol				
+MN	16070	Ulaanbaatar	Ulaanbaatar	UB	Bayangol				
+MN	16080	Ulaanbaatar	Ulaanbaatar	UB	Bayangol				
+MN	16081	Ulaanbaatar	Ulaanbaatar	UB	Bayangol				
+MN	16090	Ulaanbaatar	Ulaanbaatar	UB	Bayangol				
+MN	16091	Ulaanbaatar	Ulaanbaatar	UB	Bayangol				
+MN	16092	Ulaanbaatar	Ulaanbaatar	UB	Bayangol				
+MN	16093	Ulaanbaatar	Ulaanbaatar	UB	Bayangol				
+MN	16094	Ulaanbaatar	Ulaanbaatar	UB	Bayangol				
+MN	16095	Ulaanbaatar	Ulaanbaatar	UB	Bayangol				
+MN	16100	Ulaanbaatar	Ulaanbaatar	UB	Bayangol				
+MN	16101	Ulaanbaatar	Ulaanbaatar	UB	Bayangol				
+MN	16102	Ulaanbaatar	Ulaanbaatar	UB	Bayangol				
+MN	13020	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13030	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13040	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13050	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13060	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13070	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13080	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13090	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13100	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13110	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13120	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13130	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13140	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13150	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13160	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13170	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13180	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13190	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13200	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13210	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13220	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13230	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13240	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13250	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13260	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13270	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13280	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13290	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13291	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13292	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13300	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13301	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13302	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13310	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13320	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13321	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13330	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13331	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13332	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13333	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13334	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13335	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13336	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13340	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13341	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13342	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13343	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13344	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13345	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13350	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13360	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13361	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13370	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13371	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13372	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13373	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13374	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13380	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	13381	Ulaanbaatar	Ulaanbaatar	UB	Bayanzurkh				
+MN	15020	Ulaanbaatar	Ulaanbaatar	UB	Chingeltei				
+MN	15030	Ulaanbaatar	Ulaanbaatar	UB	Chingeltei				
+MN	15040	Ulaanbaatar	Ulaanbaatar	UB	Chingeltei				
+MN	15050	Ulaanbaatar	Ulaanbaatar	UB	Chingeltei				
+MN	15060	Ulaanbaatar	Ulaanbaatar	UB	Chingeltei				
+MN	15070	Ulaanbaatar	Ulaanbaatar	UB	Chingeltei				
+MN	15080	Ulaanbaatar	Ulaanbaatar	UB	Chingeltei				
+MN	15090	Ulaanbaatar	Ulaanbaatar	UB	Chingeltei				
+MN	15100	Ulaanbaatar	Ulaanbaatar	UB	Chingeltei				
+MN	15110	Ulaanbaatar	Ulaanbaatar	UB	Chingeltei				
+MN	15120	Ulaanbaatar	Ulaanbaatar	UB	Chingeltei				
+MN	15130	Ulaanbaatar	Ulaanbaatar	UB	Chingeltei				
+MN	15140	Ulaanbaatar	Ulaanbaatar	UB	Chingeltei				
+MN	15141	Ulaanbaatar	Ulaanbaatar	UB	Chingeltei				
+MN	15150	Ulaanbaatar	Ulaanbaatar	UB	Chingeltei				
+MN	15160	Ulaanbaatar	Ulaanbaatar	UB	Chingeltei				
+MN	15170	Ulaanbaatar	Ulaanbaatar	UB	Chingeltei				
+MN	15171	Ulaanbaatar	Ulaanbaatar	UB	Chingeltei				
+MN	15172	Ulaanbaatar	Ulaanbaatar	UB	Chingeltei				
+MN	17011	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	17012	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	17020	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	17021	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	17022	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	17023	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	17024	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	17025	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	17026	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	17027	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	17028	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	17029	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	17030	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	17031	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	17032	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	17033	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	17040	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	17041	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	17042	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	17043	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	17050	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	17060	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	17061	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	17062	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	17070	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	17071	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	17072	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	17080	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	17090	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	17100	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	17110	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	17120	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	17130	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	17140	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	17150	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	17160	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	17170	Ulaanbaatar	Ulaanbaatar	UB	Khan Uul				
+MN	18020	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18030	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18031	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18032	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18040	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18050	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18060	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18061	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18062	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18070	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18071	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18072	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18080	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18081	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18082	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18090	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18100	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18101	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18102	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18103	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18104	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18105	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18110	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18120	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18130	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18131	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18132	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18133	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18134	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18135	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18140	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18150	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18160	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18170	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18171	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18172	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18173	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18180	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18190	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18200	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18210	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18220	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18221	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18222	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18223	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18224	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18225	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18230	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18240	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18250	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18260	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18270	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18280	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18290	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18300	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18310	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18320	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18330	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18340	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18350	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18360	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18370	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18380	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18390	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18400	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18410	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18420	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18430	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18440	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18450	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18460	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18470	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18480	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18490	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18500	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18510	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	18520	Ulaanbaatar	Ulaanbaatar	UB	Songinohairhan				
+MN	14020	Ulaanbaatar	Ulaanbaatar	UB	Sukhbaatar				
+MN	14030	Ulaanbaatar	Ulaanbaatar	UB	Sukhbaatar				
+MN	14040	Ulaanbaatar	Ulaanbaatar	UB	Sukhbaatar				
+MN	14050	Ulaanbaatar	Ulaanbaatar	UB	Sukhbaatar				
+MN	14060	Ulaanbaatar	Ulaanbaatar	UB	Sukhbaatar				
+MN	14070	Ulaanbaatar	Ulaanbaatar	UB	Sukhbaatar				
+MN	14080	Ulaanbaatar	Ulaanbaatar	UB	Sukhbaatar				
+MN	14090	Ulaanbaatar	Ulaanbaatar	UB	Sukhbaatar				
+MN	14100	Ulaanbaatar	Ulaanbaatar	UB	Sukhbaatar				
+MN	14110	Ulaanbaatar	Ulaanbaatar	UB	Sukhbaatar				
+MN	14120	Ulaanbaatar	Ulaanbaatar	UB	Sukhbaatar				
+MN	14130	Ulaanbaatar	Ulaanbaatar	UB	Sukhbaatar				
+MN	14140	Ulaanbaatar	Ulaanbaatar	UB	Sukhbaatar				
+MN	14150	Ulaanbaatar	Ulaanbaatar	UB	Sukhbaatar				
+MN	14160	Ulaanbaatar	Ulaanbaatar	UB	Sukhbaatar				
+MN	14170	Ulaanbaatar	Ulaanbaatar	UB	Sukhbaatar				
+MN	14171	Ulaanbaatar	Ulaanbaatar	UB	Sukhbaatar				
+MN	14180	Ulaanbaatar	Ulaanbaatar	UB	Sukhbaatar				
+MN	14181	Ulaanbaatar	Ulaanbaatar	UB	Sukhbaatar				
+MN	14182	Ulaanbaatar	Ulaanbaatar	UB	Sukhbaatar				
+MN	14190	Ulaanbaatar	Ulaanbaatar	UB	Sukhbaatar				
+MN	14191	Ulaanbaatar	Ulaanbaatar	UB	Sukhbaatar				
+MN	14192	Ulaanbaatar	Ulaanbaatar	UB	Sukhbaatar				
+MN	14193	Ulaanbaatar	Ulaanbaatar	UB	Sukhbaatar				
+MN	14200	Ulaanbaatar	Ulaanbaatar	UB	Sukhbaatar				
+MN	14201	Ulaanbaatar	Ulaanbaatar	UB	Sukhbaatar				
+MN	14210	Ulaanbaatar	Ulaanbaatar	UB	Sukhbaatar				
+MN	14220	Ulaanbaatar	Ulaanbaatar	UB	Sukhbaatar				
+MN	14230	Ulaanbaatar	Ulaanbaatar	UB	Sukhbaatar				
+MN	14240	Ulaanbaatar	Ulaanbaatar	UB	Sukhbaatar				
+MN	14241	Ulaanbaatar	Ulaanbaatar	UB	Sukhbaatar				
+MN	14250	Ulaanbaatar	Ulaanbaatar	UB	Sukhbaatar				
+MN	14251	Ulaanbaatar	Ulaanbaatar	UB	Sukhbaatar				
+MN	14252	Ulaanbaatar	Ulaanbaatar	UB	Sukhbaatar				
+MN	14253	Ulaanbaatar	Ulaanbaatar	UB	Sukhbaatar				
+MN	85065	Tes	Uvs	UV	Tes Uvs				
+MN	85067	Tes	Uvs	UV	Tes Uvs				
+MN	85069	Tes	Uvs	UV	Tes Uvs				
+MN	85071	Tes	Uvs	UV	Tes Uvs				
+MN	85073	Tes	Uvs	UV	Tes Uvs				
+MN	85075	Tes	Uvs	UV	Tes Uvs				
+MN	85077	Tes	Uvs	UV	Tes Uvs				
+MN	85079	Tes	Uvs	UV	Tes Uvs				
+MN	85163	Ulaangom	Uvs	UV	Ulaangom				
+MN	85165	Ulaangom	Uvs	UV	Ulaangom				
+MN	85167	Ulaangom	Uvs	UV	Ulaangom				
+MN	85169	Ulaangom	Uvs	UV	Ulaangom				
+MN	85171	Ulaangom	Uvs	UV	Ulaangom				
+MN	85173	Ulaangom	Uvs	UV	Ulaangom				
+MN	85175	Ulaangom	Uvs	UV	Ulaangom				
+MN	85177	Ulaangom	Uvs	UV	Ulaangom				
+MN	85179	Ulaangom	Uvs	UV	Ulaangom				
+MN	85181	Ulaangom	Uvs	UV	Ulaangom				

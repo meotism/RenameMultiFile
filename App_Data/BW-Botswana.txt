@@ -1,0 +1,488 @@
+BW	00000	Bobonong	Central	CE	Bobonong						
+BW	00000	Damochojena	Central	CE	Bobonong						
+BW	00000	Kobojango	Central	CE	Bobonong						
+BW	00000	Lentswelemoriti	Central	CE	Bobonong						
+BW	00000	Lepokole	Central	CE	Bobonong						
+BW	00000	Mabolwe	Central	CE	Bobonong						
+BW	00000	Mathathane	Central	CE	Bobonong						
+BW	00000	Mmadinare	Central	CE	Bobonong						
+BW	00000	Molalatau	Central	CE	Bobonong						
+BW	00000	Moletemane	Central	CE	Bobonong						
+BW	00000	Motlhabaneng	Central	CE	Bobonong						
+BW	00000	Robelela	Central	CE	Bobonong						
+BW	00000	Sefophe	Central	CE	Bobonong						
+BW	00000	Semolale	Central	CE	Bobonong						
+BW	00000	Tobane	Central	CE	Bobonong						
+BW	00000	Tsetsebjwe	Central	CE	Bobonong						
+BW	00000	Tshokwe	Central	CE	Bobonong						
+BW	00000	Kedia	Central	CE	Boteti						
+BW	00000	Khwee	Central	CE	Boteti						
+BW	00000	Kumaga	Central	CE	Boteti						
+BW	00000	Letlhakane	Central	CE	Boteti						
+BW	00000	Makalamabedi	Central	CE	Boteti						
+BW	00000	Mmadikola	Central	CE	Boteti						
+BW	00000	Mmatshumo	Central	CE	Boteti						
+BW	00000	Mokoboxane	Central	CE	Boteti						
+BW	00000	Mopipi	Central	CE	Boteti						
+BW	00000	Moreomaoto	Central	CE	Boteti						
+BW	00000	Mosu	Central	CE	Boteti						
+BW	00000	Motopi	Central	CE	Boteti						
+BW	00000	Toromoja	Central	CE	Boteti						
+BW	00000	Tsienyane-Rakops	Central	CE	Boteti						
+BW	00000	Xere	Central	CE	Boteti						
+BW	00000	Xhumo	Central	CE	Boteti						
+BW	00000	Bonwapitse	Central	CE	Mahalapye						
+BW	00000	Borotsi	Central	CE	Mahalapye						
+BW	00000	Chadibe	Central	CE	Mahalapye						
+BW	00000	Dibete Station	Central	CE	Mahalapye						
+BW	00000	Dovedale	Central	CE	Mahalapye						
+BW	00000	Ikongwe	Central	CE	Mahalapye						
+BW	00000	Kalamare	Central	CE	Mahalapye						
+BW	00000	Kodibeleng	Central	CE	Mahalapye						
+BW	00000	Kudumatse	Central	CE	Mahalapye						
+BW	00000	Maape	Central	CE	Mahalapye						
+BW	00000	Machaneng	Central	CE	Mahalapye						
+BW	00000	Mahalapye	Central	CE	Mahalapye						
+BW	00000	Makwate	Central	CE	Mahalapye						
+BW	00000	Matlhako	Central	CE	Mahalapye						
+BW	00000	Mhalapitsa	Central	CE	Mahalapye						
+BW	00000	Mmaphashalala	Central	CE	Mahalapye						
+BW	00000	Mmutlana	Central	CE	Mahalapye						
+BW	00000	Mokgenene	Central	CE	Mahalapye						
+BW	00000	Mokobeng	Central	CE	Mahalapye						
+BW	00000	Mokoswane	Central	CE	Mahalapye						
+BW	00000	Mookane	Central	CE	Mahalapye						
+BW	00000	Moralane	Central	CE	Mahalapye						
+BW	00000	Moshopha	Central	CE	Mahalapye						
+BW	00000	Mosolotshane	Central	CE	Mahalapye						
+BW	00000	Ngwapa	Central	CE	Mahalapye						
+BW	00000	Otse	Central	CE	Mahalapye						
+BW	00000	Palla Road-Dinokwe	Central	CE	Mahalapye						
+BW	00000	Pilikwe	Central	CE	Mahalapye						
+BW	00000	Poloka	Central	CE	Mahalapye						
+BW	00000	Ramokgonami	Central	CE	Mahalapye						
+BW	00000	Sefhare	Central	CE	Mahalapye						
+BW	00000	Seleka	Central	CE	Mahalapye						
+BW	00000	Shakwe	Central	CE	Mahalapye						
+BW	00000	Shoshong	Central	CE	Mahalapye						
+BW	00000	Taupye	Central	CE	Mahalapye						
+BW	00000	Tewane	Central	CE	Mahalapye						
+BW	00000	Tumasera	Central	CE	Mahalapye						
+BW	00000	Orapa	Central	CE	Orapa						
+BW	00000	Diloro	Central	CE	Serowe Palapye						
+BW	00000	Dimajwe	Central	CE	Serowe Palapye						
+BW	00000	Gamabuo	Central	CE	Serowe Palapye						
+BW	00000	Gojwane	Central	CE	Serowe Palapye						
+BW	00000	Goo-Sekgweng	Central	CE	Serowe Palapye						
+BW	00000	Gootau	Central	CE	Serowe Palapye						
+BW	00000	Kgagodi	Central	CE	Serowe Palapye						
+BW	00000	Lecheng	Central	CE	Serowe Palapye						
+BW	00000	Lerala	Central	CE	Serowe Palapye						
+BW	00000	Lesenepole-Matolwane	Central	CE	Serowe Palapye						
+BW	00000	Mabeleapudi	Central	CE	Serowe Palapye						
+BW	00000	Majwanaadipitse	Central	CE	Serowe Palapye						
+BW	00000	Majwaneng	Central	CE	Serowe Palapye						
+BW	00000	Malaka	Central	CE	Serowe Palapye						
+BW	00000	Malatswai	Central	CE	Serowe Palapye						
+BW	00000	Manaledi	Central	CE	Serowe Palapye						
+BW	00000	Matlhakola	Central	CE	Serowe Palapye						
+BW	00000	Maunatlala	Central	CE	Serowe Palapye						
+BW	00000	Mmashoro	Central	CE	Serowe Palapye						
+BW	00000	Moeng	Central	CE	Serowe Palapye						
+BW	00000	Mogapi	Central	CE	Serowe Palapye						
+BW	00000	Mogapinyana	Central	CE	Serowe Palapye						
+BW	00000	Mogome	Central	CE	Serowe Palapye						
+BW	00000	Mogorosi	Central	CE	Serowe Palapye						
+BW	00000	Moiyabana	Central	CE	Serowe Palapye						
+BW	00000	Mokgware	Central	CE	Serowe Palapye						
+BW	00000	Mokhungwana	Central	CE	Serowe Palapye						
+BW	00000	Mokokwana	Central	CE	Serowe Palapye						
+BW	00000	Moremi	Central	CE	Serowe Palapye						
+BW	00000	Moreomabele	Central	CE	Serowe Palapye						
+BW	00000	Mosweu	Central	CE	Serowe Palapye						
+BW	00000	Motshegaletau	Central	CE	Serowe Palapye						
+BW	00000	Paje	Central	CE	Serowe Palapye						
+BW	00000	Palapye	Central	CE	Serowe Palapye						
+BW	00000	Radisele	Central	CE	Serowe Palapye						
+BW	00000	Ratholo	Central	CE	Serowe Palapye						
+BW	00000	Sehunou	Central	CE	Serowe Palapye						
+BW	00000	Seolwane	Central	CE	Serowe Palapye						
+BW	00000	Serowe	Central	CE	Serowe Palapye						
+BW	00000	Serule	Central	CE	Serowe Palapye						
+BW	00000	Tamasane	Central	CE	Serowe Palapye						
+BW	00000	Thabala	Central	CE	Serowe Palapye						
+BW	00000	Topisi	Central	CE	Serowe Palapye						
+BW	00000	Tshimoyapula	Central	CE	Serowe Palapye						
+BW	00000	Borolong	Central	CE	Tutume						
+BW	00000	Chadibe	Central	CE	Tutume						
+BW	00000	Changate	Central	CE	Tutume						
+BW	00000	Dagwi	Central	CE	Tutume						
+BW	00000	Dukwi	Central	CE	Tutume						
+BW	00000	Goshwe	Central	CE	Tutume						
+BW	00000	Gweta	Central	CE	Tutume						
+BW	00000	Jamataka	Central	CE	Tutume						
+BW	00000	Kutamogree	Central	CE	Tutume						
+BW	00000	Lepashe	Central	CE	Tutume						
+BW	00000	Mabesekwa	Central	CE	Tutume						
+BW	00000	Mafongo-Hobona	Central	CE	Tutume						
+BW	00000	Maitengwe	Central	CE	Tutume						
+BW	00000	Makobo	Central	CE	Tutume						
+BW	00000	Makuta	Central	CE	Tutume						
+BW	00000	Mandunyane	Central	CE	Tutume						
+BW	00000	Maposa	Central	CE	Tutume						
+BW	00000	Marapong	Central	CE	Tutume						
+BW	00000	Marobela	Central	CE	Tutume						
+BW	00000	Mathangwane	Central	CE	Tutume						
+BW	00000	Matobo	Central	CE	Tutume						
+BW	00000	Matsitama	Central	CE	Tutume						
+BW	00000	Mmanxotae	Central	CE	Tutume						
+BW	00000	Mmeya	Central	CE	Tutume						
+BW	00000	Mokubilo	Central	CE	Tutume						
+BW	00000	Mosetse	Central	CE	Tutume						
+BW	00000	Nata	Central	CE	Tutume						
+BW	00000	Natale	Central	CE	Tutume						
+BW	00000	Nkange	Central	CE	Tutume						
+BW	00000	Nshakashokwe	Central	CE	Tutume						
+BW	00000	Nswazwi	Central	CE	Tutume						
+BW	00000	Sebina	Central	CE	Tutume						
+BW	00000	Semitwe	Central	CE	Tutume						
+BW	00000	Senete	Central	CE	Tutume						
+BW	00000	Sepako	Central	CE	Tutume						
+BW	00000	Shashe-Mooke	Central	CE	Tutume						
+BW	00000	Shashe-Semotswane	Central	CE	Tutume						
+BW	00000	Tonota	Central	CE	Tutume						
+BW	00000	Tshokatshaa	Central	CE	Tutume						
+BW	00000	Tutume	Central	CE	Tutume						
+BW	00000	Zoroga	Central	CE	Tutume						
+BW	00000	Kachikau	Chobe	CH	Chobe						
+BW	00000	Kasane	Chobe	CH	Chobe						
+BW	00000	Kavimba	Chobe	CH	Chobe						
+BW	00000	Kazungula	Chobe	CH	Chobe						
+BW	00000	Lesoma	Chobe	CH	Chobe						
+BW	00000	Muchinje-Mabele	Chobe	CH	Chobe						
+BW	00000	Pandamatenga	Chobe	CH	Chobe						
+BW	00000	Parakarungu	Chobe	CH	Chobe						
+BW	00000	Satau	Chobe	CH	Chobe						
+BW	00000	Francistown	Francistown	FR	Francistown						
+BW	00000	Gaborone	Gaborone	GA	Gaborone						
+BW	00000	Bere	Ghanzi	GH	Ghanzi Ghanzi						
+BW	00000	Charles Hill	Ghanzi	GH	Ghanzi Ghanzi						
+BW	00000	Chobokwane	Ghanzi	GH	Ghanzi Ghanzi						
+BW	00000	Dekar	Ghanzi	GH	Ghanzi Ghanzi						
+BW	00000	East Hanahai	Ghanzi	GH	Ghanzi Ghanzi						
+BW	00000	Ghanzi	Ghanzi	GH	Ghanzi Ghanzi						
+BW	00000	Groote Laagte	Ghanzi	GH	Ghanzi Ghanzi						
+BW	00000	Kacgae	Ghanzi	GH	Ghanzi Ghanzi						
+BW	00000	Karakobis	Ghanzi	GH	Ghanzi Ghanzi						
+BW	00000	Kule	Ghanzi	GH	Ghanzi Ghanzi						
+BW	00000	Makunda	Ghanzi	GH	Ghanzi Ghanzi						
+BW	00000	Ncojane	Ghanzi	GH	Ghanzi Ghanzi						
+BW	00000	New Xade	Ghanzi	GH	Ghanzi Ghanzi						
+BW	00000	New Xanagas	Ghanzi	GH	Ghanzi Ghanzi						
+BW	00000	Pole	Ghanzi	GH	Ghanzi Ghanzi						
+BW	00000	Qabo	Ghanzi	GH	Ghanzi Ghanzi						
+BW	00000	Tsootsha	Ghanzi	GH	Ghanzi Ghanzi						
+BW	00000	West Hanahai	Ghanzi	GH	Ghanzi Ghanzi						
+BW	00000	Jwaneng	Jwaneng	JW	Jwaneng						
+BW	00000	Hukuntsi	Kgalagadi	KG	Hukuntsi						
+BW	00000	Hunhukwe	Kgalagadi	KG	Hukuntsi						
+BW	00000	Inalegolo	Kgalagadi	KG	Hukuntsi						
+BW	00000	Kang	Kgalagadi	KG	Hukuntsi						
+BW	00000	Lehututu	Kgalagadi	KG	Hukuntsi						
+BW	00000	Lokgwabe	Kgalagadi	KG	Hukuntsi						
+BW	00000	Make	Kgalagadi	KG	Hukuntsi						
+BW	00000	Monong	Kgalagadi	KG	Hukuntsi						
+BW	00000	Ncaang	Kgalagadi	KG	Hukuntsi						
+BW	00000	Ngwatle	Kgalagadi	KG	Hukuntsi						
+BW	00000	Phuduhudu	Kgalagadi	KG	Hukuntsi						
+BW	00000	Tshane	Kgalagadi	KG	Hukuntsi						
+BW	00000	Ukwi	Kgalagadi	KG	Hukuntsi						
+BW	00000	Zutswa	Kgalagadi	KG	Hukuntsi						
+BW	00000	Bogogobo	Kgalagadi	KG	Tshabong						
+BW	00000	Bokspits	Kgalagadi	KG	Tshabong						
+BW	00000	Bray	Kgalagadi	KG	Tshabong						
+BW	00000	Gachibana	Kgalagadi	KG	Tshabong						
+BW	00000	Khisa	Kgalagadi	KG	Tshabong						
+BW	00000	Khuis	Kgalagadi	KG	Tshabong						
+BW	00000	Khwawa	Kgalagadi	KG	Tshabong						
+BW	00000	Kokotsha	Kgalagadi	KG	Tshabong						
+BW	00000	Kolonkwane	Kgalagadi	KG	Tshabong						
+BW	00000	Makopong	Kgalagadi	KG	Tshabong						
+BW	00000	Maleshe	Kgalagadi	KG	Tshabong						
+BW	00000	Maralaleng	Kgalagadi	KG	Tshabong						
+BW	00000	Maubelo	Kgalagadi	KG	Tshabong						
+BW	00000	Middlepits	Kgalagadi	KG	Tshabong						
+BW	00000	Omaweneno	Kgalagadi	KG	Tshabong						
+BW	00000	Phepheng-Draaihoek	Kgalagadi	KG	Tshabong						
+BW	00000	Rapples Pan	Kgalagadi	KG	Tshabong						
+BW	00000	Struizendam	Kgalagadi	KG	Tshabong						
+BW	00000	Tsabong	Kgalagadi	KG	Tshabong						
+BW	00000	Vaalhoek	Kgalagadi	KG	Tshabong						
+BW	00000	Werda	Kgalagadi	KG	Tshabong						
+BW	00000	Artisia	Kgatleng	KG	Kgatleng Kgatleng						
+BW	00000	Bokaa	Kgatleng	KG	Kgatleng Kgatleng						
+BW	00000	Dikgonnye	Kgatleng	KG	Kgatleng Kgatleng						
+BW	00000	Dikwididi	Kgatleng	KG	Kgatleng Kgatleng						
+BW	00000	Kgomodiatshaba	Kgatleng	KG	Kgatleng Kgatleng						
+BW	00000	Khurutshe	Kgatleng	KG	Kgatleng Kgatleng						
+BW	00000	Leshibitse	Kgatleng	KG	Kgatleng Kgatleng						
+BW	00000	Mabalane	Kgatleng	KG	Kgatleng Kgatleng						
+BW	00000	Malolwane	Kgatleng	KG	Kgatleng Kgatleng						
+BW	00000	Malotwana Siding	Kgatleng	KG	Kgatleng Kgatleng						
+BW	00000	Matebeleng	Kgatleng	KG	Kgatleng Kgatleng						
+BW	00000	Mmathubudukwane	Kgatleng	KG	Kgatleng Kgatleng						
+BW	00000	Mochudi	Kgatleng	KG	Kgatleng Kgatleng						
+BW	00000	Modipane	Kgatleng	KG	Kgatleng Kgatleng						
+BW	00000	Morwa	Kgatleng	KG	Kgatleng Kgatleng						
+BW	00000	Oliphants Drift	Kgatleng	KG	Kgatleng Kgatleng						
+BW	00000	Oodi	Kgatleng	KG	Kgatleng Kgatleng						
+BW	00000	Pilane Station	Kgatleng	KG	Kgatleng Kgatleng						
+BW	00000	Ramonaka	Kgatleng	KG	Kgatleng Kgatleng						
+BW	00000	Ramotlabaki	Kgatleng	KG	Kgatleng Kgatleng						
+BW	00000	Rasesa	Kgatleng	KG	Kgatleng Kgatleng						
+BW	00000	Sikwane	Kgatleng	KG	Kgatleng Kgatleng						
+BW	00000	Boatlaname	Kweneng	KW	Kweneng East						
+BW	00000	Dikgatlhong	Kweneng	KW	Kweneng East						
+BW	00000	Ditshukudu	Kweneng	KW	Kweneng East						
+BW	00000	Gabane	Kweneng	KW	Kweneng East						
+BW	00000	Gakgatla	Kweneng	KW	Kweneng East						
+BW	00000	Gakutlo	Kweneng	KW	Kweneng East						
+BW	00000	Gamodubu	Kweneng	KW	Kweneng East						
+BW	00000	Hatsalatladi	Kweneng	KW	Kweneng East						
+BW	00000	Kgope	Kweneng	KW	Kweneng East						
+BW	00000	Kopong	Kweneng	KW	Kweneng East						
+BW	00000	Kubung	Kweneng	KW	Kweneng East						
+BW	00000	Kumakwane	Kweneng	KW	Kweneng East						
+BW	00000	Kweneng	Kweneng	KW	Kweneng East						
+BW	00000	Lentsweletau	Kweneng	KW	Kweneng East						
+BW	00000	Leologane	Kweneng	KW	Kweneng East						
+BW	00000	Lephephe	Kweneng	KW	Kweneng East						
+BW	00000	Losilakgokong	Kweneng	KW	Kweneng East						
+BW	00000	Mahetlwe	Kweneng	KW	Kweneng East						
+BW	00000	Medie	Kweneng	KW	Kweneng East						
+BW	00000	Metsimotlhabe	Kweneng	KW	Kweneng East						
+BW	00000	Mmankgodi	Kweneng	KW	Kweneng East						
+BW	00000	Mmanoko	Kweneng	KW	Kweneng East						
+BW	00000	Mmatseta	Kweneng	KW	Kweneng East						
+BW	00000	Mmopane	Kweneng	KW	Kweneng East						
+BW	00000	Mogoditshane	Kweneng	KW	Kweneng East						
+BW	00000	Mogonono	Kweneng	KW	Kweneng East						
+BW	00000	Mokolodi	Kweneng	KW	Kweneng East						
+BW	00000	Molepolole	Kweneng	KW	Kweneng East						
+BW	00000	Ramaphatle	Kweneng	KW	Kweneng East						
+BW	00000	Shadishadi	Kweneng	KW	Kweneng East						
+BW	00000	Sojwe	Kweneng	KW	Kweneng East						
+BW	00000	Thamaga	Kweneng	KW	Kweneng East						
+BW	00000	Tloaneng	Kweneng	KW	Kweneng East						
+BW	00000	Botlhapatlou	Kweneng	KW	Kweneng West						
+BW	00000	Diphuduhudu	Kweneng	KW	Kweneng West						
+BW	00000	Ditshegwane	Kweneng	KW	Kweneng West						
+BW	00000	Dutlwe	Kweneng	KW	Kweneng West						
+BW	00000	Kaudwane	Kweneng	KW	Kweneng West						
+BW	00000	Khudumelapye	Kweneng	KW	Kweneng West						
+BW	00000	Kotolaname	Kweneng	KW	Kweneng West						
+BW	00000	Letlhakeng	Kweneng	KW	Kweneng West						
+BW	00000	Maboane	Kweneng	KW	Kweneng West						
+BW	00000	Malwelwe	Kweneng	KW	Kweneng West						
+BW	00000	Mantshwabisi	Kweneng	KW	Kweneng West						
+BW	00000	Maratshwane	Kweneng	KW	Kweneng West						
+BW	00000	Metsibotlhoko	Kweneng	KW	Kweneng West						
+BW	00000	Monwane	Kweneng	KW	Kweneng West						
+BW	00000	Moshaweng	Kweneng	KW	Kweneng West						
+BW	00000	Motokwe	Kweneng	KW	Kweneng West						
+BW	00000	Ngware	Kweneng	KW	Kweneng West						
+BW	00000	Salajwe	Kweneng	KW	Kweneng West						
+BW	00000	Serinane	Kweneng	KW	Kweneng West						
+BW	00000	Sesung	Kweneng	KW	Kweneng West						
+BW	00000	Sorilatholo	Kweneng	KW	Kweneng West						
+BW	00000	Takatokwane	Kweneng	KW	Kweneng West						
+BW	00000	Tsetseng	Kweneng	KW	Kweneng West						
+BW	00000	Tswaane	Kweneng	KW	Kweneng West						
+BW	00000	Lobatse	Lobatse	LO	Lobatse						
+BW	00000	Botalaote	North	NE	North East North East						
+BW	00000	Butale	North	NE	North East North East						
+BW	00000	Ditladi	North	NE	North East North East						
+BW	00000	Gambule	North	NE	North East North East						
+BW	00000	Gulubane	North	NE	North East North East						
+BW	00000	Gungwe	North	NE	North East North East						
+BW	00000	Jackalas 1	North	NE	North East North East						
+BW	00000	Jackalas 2	North	NE	North East North East						
+BW	00000	Kalakamati	North	NE	North East North East						
+BW	00000	Kgari	North	NE	North East North East						
+BW	00000	Letsholathebe	North	NE	North East North East						
+BW	00000	Mabudzane	North	NE	North East North East						
+BW	00000	Makaleng	North	NE	North East North East						
+BW	00000	Mambo	North	NE	North East North East						
+BW	00000	Mapoka	North	NE	North East North East						
+BW	00000	Masingwaneng	North	NE	North East North East						
+BW	00000	Masukwane	North	NE	North East North East						
+BW	00000	Masunga	North	NE	North East North East						
+BW	00000	Matenge	North	NE	North East North East						
+BW	00000	Matopi	North	NE	North East North East						
+BW	00000	Matshelagabedi	North	NE	North East North East						
+BW	00000	Matsiloje	North	NE	North East North East						
+BW	00000	Mbalambi	North	NE	North East North East						
+BW	00000	Moroka	North	NE	North East North East						
+BW	00000	Mosojane	North	NE	North East North East						
+BW	00000	Mowana	North	NE	North East North East						
+BW	00000	Mulambakwena	North	NE	North East North East						
+BW	00000	Nlakhwane	North	NE	North East North East						
+BW	00000	Patayamatebele	North	NE	North East North East						
+BW	00000	Pole	North	NE	North East North East						
+BW	00000	Ramokgwebana	North	NE	North East North East						
+BW	00000	Sechele	North	NE	North East North East						
+BW	00000	Sekakangwe	North	NE	North East North East						
+BW	00000	Senyawe	North	NE	North East North East						
+BW	00000	Shashe Bridge	North	NE	North East North East						
+BW	00000	Siviya	North	NE	North East North East						
+BW	00000	Tati Siding	North	NE	North East North East						
+BW	00000	Themashanga	North	NE	North East North East						
+BW	00000	Toteng	North	NE	North East North East						
+BW	00000	Tsamaya	North	NE	North East North East						
+BW	00000	Tshesebe	North	NE	North East North East						
+BW	00000	Vukwi	North	NE	North East North East						
+BW	00000	Zwenshambe	North	NE	North East North East						
+BW	00000	Daonara	North	NW	Delta North West						
+BW	00000	Ditshiping	North	NW	Delta North West						
+BW	00000	Jao	North	NW	Delta North West						
+BW	00000	Katamaga	North	NW	Delta North West						
+BW	00000	Morutsha	North	NW	Delta North West						
+BW	00000	Xaxaba	North	NW	Delta North West						
+BW	00000	Beetsha	North	NW	Ngamiland North						
+BW	00000	Chukumuchu	North	NW	Ngamiland North						
+BW	00000	Eretsha	North	NW	Ngamiland North						
+BW	00000	Etsha 1	North	NW	Ngamiland North						
+BW	00000	Etsha 13	North	NW	Ngamiland North						
+BW	00000	Etsha 6	North	NW	Ngamiland North						
+BW	00000	Gani	North	NW	Ngamiland North						
+BW	00000	Gonutsuga	North	NW	Ngamiland North						
+BW	00000	Gudingwa	North	NW	Ngamiland North						
+BW	00000	Gumare	North	NW	Ngamiland North						
+BW	00000	Ikoga	North	NW	Ngamiland North						
+BW	00000	Kajaja	North	NW	Ngamiland North						
+BW	00000	Kauxwhi	North	NW	Ngamiland North						
+BW	00000	Mogomotho	North	NW	Ngamiland North						
+BW	00000	Mohembo East	North	NW	Ngamiland North						
+BW	00000	Mohembo West	North	NW	Ngamiland North						
+BW	00000	Mokgacha	North	NW	Ngamiland North						
+BW	00000	Ngarange	North	NW	Ngamiland North						
+BW	00000	Nokaneng	North	NW	Ngamiland North						
+BW	00000	Nxamasere	North	NW	Ngamiland North						
+BW	00000	Nxaunxau	North	NW	Ngamiland North						
+BW	00000	Qangwa	North	NW	Ngamiland North						
+BW	00000	Samochema	North	NW	Ngamiland North						
+BW	00000	Sekondomboro	North	NW	Ngamiland North						
+BW	00000	Sepopa	North	NW	Ngamiland North						
+BW	00000	Seronga	North	NW	Ngamiland North						
+BW	00000	Shakawe	North	NW	Ngamiland North						
+BW	00000	Tobere	North	NW	Ngamiland North						
+BW	00000	Tubu	North	NW	Ngamiland North						
+BW	00000	Xakao	North	NW	Ngamiland North						
+BW	00000	Xaxa	North	NW	Ngamiland North						
+BW	00000	Xhauga	North	NW	Ngamiland North						
+BW	00000	Bodibeng	North	NW	Ngamiland South						
+BW	00000	Botlhatlogo	North	NW	Ngamiland South						
+BW	00000	Chanoga	North	NW	Ngamiland South						
+BW	00000	Habu	North	NW	Ngamiland South						
+BW	00000	Kareng	North	NW	Ngamiland South						
+BW	00000	Kgakge-Makakung	North	NW	Ngamiland South						
+BW	00000	Komana	North	NW	Ngamiland South						
+BW	00000	Mababe	North	NW	Ngamiland South						
+BW	00000	Makalamabedi	North	NW	Ngamiland South						
+BW	00000	Matlapana	North	NW	Ngamiland South						
+BW	00000	Matsaudi-Sakapane	North	NW	Ngamiland South						
+BW	00000	Maun	North	NW	Ngamiland South						
+BW	00000	Phuduhudu	North	NW	Ngamiland South						
+BW	00000	Sankuyo	North	NW	Ngamiland South						
+BW	00000	Sehithwa	North	NW	Ngamiland South						
+BW	00000	Semboyo	North	NW	Ngamiland South						
+BW	00000	Shorobe	North	NW	Ngamiland South						
+BW	00000	Toteng	North	NW	Ngamiland South						
+BW	00000	Tsao	North	NW	Ngamiland South						
+BW	00000	Selebi-Phikwe	Selibe	SP	Selebi Phikwe						
+BW	00000	Bethel	Southern	SO	Barolong						
+BW	00000	Borobadilepe	Southern	SO	Barolong						
+BW	00000	Digawana	Southern	SO	Barolong						
+BW	00000	Dikhukhung	Southern	SO	Barolong						
+BW	00000	Dinatshana	Southern	SO	Barolong						
+BW	00000	Ditlharapa	Southern	SO	Barolong						
+BW	00000	Gamajalela	Southern	SO	Barolong						
+BW	00000	Gathwane	Southern	SO	Barolong						
+BW	00000	Good Hope	Southern	SO	Barolong						
+BW	00000	Hebron	Southern	SO	Barolong						
+BW	00000	Kangwe	Southern	SO	Barolong						
+BW	00000	Kgoro	Southern	SO	Barolong						
+BW	00000	Lejwana	Southern	SO	Barolong						
+BW	00000	Leporung	Southern	SO	Barolong						
+BW	00000	Logagane	Southern	SO	Barolong						
+BW	00000	Lorwana	Southern	SO	Barolong						
+BW	00000	Mabule	Southern	SO	Barolong						
+BW	00000	Madingwana	Southern	SO	Barolong						
+BW	00000	Magoriapitse	Southern	SO	Barolong						
+BW	00000	Makokwe	Southern	SO	Barolong						
+BW	00000	Malokaganyane	Southern	SO	Barolong						
+BW	00000	Marojane	Southern	SO	Barolong						
+BW	00000	Metlobo	Southern	SO	Barolong						
+BW	00000	Metlojane	Southern	SO	Barolong						
+BW	00000	Mmakgori	Southern	SO	Barolong						
+BW	00000	Mmathethe	Southern	SO	Barolong						
+BW	00000	Mogojogojo	Southern	SO	Barolong						
+BW	00000	Mogwalale	Southern	SO	Barolong						
+BW	00000	Mokatako	Southern	SO	Barolong						
+BW	00000	Mokgomane	Southern	SO	Barolong						
+BW	00000	Molete	Southern	SO	Barolong						
+BW	00000	Motsentshe	Southern	SO	Barolong						
+BW	00000	Musi	Southern	SO	Barolong						
+BW	00000	Ngwatsau	Southern	SO	Barolong						
+BW	00000	Papatlo	Southern	SO	Barolong						
+BW	00000	Phihitshwane	Southern	SO	Barolong						
+BW	00000	Pitsana-Potokwe	Southern	SO	Barolong						
+BW	00000	Pitsane Siding	Southern	SO	Barolong						
+BW	00000	Pitshane Molopo	Southern	SO	Barolong						
+BW	00000	Rakhuna	Southern	SO	Barolong						
+BW	00000	Ramatlabama	Southern	SO	Barolong						
+BW	00000	Sedibeng	Southern	SO	Barolong						
+BW	00000	Sekhutlane	Southern	SO	Barolong						
+BW	00000	Tlhareseleele	Southern	SO	Barolong						
+BW	00000	Tshidilamolomo	Southern	SO	Barolong						
+BW	00000	Tswaaneng	Southern	SO	Barolong						
+BW	00000	Tswagare-Lothoje-Lokalana	Southern	SO	Barolong						
+BW	00000	Tswanyaneng	Southern	SO	Barolong						
+BW	00000	Betesankwe	Southern	SO	Ngwaketse						
+BW	00000	Diabo	Southern	SO	Ngwaketse						
+BW	00000	Dipotsana	Southern	SO	Ngwaketse						
+BW	00000	Gasita	Southern	SO	Ngwaketse						
+BW	00000	Kanye	Southern	SO	Ngwaketse						
+BW	00000	Kgomokasitwa	Southern	SO	Ngwaketse						
+BW	00000	Lefoko	Southern	SO	Ngwaketse						
+BW	00000	Lekgolobotlo	Southern	SO	Ngwaketse						
+BW	00000	Lorolwana	Southern	SO	Ngwaketse						
+BW	00000	Lotlhakane	Southern	SO	Ngwaketse						
+BW	00000	Lotlhakane West	Southern	SO	Ngwaketse						
+BW	00000	Magotlhwane	Southern	SO	Ngwaketse						
+BW	00000	Manyana	Southern	SO	Ngwaketse						
+BW	00000	Maokane	Southern	SO	Ngwaketse						
+BW	00000	Mogonye	Southern	SO	Ngwaketse						
+BW	00000	Mokhomba	Southern	SO	Ngwaketse						
+BW	00000	Molapowabojang	Southern	SO	Ngwaketse						
+BW	00000	Moshaneng	Southern	SO	Ngwaketse						
+BW	00000	Moshupa	Southern	SO	Ngwaketse						
+BW	00000	Ntlhantlhe	Southern	SO	Ngwaketse						
+BW	00000	Pitseng	Southern	SO	Ngwaketse						
+BW	00000	Ralekgetho	Southern	SO	Ngwaketse						
+BW	00000	Ranaka	Southern	SO	Ngwaketse						
+BW	00000	Segwagwa	Southern	SO	Ngwaketse						
+BW	00000	Seherelela	Southern	SO	Ngwaketse						
+BW	00000	Selokolela	Southern	SO	Ngwaketse						
+BW	00000	Semane	Southern	SO	Ngwaketse						
+BW	00000	Sese	Southern	SO	Ngwaketse						
+BW	00000	Sesung	Southern	SO	Ngwaketse						
+BW	00000	Tlhankane	Southern	SO	Ngwaketse						
+BW	00000	Tshwaane	Southern	SO	Ngwaketse						
+BW	00000	Tsonyane	Southern	SO	Ngwaketse						
+BW	00000	Mogobane	South	SE	South East						
+BW	00000	Otse	South	SE	South East						
+BW	00000	Ramotswa	South	SE	South East						
+BW	00000	Ramotswa station/Taung	South	SE	South East						
+BW	00000	Tlokweng	South	SE	South East						
+BW	00000	Sowa Town	Sowa	SO	Sowa Town						

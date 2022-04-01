@@ -1,0 +1,480 @@
+AL	2008	Plazh	Durrës	DR	Durrës	2000					
+AL	2021	Rrashbull	Durrës	DR	Durrës	2000					
+AL	2018	Rruget e Shijakut	Durrës	DR	Durrës	2000					
+AL	2013	Shijak:Zyra Postare Shijak	Durrës	DR	Durrës	2000					
+AL	2014	Shijak:Zyra Postare Shijak/1	Durrës	DR	Durrës	2000					
+AL	2007	Shkozet	Durrës	DR	Durrës	2000					
+AL	2009	Spitallë	Durrës	DR	Durrës	2000					
+AL	2010	Sukth	Durrës	DR	Durrës	2000					
+AL	5001	Berat	Berat	BR	Berat	5000					
+AL	5002	Berati:Zyra Postare Berati 1	Berat	BR	Berat	5000					
+AL	5003	Berati:Zyra Postare Berati 2	Berat	BR	Berat	5000					
+AL	5004	Berati:Zyra Postare Berati 4	Berat	BR	Berat	5000					
+AL	5005	Berati:Zyra Postare Berati 5	Berat	BR	Berat	5000					
+AL	5006	Berati:Zyra Postare Berati 6	Berat	BR	Berat	5000					
+AL	5018	Cukalat:Zyra Postare Cukalat	Berat	BR	Berat	5000					
+AL	5019	Cukalat:Zyra Postare Cukalat 1	Berat	BR	Berat	5000					
+AL	5009	Kutalli	Berat	BR	Berat	5000					
+AL	5020	Lapardha	Berat	BR	Berat	5000					
+AL	5013	Lumas	Berat	BR	Berat	5000					
+AL	5016	Mbrakull	Berat	BR	Berat	5000					
+AL	8005	Komsi	Dibër	DI	Mat	8000					
+AL	8009	Lis	Dibër	DI	Mat	8000					
+AL	8011	Macukull	Dibër	DI	Mat	8000					
+AL	8012	Rukaj	Dibër	DI	Mat	8000					
+AL	8007	Suç	Dibër	DI	Mat	8000					
+AL	8003	Ulëz	Dibër	DI	Mat	8000					
+AL	8008	Xibër	Dibër	DI	Mat	8000					
+AL	2016	Draç	Durrës	DR	Durrës	2000					
+AL	2001	Durrës:Zyra Postare Durres Qender	Durrës	DR	Durrës	2000					
+AL	2002	Durrësi:Zyra Postare Durresi 1	Durrës	DR	Durrës	2000					
+AL	2003	Durrësi:Zyra Postare Durresi 2	Durrës	DR	Durrës	2000					
+AL	2004	Durrësi:Zyra Postare Durresi 3	Durrës	DR	Durrës	2000					
+AL	2005	Durrësi:Zyra Postare Durresi 4	Durrës	DR	Durrës	2000					
+AL	2006	Durrësi:Zyra Postare Durresi 5	Durrës	DR	Durrës	2000					
+AL	2022	Gjepalaj	Durrës	DR	Durrës	2000					
+AL	2015	Ishëm	Durrës	DR	Durrës	2000					
+AL	2017	Katundi i Ri	Durrës	DR	Durrës	2000					
+AL	2012	Kullë	Durrës	DR	Durrës	2000					
+AL	2020	Maminas	Durrës	DR	Durrës	2000					
+AL	2011	Manzë	Durrës	DR	Durrës	2000					
+AL	8308	Kala e Dodës	Dibër	DI	Dibër	8300					
+AL	8305	Kastriot	Dibër	DI	Dibër	8300					
+AL	8312	Lurë	Dibër	DI	Dibër	8300					
+AL	8314	Luzni	Dibër	DI	Dibër	8300					
+AL	8302	Maqellarë	Dibër	DI	Dibër	8300					
+AL	8303	Melan	Dibër	DI	Dibër	8300					
+AL	8315	Muhur	Dibër	DI	Dibër	8300					
+AL	8301	Peshkopi	Dibër	DI	Dibër	8300					
+AL	8310	Reç	Dibër	DI	Dibër	8300					
+AL	8313	Selishtë	Dibër	DI	Dibër	8300					
+AL	8307	Sllovë	Dibër	DI	Dibër	8300					
+AL	8304	Tomin	Dibër	DI	Dibër	8300					
+AL	8309	Zall-Dardhë	Dibër	DI	Dibër	8300					
+AL	8004	Baz	Dibër	DI	Mat	8000					
+AL	8014	Bejn	Dibër	DI	Mat	8000					
+AL	8001	Burrel	Dibër	DI	Mat	8000					
+AL	8013	Cërrujë	Dibër	DI	Mat	8000					
+AL	8010	Derjan	Dibër	DI	Mat	8000					
+AL	8006	Gurrë	Dibër	DI	Mat	8000					
+AL	8002	Klos	Dibër	DI	Mat	8000					
+AL	3011	Shirgjan	Elbasan	EL	Elbasan	3000					
+AL	3025	Shushicë	Elbasan	EL	Elbasan	3000					
+AL	3026	Tregan	Elbasan	EL	Elbasan	3000					
+AL	3015	Zavalinë	Elbasan	EL	Elbasan	3000					
+AL	3301	Gramsh	Elbasan	EL	Gramsh	3300					
+AL	3310	Kodovjat	Elbasan	EL	Gramsh	3300					
+AL	3305	Kukur	Elbasan	EL	Gramsh	3300					
+AL	3306	Kushovë	Elbasan	EL	Gramsh	3300					
+AL	3309	Lenie	Elbasan	EL	Gramsh	3300					
+AL	3302	Pishaj	Elbasan	EL	Gramsh	3300					
+AL	3308	Poroçan	Elbasan	EL	Gramsh	3300					
+AL	3303	Skënderbegas	Elbasan	EL	Gramsh	3300					
+AL	3304	Sult	Elbasan	EL	Gramsh	3300					
+AL	3307	Tunjë	Elbasan	EL	Gramsh	3300					
+AL	3408	Hotolisht	Elbasan	EL	Librazhd	3400					
+AL	3401	Librazhd:Zyra Postare Librazhd 1	Elbasan	EL	Librazhd	3400					
+AL	3402	Librazhd:Zyra Postare Librazhd 2	Elbasan	EL	Librazhd	3400					
+AL	3410	Lunik	Elbasan	EL	Librazhd	3400					
+AL	8311	Arras	Dibër	DI	Dibër	8300					
+AL	8306	Fushë-Çidhën	Dibër	DI	Dibër	8300					
+AL	3001	Elbasan:Zyra Postare Elbasan 1	Elbasan	EL	Elbasan	3000					
+AL	3002	Elbasan:Zyra Postare Elbasan 2	Elbasan	EL	Elbasan	3000					
+AL	3003	Elbasan:Zyra Postare Elbasan 3	Elbasan	EL	Elbasan	3000					
+AL	3004	Elbasan:Zyra Postare Elbasan 4	Elbasan	EL	Elbasan	3000					
+AL	3005	Elbasan:Zyra Postare Elbasan 5	Elbasan	EL	Elbasan	3000					
+AL	3006	Elbasan:Zyra Postare Elbasan 6	Elbasan	EL	Elbasan	3000					
+AL	3023	Fierzë	Elbasan	EL	Elbasan	3000					
+AL	3013	Funar	Elbasan	EL	Elbasan	3000					
+AL	3027	Gjergjan	Elbasan	EL	Elbasan	3000					
+AL	3014	Gjinar	Elbasan	EL	Elbasan	3000					
+AL	3018	Gostimë	Elbasan	EL	Elbasan	3000					
+AL	3012	Gracen	Elbasan	EL	Elbasan	3000					
+AL	3021	Grekan	Elbasan	EL	Elbasan	3000					
+AL	3022	Kajan	Elbasan	EL	Elbasan	3000					
+AL	3020	Klos	Elbasan	EL	Elbasan	3000					
+AL	3010	Labinot Fushë	Elbasan	EL	Elbasan	3000					
+AL	3024	Labinot Mal	Elbasan	EL	Elbasan	3000					
+AL	3019	Mollas	Elbasan	EL	Elbasan	3000					
+AL	3016	Papër	Elbasan	EL	Elbasan	3000					
+AL	3017	Shalës	Elbasan	EL	Elbasan	3000					
+AL	9320	Suk	Fier	FR	Fier	9300					
+AL	9327	Vërri	Fier	FR	Fier	9300					
+AL	9317	Zharëz	Fier	FR	Fier	9300					
+AL	9005	Allkaj	Fier	FR	Lushnjë	9000					
+AL	9017	Ballagat	Fier	FR	Lushnjë	9000					
+AL	9016	Bubullimë	Fier	FR	Lushnjë	9000					
+AL	9022	Divjakë	Fier	FR	Lushnjë	9000					
+AL	9010	Dushk	Fier	FR	Lushnjë	9000					
+AL	2019	Xhafzotaj	Durrës	DR	Durrës	2000					
+AL	1508	Bruz	Durrës	DR	Krujë	1500					
+AL	1505	Bubq	Durrës	DR	Krujë	1500					
+AL	1502	Fushë Kruja	Durrës	DR	Krujë	1500					
+AL	1501	Kruja	Durrës	DR	Krujë	1500					
+AL	1504	Nikël	Durrës	DR	Krujë	1500					
+AL	1507	Sukth	Durrës	DR	Krujë	1500					
+AL	1503	Thumanë	Durrës	DR	Krujë	1500					
+AL	1506	Thumanë:Borizane	Durrës	DR	Krujë	1500					
+AL	3008	Belsh	Elbasan	EL	Elbasan	3000					
+AL	3009	Bradashesh	Elbasan	EL	Elbasan	3000					
+AL	3007	Cërrik	Elbasan	EL	Elbasan	3000					
+AL	9301	Fier:Zyra Postare Fier Qender	Fier	FR	Fier	9300					
+AL	9302	Fier:Zyra Postare Fier 1	Fier	FR	Fier	9300					
+AL	9303	Fier:Zyra Postare Fier 2	Fier	FR	Fier	9300					
+AL	9304	Fier:Zyra Postare Fier 3	Fier	FR	Fier	9300					
+AL	9305	Fier:Zyra Postare Fier 4	Fier	FR	Fier	9300					
+AL	9322	Fier-Ferme	Fier	FR	Fier	9300					
+AL	9313	Frakull	Fier	FR	Fier	9300					
+AL	9324	Kreshpan	Fier	FR	Fier	9300					
+AL	9315	Kuman	Fier	FR	Fier	9300					
+AL	9316	Kurjan	Fier	FR	Fier	9300					
+AL	9314	Levan	Fier	FR	Fier	9300					
+AL	9310	Libofshë	Fier	FR	Fier	9300					
+AL	9321	Ngjeqar	Fier	FR	Fier	9300					
+AL	9307	Patos	Fier	FR	Fier	9300					
+AL	9318	Portëz	Fier	FR	Fier	9300					
+AL	9323	Povelçe	Fier	FR	Fier	9300					
+AL	9306	Roskovec	Fier	FR	Fier	9300					
+AL	9312	Ruzhdie	Fier	FR	Fier	9300					
+AL	9326	Seman	Fier	FR	Fier	9300					
+AL	9319	Strum	Fier	FR	Fier	9300					
+AL	9019	Gorre	Fier	FR	Lushnjë	9000					
+AL	3409	Polis	Elbasan	EL	Librazhd	3400					
+AL	3403	Prrenjas:Zyra Postare Prrenjas 1	Elbasan	EL	Librazhd	3400					
+AL	3404	Prrenjas:Zyra Postare Prrenjas 2	Elbasan	EL	Librazhd	3400					
+AL	3413	Prrenjas	Elbasan	EL	Librazhd	3400					
+AL	3407	Qukës	Elbasan	EL	Librazhd	3400					
+AL	3411	Qukes	Elbasan	EL	Librazhd	3400					
+AL	3405	Rrajcë	Elbasan	EL	Librazhd	3400					
+AL	3412	Steblevë	Elbasan	EL	Librazhd	3400					
+AL	3406	Stravaj	Elbasan	EL	Librazhd	3400					
+AL	3505	Gjoçaj	Elbasan	EL	Peqin	3500					
+AL	3506	Karinë	Elbasan	EL	Peqin	3500					
+AL	3503	Pajovë	Elbasan	EL	Peqin	3500					
+AL	3501	Peqin	Elbasan	EL	Peqin	3500					
+AL	3502	Përparim	Elbasan	EL	Peqin	3500					
+AL	3504	Shezë	Elbasan	EL	Peqin	3500					
+AL	9325	Buzëmadh	Fier	FR	Fier	9300					
+AL	9311	Cakran	Fier	FR	Fier	9300					
+AL	9309	Deremenas	Fier	FR	Fier	9300					
+AL	9333	Dukas	Fier	FR	Fier	9300					
+AL	6012	Nivan	Gjirokastër	GJ	Gjirokastër	6000					
+AL	6009	Palokastër	Gjirokastër	GJ	Gjirokastër	6000					
+AL	6019	Picar	Gjirokastër	GJ	Gjirokastër	6000					
+AL	6007	Poliçan	Gjirokastër	GJ	Gjirokastër	6000					
+AL	6005	Sofratikë	Gjirokastër	GJ	Gjirokastër	6000					
+AL	6016	Suhë	Gjirokastër	GJ	Gjirokastër	6000					
+AL	6014	Ura e Kardhiqit	Gjirokastër	GJ	Gjirokastër	6000					
+AL	6013	Valare	Gjirokastër	GJ	Gjirokastër	6000					
+AL	6006	Vrisera	Gjirokastër	GJ	Gjirokastër	6000					
+AL	6406	Ballaban	Gjirokastër	GJ	Përmet	6400					
+AL	6403	Çarçovë	Gjirokastër	GJ	Përmet	6400					
+AL	6408	Frashër	Gjirokastër	GJ	Përmet	6400					
+AL	6402	Këlcyrë	Gjirokastër	GJ	Përmet	6400					
+AL	6409	Kosinë	Gjirokastër	GJ	Përmet	6400					
+AL	6401	Përmet	Gjirokastër	GJ	Përmet	6400					
+AL	6404	Petran	Gjirokastër	GJ	Përmet	6400					
+AL	6405	Piskovë	Gjirokastër	GJ	Përmet	6400					
+AL	6407	Sukë	Gjirokastër	GJ	Përmet	6400					
+AL	9013	Fiershegan	Fier	FR	Lushnjë	9000					
+AL	9012	Golem	Fier	FR	Lushnjë	9000					
+AL	9003	Savër	Fier	FR	Lushnjë	9000					
+AL	9015	Tërbuf	Fier	FR	Lushnjë	9000					
+AL	9330	Aranitas	Fier	FR	Mallakastër	9300					
+AL	9308	Ballsh	Fier	FR	Mallakastër	9300					
+AL	9328	Fratar	Fier	FR	Mallakastër	9300					
+AL	9331	Greshicë	Fier	FR	Mallakastër	9300					
+AL	9332	Hekal	Fier	FR	Mallakastër	9300					
+AL	9329	Kutë	Fier	FR	Mallakastër	9300					
+AL	9334	Ngraçan	Fier	FR	Mallakastër	9300					
+AL	9335	Selitë	Fier	FR	Mallakastër	9300					
+AL	6017	Antigone	Gjirokastër	GJ	Gjirokastër	6000					
+AL	6010	Derviçan	Gjirokastër	GJ	Gjirokastër	6000					
+AL	6018	Dhoksat	Gjirokastër	GJ	Gjirokastër	6000					
+AL	6008	Erind	Gjirokastër	GJ	Gjirokastër	6000					
+AL	6001	Gjirokastër:Zyra Postare Qender	Gjirokastër	GJ	Gjirokastër	6000					
+AL	6002	Gjirokastër:Zyra Postare Gjirokastra 1	Gjirokastër	GJ	Gjirokastër	6000					
+AL	6011	Jorgucat	Gjirokastër	GJ	Gjirokastër	6000					
+AL	6015	Labovë	Gjirokastër	GJ	Gjirokastër	6000					
+AL	6004	Lazarat	Gjirokastër	GJ	Gjirokastër	6000					
+AL	6003	Libohovë	Gjirokastër	GJ	Gjirokastër	6000					
+AL	7026	Voskop	Korçë	KO	Korçë	7000					
+AL	7029	Voskopojë	Korçë	KO	Korçë	7000					
+AL	7028	Vreshtas	Korçë	KO	Korçë	7000					
+AL	7027	Zvarisht	Korçë	KO	Korçë	7000					
+AL	7304	Buçimas	Korçë	KO	Pogradec	7300					
+AL	7306	Çërravë	Korçë	KO	Pogradec	7300					
+AL	7309	Dardhas	Korçë	KO	Pogradec	7300					
+AL	7301	Pogradec:Zyra Postare Qender Pogradec	Korçë	KO	Pogradec	7300					
+AL	9011	Grabijan	Fier	FR	Lushnjë	9000					
+AL	9014	Gradishtë	Fier	FR	Lushnjë	9000					
+AL	9009	Hysgjokaj	Fier	FR	Lushnjë	9000					
+AL	9008	Karbunarë e Madhe	Fier	FR	Lushnjë	9000					
+AL	9002	Karbunarë e Vogël	Fier	FR	Lushnjë	9000					
+AL	9020	Kashta e Bardhë	Fier	FR	Lushnjë	9000					
+AL	9021	Këmishtaj	Fier	FR	Lushnjë	9000					
+AL	9007	Kolonjë	Fier	FR	Lushnjë	9000					
+AL	9006	Krutje	Fier	FR	Lushnjë	9000					
+AL	9001	Lushnjë	Fier	FR	Lushnjë	9000					
+AL	9018	Pluk	Fier	FR	Lushnjë	9000					
+AL	9004	Remas	Fier	FR	Lushnjë	9000					
+AL	7013	Bulgarec	Korçë	KO	Korçë	7000					
+AL	7024	Dishnicë	Korçë	KO	Korçë	7000					
+AL	7023	Drenovë	Korçë	KO	Korçë	7000					
+AL	7010	Fitore	Korçë	KO	Korçë	7000					
+AL	7002	Korça:Zyra Postare Korca 1	Korçë	KO	Korçë	7000					
+AL	7003	Korça:Zyra Postare Korca 2	Korçë	KO	Korçë	7000					
+AL	7004	Korça:Zyra Postare Korca 3	Korçë	KO	Korçë	7000					
+AL	7001	Korçë	Korçë	KO	Korçë	7000					
+AL	7022	Lekas	Korçë	KO	Korçë	7000					
+AL	7021	Libonik	Korçë	KO	Korçë	7000					
+AL	7020	Liqenas	Korçë	KO	Korçë	7000					
+AL	7019	Lumalas	Korçë	KO	Korçë	7000					
+AL	7005	Maliq	Korçë	KO	Korçë	7000					
+AL	7018	Moglicë	Korçë	KO	Korçë	7000					
+AL	7017	Mollaj	Korçë	KO	Korçë	7000					
+AL	7016	Pirg	Korçë	KO	Korçë	7000					
+AL	7015	Plasë	Korçë	KO	Korçë	7000					
+AL	7014	Pojan	Korçë	KO	Korçë	7000					
+AL	7012	Vishocicë	Korçë	KO	Korçë	7000					
+AL	7025	Vithkuq	Korçë	KO	Korçë	7000					
+AL	6303	Gusmar	Gjirokastër	GJ	Tepelenë	6300					
+AL	6310	Kalivaç	Gjirokastër	GJ	Tepelenë	6300					
+AL	6307	Krahës	Gjirokastër	GJ	Tepelenë	6300					
+AL	6306	Luftinjë	Gjirokastër	GJ	Tepelenë	6300					
+AL	6302	Memaliaj	Gjirokastër	GJ	Tepelenë	6300					
+AL	6308	Qesarat	Gjirokastër	GJ	Tepelenë	6300					
+AL	6305	Sinanaj	Gjirokastër	GJ	Tepelenë	6300					
+AL	6301	Tepelenë	Gjirokastër	GJ	Tepelenë	6300					
+AL	6309	Zhapokikë	Gjirokastër	GJ	Tepelenë	6300					
+AL	7006	Bilisht	Korçë	KO	Devoll	7006					
+AL	7009	Hoçisht	Korçë	KO	Devoll	7006					
+AL	7007	Miras	Korçë	KO	Devoll	7006					
+AL	7011	Progër	Korçë	KO	Devoll	7006					
+AL	7404	Barmash	Korçë	KO	Kolonjë	7400					
+AL	7406	Çlirim	Korçë	KO	Kolonjë	7400					
+AL	7401	Ersekë	Korçë	KO	Kolonjë	7400					
+AL	7402	Leskovik	Korçë	KO	Kolonjë	7400					
+AL	7403	Mollas	Korçë	KO	Kolonjë	7400					
+AL	7405	Novoselë	Korçë	KO	Kolonjë	7400					
+AL	7008	Bitinckë	Korçë	KO	Korçë	7000					
+AL	8706	Lekbibaj	Kukës	KU	Tropojë	8700					
+AL	8705	Pac	Kukës	KU	Tropojë	8700					
+AL	8701	Tropojë:Zyra Postare Qender	Kukës	KU	Tropojë	8700					
+AL	8703	Tropojë	Kukës	KU	Tropojë	8700					
+AL	4706	Fushë-Kuqe	Lezhë	LE	Kurbin	4700					
+AL	4701	Laç:Zyra Postare Qender Lac	Lezhë	LE	Kurbin	4700					
+AL	4702	Laç:Zyra Postare Qender Lac 2	Lezhë	LE	Kurbin	4700					
+AL	4704	Mamuras	Lezhë	LE	Kurbin	4700					
+AL	4705	Milot	Lezhë	LE	Kurbin	4700					
+AL	4703	Sanxhak	Lezhë	LE	Kurbin	4700					
+AL	4504	Balldre	Lezhë	LE	Lezhë	4500					
+AL	4505	Blinisht	Lezhë	LE	Lezhë	4500					
+AL	4506	Dajç	Lezhë	LE	Lezhë	4500					
+AL	4507	Kallmet	Lezhë	LE	Lezhë	4500					
+AL	4501	Lezhë:Zyra Postare Qendre Lezhe	Lezhë	LE	Lezhë	4500					
+AL	4502	Lezhë:Zyra Postare Lezhe 1	Lezhë	LE	Lezhë	4500					
+AL	4509	Rrilë	Lezhë	LE	Lezhë	4500					
+AL	4503	Shëngjin	Lezhë	LE	Lezhë	4500					
+AL	6304	Buzë	Gjirokastër	GJ	Tepelenë	6300					
+AL	6311	Dragot	Gjirokastër	GJ	Tepelenë	6300					
+AL	8514	Bardhoc	Kukës	KU	Kukës	8500					
+AL	8504	Bicaj	Kukës	KU	Kukës	8500					
+AL	8519	Borjë	Kukës	KU	Kukës	8500					
+AL	8506	Bushtricë	Kukës	KU	Kukës	8500					
+AL	8507	Gryk-Çajë	Kukës	KU	Kukës	8500					
+AL	8508	Kalis	Kukës	KU	Kukës	8500					
+AL	8511	Kolsh	Kukës	KU	Kukës	8500					
+AL	8501	Kukës:Zyra Postare Qender	Kukës	KU	Kukës	8500					
+AL	8502	Kukës:Zyra Postare Kukes 2	Kukës	KU	Kukës	8500					
+AL	8503	Kukës:Zyra Postare Kukes 3	Kukës	KU	Kukës	8500					
+AL	8518	Novosej	Kukës	KU	Kukës	8500					
+AL	8512	Shëmri	Kukës	KU	Kukës	8500					
+AL	8517	Shishtavec	Kukës	KU	Kukës	8500					
+AL	8513	Shtiqën	Kukës	KU	Kukës	8500					
+AL	8510	Surroj	Kukës	KU	Kukës	8500					
+AL	8516	Topojan	Kukës	KU	Kukës	8500					
+AL	8505	Ujmisht	Kukës	KU	Kukës	8500					
+AL	8515	Zapod	Kukës	KU	Kukës	8500					
+AL	8702	Bajram Curri	Kukës	KU	Tropojë	8700					
+AL	8704	Fierzë	Kukës	KU	Tropojë	8700					
+AL	4001	Shkodër:Zyra Postare Qender	Shkodër	SH	Shkodër	4000					
+AL	4002	Shkodër:Zyra Postare Shkoder 1	Shkodër	SH	Shkodër	4000					
+AL	4003	Shkodër:Zyra Postare Shkoder 2	Shkodër	SH	Shkodër	4000					
+AL	4004	Shkodër:Zyra Postare Shkoder 3	Shkodër	SH	Shkodër	4000					
+AL	4005	Shkodër:Zyra Postare Shkoder 4	Shkodër	SH	Shkodër	4000					
+AL	4006	Shkodër:Zyra Postare Shkoder 5	Shkodër	SH	Shkodër	4000					
+AL	4007	Shkodër:Zyra Postare Shkoder 6	Shkodër	SH	Shkodër	4000					
+AL	4014	Shllak	Shkodër	SH	Shkodër	4000					
+AL	7302	Pogradec:Zyra Postare Pogradec 1	Korçë	KO	Pogradec	7300					
+AL	7303	Pogradec:Zyra Postare Pogradec 2	Korçë	KO	Pogradec	7300					
+AL	7308	Proptisht	Korçë	KO	Pogradec	7300					
+AL	7307	Trebinjë	Korçë	KO	Pogradec	7300					
+AL	7305	Udënisht	Korçë	KO	Pogradec	7300					
+AL	7310	Velçan	Korçë	KO	Pogradec	7300					
+AL	8604	Fajza	Kukës	KU	Has	8600					
+AL	8605	Gjinaj	Kukës	KU	Has	8600					
+AL	8603	Golaj	Kukës	KU	Has	8600					
+AL	8601	Has	Kukës	KU	Has	8600					
+AL	8602	Krumë	Kukës	KU	Has	8600					
+AL	8509	Arrën	Kukës	KU	Kukës	8500					
+AL	4406	Qafë Mali	Shkodër	SH	Pukë	4400					
+AL	4405	Qelëz	Shkodër	SH	Pukë	4400					
+AL	4407	Rrapë	Shkodër	SH	Pukë	4400					
+AL	4023	Ashtë	Shkodër	SH	Shkodër	4000					
+AL	4022	Barbullush	Shkodër	SH	Shkodër	4000					
+AL	4018	Berdicë	Shkodër	SH	Shkodër	4000					
+AL	4021	Bushat	Shkodër	SH	Shkodër	4000					
+AL	4019	Dajç	Shkodër	SH	Shkodër	4000					
+AL	4015	Dobraç	Shkodër	SH	Shkodër	4000					
+AL	4009	Dukagjin	Shkodër	SH	Shkodër	4000					
+AL	4030	Fierzë	Shkodër	SH	Shkodër	4000					
+AL	4016	Guri i Zi	Shkodër	SH	Shkodër	4000					
+AL	4029	Hajmel	Shkodër	SH	Shkodër	4000					
+AL	4027	Kaçë	Shkodër	SH	Shkodër	4000					
+AL	4013	Koman	Shkodër	SH	Shkodër	4000					
+AL	4012	Mes	Shkodër	SH	Shkodër	4000					
+AL	4026	Mjedë	Shkodër	SH	Shkodër	4000					
+AL	4017	Oblikë	Shkodër	SH	Shkodër	4000					
+AL	4010	Pult	Shkodër	SH	Shkodër	4000					
+AL	4025	Ranza	Shkodër	SH	Shkodër	4000					
+AL	4608	Fan	Lezhë	LE	Mirditë	4600					
+AL	4607	Kaçinar	Lezhë	LE	Mirditë	4600					
+AL	4606	Kthellë	Lezhë	LE	Mirditë	4600					
+AL	4605	Orosh	Lezhë	LE	Mirditë	4600					
+AL	4601	Rrëshen:Zyra Postare Rreshen	Lezhë	LE	Mirditë	4600					
+AL	4602	Rrëshen:Zyra Postare Rreshen 1	Lezhë	LE	Mirditë	4600					
+AL	4603	Rubik	Lezhë	LE	Mirditë	4600					
+AL	4604	Selitë	Lezhë	LE	Mirditë	4600					
+AL	4306	Bajzë	Shkodër	SH	Malësi e Madhe	4300					
+AL	4305	Dedaj	Shkodër	SH	Malësi e Madhe	4300					
+AL	4303	Grizhë	Shkodër	SH	Malësi e Madhe	4300					
+AL	4302	Gruemirë	Shkodër	SH	Malësi e Madhe	4300					
+AL	4301	Koplik	Shkodër	SH	Malësi e Madhe	4300					
+AL	4304	Tamarë	Shkodër	SH	Malësi e Madhe	4300					
+AL	4404	Blerim	Shkodër	SH	Pukë	4400					
+AL	4402	Fushë-Arrëz	Shkodër	SH	Pukë	4400					
+AL	4408	Gjegjan	Shkodër	SH	Pukë	4400					
+AL	4403	Iballë	Shkodër	SH	Pukë	4400					
+AL	4409	Luf	Shkodër	SH	Pukë	4400					
+AL	4401	Pukë	Shkodër	SH	Pukë	4400					
+AL	1044	Sauk	Tiranë	TR	Tiranë	1000					
+AL	1046	Selitë	Tiranë	TR	Tiranë	1000					
+AL	1043	Shëngjergj	Tiranë	TR	Tiranë	1000					
+AL	1001	Tirana:Zyra Posta Tirana 5	Tiranë	TR	Tiranë	1000					
+AL	1002	Tirana:Zyra Posta Tirana 26	Tiranë	TR	Tiranë	1000					
+AL	1003	Tirana:Zyra Posta Tirana 13	Tiranë	TR	Tiranë	1000					
+AL	1004	Tirana:Zyra Posta Tirana 18	Tiranë	TR	Tiranë	1000					
+AL	1005	Tirana:Zyra Posta Tirana 14	Tiranë	TR	Tiranë	1000					
+AL	1006	Tirana:Zyra Posta Tirana 22	Tiranë	TR	Tiranë	1000					
+AL	1007	Tirana:Zyra Posta Tirana 10	Tiranë	TR	Tiranë	1000					
+AL	1008	Tirana:Zyra Posta Tirana 30	Tiranë	TR	Tiranë	1000					
+AL	1009	Tirana:Zyra Posta Tirana 46	Tiranë	TR	Tiranë	1000					
+AL	1010	Tirana:Zyra Posta Tirana 1	Tiranë	TR	Tiranë	1000					
+AL	1011	Tirana:Zyra Posta Tirana 29	Tiranë	TR	Tiranë	1000					
+AL	1012	Tirana:Zyra Posta Tirana 19	Tiranë	TR	Tiranë	1000					
+AL	1013	Tirana:Zyra Posta Tirana 24	Tiranë	TR	Tiranë	1000					
+AL	1014	Tirana:Zyra Posta Tirana 27	Tiranë	TR	Tiranë	1000					
+AL	1015	Tirana:Zyra Posta Tirana 32	Tiranë	TR	Tiranë	1000					
+AL	4508	Ungrej	Lezhë	LE	Lezhë	4500					
+AL	4510	Zejmen	Lezhë	LE	Lezhë	4500					
+AL	2509	Luz i Vogël	Tiranë	TR	Kavajë	2500					
+AL	2503	Rrogozhinë	Tiranë	TR	Kavajë	2500					
+AL	2511	Sinaballaj	Tiranë	TR	Kavajë	2500					
+AL	2505	Synej	Tiranë	TR	Kavajë	2500					
+AL	1047	Babrru	Tiranë	TR	Tiranë	1000					
+AL	1035	Baldushk	Tiranë	TR	Tiranë	1000					
+AL	1054	Bathorë	Tiranë	TR	Tiranë	1000					
+AL	1053	Bërxull	Tiranë	TR	Tiranë	1000					
+AL	1037	Bërzhitë	Tiranë	TR	Tiranë	1000					
+AL	1045	Farkë	Tiranë	TR	Tiranë	1000					
+AL	1030	Kamëz	Tiranë	TR	Tiranë	1000					
+AL	1029	Kamëz Institut	Tiranë	TR	Tiranë	1000					
+AL	1051	Kashar	Tiranë	TR	Tiranë	1000					
+AL	1049	Krrabë	Tiranë	TR	Tiranë	1000					
+AL	1050	Mëzez	Tiranë	TR	Tiranë	1000					
+AL	1036	Ndroq	Tiranë	TR	Tiranë	1000					
+AL	1034	Petrelë	Tiranë	TR	Tiranë	1000					
+AL	1038	Pezë	Tiranë	TR	Tiranë	1000					
+AL	1039	Prezë	Tiranë	TR	Tiranë	1000					
+AL	1040	Priskë (Dajt)	Tiranë	TR	Tiranë	1000					
+AL	9422	Dhërmi	Vlorë	VL	Vlorë	9400					
+AL	9421	Gjorm	Vlorë	VL	Vlorë	9400					
+AL	9425	Himarë	Vlorë	VL	Vlorë	9400					
+AL	9407	Kotë	Vlorë	VL	Vlorë	9400					
+AL	9418	Kuç	Vlorë	VL	Vlorë	9400					
+AL	1016	Tirana:Zyra Posta Tirana 4	Tiranë	TR	Tiranë	1000					
+AL	1017	Tirana:Zyra Posta Tirana 3	Tiranë	TR	Tiranë	1000					
+AL	1018	Tirana:Zyra Posta Tirana 31	Tiranë	TR	Tiranë	1000					
+AL	4011	Shosh	Shkodër	SH	Shkodër	4000					
+AL	4024	Stajkë	Shkodër	SH	Shkodër	4000					
+AL	4008	Vau i Dejës	Shkodër	SH	Shkodër	4000					
+AL	4020	Velipojë	Shkodër	SH	Shkodër	4000					
+AL	4028	Vig-Mnelë	Shkodër	SH	Shkodër	4000					
+AL	2504	Golem	Tiranë	TR	Kavajë	2500					
+AL	2508	Gosë	Tiranë	TR	Kavajë	2500					
+AL	2506	Helmas	Tiranë	TR	Kavajë	2500					
+AL	2501	Kavaja:Zyra Postare Kavaja Qender	Tiranë	TR	Kavajë	2500					
+AL	2502	Kavaja:Zyra Postare Kavaja 1	Tiranë	TR	Kavajë	2500					
+AL	2510	Kryevidh	Tiranë	TR	Kavajë	2500					
+AL	2507	Lekaj	Tiranë	TR	Kavajë	2500					
+AL	9710	Aliko	Vlorë	VL	Sarandë	9700					
+AL	9714	Borsh	Vlorë	VL	Sarandë	9700					
+AL	9712	Cerkovic	Vlorë	VL	Sarandë	9700					
+AL	9705	Konispol	Vlorë	VL	Sarandë	9700					
+AL	9706	Ksamil	Vlorë	VL	Sarandë	9700					
+AL	9721	Livadhja	Vlorë	VL	Sarandë	9700					
+AL	9713	Lukovë	Vlorë	VL	Sarandë	9700					
+AL	9708	Markat	Vlorë	VL	Sarandë	9700					
+AL	9711	Memoraq	Vlorë	VL	Sarandë	9700					
+AL	9715	Piqeras	Vlorë	VL	Sarandë	9700					
+AL	9703	Saranda Gjashtë	Vlorë	VL	Sarandë	9700					
+AL	9701	Sarandë:Zyra Postare Qender Sarande	Vlorë	VL	Sarandë	9700					
+AL	9702	Sarandë:Zyra Postare Saranda 1	Vlorë	VL	Sarandë	9700					
+AL	9709	Shalës	Vlorë	VL	Sarandë	9700					
+AL	9719	Stjar	Vlorë	VL	Sarandë	9700					
+AL	9707	Xarrë	Vlorë	VL	Sarandë	9700					
+AL	9409	Armen	Vlorë	VL	Vlorë	9400					
+AL	9423	Babicë	Vlorë	VL	Vlorë	9400					
+AL	9419	Bestrovë	Vlorë	VL	Vlorë	9400					
+AL	9408	Brataj	Vlorë	VL	Vlorë	9400					
+AL	1021	Tirana:Zyra Posta Tirana 8/2	Tiranë	TR	Tiranë	1000					
+AL	1022	Tirana:Zyra Posta Tirana 33	Tiranë	TR	Tiranë	1000					
+AL	1023	Tirana:Zyra Posta Tirana 9	Tiranë	TR	Tiranë	1000					
+AL	1024	Tirana:Zyra Posta Tirana 21	Tiranë	TR	Tiranë	1000					
+AL	1025	Tirana:Zyra Posta Tirana 7	Tiranë	TR	Tiranë	1000					
+AL	1026	Tirana:Zyra Posta Tirana 23	Tiranë	TR	Tiranë	1000					
+AL	1027	Tirana:Zyra Posta Tirana 6	Tiranë	TR	Tiranë	1000					
+AL	1028	Tirana:Zyra Posta Tirana 28	Tiranë	TR	Tiranë	1000					
+AL	1031	Tirana:Zyra Posta Tirane 11	Tiranë	TR	Tiranë	1000					
+AL	1033	Tirana Marikaj	Tiranë	TR	Tiranë	1000					
+AL	1041	Vaqarr	Tiranë	TR	Tiranë	1000					
+AL	1032	Vorë	Tiranë	TR	Tiranë	1000					
+AL	1052	Yzberisht	Tiranë	TR	Tiranë	1000					
+AL	1042	Zall-Bastar	Tiranë	TR	Tiranë	1000					
+AL	1048	Zall-Herr	Tiranë	TR	Tiranë	1000					
+AL	9704	Delvinë	Vlorë	VL	Delvinë	9740					
+AL	9716	Finiq	Vlorë	VL	Delvinë	9740					
+AL	9717	Mesapotam	Vlorë	VL	Delvinë	9740					
+AL	9718	Rusan	Vlorë	VL	Delvinë	9740					
+AL	9720	Vergo	Vlorë	VL	Delvinë	9740					
+AL	9417	Vuno	Vlorë	VL	Vlorë	9400					
+AL	9402	Vlorë:Zyra Postare Vlora-1	Vlorë	VL	Vlorë	9400					
+AL	9401	Vlorë:Zyra Postare Vlora Qender	Vlorë	VL	Vlorë	9400					
+AL	9403	Vlora:Zyra Postare Vlora-2	Vlorë	VL	Vlorë	9400					
+AL	9412	Vllahinë	Vlorë	VL	Vlorë	9400					
+AL	9405	Uji Ftohte	Vlorë	VL	Vlorë	9400					
+AL	9420	Trevllazër	Vlorë	VL	Vlorë	9400					
+AL	9413	Tërbaç (Vranisht)	Vlorë	VL	Vlorë	9400					
+AL	9404	Skele-Vlorë	Vlorë	VL	Vlorë	9400					
+AL	9406	Shushicë	Vlorë	VL	Vlorë	9400					
+AL	9410	Sevaster	Vlorë	VL	Vlorë	9400					
+AL	9427	Selenicë	Vlorë	VL	Vlorë	9400					
+AL	9415	Ramicë	Vlorë	VL	Vlorë	9400					
+AL	9416	Qeparo	Vlorë	VL	Vlorë	9400					
+AL	9426	Orikum	Vlorë	VL	Vlorë	9400					
+AL	9411	Novoselë	Vlorë	VL	Vlorë	9400					
+AL	9414	Nartë	Vlorë	VL	Vlorë	9400					
+AL	9424	Mesaplik	Vlorë	VL	Vlorë	9400					
+AL	9418	Kuç	Vlorë	VL	Vlorë	9400					
+AL	9407	Kotë	Vlorë	VL	Vlorë	9400					

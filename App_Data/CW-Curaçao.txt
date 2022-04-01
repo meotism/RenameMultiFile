@@ -1,0 +1,60 @@
+CW	00000	Brievengat	Curaçao	CW	Willemstad
+CW	00000	Buena Vista	Curaçao	CW	Willemstad
+CW	00000	Charo	Curaçao	CW	Willemstad
+CW	00000	Emmastad	Curaçao	CW	Willemstad
+CW	00000	Groot Davelaar	Curaçao	CW	Willemstad
+CW	00000	Groot Piscadera	Curaçao	CW	Willemstad
+CW	00000	Habaai	Curaçao	CW	Willemstad
+CW	00000	Julianadorp	Curaçao	CW	Willemstad
+CW	00000	Kanga/Deina	Curaçao	CW	Willemstad
+CW	00000	Landhuis Hato	Curaçao	CW	Willemstad
+CW	00000	Mahuma	Curaçao	CW	Willemstad
+CW	00000	Marchena	Curaçao	CW	Willemstad
+CW	00000	Montaña Abou	Curaçao	CW	Willemstad
+CW	00000	Montaña Rey	Curaçao	CW	Willemstad
+CW	00000	Mundo Nobo	Curaçao	CW	Willemstad
+CW	00000	Nieuw Nederland	Curaçao	CW	Willemstad
+CW	00000	Nieuwe Haven	Curaçao	CW	Willemstad
+CW	00000	Otrobanda	Curaçao	CW	Willemstad
+CW	00000	Parera	Curaçao	CW	Willemstad
+CW	00000	Piscadera	Curaçao	CW	Willemstad
+CW	00000	Punda	Curaçao	CW	Willemstad
+CW	00000	Ronde Klip	Curaçao	CW	Willemstad
+CW	00000	Rooi Catochi	Curaçao	CW	Willemstad
+CW	00000	Roosendaal	Curaçao	CW	Willemstad
+CW	00000	Saliña	Curaçao	CW	Willemstad
+CW	00000	Saliña Harbour View	Curaçao	CW	Willemstad
+CW	00000	Santa Catharina	Curaçao	CW	Willemstad
+CW	00000	Santa Maria	Curaçao	CW	Willemstad
+CW	00000	Santa Rosa	Curaçao	CW	Willemstad
+CW	00000	Scherpenheuvel	Curaçao	CW	Willemstad
+CW	00000	Seru Fortuna	Curaçao	CW	Willemstad
+CW	00000	Sint Jacob	Curaçao	CW	Willemstad
+CW	00000	Souax	Curaçao	CW	Willemstad
+CW	00000	Sun Valley	Curaçao	CW	Willemstad
+CW	00000	Sunset Heights	Curaçao	CW	Willemstad
+CW	00000	Wacao	Curaçao	CW	Willemstad
+CW	00000	Wanapa	Curaçao	CW	Willemstad
+CW	00000	Welgelegen	Curaçao	CW	Willemstad
+CW	00000	Willemstad 	Curaçao	CW	Willemstad
+CW	00000	Wishi	Curaçao	CW	Willemstad
+CW	00000	Barber	Curaçao	CW	Banda abou 
+CW	00000	Bisento	Curaçao	CW	Banda abou 
+CW	00000	Christoffelpark National Park Christoffel	Curaçao	CW	Banda abou 
+CW	00000	Daniel	Curaçao	CW	Banda abou 
+CW	00000	Grote Berg‎	Curaçao	CW	Banda abou 
+CW	00000	Jan Donker	Curaçao	CW	Banda abou 
+CW	00000	Jan Kok	Curaçao	CW	Banda abou 
+CW	00000	Lagun	Curaçao	CW	Banda abou 
+CW	00000	Leliënberg	Curaçao	CW	Banda abou 
+CW	00000	Sabana Westpunt	Curaçao	CW	Banda abou 
+CW	00000	Seru Grandi	Curaçao	CW	Banda abou 
+CW	00000	Sint Willibrordus	Curaçao	CW	Banda abou 
+CW	00000	Soto	Curaçao	CW	Banda abou 
+CW	00000	Tera Korá	Curaçao	CW	Banda abou 
+CW	00000	Westpunt	Curaçao	CW	Banda abou 
+CW	00000	Labadera	Curaçao	CW	Labadera 
+CW	00000	Moko	Curaçao	CW	Saliña 
+CW	00000	Nieuwpoort	Curaçao	CW	Saliña 
+CW	00000	Boka Samí	Curaçao	CW	Sint Michiel 
+CW	00000	Sint Michiel	Curaçao	CW	Sint Michiel 

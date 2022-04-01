@@ -1,0 +1,547 @@
+BN	KF4138	Kampong Bang Pukul	Belait	BE	Bukit Sawat	BS					
+BN	KF4338	Kampong Bang Tajuk	Belait	BE	Bukit Sawat	BS					
+BN	KF1338	Kampong Bisut	Belait	BE	Bukit Sawat	BS					
+BN	KF2138	Kampong Bukit Kandol	Belait	BE	Bukit Sawat	BS					
+BN	KF1738	Kampong Bukit Sawat	Belait	BE	Bukit Sawat	BS					
+BN	KF2738	Kampong Bukit Serawong	Belait	BE	Bukit Sawat	BS					
+BN	KF2538	Kampong Kagu	Belait	BE	Bukit Sawat	BS					
+BN	KF2338	Kampong Labi Lakang	Belait	BE	Bukit Sawat	BS					
+BN	KF3538	Kampong Laong Arut	Belait	BE	Bukit Sawat	BS					
+BN	KF3338	Kampong Merangking Hilir	Belait	BE	Bukit Sawat	BS					
+BN	KF3138	Kampong Merangking Ulu	Belait	BE	Bukit Sawat	BS					
+BN	KF3938	Kampong Pengkalan Siong	Belait	BE	Bukit Sawat	BS					
+BN	KF4738	Kampong Pengkalan Sungai Mau	Belait	BE	Bukit Sawat	BS					
+BN	KF4538	Kampong Pulu Apil	Belait	BE	Bukit Sawat	BS					
+BN	KF2938	Kampong Singap	Belait	BE	Bukit Sawat	BS					
+BN	KF1138	Kampong Sungai Mau	Belait	BE	Bukit Sawat	BS					
+BN	KF1538	Kampong Sungai Ubar	Belait	BE	Bukit Sawat	BS					
+BN	KF3738	Kampong Tarap	Belait	BE	Bukit Sawat	BS					
+BN	KF1938	Kampong Ubok-Ubok	Belait	BE	Bukit Sawat	BS					
+BN	KD1132	Kampong Kuala Balai	Belait	BE	Kuala Balai	BA					
+BN	KD1332	Kampong Mala'as	Belait	BE	Kuala Balai	BA					
+BN	KD1532	Kampong Sungai Damit	Belait	BE	Kuala Balai	BA					
+BN	KA1131	Jabatan Bandaran	Belait	BE	Kuala Belait	BT					
+BN	KA1131	Jabatan Daearah Kuala Belait	Belait	BE	Kuala Belait	BT					
+BN	KA2331	Kampong China	Belait	BE	Kuala Belait	BT					
+BN	KA1331	Kampong Melayu Asli	Belait	BE	Kuala Belait	BT					
+BN	KA1731	Kampong Mumong Selatan	Belait	BE	Kuala Belait	BT					
+BN	KA1531	Kampong Mumong Utara	Belait	BE	Kuala Belait	BT					
+BN	KA1931	Kampong Pandan	Belait	BE	Kuala Belait	BT					
+BN	KA2731	Kampong Rasau	Belait	BE	Kuala Belait	BT					
+BN	KA3131	Kampong Sungai Duhon	Belait	BE	Kuala Belait	BT					
+BN	KA3331	Kampong Sungai Teraban	Belait	BE	Kuala Belait	BT					
+BN	KA1131	Pekan Kuala Belait	Belait	BE	Kuala Belait	BT					
+BN	KA2931	Perumahan BSP	Belait	BE	Kuala Belait	BT					
+BN	KA2131	Perumahan Negara Kampung Pandan	Belait	BE	Kuala Belait	BT					
+BN	KA3531	Sungai Satu Hingga Sungai Tujoh	Belait	BE	Kuala Belait	BT					
+BN	KE1137	Kampong Bukit Puan	Belait	BE	Labi	LA					
+BN	KE2537	Kampong Gatas	Belait	BE	Labi	LA					
+BN	KE2737	Kampong Kenapol	Belait	BE	Labi	LA					
+BN	KE1537	Kampong Malayan	Belait	BE	Labi	LA					
+BN	KE3537	Kampong Mendaram Besar	Belait	BE	Labi	LA					
+BN	KE3737	Kampong Mendaram Kecil	Belait	BE	Labi	LA					
+BN	KE2937	Kampong Pesilin	Belait	BE	Labi	LA					
+BN	KE3337	Kampong Rampayoh	Belait	BE	Labi	LA					
+BN	KE2137	Kampong Ratan	Belait	BE	Labi	LA					
+BN	KE1337	Kampong Sungai Patai	Belait	BE	Labi	LA					
+BN	KE3137	Kampong Tarawan	Belait	BE	Labi	LA					
+BN	KE1937	Kampong Tenajor	Belait	BE	Labi	LA					
+BN	KE3937	Kampong Teraja	Belait	BE	Labi	LA					
+BN	KE2337	Kampong Terunan	Belait	BE	Labi	LA					
+BN	KE1737	Kampong Tupan Lupak	Belait	BE	Labi	LA					
+BN	KC1535	Kampong Andalau	Belait	BE	Liang	LI					
+BN	KC1335	Kampong Gana	Belait	BE	Liang	LI					
+BN	KC1735	Kampong Keluyoh	Belait	BE	Liang	LI					
+BN	KC2335	Kampong Liang Kecil	Belait	BE	Liang	LI					
+BN	KC2535	Kampong Lilas	Belait	BE	Liang	LI					
+BN	KC2135	Kampong Padang	Belait	BE	Liang	LI					
+BN	KC1935	Kampong Perumpong	Belait	BE	Liang	LI					
+BN	KC1135	Kampong Sungai Liang	Belait	BE	Liang	LI					
+BN	KC2735	Kampong Tunggulian	Belait	BE	Liang	LI					
+BN	KC3135	Lumut Dua	Belait	BE	Liang	LI					
+BN	KC2935	Lumut Satu	Belait	BE	Liang	LI					
+BN	KH1539	Kampong Bengerang II	Belait	BE	Melilas	ME					
+BN	KH1339	Kampong Melilas	Belait	BE	Melilas	ME					
+BN	KH1139	Kampong Tempinak	Belait	BE	Melilas	ME					
+BN	KB2333	Kampong Anduki	Belait	BE	Seria	SE					
+BN	KB3933	Kampong Jabang	Belait	BE	Seria	SE					
+BN	KB2133	Kampong Jalan Bedas	Belait	BE	Seria	SE					
+BN	KB1333	Kampong Lorong Tiga Selatan	Belait	BE	Seria	SE					
+BN	KB2733	Kampong Masjid	Belait	BE	Seria	SE					
+BN	KB1133	Kampong Pekan Seria	Belait	BE	Seria	SE					
+BN	KB1733	Kampong Perakong	Belait	BE	Seria	SE					
+BN	KB2533	Kampong Perpindahan Baru	Belait	BE	Seria	SE					
+BN	KB1933	Kampong Sungai Bera	Belait	BE	Seria	SE					
+BN	KB4333	Kawasan Jalan Bolkiah	Belait	BE	Seria	SE					
+BN	KB2933	Kawasan Perumahan B.S.P	Belait	BE	Seria	SE					
+BN	KB3133	Kawasan Perumahan B.S.P	Belait	BE	Seria	SE					
+BN	KB3333	Kawasan Perumahan B.S.P	Belait	BE	Seria	SE					
+BN	KB3533	Kawasan Shell	Belait	BE	Seria	SE					
+BN	KB3733	Military Area	Belait	BE	Seria	SE					
+BN	KB4533	Panaga	Belait	BE	Seria	SE					
+BN	KB1533	Perumahan Negara	Belait	BE	Seria	SE					
+BN	KB4133	Sekolah Mission	Belait	BE	Seria	SE					
+BN	KG2339	Kampong Ambawang	Belait	BE	Sukang	SU					
+BN	KG1139	Kampong Apak - Apak	Belait	BE	Sukang	SU					
+BN	KG2539	Kampong Biadong Tengah	Belait	BE	Sukang	SU					
+BN	KG2739	Kampong Biadong Ulu	Belait	BE	Sukang	SU					
+BN	KG1539	Kampong Buau	Belait	BE	Sukang	SU					
+BN	KG2139	Kampong Dungun	Belait	BE	Sukang	SU					
+BN	KG1739	Kampong Kukup	Belait	BE	Sukang	SU					
+BN	KG1339	Kampong Saud	Belait	BE	Sukang	SU					
+BN	KG1939	Kampong Sukang	Belait	BE	Sukang	SU					
+BN	BS8610	Adat Istiadat Negara	Brunei Muara	BM	Bandar Seri Begawan	BB					
+BN	BS8610	Agensi Pelaburan Brunei	Brunei Muara	BM	Bandar Seri Begawan	BB					
+BN	BS8211	Berangan	Brunei Muara	BM	Bandar Seri Begawan	BB					
+BN	BS8810	Jabatan Bandaran	Brunei Muara	BM	Bandar Seri Begawan	BB					
+BN	BS8510	Jabatan Hal Ehwal Syariah	Brunei Muara	BM	Bandar Seri Begawan	BB					
+BN	BS8610	Jabatan Perbendaharan	Brunei Muara	BM	Bandar Seri Begawan	BB					
+BN	BS8410	Jabatan Perkembangan Kurikulum	Brunei Muara	BM	Bandar Seri Begawan	BB					
+BN	BS8610	Jabatan Pusat Sejarah	Brunei Muara	BM	Bandar Seri Begawan	BB					
+BN	BS8610	JPM (Bangunan Setiausaha Kerajaan)	Brunei Muara	BM	Bandar Seri Begawan	BB					
+BN	BS8810	Kastam dan Eksais DiRaja	Brunei Muara	BM	Bandar Seri Begawan	BB					
+BN	BS8811	Kawasan Perdagangan Bumi Putera	Brunei Muara	BM	Bandar Seri Begawan	BB					
+BN	BS8611	Kawasan Pusat Sejarah	Brunei Muara	BM	Bandar Seri Begawan	BB					
+BN	BS8711	Kawasan Yayasan Sultan Haji Hassanal Bolkiah	Brunei Muara	BM	Bandar Seri Begawan	BB					
+BN	BS8610	Kementerian HAL EHWAL DALAM NEGERI	Brunei Muara	BM	Bandar Seri Begawan	BB					
+BN	BS8110	Kementerian KEBUDAYAAN, BELIA DAN SUKAN	Brunei Muara	BM	Bandar Seri Begawan	BB					
+BN	BS8710	Kementerian KEWANGAN	Brunei Muara	BM	Bandar Seri Begawan	BB					
+BN	BS8111	Kianggeh	Brunei Muara	BM	Bandar Seri Begawan	BB					
+BN	BS8610	Lembaga Mata Wang	Brunei Muara	BM	Bandar Seri Begawan	BB					
+BN	BS8610	Majlis-Majlis Mesyuarat Negara	Brunei Muara	BM	Bandar Seri Begawan	BB					
+BN	BS8510	Mufti Kerajaan Brunei	Brunei Muara	BM	Bandar Seri Begawan	BB					
+BN	BS8411	Padang	Brunei Muara	BM	Bandar Seri Begawan	BB					
+BN	BS8510	Pejabat Kadi Besar	Brunei Muara	BM	Bandar Seri Begawan	BB					
+BN	BS8710	Perancangan dan Kemajuan Ekonomi	Brunei Muara	BM	Bandar Seri Begawan	BB					
+BN	BS8110	Pusat Kesenian dan Pertukangan	Brunei Muara	BM	Bandar Seri Begawan	BB					
+BN	BS8610	Radio Dan Televisyen Brunei	Brunei Muara	BM	Bandar Seri Begawan	BB					
+BN	BS8511	Sumbiling	Brunei Muara	BM	Bandar Seri Begawan	BB					
+BN	BS8710	Tabung Amanah Pekerja	Brunei Muara	BM	Bandar Seri Begawan	BB					
+BN	BS8311	Tasek Lama	Brunei Muara	BM	Bandar Seri Begawan	BB					
+BN	BB3510	Angkatan Bersenjata Diraja Brunei	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3910	Badan Kemajuan Industri Brunei (BINA)	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3510	Dewan Bahasa dan Pustaka	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3910	Jabatan AuditB	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3510	Jabatan Belia dan Sukan	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3510	Jabatan Biro Mencegah Rasuah	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3910	Jabatan Buruh	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3510	Jabatan Daerah Brunei Muara	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3910	Jabatan Imigresen dan Pendaftaran	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3510	Jabatan Kemajuan Perumahan	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3510	Jabatan Kenaziran Sekola-Sekolah	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3510	Jabatan Kerja Raya	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3510	Jabatan Penerangan	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB2513	Jabatan Penerbangan Awam	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3510	Jabatan Pentadbiran dan Perkhidmatan-Perkhidmatan	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3510	Jabatan Peperiksaan	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3510	Jabatan Perancang Bandar dan Desa	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3510	Jabatan Perancangan dan Pemiliharaan Bangunan dan Kawasan	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3510	Jabatan Percetakan	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3910	Jabatan Perhutanan	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3910	Jabatan Perikanan	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3510	Jabatan Perkhdmatan Bomba	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3510	Jabatan Perkhidmatan Awam	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3510	Jabatan Perkhidmatan Elektrik	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3910	Jabatan Perkhidmatan Pengurusan	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3510	Jabatan Perkhidmatan Pos	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3510	Jabatan Pertanian	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3510	Jabatan Perubatan dan Kesihatan	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3510	Jabatan Sekolah-Sekolah	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3510	Jabatan Telekom	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3713	Kampong Anggerek Desa	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3313	Kampong Burong Pinggai Berakas	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB5313	Kampong Delima Dua	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB4713	Kampong Delima Satu	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3113	Kampong Jaya Bakti	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB2713	Kampong Jaya Setia	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB1414	Kampong Lambak Kanan 'B'	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB1714	Kampong Lambak Kanan 'B'	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB1314	Kampong Lambak Kiri 'A'	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB1214	Kampong Lambak Kiri 'B'	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB1114	Kampong Lambak Kiri (Kurnia Rakyat Jati)	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB4113	Kampong Orang Kaya Besar Imas	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB4513	Kampong Pancha Delima	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB5113	Kampong Pengiran Siraja Muda	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB4313	Kampong Pulaie	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB2314	Kampong Serusop	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB1514	Kampong Terunjing Baru	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB2114	Kampong Terunjing Lama	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3913	Kawasan Jalan Menteri Besar	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB2513	Kawasan Lapangan Terbang AntaraBangsa	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3513	Kawasan Lapangan Terbang Lama	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3910	Kementerian HAL EHWAL UGAMA	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3910	Kementerian KESIHATAN	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3510	Kementerian PEMBANGUNAN	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3510	Kementerian PENDIDIKAN	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3510	Kementerian PERHUBUNGAN	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3910	Kementerian PERINDUSTRIAN DAN SUMBER-SUMBER UTAMA	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3510	Kementerian PERTAHANAN	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3510	Pejabat Tanah	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3510	Pejabat Ukur	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB4310	Pusat Dakwah Islamiah	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3910	Pusat Persidangan AntaraBangsa	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3910	Semaun Holdings	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3510	Suruhanjaya Perkhidmatan Awam	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB4310	Unit Perkhidmatan Hal Ehwal Masyarakat - Pulaie	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BB3910	Unit Petroleum	Brunei Muara	BM	Berakas 'A'	BE					
+BN	BC3715	Kampong Madang	Brunei Muara	BM	Berakas 'B'	BS					
+BN	BC3515	Kampong Manggis Dua	Brunei Muara	BM	Berakas 'B'	BS					
+BN	BC3615	Kampong Manggis Satu	Brunei Muara	BM	Berakas 'B'	BS					
+BN	BC1515	Kampong Salambigar	Brunei Muara	BM	Berakas 'B'	BS					
+BN	BC3915	Kampong Sungai Akar	Brunei Muara	BM	Berakas 'B'	BS					
+BN	BC4115	Kampong Sungai Akar	Brunei Muara	BM	Berakas 'B'	BS					
+BN	BC2115	Kampong Sungai Hanching	Brunei Muara	BM	Berakas 'B'	BS					
+BN	BC1715	Kampong Sungai Orok	Brunei Muara	BM	Berakas 'B'	BS					
+BN	BC3315	Kampong Sungai Tilong	Brunei Muara	BM	Berakas 'B'	BS					
+BN	BC2315	Perumahan Negara Kawasan 1	Brunei Muara	BM	Berakas 'B'	BS					
+BN	BC2515	Perumahan Negara Kawasan 2	Brunei Muara	BM	Berakas 'B'	BS					
+BN	BC2715	Perumahan Negara Kawasan 3	Brunei Muara	BM	Berakas 'B'	BS					
+BN	BC2915	Perumahan Negara Kawasan 4	Brunei Muara	BM	Berakas 'B'	BS					
+BN	BC3115	Perumahan Negara Kawasan 5	Brunei Muara	BM	Berakas 'B'	BS					
+BN	BC1115	Taman Salambigar	Brunei Muara	BM	Berakas 'B'	BS					
+BN	BM1126	Kampong Burong Pinggai Ayer	Brunei Muara	BM	Burong Pinggai Ayer	BP					
+BN	BM1326	Kampong Lurong Dalam	Brunei Muara	BM	Burong Pinggai Ayer	BP					
+BN	BM1526	Kampong Pandai Besi 'A'	Brunei Muara	BM	Burong Pinggai Ayer	BP					
+BN	BM1726	Kampong Pandai Besi 'B'	Brunei Muara	BM	Burong Pinggai Ayer	BP					
+BN	BM2526	Kampong Pekan Lama	Brunei Muara	BM	Burong Pinggai Ayer	BP					
+BN	BM2326	Kampong Pg. Setia Negara	Brunei Muara	BM	Burong Pinggai Ayer	BP					
+BN	BM2726	Kampong Sungai Asam	Brunei Muara	BM	Burong Pinggai Ayer	BP					
+BN	BM1926	Kampong Sungai Pandan 'A'	Brunei Muara	BM	Burong Pinggai Ayer	BP					
+BN	BM2126	Kampong Sungai Pandan 'B'	Brunei Muara	BM	Burong Pinggai Ayer	BP					
+BN	BE2110	Jabatan Biro Kawalan Narkotik	Brunei Muara	BM	Gadong	GA					
+BN	BE1310	Jabatan Kurikulum	Brunei Muara	BM	Gadong	GA					
+BN	BE1310	Jabatan Pendidikan Teknik	Brunei Muara	BM	Gadong	GA					
+BN	BE1110	Jabatan Pengangkutan Darat	Brunei Muara	BM	Gadong	GA					
+BN	BE1110	Jabatan Teknologi Maklumat dan Stor Negara	Brunei Muara	BM	Gadong	GA					
+BN	BE3519	Kampong Batu Bersurat	Brunei Muara	BM	Gadong	GA					
+BN	BE1118	Kampong Beribi	Brunei Muara	BM	Gadong	GA					
+BN	BE2719	Kampong Gadong	Brunei Muara	BM	Gadong	GA					
+BN	BE2919	Kampong Gadong Estate	Brunei Muara	BM	Gadong	GA					
+BN	BE2319	Kampong Katok	Brunei Muara	BM	Gadong	GA					
+BN	BE1318	Kampong Kiarong	Brunei Muara	BM	Gadong	GA					
+BN	BE1518	Kampong Kiulap	Brunei Muara	BM	Gadong	GA					
+BN	BE1718	Kampong Mata-Mata	Brunei Muara	BM	Gadong	GA					
+BN	BE3919	Kampong Menglait I	Brunei Muara	BM	Gadong	GA					
+BN	BE4119	Kampong Menglait II	Brunei Muara	BM	Gadong	GA					
+BN	BE3719	Kampong Pengkalan Gadong	Brunei Muara	BM	Gadong	GA					
+BN	BE3119	Kampong Rimba	Brunei Muara	BM	Gadong	GA					
+BN	BE2119	Kampong Tungku	Brunei Muara	BM	Gadong	GA					
+BN	BE3619	Kawasan Tungku Link	Brunei Muara	BM	Gadong	GA					
+BN	BE1918	Perumahan Mata-Mata	Brunei Muara	BM	Gadong	GA					
+BN	BE3319	Perumahan Negara Rimba	Brunei Muara	BM	Gadong	GA					
+BN	BE2519	Perumahan Negara Tungku	Brunei Muara	BM	Gadong	GA					
+BN	BE1710	Polis Diraja Brunei	Brunei Muara	BM	Gadong	GA					
+BN	BE1410	Universiti Brunei Darussalam	Brunei Muara	BM	Gadong	GA					
+BN	BA1710	Hospital RIPAS	Brunei Muara	BM	Kianggeh	KG					
+BN	BA1712	Institut Pengajian Islam Brunei Darussalam	Brunei Muara	BM	Kianggeh	KG					
+BN	BA2110	Jabatan Hal Ehwal Masjid	Brunei Muara	BM	Kianggeh	KG					
+BN	BA1910	Jabatan Kehakiman	Brunei Muara	BM	Kianggeh	KG					
+BN	BA1910	Jabatan Keselamatan Dalam Negeri	Brunei Muara	BM	Kianggeh	KG					
+BN	BA1910	Jabatan Undang-Undang	Brunei Muara	BM	Kianggeh	KG					
+BN	BA2110	Jabatan Urusan Haji	Brunei Muara	BM	Kianggeh	KG					
+BN	BA1000	JPM (Istana Nurul Iman)	Brunei Muara	BM	Kianggeh	KG					
+BN	BA2711	Kampong Pintu Malim	Brunei Muara	BM	Kianggeh	KG					
+BN	BA2511	Kampong Sungai Liang	Brunei Muara	BM	Kianggeh	KG					
+BN	BA1111	Kawasan Mabohai	Brunei Muara	BM	Kianggeh	KG					
+BN	BA1311	Kawasan Tong Kadeh	Brunei Muara	BM	Kianggeh	KG					
+BN	BA1910	Kementerian UNDANG-UNDANG	Brunei Muara	BM	Kianggeh	KG					
+BN	BA1511	Kumbang Pasang	Brunei Muara	BM	Kianggeh	KG					
+BN	BA1912	Parit (Serigan)	Brunei Muara	BM	Kianggeh	KG					
+BN	BA1711	Seri Kompleks	Brunei Muara	BM	Kianggeh	KG					
+BN	BA2312	Telanai	Brunei Muara	BM	Kianggeh	KG					
+BN	BA2112	Tumasek	Brunei Muara	BM	Kianggeh	KG					
+BN	BF1920	Kampong Bengkurong	Brunei Muara	BM	Kilanas	KL					
+BN	BF1320	Kampong Bunot	Brunei Muara	BM	Kilanas	KL					
+BN	BF1720	Kampong Burong Lepas	Brunei Muara	BM	Kilanas	KL					
+BN	BF2320	Kampong Jalan Bebatik Kilanas	Brunei Muara	BM	Kilanas	KL					
+BN	BF2720	Kampong Jangsak	Brunei Muara	BM	Kilanas	KL					
+BN	BF2520	Kampong Kilanas	Brunei Muara	BM	Kilanas	KL					
+BN	BF1120	Kampong Madewa	Brunei Muara	BM	Kilanas	KL					
+BN	BF2120	Kampong Sinarubai	Brunei Muara	BM	Kilanas	KL					
+BN	BF2920	Kampong Tanjong Bunut	Brunei Muara	BM	Kilanas	KL					
+BN	BF1520	Kampong Tasek Meradun	Brunei Muara	BM	Kilanas	KL					
+BN	BD1510	Jabatan Muzium-Muzium	Brunei Muara	BM	Kota Batu	KB					
+BN	BD2917	Kampong Belimbing	Brunei Muara	BM	Kota Batu	KB					
+BN	BD3717	Kampong Berambang	Brunei Muara	BM	Kota Batu	KB					
+BN	BD3917	Kampong Buang Kepayang	Brunei Muara	BM	Kota Batu	KB					
+BN	BD1717	Kampong Datu Gandi	Brunei Muara	BM	Kota Batu	KB					
+BN	BD1517	Kampong Kota Batu	Brunei Muara	BM	Kota Batu	KB					
+BN	BD4317	Kampong Menunggol	Brunei Muara	BM	Kota Batu	KB					
+BN	BD2317	Kampong Pelambayan	Brunei Muara	BM	Kota Batu	KB					
+BN	BD3517	Kampong Pudak	Brunei Muara	BM	Kota Batu	KB					
+BN	BD4517	Kampong Pulau Baru-Baru dan Berbunut	Brunei Muara	BM	Kota Batu	KB					
+BN	BD4117	Kampong Riong	Brunei Muara	BM	Kota Batu	KB					
+BN	BD2117	Kampong Serdang/Sungai Belukut	Brunei Muara	BM	Kota Batu	KB					
+BN	BD2717	Kampong Subok	Brunei Muara	BM	Kota Batu	KB					
+BN	BD2517	Kampong Sungai Besar	Brunei Muara	BM	Kota Batu	KB					
+BN	BD3317	Kampong Sungai Bunga	Brunei Muara	BM	Kota Batu	KB					
+BN	BD1917	Kampong Sungai Matan	Brunei Muara	BM	Kota Batu	KB					
+BN	BD3117	Kampong Tanjong Cendana	Brunei Muara	BM	Kota Batu	KB					
+BN	BD2710	Kementerian HAL EHWAL LUAR NEGERI	Brunei Muara	BM	Kota Batu	KB					
+BN	BD1310	Pejabat Pengajian Islam	Brunei Muara	BM	Kota Batu	KB					
+BN	BD2917	Unit Gurkha Simpanan	Brunei Muara	BM	Kota Batu	KB					
+BN	BJ2924	Buang Tengkurok/Sengkirap	Brunei Muara	BM	Lumapas	LU					
+BN	BJ1924	Kampong Buang Sakar	Brunei Muara	BM	Lumapas	LU					
+BN	BJ2324	Kampong Bukit Merikan	Brunei Muara	BM	Lumapas	LU					
+BN	BJ1724	Kampong Kasat	Brunei Muara	BM	Lumapas	LU					
+BN	BJ3324	Kampong Kelugus	Brunei Muara	BM	Lumapas	LU					
+BN	BJ1124	Kampong Kupang	Brunei Muara	BM	Lumapas	LU					
+BN	BJ3324	Kampong Lumapas 'A'	Brunei Muara	BM	Lumapas	LU					
+BN	BJ3524	Kampong Lumapas 'B'	Brunei Muara	BM	Lumapas	LU					
+BN	BJ2524	Kampong Lupak Luas	Brunei Muara	BM	Lumapas	LU					
+BN	BJ3324	Kampong Pancur	Brunei Muara	BM	Lumapas	LU					
+BN	BJ1524	Kampong Pengkalan Batang	Brunei Muara	BM	Lumapas	LU					
+BN	BJ1324	Kampong Putat	Brunei Muara	BM	Lumapas	LU					
+BN	BJ2124	Kampong Tarap Bau	Brunei Muara	BM	Lumapas	LU					
+BN	BU1529	Kampong Batu Marang	Brunei Muara	BM	Mentiri	ME					
+BN	BU1929	Kampong Mentiri	Brunei Muara	BM	Mentiri	ME					
+BN	BU1729	Kampong Panchor	Brunei Muara	BM	Mentiri	ME					
+BN	BU2329	Kampong Paring	Brunei Muara	BM	Mentiri	ME					
+BN	BU2529	Kampong Pengkalan Sibabau	Brunei Muara	BM	Mentiri	ME					
+BN	BU1429	Kampong Salar	Brunei Muara	BM	Mentiri	ME					
+BN	BU1229	Kampong Sungai Buloh I	Brunei Muara	BM	Mentiri	ME					
+BN	BU1329	Kampong Sungai Buloh II	Brunei Muara	BM	Mentiri	ME					
+BN	BU1129	Kampong Tanah Jambu	Brunei Muara	BM	Mentiri	ME					
+BN	BU2129	Perpindahan Mentiri	Brunei Muara	BM	Mentiri	ME					
+BN	BH1523	Kampong Batang Perhentian	Brunei Muara	BM	Pengkalan Batu	#N/A					
+BN	BH2923	Kampong Batong	Brunei Muara	BM	Pengkalan Batu	#N/A					
+BN	BH1323	Kampong Batu Ampar	Brunei Muara	BM	Pengkalan Batu	#N/A					
+BN	BH3223	Kampong Bebatik (Masin)	Brunei Muara	BM	Pengkalan Batu	#N/A					
+BN	BH3323	Kampong Bebuloh	Brunei Muara	BM	Pengkalan Batu	#N/A					
+BN	BH1723	Kampong Bukit Belimbing	Brunei Muara	BM	Pengkalan Batu	#N/A					
+BN	BH3223	Kampong Jalan Bebatik Kilanas	Brunei Muara	BM	Pengkalan Batu	#N/A					
+BN	BH2123	Kampong Junjongan	Brunei Muara	BM	Pengkalan Batu	#N/A					
+BN	BH1923	Kampong Kuala Lurah	Brunei Muara	BM	Pengkalan Batu	#N/A					
+BN	BH2323	Kampong Limau Manis	Brunei Muara	BM	Pengkalan Batu	#N/A					
+BN	BH2723	Kampong Masin	Brunei Muara	BM	Pengkalan Batu	#N/A					
+BN	BH3123	Kampong Panchor Murai	Brunei Muara	BM	Pengkalan Batu	#N/A					
+BN	BH1123	Kampong Pengkalan Batu	Brunei Muara	BM	Pengkalan Batu	#N/A					
+BN	BH2523	Kampong Wasan	Brunei Muara	BM	Pengkalan Batu	#N/A					
+BN	BP2326	Kampong Bakut Berumput	Brunei Muara	BM	Peramu	PE					
+BN	BP1726	Kampong Bakut Seraja Muda 'A'	Brunei Muara	BM	Peramu	PE					
+BN	BP1926	Kampong Bakut Seraja Muda 'B'	Brunei Muara	BM	Peramu	PE					
+BN	BP2126	Kampong Lurong sekuna	Brunei Muara	BM	Peramu	PE					
+BN	BP1326	Kampong Pekilong Muara	Brunei Muara	BM	Peramu	PE					
+BN	BP1126	Kampong Peramu	Brunei Muara	BM	Peramu	PE					
+BN	BP1526	Kampong Setia Pahlawan	Brunei Muara	BM	Peramu	PE					
+BN	BR1326	Kampong Saba Darat 'A'	Brunei Muara	BM	Saba	SA					
+BN	BR1526	Kampong Saba Darat 'B'	Brunei Muara	BM	Saba	SA					
+BN	BR1126	Kampong Saba Laut	Brunei Muara	BM	Saba	SA					
+BN	BR1926	Kampong Saba Tengah	Brunei Muara	BM	Saba	SA					
+BN	BR1726	Kampong Saba Ujong	Brunei Muara	BM	Saba	SA					
+BN	BG3122	Jabatan Penjara	Brunei Muara	BM	Sengkurong	SN					
+BN	BG3322	Kampong Bukit Bunga	Brunei Muara	BM	Sengkurong	SN					
+BN	BG3122	Kampong Jerudong	Brunei Muara	BM	Sengkurong	SN					
+BN	BG2721	Kampong Katimahar	Brunei Muara	BM	Sengkurong	SN					
+BN	BG2521	Kampong Kulapis	Brunei Muara	BM	Sengkurong	SN					
+BN	BG2921	Kampong Lugu	Brunei Muara	BM	Sengkurong	SN					
+BN	BG2121	Kampong Mulaut	Brunei Muara	BM	Sengkurong	SN					
+BN	BG1221	Kampong Pasai	Brunei Muara	BM	Sengkurong	SN					
+BN	BG1721	Kampong Selayun	Brunei Muara	BM	Sengkurong	SN					
+BN	BG1121	Kampong Sengkurong 'A'	Brunei Muara	BM	Sengkurong	SN					
+BN	BG1321	Kampong Sengkurong 'B'	Brunei Muara	BM	Sengkurong	SN					
+BN	BG1921	Kampong Sungai Tampoi	Brunei Muara	BM	Sengkurong	SN					
+BN	BG1521	Kampong Tagap	Brunei Muara	BM	Sengkurong	SN					
+BN	BG2321	Kampong Tanjong Nangka	Brunei Muara	BM	Sengkurong	SN					
+BN	BG3110	Pusat Tahanan	Brunei Muara	BM	Sengkurong	SN					
+BN	BT1728	Jabatan Laut	Brunei Muara	BM	Serasa	SR					
+BN	BT1728	Jabatan Pelabuhan-Pelabuhan	Brunei Muara	BM	Serasa	SR					
+BN	BT2928	Kampong Bukit Kabun	Brunei Muara	BM	Serasa	SR					
+BN	BT2328	Kampong Kapok	Brunei Muara	BM	Serasa	SR					
+BN	BT1928	Kampong Masjid Lama	Brunei Muara	BM	Serasa	SR					
+BN	BT2728	Kampong Meragang	Brunei Muara	BM	Serasa	SR					
+BN	BT1328	Kampong Pelumpong	Brunei Muara	BM	Serasa	SR					
+BN	BT3528	Kampong Pelumpong	Brunei Muara	BM	Serasa	SR					
+BN	BT3128	Kampong Pengalayan	Brunei Muara	BM	Serasa	SR					
+BN	BT3328	Kampong Pulau Muara Besar	Brunei Muara	BM	Serasa	SR					
+BN	BT2128	Kampong Sabun	Brunei Muara	BM	Serasa	SR					
+BN	BT1728	Kampong Serasa	Brunei Muara	BM	Serasa	SR					
+BN	BT1528	Kampong Tanjong Batu	Brunei Muara	BM	Serasa	SR					
+BN	BT1128	Pekan Muara	Brunei Muara	BM	Serasa	SR					
+BN	BK1125	Kampong Bolkiah 'A'	Brunei Muara	BM	Sungai Kebun	KE					
+BN	BK1325	Kampong Bolkiah 'B'	Brunei Muara	BM	Sungai Kebun	KE					
+BN	BK1525	Kampong Setia 'A'	Brunei Muara	BM	Sungai Kebun	KE					
+BN	BK1725	Kampong Setia 'B'	Brunei Muara	BM	Sungai Kebun	KE					
+BN	BK2325	Kampong Sungai Kebun	Brunei Muara	BM	Sungai Kebun	KE					
+BN	BK1925	Kampong Sungai Siamas	Brunei Muara	BM	Sungai Kebun	KE					
+BN	BK2125	Kampong Ujong Kelinik	Brunei Muara	BM	Sungai Kebun	KE					
+BN	BN1311	Kampong Bukit Salat	Brunei Muara	BM	Sungai Kedayan	KD					
+BN	BN2111	Kampong Kuala Peminyak	Brunei Muara	BM	Sungai Kedayan	KD					
+BN	BN2311	Kampong Pemancha Lama	Brunei Muara	BM	Sungai Kedayan	KD					
+BN	BN1111	Kampong Sumbiling Lama	Brunei Muara	BM	Sungai Kedayan	KD					
+BN	BN1711	Kampong Sungai Kedayan 'A'	Brunei Muara	BM	Sungai Kedayan	KD					
+BN	BN1511	Kampong Sungai Kedayan 'B'	Brunei Muara	BM	Sungai Kedayan	KD					
+BN	BN1911	Kampong Ujong Tanjong	Brunei Muara	BM	Sungai Kedayan	KD					
+BN	BL1512	Kampong Bendahara Lama	Brunei Muara	BM	Tamoi	TA					
+BN	BL1312	Kampong Limbongan	Brunei Muara	BM	Tamoi	TA					
+BN	BL1712	Kampong Pengiran Kerma Indera	Brunei Muara	BM	Tamoi	TA					
+BN	BL1912	Kampong Pengiran Tajuddin Hitam	Brunei Muara	BM	Tamoi	TA					
+BN	BL2112	Kampong Tamoi Tengah	Brunei Muara	BM	Tamoi	TA					
+BN	BL2312	Kampong Tamoi Ujong	Brunei Muara	BM	Tamoi	TA					
+BN	BL1112	Kampong Ujong Bukit	Brunei Muara	BM	Tamoi	TA					
+BN	PD1151	Kampong Amo 'A'	Temburong	TE	Amo	AM					
+BN	PD1351	Kampong Amo 'B'	Temburong	TE	Amo	AM					
+BN	PD1551	Kampong Amo 'C'	Temburong	TE	Amo	AM					
+BN	PD1951	Kampong Batang Duri	Temburong	TE	Amo	AM					
+BN	PD3151	Kampong Belaban	Temburong	TE	Amo	AM					
+BN	PD2551	Kampong Biang Menengah	Temburong	TE	Amo	AM					
+BN	PD3351	Kampong Bukit Belalong	Temburong	TE	Amo	AM					
+BN	PD3551	Kampong Bukit Belutut	Temburong	TE	Amo	AM					
+BN	PD2351	Kampong Parit	Temburong	TE	Amo	AM					
+BN	PD2751	Kampong Selangan	Temburong	TE	Amo	AM					
+BN	PD2951	Kampong Sibulu	Temburong	TE	Amo	AM					
+BN	PD2151	Kampong Sibut	Temburong	TE	Amo	AM					
+BN	PD1751	Kampong Sumbiling	Temburong	TE	Amo	AM					
+BN	PA1351	Jabatan Daerah Temburong	Temburong	TE	Bangar	BN					
+BN	PA2551	Kampong Balayang	Temburong	TE	Bangar	BN					
+BN	PA3351	Kampong Batang Tuau	Temburong	TE	Bangar	BN					
+BN	PA3151	Kampong Belingus	Temburong	TE	Bangar	BN					
+BN	PA2951	Kampong Buang Bulan	Temburong	TE	Bangar	BN					
+BN	PA1751	Kampong Menengah	Temburong	TE	Bangar	BN					
+BN	PA3751	Kampong Puni	Temburong	TE	Bangar	BN					
+BN	PA2751	Kampong Semamang	Temburong	TE	Bangar	BN					
+BN	PA3551	Kampong Seri Tanjong Belayang	Temburong	TE	Bangar	BN					
+BN	PA1951	Kampong Sungai Sulok	Temburong	TE	Bangar	BN					
+BN	PA2351	Kampong Sungai Tanam	Temburong	TE	Bangar	BN					
+BN	PA2151	Kampong Sungai Tanit	Temburong	TE	Bangar	BN					
+BN	PA3951	Kampong Ujong Jalan	Temburong	TE	Bangar	BN					
+BN	PA1351	Pekan Bangar Baru	Temburong	TE	Bangar	BN					
+BN	PA1151	Pekan Bangar Lama	Temburong	TE	Bangar	BN					
+BN	PA1551	Perkhemahan Bangar	Temburong	TE	Bangar	BN					
+BN	PC1151	Kampong Batu Apoi	Temburong	TE	Batu Apoi	BA					
+BN	PC1951	Kampong Gadong Baru	Temburong	TE	Batu Apoi	BA					
+BN	PC2751	Kampong Lakiun	Temburong	TE	Batu Apoi	BA					
+BN	PC3151	Kampong Lamaling	Temburong	TE	Batu Apoi	BA					
+BN	PC2151	Kampong Luagan	Temburong	TE	Batu Apoi	BA					
+BN	PC2351	Kampong Negalang Iring	Temburong	TE	Batu Apoi	BA					
+BN	PC2551	Kampong Negalang Unat	Temburong	TE	Batu Apoi	BA					
+BN	PC1551	Kampong Peliunan	Temburong	TE	Batu Apoi	BA					
+BN	PC3551	Kampong Sekurop	Temburong	TE	Batu Apoi	BA					
+BN	PC3351	Kampong Selapon	Temburong	TE	Batu Apoi	BA					
+BN	PC1751	Kampong Sungai Bantaian	Temburong	TE	Batu Apoi	BA					
+BN	PC1351	Kampong Sungai Radang	Temburong	TE	Batu Apoi	BA					
+BN	PC2951	Kampong Tanjong Bungar	Temburong	TE	Batu Apoi	BA					
+BN	PE2351	Kampong Bakarut	Temburong	TE	Bukok	BO					
+BN	PE1351	Kampong Belais	Temburong	TE	Bukok	BO					
+BN	PE1551	Kampong Belais Kecil	Temburong	TE	Bukok	BO					
+BN	PE1951	Kampong Bokok	Temburong	TE	Bukok	BO					
+BN	PE1151	Kampong Buda-Buda	Temburong	TE	Bukok	BO					
+BN	PE3351	Kampong Kenua	Temburong	TE	Bukok	BO					
+BN	PE3551	Kampong Lepong Baru	Temburong	TE	Bukok	BO					
+BN	PE3751	Kampong Lepung Lama	Temburong	TE	Bukok	BO					
+BN	PE2151	Kampong Meniup	Temburong	TE	Bukok	BO					
+BN	PE1751	Kampong Paya Bagangan	Temburong	TE	Bukok	BO					
+BN	PE2951	Kampong Perpindahan Rataie	Temburong	TE	Bukok	BO					
+BN	PE3151	Kampong Rakyat Jati	Temburong	TE	Bukok	BO					
+BN	PE2751	Kampong Rataie	Temburong	TE	Bukok	BO					
+BN	PE4151	Kampong Semabat	Temburong	TE	Bukok	BO					
+BN	PE3951	Kampong Semabat Bahagia	Temburong	TE	Bukok	BO					
+BN	PE2551	Kampong Simbatang	Temburong	TE	Bukok	BO					
+BN	PE4351	Kampong Temada	Temburong	TE	Bukok	BO					
+BN	PB1951	Kampong Ayam-Ayam	Temburong	TE	Labu	LA					
+BN	PB1151	Kampong Labu Estate	Temburong	TE	Labu	LA					
+BN	PB1751	Kampong Payau	Temburong	TE	Labu	LA					
+BN	PB1551	Kampong Piasau-Piasau	Temburong	TE	Labu	LA					
+BN	PB1351	Kampong Senukoh	Temburong	TE	Labu	LA					
+BN	TB2141	Kampong Bukit Nenas	Tutong	TU	Keriam	KE					
+BN	TB1341	Kampong Bukit Panggal	Tutong	TU	Keriam	KE					
+BN	TB3341	Kampong Ikas	Tutong	TU	Keriam	KE					
+BN	TB2541	Kampong Kerakas Payau	Tutong	TU	Keriam	KE					
+BN	TB1141	Kampong Keriam	Tutong	TU	Keriam	KE					
+BN	TB2941	Kampong Kupang	Tutong	TU	Keriam	KE					
+BN	TB1541	Kampong Luangan Dudok	Tutong	TU	Keriam	KE					
+BN	TB3141	Kampong Maraburong Batu 16	Tutong	TU	Keriam	KE					
+BN	TB1941	Kampong Meragang	Tutong	TU	Keriam	KE					
+BN	TB2341	Kampong Santul	Tutong	TU	Keriam	KE					
+BN	TB1741	Kampong Sinaut	Tutong	TU	Keriam	KE					
+BN	TB2741	Kampong Sungai Kelugos	Tutong	TU	Keriam	KE					
+BN	TE1143	Kampong Bakiau	Tutong	TU	Kiudang	KI					
+BN	TE2543	Kampong Batang Mitus	Tutong	TU	Kiudang	KI					
+BN	TE2143	Kampong Birau	Tutong	TU	Kiudang	KI					
+BN	TE2743	Kampong Kebia	Tutong	TU	Kiudang	KI					
+BN	TE1543	Kampong Kiudang	Tutong	TU	Kiudang	KI					
+BN	TE2343	Kampong Luangan Timbaran	Tutong	TU	Kiudang	KI					
+BN	TE1743	Kampong Mungkom	Tutong	TU	Kiudang	KI					
+BN	TE1943	Kampong Pad Nunok	Tutong	TU	Kiudang	KI					
+BN	TE1343	Kampong Pengkalan Mau	Tutong	TU	Kiudang	KI					
+BN	TG1743	Kampong Belunu	Tutong	TU	Lamunin	LA					
+BN	TG2943	Kampong Bentudoh	Tutong	TU	Lamunin	LA					
+BN	TG3343	Kampong Biong	Tutong	TU	Lamunin	LA					
+BN	TG2743	Kampong Bukit Sulang	Tutong	TU	Lamunin	LA					
+BN	TG1343	Kampong Kuala Abang	Tutong	TU	Lamunin	LA					
+BN	TG2343	Kampong Lamunin	Tutong	TU	Lamunin	LA					
+BN	TG1143	Kampong Layong	Tutong	TU	Lamunin	LA					
+BN	TG3143	Kampong Panchong	Tutong	TU	Lamunin	LA					
+BN	TG1943	Kampong Pengkalan Dong	Tutong	TU	Lamunin	LA					
+BN	TG1543	Kampong Pengkalan Tangsi	Tutong	TU	Lamunin	LA					
+BN	TG2543	Kampong Piasan	Tutong	TU	Lamunin	LA					
+BN	TG2143	Kampong Tanjong Dangar	Tutong	TU	Lamunin	LA					
+BN	TA3141	Binturan	Tutong	TU	Pekan Tutong	PT					
+BN	TA1341	Bukit Bendera	Tutong	TU	Pekan Tutong	PT					
+BN	TA1141	Jabatan Bandaran	Tutong	TU	Pekan Tutong	PT					
+BN	TA1141	Jabatan Daerah Tutong	Tutong	TU	Pekan Tutong	PT					
+BN	TA3341	Kampong Kuala Tutong	Tutong	TU	Pekan Tutong	PT					
+BN	TA2141	Kampong Panchor Dulit	Tutong	TU	Pekan Tutong	PT					
+BN	TA1941	Kampong Panchor Papan	Tutong	TU	Pekan Tutong	PT					
+BN	TA3541	Kampong Penabai	Tutong	TU	Pekan Tutong	PT					
+BN	TA2741	Kampong Penanjong	Tutong	TU	Pekan Tutong	PT					
+BN	TA2341	Kampong Sengkarai	Tutong	TU	Pekan Tutong	PT					
+BN	TA2541	Kampong Serambangun	Tutong	TU	Pekan Tutong	PT					
+BN	TA1541	Kampong Sungai Basong	Tutong	TU	Pekan Tutong	PT					
+BN	TA1741	Kampong Suran	Tutong	TU	Pekan Tutong	PT					
+BN	TA2941	Kampong Tanah Burok	Tutong	TU	Pekan Tutong	PT					
+BN	TA1141	Pekan Tutong	Tutong	TU	Pekan Tutong	PT					
+BN	TH1949	Kampong Batang Piton	Tutong	TU	Rambai	RA					
+BN	TH3949	Kampong Bedawan	Tutong	TU	Rambai	RA					
+BN	TH2749	Kampong Belaban	Tutong	TU	Rambai	RA					
+BN	TH4149	Kampong Belabau	Tutong	TU	Rambai	RA					
+BN	TH1749	Kampong Benutan	Tutong	TU	Rambai	RA					
+BN	TH2549	Kampong Kerancing	Tutong	TU	Rambai	RA					
+BN	TH1549	Kampong Kuala Ungar	Tutong	TU	Rambai	RA					
+BN	TH3749	Kampong Lalipo	Tutong	TU	Rambai	RA					
+BN	TH2949	Kampong Mapol	Tutong	TU	Rambai	RA					
+BN	TH1349	Kampong Merimbun	Tutong	TU	Rambai	RA					
+BN	TH2349	Kampong Pelajau	Tutong	TU	Rambai	RA					
+BN	TH1149	Kampong Rambai	Tutong	TU	Rambai	RA					
+BN	TH2149	Kampong Sengkowang	Tutong	TU	Rambai	RA					
+BN	TH3149	Kampong Supon Besar	Tutong	TU	Rambai	RA					
+BN	TH3549	Kampong Supon Kecil	Tutong	TU	Rambai	RA					
+BN	TH3349	Kampong Takalit	Tutong	TU	Rambai	RA					
+BN	TD1541	Kampong Banggunggos	Tutong	TU	Tanjong Maya	TM					
+BN	TD2341	Kampong Bukit Udal	Tutong	TU	Tanjong Maya	TM					
+BN	TD2541	Kampong Lubok Pulau	Tutong	TU	Tanjong Maya	TM					
+BN	TD1741	Kampong Penapar	Tutong	TU	Tanjong Maya	TM					
+BN	TD1341	Kampong Sebakit	Tutong	TU	Tanjong Maya	TM					
+BN	TD1941	Kampong Sungai Damit Pemadang	Tutong	TU	Tanjong Maya	TM					
+BN	TD1141	Kampong Tanjong Maya/Meranti	Tutong	TU	Tanjong Maya	TM					
+BN	TC3145	Kampong Bukit Beruang	Tutong	TU	Telisai	TE					
+BN	TC2345	Kampong Danau	Tutong	TU	Telisai	TE					
+BN	TC2745	Kampong Keramut	Tutong	TU	Telisai	TE					
+BN	TC1745	Kampong Lalit	Tutong	TU	Telisai	TE					
+BN	TC2545	Kampong Penapar	Tutong	TU	Telisai	TE					
+BN	TC2145	Kampong Sungai Paku	Tutong	TU	Telisai	TE					
+BN	TC1945	Kampong Tanah Jambu	Tutong	TU	Telisai	TE					
+BN	TC1545	Kampong Telamba	Tutong	TU	Telisai	TE					
+BN	TC1145	Kampong Telisai	Tutong	TU	Telisai	TE					
+BN	TC2945	Kampong Tumpuan Ugas	Tutong	TU	Telisai	TE					
+BN	TC3345	Perumahan Negara Bukit Beruang	Tutong	TU	Telisai	TE					
+BN	TC1345	Perumahan Negara Telisai	Tutong	TU	Telisai	TE					
+BN	TF4547	Kampong Bang Bingol	Tutong	TU	Ukong	UK					
+BN	TF4147	Kampong Bang Ligi	Tutong	TU	Ukong	UK					
+BN	TF2547	Kampong Bang Pangan	Tutong	TU	Ukong	UK					
+BN	TF3147	Kampong Bukit	Tutong	TU	Ukong	UK					
+BN	TF4347	Kampong Litad	Tutong	TU	Ukong	UK					
+BN	TF4747	Kampong Long Mayan	Tutong	TU	Ukong	UK					
+BN	TF3747	Kampong Melaboi	Tutong	TU	Ukong	UK					
+BN	TF1947	Kampong Nong Anggeh	Tutong	TU	Ukong	UK					
+BN	TF2947	Kampong Pak Bidang	Tutong	TU	Ukong	UK					
+BN	TF2747	Kampong Pak Meligai	Tutong	TU	Ukong	UK					
+BN	TF1547	Kampong Pengkalan Dong	Tutong	TU	Ukong	UK					
+BN	TF3947	Kampong Pengkalan Padang	Tutong	TU	Ukong	UK					
+BN	TF3347	Kampong Pengkalan Panchor	Tutong	TU	Ukong	UK					
+BN	TF1347	Kampong Pengkalan Ran	Tutong	TU	Ukong	UK					
+BN	TF2347	Kampong Pitau Lambang	Tutong	TU	Ukong	UK					
+BN	TF2147	Kampong Sungai Damit Ulu	Tutong	TU	Ukong	UK					
+BN	TF3547	Kampong Talat	Tutong	TU	Ukong	UK					
+BN	TF1747	Kampong Tong Kundai	Tutong	TU	Ukong	UK					
+BN	TF1147	Kampong Ukong	Tutong	TU	Ukong	UK					

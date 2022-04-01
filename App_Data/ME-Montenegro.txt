@@ -1,0 +1,118 @@
+ME	84320		Andrijevica	AN	Andrijevica				
+ME	84322		Andrijevica	AN	Trepca				
+ME	81260		Andrijevica	AN	Trešnjevo				
+ME	85000		Bar	BA	Bar				
+ME	85353		Bar	BA	Celuga				
+ME	85356		Bar	BA	Pecurice				
+ME	85354		Bar	BA	Stari Bar				
+ME	85355		Bar	BA	Sutomore				
+ME	81305		Bar	BA	Virpazar				
+ME	84300		Berane	BE	Berane				
+ME	84306		Berane	BE	Lubnice				
+ME	84202		Bijelo Polje	BP	Bijelo Polje				
+ME	84305		Bijelo Polje	BP	Lozna				
+ME	84213		Bijelo Polje	BP	Pavino Polje				
+ME	84212		Bijelo Polje	BP	Tomaševo				
+ME	84303		Bijelo Polje	BP	Zaton				
+ME	85316		Budva	BU	Becici				
+ME	85310		Budva	BU	Budva				
+ME	85352		Budva	BU	Buljarica				
+ME	81422		Budva	BU	Krstac				
+ME	85315		Budva	BU	Sveti Stefan				
+ME	81250		Cetinje	CE	Cetinje				
+ME	81258		Cetinje	CE	Cevo				
+ME	85317		Cetinje	CE	Lastva				
+ME	81255		Cetinje	CE	Njeguši				
+ME	81253		Cetinje	CE	Rijeka Crnojevica				
+ME	81260		Cetinje	CE	Trešnjevo				
+ME	81205		Cetinje	CE	Ubli				
+ME	84220		Cetinje	CE	Žabljak				
+ME	81410		Danilovgrad	DA	Danilovgrad				
+ME	81415		Danilovgrad	DA	Slap				
+ME	81412		Danilovgrad	DA	Spuž				
+ME	84326		Gusinje	GU	Gusinje				
+ME	85344		Herceg Novi	HN	Baošici				
+ME	85343		Herceg Novi	HN	Bijela				
+ME	85345		Herceg Novi	HN	Ðenovici				
+ME	85340		Herceg Novi	HN	Herceg Novi				
+ME	85347		Herceg Novi	HN	Igalo				
+ME	85348		Herceg Novi	HN	Meljine				
+ME	81205		Herceg Novi	HN	Ubli				
+ME	85346		Herceg Novi	HN	Zelenika				
+ME	81216		Kolasin	KL	Dragovica Polje				
+ME	81210		Kolasin	KL	Kolašin				
+ME	81215		Kolasin	KL	Manastir Moraca				
+ME	81217		Kolasin	KL	Mateševo				
+ME	85331		Kotor	KT	Dobrota				
+ME	85334		Kotor	KT	Donji Stoliv				
+ME	85330		Kotor	KT	Kotor				
+ME	85317		Kotor	KT	Lastva Grbaljska				
+ME	85336		Kotor	KT	Perast				
+ME	85335		Kotor	KT	Prcanj				
+ME	85318		Kotor	KT	Radanovici				
+ME	85337		Kotor	KT	Risan				
+ME	84205		Mojkovac	MK	Mojkovac				
+ME	81417		Niksic	NK	Bogetici				
+ME	81427		Niksic	NK	Donje Crkvice				
+ME	81420		Niksic	NK	Grahovo				
+ME	81400		Niksic	NK	Nikšic				
+ME	81425		Niksic	NK	Petrovici				
+ME	81205		Niksic	NK	Ubli				
+ME	81428		Niksic	NK	Velimlje				
+ME	81423		Niksic	NK	Vilusi				
+ME	81305		Niksic	NK	Vir				
+ME	81426		Niksic	NK	Vracenovici				
+ME	84312		Petnjica	PT	Petnjica				
+ME	84323		Plav	PV	Murino				
+ME	84217		Pljevlja	PL	Boljanici				
+ME	84223		Pljevlja	PL	Kosanica				
+ME	84216		Pljevlja	PL	Kovacevici				
+ME	84219		Pljevlja	PL	Odžak				
+ME	84211		Pljevlja	PL	Pljevlja				
+ME	84218		Pljevlja	PL	Šula				
+ME	84214		Pljevlja	PL	Vrulja				
+ME	81432		Pluzine	PU	Donja Brezna				
+ME	81435		Pluzine	PU	Plužine				
+ME	81437		Pluzine	PU	Trsa				
+ME	84000		Podgorica	PG	Bijelo Polje				
+ME	81214		Podgorica	PG	Bioce				
+ME	81304		Podgorica	PG	Golubovci				
+ME	84215		Podgorica	PG	Gradac				
+ME	81204		Podgorica	PG	Lijeva Rijeka				
+ME	81425		Podgorica	PG	Petrovici				
+ME	81000		Podgorica	PG	Podgorica				
+ME	81205		Podgorica	PG	Ubli				
+ME	84314		Rozaje	RO	Bac				
+ME	84315		Rozaje	RO	Biševo				
+ME	81420		Rozaje	RO	Grahovo				
+ME	84310		Rozaje	RO	Rožaje				
+ME	81455		Savnik	SA	Boan				
+ME	81453		Savnik	SA	Gornja Bukovica				
+ME	84312		Savnik	SA	Petnjica				
+ME	81450		Savnik	SA	Šavnik				
+ME	85332		Tivat	TI	Donja Lastva				
+ME	85323		Tivat	TI	Radovici				
+ME	85320		Tivat	TI	Tivat				
+ME	81206		Tuzi	TZ	Tuzi				
+ME	85367		Ulcinj	UL	Donji Štoj				
+ME	85367		Ulcinj	UL	Gornji Štoj				
+ME	85369		Ulcinj	UL	Krute				
+ME	85360		Ulcinj	UL	Ulcinj				
+ME	85366		Ulcinj	UL	Vladimir				
+ME	84224		Zabljak	ZA	Njegovuda				
+ME	84220		Zabljak	ZA	Žabljak				
+ME	81001		Podgorica	PG	Podgorica				
+ME	81002		Podgorica	PG	Podgorica				
+ME	81003		Podgorica	PG	Podgorica				
+ME	81004		Podgorica	PG	Podgorica				
+ME	81005		Podgorica	PG	Podgorica				
+ME	81006		Podgorica	PG	Podgorica				
+ME	81007		Podgorica	PG	Podgorica				
+ME	81008		Podgorica	PG	Podgorica				
+ME	81009		Podgorica	PG	Podgorica				
+ME	81010		Podgorica	PG	Podgorica				
+ME	81011		Podgorica	PG	Podgorica				
+ME	81012		Podgorica	PG	Podgorica				
+ME	81013		Podgorica	PG	Podgorica				
+ME	81014		Podgorica	PG	Podgorica				
+ME	81015		Podgorica	PG	Podgorica				

@@ -1,0 +1,3440 @@
+SV	02101	Agua Shuca	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	Ahuachapán	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	Ashapuco	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	Calapa	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	Chancuyo	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	Chipilapa	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	Cuyanausul	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	El Anonal	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	El Barro	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	El Espino	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	El Jobo	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	El Junquillo	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	El Mojón	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	El Roble	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	El Tigre	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	Guayaltepec	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	Hacienda San Isidro	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	Hacienda San Luis	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	La Angostura	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	La Coyotera	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	La Danta	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	La Montañita	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	Las Chinamas	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	Llano De Doña María	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	Llano De La Laguna	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	Loma De La Gloria	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	Los Horcones	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	Los Huatales	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	Los Magueyes	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	Los Toles	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	Palo Pique	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	Río Frío	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	San Lázaro	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	San Luis	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	San Raymundo	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	Santa Cruz	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	Santa Rosa Acacalco	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	Suntecumat	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02101	Tacubita	Ahuachapan	AH	Ahuachapan municipio	AH
+SV	02102	Apaneca	Ahuachapan	AH	Apaneca	AP
+SV	02102	Concepción	Ahuachapan	AH	Apaneca	AP
+SV	02102	El Palo Verde	Ahuachapan	AH	Apaneca	AP
+SV	02102	El Saitillal	Ahuachapan	AH	Apaneca	AP
+SV	02102	Las Peñas	Ahuachapan	AH	Apaneca	AP
+SV	02102	Quezalapa	Ahuachapan	AH	Apaneca	AP
+SV	02102	San José	Ahuachapan	AH	Apaneca	AP
+SV	02102	San Ramón	Ahuachapan	AH	Apaneca	AP
+SV	02102	San Ramoncito	Ahuachapan	AH	Apaneca	AP
+SV	02102	Taltapanca	Ahuachapan	AH	Apaneca	AP
+SV	02102	Tizapa	Ahuachapan	AH	Apaneca	AP
+SV	02102	Tulapa	Ahuachapan	AH	Apaneca	AP
+SV	02103	Atiquizaya	Ahuachapan	AH	Atiquizaya	AT
+SV	02103	El Chayal	Ahuachapan	AH	Atiquizaya	AT
+SV	02103	El Rosario	Ahuachapan	AH	Atiquizaya	AT
+SV	02103	El Tortuguero	Ahuachapan	AH	Atiquizaya	AT
+SV	02103	Izcaquilío	Ahuachapan	AH	Atiquizaya	AT
+SV	02103	Joya Del Platanar	Ahuachapan	AH	Atiquizaya	AT
+SV	02103	Joya El Zapote	Ahuachapan	AH	Atiquizaya	AT
+SV	02103	La Esperanza	Ahuachapan	AH	Atiquizaya	AT
+SV	02103	Loma De Alarcón	Ahuachapan	AH	Atiquizaya	AT
+SV	02103	Pepenance	Ahuachapan	AH	Atiquizaya	AT
+SV	02103	Rincón Grande	Ahuachapan	AH	Atiquizaya	AT
+SV	02103	Salitrero	Ahuachapan	AH	Atiquizaya	AT
+SV	02103	San Juan El Espino	Ahuachapan	AH	Atiquizaya	AT
+SV	02103	Tapacún	Ahuachapan	AH	Atiquizaya	AT
+SV	02103	Zunca	Ahuachapan	AH	Atiquizaya	AT
+SV	02106	Concepción De Ataco	Ahuachapan	AH	Concepcion de Ataco	CA
+SV	02106	El Arco	Ahuachapan	AH	Concepcion de Ataco	CA
+SV	02106	El Limo	Ahuachapan	AH	Concepcion de Ataco	CA
+SV	02106	El Molino	Ahuachapan	AH	Concepcion de Ataco	CA
+SV	02106	El Naranjito	Ahuachapan	AH	Concepcion de Ataco	CA
+SV	02106	El Tronconal	Ahuachapan	AH	Concepcion de Ataco	CA
+SV	02106	Finca El Carmen	Ahuachapan	AH	Concepcion de Ataco	CA
+SV	02106	Finca San Antonio	Ahuachapan	AH	Concepcion de Ataco	CA
+SV	02106	La Ceiba	Ahuachapan	AH	Concepcion de Ataco	CA
+SV	02106	Los Tablones	Ahuachapan	AH	Concepcion de Ataco	CA
+SV	02106	Nejapa	Ahuachapan	AH	Concepcion de Ataco	CA
+SV	02106	San José	Ahuachapan	AH	Concepcion de Ataco	CA
+SV	02106	Shucutitán	Ahuachapan	AH	Concepcion de Ataco	CA
+SV	02106	Texuzín Chirizo	Ahuachapan	AH	Concepcion de Ataco	CA
+SV	02107	Comapa	Ahuachapan	AH	El Refugio	ER
+SV	02107	El Refugio	Ahuachapan	AH	El Refugio	ER
+SV	02107	San Antonio	Ahuachapan	AH	El Refugio	ER
+SV	02108	Cauta Abajo	Ahuachapan	AH	Guaymango	GU
+SV	02108	Cauta Arriba	Ahuachapan	AH	Guaymango	GU
+SV	02108	El Carmen	Ahuachapan	AH	Guaymango	GU
+SV	02108	El Escalón	Ahuachapan	AH	Guaymango	GU
+SV	02108	El Rosario	Ahuachapan	AH	Guaymango	GU
+SV	02108	El Zarzal	Ahuachapan	AH	Guaymango	GU
+SV	02108	Guaymango	Ahuachapan	AH	Guaymango	GU
+SV	02108	Istagapán	Ahuachapan	AH	Guaymango	GU
+SV	02108	La Esperanza	Ahuachapan	AH	Guaymango	GU
+SV	02108	La Paz	Ahuachapan	AH	Guaymango	GU
+SV	02108	Los Mangos	Ahuachapan	AH	Guaymango	GU
+SV	02108	Los Platanares	Ahuachapan	AH	Guaymango	GU
+SV	02108	Los Puentecitos	Ahuachapan	AH	Guaymango	GU
+SV	02108	Los Rivas	Ahuachapan	AH	Guaymango	GU
+SV	02108	Morro Grande	Ahuachapan	AH	Guaymango	GU
+SV	02108	San Andrés	Ahuachapan	AH	Guaymango	GU
+SV	02108	San Martín	Ahuachapan	AH	Guaymango	GU
+SV	02108	Tihuicha	Ahuachapan	AH	Guaymango	GU
+SV	02109	Azacualpa	Ahuachapan	AH	Jujutla	JU
+SV	02109	Barra De Santiago	Ahuachapan	AH	Jujutla	JU
+SV	02109	El Capulín	Ahuachapan	AH	Jujutla	JU
+SV	02109	El Corral	Ahuachapan	AH	Jujutla	JU
+SV	02109	El Diamante	Ahuachapan	AH	Jujutla	JU
+SV	02109	El Nance	Ahuachapan	AH	Jujutla	JU
+SV	02109	El Sitio	Ahuachapan	AH	Jujutla	JU
+SV	02109	El Talpetate	Ahuachapan	AH	Jujutla	JU
+SV	02109	Faya	Ahuachapan	AH	Jujutla	JU
+SV	02109	Guayapa Abajo	Ahuachapan	AH	Jujutla	JU
+SV	02109	Guayapa Arriba	Ahuachapan	AH	Jujutla	JU
+SV	02109	Hacienda El Chagüite	Ahuachapan	AH	Jujutla	JU
+SV	02109	Hacienda El Salto	Ahuachapan	AH	Jujutla	JU
+SV	02109	Jujutla	Ahuachapan	AH	Jujutla	JU
+SV	02109	Las Canoas	Ahuachapan	AH	Jujutla	JU
+SV	02109	Las Delicias	Ahuachapan	AH	Jujutla	JU
+SV	02109	Las Mesas	Ahuachapan	AH	Jujutla	JU
+SV	02109	Los Amates	Ahuachapan	AH	Jujutla	JU
+SV	02109	Los Calderón	Ahuachapan	AH	Jujutla	JU
+SV	02109	Maguey	Ahuachapan	AH	Jujutla	JU
+SV	02109	Matala	Ahuachapan	AH	Jujutla	JU
+SV	02109	Monte Hermoso	Ahuachapan	AH	Jujutla	JU
+SV	02109	Rosario Abajo	Ahuachapan	AH	Jujutla	JU
+SV	02109	Rosario Arriba	Ahuachapan	AH	Jujutla	JU
+SV	02109	San Antonio	Ahuachapan	AH	Jujutla	JU
+SV	02109	San José El Naranjo	Ahuachapan	AH	Jujutla	JU
+SV	02109	Santa Catarina	Ahuachapan	AH	Jujutla	JU
+SV	02109	Zapúa	Ahuachapan	AH	Jujutla	JU
+SV	02113	Aguachapío	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	Bola De Monte	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	Cara Sucia	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	Chagalapa	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	Desvío San Francisco	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	El Amatal	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	El Amatillo	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	El Botoncillo	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	El Camalote	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	El Capulín	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	El Castaño	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	El Chino	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	El Coco	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	El Corozo	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	El Golandrino	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	El Guayabo	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	El Güisnay	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	El Huiscoyol	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	El Jocotillo	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	El Martillo	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	El Naranjo	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	El Pital	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	El Porvenir	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	El Refugio	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	El Sacramento	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	El Talpetate	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	El Tamboral	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	El Telpetate	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	El Ujushtal	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	El Zapote	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	Garita Palmera	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	Hacienda El Imposible	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	Iravol	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	La Ceiba	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	La Cuchilla	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	La Danta	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	La Hachadura	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	La Maquina	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	La Montañita	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	La Palma	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	La Playa	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	La Puebla	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	La Quesera	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	Las Brisas	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	Las Salinas	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	Loma De Paja	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	Los Amates	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	Los Cerritos	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	Los Conacastes	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	Los Huatalones	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	Manuel José Arce	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	Puente Arce	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	Puertas Negras	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	San Antonio	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	San Benito	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	San Francisco Menéndez	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	San Marcos	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	San Miguelito	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	Santa Elena	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	Santa Rita	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	Santa Virginia El Achiotal	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	Tamasha	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	Tamashita	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02113	Tegal	Ahuachapan	AH	San Francisco Menendez	SF
+SV	02115	El Conacaste	Ahuachapan	AH	San Lorenzo Ahuachapan	SL
+SV	02115	El Jicaral	Ahuachapan	AH	San Lorenzo Ahuachapan	SL
+SV	02115	El Portillo	Ahuachapan	AH	San Lorenzo Ahuachapan	SL
+SV	02115	El Tablón	Ahuachapan	AH	San Lorenzo Ahuachapan	SL
+SV	02115	La Guascota	Ahuachapan	AH	San Lorenzo Ahuachapan	SL
+SV	02115	Las Mercedes	Ahuachapan	AH	San Lorenzo Ahuachapan	SL
+SV	02115	San Juan Buenavista	Ahuachapan	AH	San Lorenzo Ahuachapan	SL
+SV	02115	San Lorenzo	Ahuachapan	AH	San Lorenzo Ahuachapan	SL
+SV	02115	San Sebastián	Ahuachapan	AH	San Lorenzo Ahuachapan	SL
+SV	02116	El Cortez	Ahuachapan	AH	San Pedro Puxtla	SP
+SV	02116	El Durazno	Ahuachapan	AH	San Pedro Puxtla	SP
+SV	02116	La Concepción	Ahuachapan	AH	San Pedro Puxtla	SP
+SV	02116	Pululapa	Ahuachapan	AH	San Pedro Puxtla	SP
+SV	02116	San Pedro Puxtla	Ahuachapan	AH	San Pedro Puxtla	SP
+SV	02116	San Rafael	Ahuachapan	AH	San Pedro Puxtla	SP
+SV	02117	Agua Fría	Ahuachapan	AH	Tacuba	TA
+SV	02117	El Chagüite	Ahuachapan	AH	Tacuba	TA
+SV	02117	El Durazneño	Ahuachapan	AH	Tacuba	TA
+SV	02117	El Jícaro	Ahuachapan	AH	Tacuba	TA
+SV	02117	El Níspero	Ahuachapan	AH	Tacuba	TA
+SV	02117	El Palmo	Ahuachapan	AH	Tacuba	TA
+SV	02117	El Rodeo	Ahuachapan	AH	Tacuba	TA
+SV	02117	El Rosario	Ahuachapan	AH	Tacuba	TA
+SV	02117	El Sincuyo	Ahuachapan	AH	Tacuba	TA
+SV	02117	El Sunza	Ahuachapan	AH	Tacuba	TA
+SV	02117	La Angostura	Ahuachapan	AH	Tacuba	TA
+SV	02117	La Cabaña	Ahuachapan	AH	Tacuba	TA
+SV	02117	La Montaña	Ahuachapan	AH	Tacuba	TA
+SV	02117	La Pandeadura	Ahuachapan	AH	Tacuba	TA
+SV	02117	La Puerta	Ahuachapan	AH	Tacuba	TA
+SV	02117	Las Colinas	Ahuachapan	AH	Tacuba	TA
+SV	02117	Las Mercedes	Ahuachapan	AH	Tacuba	TA
+SV	02117	Llano Grande	Ahuachapan	AH	Tacuba	TA
+SV	02117	Loma Larga	Ahuachapan	AH	Tacuba	TA
+SV	02117	Lomas El Zope	Ahuachapan	AH	Tacuba	TA
+SV	02117	Los Conacastes	Ahuachapan	AH	Tacuba	TA
+SV	02117	Los Mangos	Ahuachapan	AH	Tacuba	TA
+SV	02117	San Juan	Ahuachapan	AH	Tacuba	TA
+SV	02117	San Luis	Ahuachapan	AH	Tacuba	TA
+SV	02117	San Rafael	Ahuachapan	AH	Tacuba	TA
+SV	02117	Tacuba	Ahuachapan	AH	Tacuba	TA
+SV	02118	El Jobo	Ahuachapan	AH	Turin	TU
+SV	02118	El Paraíso	Ahuachapan	AH	Turin	TU
+SV	02118	Santa Rita	Ahuachapan	AH	Turin	TU
+SV	02118	Turín	Ahuachapan	AH	Turin	TU
+SV	01202	Caleras	Cabanas	CA	Cinquera	CI
+SV	01202	Carrasco	Cabanas	CA	Cinquera	CI
+SV	01202	Cinquera	Cabanas	CA	Cinquera	CI
+SV	01202	El Cacao	Cabanas	CA	Cinquera	CI
+SV	01202	Güiligüiste	Cabanas	CA	Cinquera	CI
+SV	01202	La Cruz	Cabanas	CA	Cinquera	CI
+SV	01202	Las Caricias	Cabanas	CA	Cinquera	CI
+SV	01202	Las Vegas	Cabanas	CA	Cinquera	CI
+SV	01202	San Antonio	Cabanas	CA	Cinquera	CI
+SV	01202	San José El Tule	Cabanas	CA	Cinquera	CI
+SV	01202	San Nicolás	Cabanas	CA	Cinquera	CI
+SV	01209	Cañafístula	Cabanas	CA	Dolores municipio	DO
+SV	01209	Chapelcoro	Cabanas	CA	Dolores municipio	DO
+SV	01209	Curarén	Cabanas	CA	Dolores municipio	DO
+SV	01209	Dolores	Cabanas	CA	Dolores municipio	DO
+SV	01209	El Jocote	Cabanas	CA	Dolores municipio	DO
+SV	01209	La Dubona	Cabanas	CA	Dolores municipio	DO
+SV	01209	La Palanca	Cabanas	CA	Dolores municipio	DO
+SV	01209	Niqueresque	Cabanas	CA	Dolores municipio	DO
+SV	01209	San Carlos	Cabanas	CA	Dolores municipio	DO
+SV	01209	Sitio El Castillo	Cabanas	CA	Dolores municipio	DO
+SV	01209	Sitio Quebrachal	Cabanas	CA	Dolores municipio	DO
+SV	01203	Agua Zarca	Cabanas	CA	Guacotecti	GU
+SV	01203	El Bañadero	Cabanas	CA	Guacotecti	GU
+SV	01203	El Tempisque	Cabanas	CA	Guacotecti	GU
+SV	01203	Guacotecti	Cabanas	CA	Guacotecti	GU
+SV	01203	Palo Bonito	Cabanas	CA	Guacotecti	GU
+SV	01203	Sensuntepeque	Cabanas	CA	Guacotecti	GU
+SV	01204	Agua Zarca	Cabanas	CA	Ilobasco	IL
+SV	01204	Azacualpa	Cabanas	CA	Ilobasco	IL
+SV	01204	Buenos Aires	Cabanas	CA	Ilobasco	IL
+SV	01204	Cerro Colorado	Cabanas	CA	Ilobasco	IL
+SV	01204	Concepción	Cabanas	CA	Ilobasco	IL
+SV	01204	Corral De Piedras	Cabanas	CA	Ilobasco	IL
+SV	01204	Cruz Del Llano	Cabanas	CA	Ilobasco	IL
+SV	01204	El Mestizo	Cabanas	CA	Ilobasco	IL
+SV	01204	El Potrero	Cabanas	CA	Ilobasco	IL
+SV	01204	El Rincón	Cabanas	CA	Ilobasco	IL
+SV	01204	Ilobasco	Cabanas	CA	Ilobasco	IL
+SV	01204	Las Cuchillas	Cabanas	CA	Ilobasco	IL
+SV	01204	Las Huertas	Cabanas	CA	Ilobasco	IL
+SV	01204	Las Minas	Cabanas	CA	Ilobasco	IL
+SV	01204	Llano Largo	Cabanas	CA	Ilobasco	IL
+SV	01204	Lomas De Peña	Cabanas	CA	Ilobasco	IL
+SV	01204	Los Hoyos	Cabanas	CA	Ilobasco	IL
+SV	01204	Los Llanitos	Cabanas	CA	Ilobasco	IL
+SV	01204	Los Menjívar	Cabanas	CA	Ilobasco	IL
+SV	01204	Los Torunos	Cabanas	CA	Ilobasco	IL
+SV	01204	Maquilishuat	Cabanas	CA	Ilobasco	IL
+SV	01204	Nanastepeque	Cabanas	CA	Ilobasco	IL
+SV	01204	Oratorio	Cabanas	CA	Ilobasco	IL
+SV	01204	Quesera	Cabanas	CA	Ilobasco	IL
+SV	01204	San Francisco Del Monte	Cabanas	CA	Ilobasco	IL
+SV	01204	San Francisco Iraheta	Cabanas	CA	Ilobasco	IL
+SV	01204	San José	Cabanas	CA	Ilobasco	IL
+SV	01204	San José Caleras	Cabanas	CA	Ilobasco	IL
+SV	01204	Santa Cruz	Cabanas	CA	Ilobasco	IL
+SV	01204	Santa Lucía	Cabanas	CA	Ilobasco	IL
+SV	01204	Sitio De La Avanzada	Cabanas	CA	Ilobasco	IL
+SV	01204	Sitio Viejo	Cabanas	CA	Ilobasco	IL
+SV	01206	Chamalistagua	Cabanas	CA	Jutiapa municipio	JU
+SV	01206	El Coco	Cabanas	CA	Jutiapa municipio	JU
+SV	01206	El Jocotal	Cabanas	CA	Jutiapa municipio	JU
+SV	01206	El Limón	Cabanas	CA	Jutiapa municipio	JU
+SV	01206	El Manguito	Cabanas	CA	Jutiapa municipio	JU
+SV	01206	El Platanar	Cabanas	CA	Jutiapa municipio	JU
+SV	01206	Huiscoyol	Cabanas	CA	Jutiapa municipio	JU
+SV	01206	Jutiapa	Cabanas	CA	Jutiapa municipio	JU
+SV	01206	La Escopeta	Cabanas	CA	Jutiapa municipio	JU
+SV	01206	Los Remedios	Cabanas	CA	Jutiapa municipio	JU
+SV	01206	Palacios	Cabanas	CA	Jutiapa municipio	JU
+SV	01206	San Sebastián	Cabanas	CA	Jutiapa municipio	JU
+SV	01206	Santa Bárbara	Cabanas	CA	Jutiapa municipio	JU
+SV	01206	Santa Olaya	Cabanas	CA	Jutiapa municipio	JU
+SV	01206	Sitio Los Chavarría	Cabanas	CA	Jutiapa municipio	JU
+SV	01206	Valle Nuevo	Cabanas	CA	Jutiapa municipio	JU
+SV	01207	El Amate	Cabanas	CA	San Isidro Cabanas	SI
+SV	01207	El Izcatal	Cabanas	CA	San Isidro Cabanas	SI
+SV	01207	El Jícaro	Cabanas	CA	San Isidro Cabanas	SI
+SV	01207	El Jobito	Cabanas	CA	San Isidro Cabanas	SI
+SV	01207	El Junquillo	Cabanas	CA	San Isidro Cabanas	SI
+SV	01207	El Potrero	Cabanas	CA	San Isidro Cabanas	SI
+SV	01207	Llano De La Hacienda	Cabanas	CA	San Isidro Cabanas	SI
+SV	01207	Los Jobos	Cabanas	CA	San Isidro Cabanas	SI
+SV	01207	Morontepeque	Cabanas	CA	San Isidro Cabanas	SI
+SV	01207	Potrero De Batres	Cabanas	CA	San Isidro Cabanas	SI
+SV	01207	Potrero Y Tablas	Cabanas	CA	San Isidro Cabanas	SI
+SV	01207	San Isidro	Cabanas	CA	San Isidro Cabanas	SI
+SV	01207	Titihuapa	Cabanas	CA	San Isidro Cabanas	SI
+SV	01201	Campamento Número Dos	Cabanas	CA	Sensuntepeque	SE
+SV	01201	Campamento Número Uno	Cabanas	CA	Sensuntepeque	SE
+SV	01201	Chunte	Cabanas	CA	Sensuntepeque	SE
+SV	01201	Copinolapa	Cabanas	CA	Sensuntepeque	SE
+SV	01201	Cuyantepeque	Cabanas	CA	Sensuntepeque	SE
+SV	01201	El Aguacate	Cabanas	CA	Sensuntepeque	SE
+SV	01201	El Camalote	Cabanas	CA	Sensuntepeque	SE
+SV	01201	El Caracol	Cabanas	CA	Sensuntepeque	SE
+SV	01201	El Carrizal	Cabanas	CA	Sensuntepeque	SE
+SV	01201	El Chaparral	Cabanas	CA	Sensuntepeque	SE
+SV	01201	El Güiligüiste	Cabanas	CA	Sensuntepeque	SE
+SV	01201	El Guineo	Cabanas	CA	Sensuntepeque	SE
+SV	01201	El Irayol	Cabanas	CA	Sensuntepeque	SE
+SV	01201	El Izcatal	Cabanas	CA	Sensuntepeque	SE
+SV	01201	El Jicarillo	Cabanas	CA	Sensuntepeque	SE
+SV	01201	El Jícaro	Cabanas	CA	Sensuntepeque	SE
+SV	01201	El Limón	Cabanas	CA	Sensuntepeque	SE
+SV	01201	El Ojushte	Cabanas	CA	Sensuntepeque	SE
+SV	01201	El Pepeto	Cabanas	CA	Sensuntepeque	SE
+SV	01201	El Rincón	Cabanas	CA	Sensuntepeque	SE
+SV	01201	El Tablón	Cabanas	CA	Sensuntepeque	SE
+SV	01201	El Volcán	Cabanas	CA	Sensuntepeque	SE
+SV	01201	El Zapote	Cabanas	CA	Sensuntepeque	SE
+SV	01201	Escalante	Cabanas	CA	Sensuntepeque	SE
+SV	01201	Huiscoyol	Cabanas	CA	Sensuntepeque	SE
+SV	01201	La Bermuda	Cabanas	CA	Sensuntepeque	SE
+SV	01201	La Calera	Cabanas	CA	Sensuntepeque	SE
+SV	01201	La Chorrera Del Guayabo	Cabanas	CA	Sensuntepeque	SE
+SV	01201	La Joya	Cabanas	CA	Sensuntepeque	SE
+SV	01201	La Maraña	Cabanas	CA	Sensuntepeque	SE
+SV	01201	Las Delicias	Cabanas	CA	Sensuntepeque	SE
+SV	01201	Las Guarumas	Cabanas	CA	Sensuntepeque	SE
+SV	01201	Las Marías	Cabanas	CA	Sensuntepeque	SE
+SV	01201	La Trinidad	Cabanas	CA	Sensuntepeque	SE
+SV	01201	Llano Grande	Cabanas	CA	Sensuntepeque	SE
+SV	01201	Los Llanitos	Cabanas	CA	Sensuntepeque	SE
+SV	01201	Los Navarrete	Cabanas	CA	Sensuntepeque	SE
+SV	01201	Los Olotes	Cabanas	CA	Sensuntepeque	SE
+SV	01201	Los Portillos	Cabanas	CA	Sensuntepeque	SE
+SV	01201	Los Ranchos	Cabanas	CA	Sensuntepeque	SE
+SV	01201	Los Urías	Cabanas	CA	Sensuntepeque	SE
+SV	01201	Mundo Nuevo	Cabanas	CA	Sensuntepeque	SE
+SV	01201	Nacaspilo	Cabanas	CA	Sensuntepeque	SE
+SV	01201	Nombre De Dios	Cabanas	CA	Sensuntepeque	SE
+SV	01201	Palacios	Cabanas	CA	Sensuntepeque	SE
+SV	01201	Río Grande	Cabanas	CA	Sensuntepeque	SE
+SV	01201	Rojas	Cabanas	CA	Sensuntepeque	SE
+SV	01201	Rojitas	Cabanas	CA	Sensuntepeque	SE
+SV	01201	San Francisco	Cabanas	CA	Sensuntepeque	SE
+SV	01201	San Gregorio	Cabanas	CA	Sensuntepeque	SE
+SV	01201	San Lorenzo	Cabanas	CA	Sensuntepeque	SE
+SV	01201	San Marcos	Cabanas	CA	Sensuntepeque	SE
+SV	01201	San Matías	Cabanas	CA	Sensuntepeque	SE
+SV	01201	Santa Cruz	Cabanas	CA	Sensuntepeque	SE
+SV	01201	Tronalagua	Cabanas	CA	Sensuntepeque	SE
+SV	01209	El Zapote	Cabanas	CA	Tejutepeque	TE
+SV	01209	La Ermita	Cabanas	CA	Tejutepeque	TE
+SV	01209	San Antonio Buenavista	Cabanas	CA	Tejutepeque	TE
+SV	01209	San Benito	Cabanas	CA	Tejutepeque	TE
+SV	01209	San Francisco Echeverría	Cabanas	CA	Tejutepeque	TE
+SV	01209	Santa Rita	Cabanas	CA	Tejutepeque	TE
+SV	01209	Tejutepeque	Cabanas	CA	Tejutepeque	TE
+SV	01209	Valle Nuevo	Cabanas	CA	Tejutepeque	TE
+SV	01210	Azacualpa	Cabanas	CA	Victoria municipio	VI
+SV	01210	El Bosque	Cabanas	CA	Victoria municipio	VI
+SV	01210	El Cimarrón	Cabanas	CA	Victoria municipio	VI
+SV	01210	El Limo	Cabanas	CA	Victoria municipio	VI
+SV	01210	El Níspero	Cabanas	CA	Victoria municipio	VI
+SV	01210	El Palomar	Cabanas	CA	Victoria municipio	VI
+SV	01210	El Papalón	Cabanas	CA	Victoria municipio	VI
+SV	01210	El Pepeto	Cabanas	CA	Victoria municipio	VI
+SV	01210	El Zapote	Cabanas	CA	Victoria municipio	VI
+SV	01210	El Zope	Cabanas	CA	Victoria municipio	VI
+SV	01210	Hacienda Vieja	Cabanas	CA	Victoria municipio	VI
+SV	01210	La Cañada	Cabanas	CA	Victoria municipio	VI
+SV	01210	La Montañita	Cabanas	CA	Victoria municipio	VI
+SV	01210	La Pinte	Cabanas	CA	Victoria municipio	VI
+SV	01210	Las Dantas	Cabanas	CA	Victoria municipio	VI
+SV	01210	La Siguanaba	Cabanas	CA	Victoria municipio	VI
+SV	01210	La Trinidad	Cabanas	CA	Victoria municipio	VI
+SV	01210	La Uvilla	Cabanas	CA	Victoria municipio	VI
+SV	01210	Los Talpetates	Cabanas	CA	Victoria municipio	VI
+SV	01210	Paratao	Cabanas	CA	Victoria municipio	VI
+SV	01210	Peña Blanca	Cabanas	CA	Victoria municipio	VI
+SV	01210	Salto	Cabanas	CA	Victoria municipio	VI
+SV	01210	San Antonio	Cabanas	CA	Victoria municipio	VI
+SV	01210	San Jorge	Cabanas	CA	Victoria municipio	VI
+SV	01210	San Juan	Cabanas	CA	Victoria municipio	VI
+SV	01210	Santa Marta	Cabanas	CA	Victoria municipio	VI
+SV	01210	Victoria	Cabanas	CA	Victoria municipio	VI
+SV	01302	Agua Caliente	Chalatenango	CH	Agua Caliente municipio	AC
+SV	01302	Agua Fría	Chalatenango	CH	Agua Caliente municipio	AC
+SV	01302	Agua Zarca	Chalatenango	CH	Agua Caliente municipio	AC
+SV	01302	Encumbrado	Chalatenango	CH	Agua Caliente municipio	AC
+SV	01302	Los Almendros	Chalatenango	CH	Agua Caliente municipio	AC
+SV	01302	Obrajuelo	Chalatenango	CH	Agua Caliente municipio	AC
+SV	01302	Ojos De Agua	Chalatenango	CH	Agua Caliente municipio	AC
+SV	01302	Santa Rosa	Chalatenango	CH	Agua Caliente municipio	AC
+SV	01303	Arcatao	Chalatenango	CH	Arcatao	AR
+SV	01303	El Sitio	Chalatenango	CH	Arcatao	AR
+SV	01303	Gualcimaca	Chalatenango	CH	Arcatao	AR
+SV	01303	La Cañada	Chalatenango	CH	Arcatao	AR
+SV	01303	La Longaniza	Chalatenango	CH	Arcatao	AR
+SV	01303	Las Vegas	Chalatenango	CH	Arcatao	AR
+SV	01303	Los Filos	Chalatenango	CH	Arcatao	AR
+SV	01303	Manaquil	Chalatenango	CH	Arcatao	AR
+SV	01303	Teosinte	Chalatenango	CH	Arcatao	AR
+SV	01304	Azacualpa	Chalatenango	CH	Azacualpa municipio	AZ
+SV	01304	Cuesta De Marina	Chalatenango	CH	Azacualpa municipio	AZ
+SV	01305	Candelaria	Chalatenango	CH	Cancasque	SC
+SV	01305	Los Guillén	Chalatenango	CH	Cancasque	SC
+SV	01305	San José Cancasque	Chalatenango	CH	Cancasque	SC
+SV	01301	Chalatenango	Chalatenango	CH	Chalatenango municipio	CH
+SV	01301	Chiapas	Chalatenango	CH	Chalatenango municipio	CH
+SV	01301	Concepción Quezaltepeque	Chalatenango	CH	Chalatenango municipio	CH
+SV	01301	El Dorado	Chalatenango	CH	Chalatenango municipio	CH
+SV	01301	El Limón	Chalatenango	CH	Chalatenango municipio	CH
+SV	01301	El Salamar	Chalatenango	CH	Chalatenango municipio	CH
+SV	01301	Hacienda Grande	Chalatenango	CH	Chalatenango municipio	CH
+SV	01301	La Laguna	Chalatenango	CH	Chalatenango municipio	CH
+SV	01301	Las Mesitas	Chalatenango	CH	Chalatenango municipio	CH
+SV	01301	Los Amates	Chalatenango	CH	Chalatenango municipio	CH
+SV	01301	Los Ortiz	Chalatenango	CH	Chalatenango municipio	CH
+SV	01301	Los Zepeda	Chalatenango	CH	Chalatenango municipio	CH
+SV	01301	Monte Redondo	Chalatenango	CH	Chalatenango municipio	CH
+SV	01301	Olosingo	Chalatenango	CH	Chalatenango municipio	CH
+SV	01301	Palo Verde	Chalatenango	CH	Chalatenango municipio	CH
+SV	01301	San Bartolo	Chalatenango	CH	Chalatenango municipio	CH
+SV	01301	San José	Chalatenango	CH	Chalatenango municipio	CH
+SV	01301	Sitio Los Núñez	Chalatenango	CH	Chalatenango municipio	CH
+SV	01301	Upatoro	Chalatenango	CH	Chalatenango municipio	CH
+SV	01306	Citalá	Chalatenango	CH	Citala	CI
+SV	01306	El Chagüitón	Chalatenango	CH	Citala	CI
+SV	01306	El Poy	Chalatenango	CH	Citala	CI
+SV	01306	Gualcho	Chalatenango	CH	Citala	CI
+SV	01306	La Cuestona	Chalatenango	CH	Citala	CI
+SV	01306	Llano De La Virgen	Chalatenango	CH	Citala	CI
+SV	01306	Los Hornitos	Chalatenango	CH	Citala	CI
+SV	01306	Los Planes	Chalatenango	CH	Citala	CI
+SV	01306	San Francisco	Chalatenango	CH	Citala	CI
+SV	01306	San Lorenzo	Chalatenango	CH	Citala	CI
+SV	01306	San Ramón	Chalatenango	CH	Citala	CI
+SV	01307	Cuevitas	Chalatenango	CH	Comalapa municipio	CO
+SV	01307	El Morro	Chalatenango	CH	Comalapa municipio	CO
+SV	01307	Guachipilín	Chalatenango	CH	Comalapa municipio	CO
+SV	01308	Aldea Vieja	Chalatenango	CH	Concepcion Quezaltepeque	CQ
+SV	01308	Candelaria	Chalatenango	CH	Concepcion Quezaltepeque	CQ
+SV	01308	Comalapa	Chalatenango	CH	Concepcion Quezaltepeque	CQ
+SV	01308	El Conacaste	Chalatenango	CH	Concepcion Quezaltepeque	CQ
+SV	01308	El Jocotillo	Chalatenango	CH	Concepcion Quezaltepeque	CQ
+SV	01308	El Pepeto	Chalatenango	CH	Concepcion Quezaltepeque	CQ
+SV	01308	El Rosario	Chalatenango	CH	Concepcion Quezaltepeque	CQ
+SV	01308	La Junta	Chalatenango	CH	Concepcion Quezaltepeque	CQ
+SV	01308	Llano Grande	Chalatenango	CH	Concepcion Quezaltepeque	CQ
+SV	01308	Los Barrillas	Chalatenango	CH	Concepcion Quezaltepeque	CQ
+SV	01308	Pacayas	Chalatenango	CH	Concepcion Quezaltepeque	CQ
+SV	01309	Dulce Nombre De María	Chalatenango	CH	Dulce Nombre de Maria	DN
+SV	01309	El Chupadero	Chalatenango	CH	Dulce Nombre de Maria	DN
+SV	01309	El Ocotal	Chalatenango	CH	Dulce Nombre de Maria	DN
+SV	01309	El Rosario	Chalatenango	CH	Dulce Nombre de Maria	DN
+SV	01309	Gutiérrez	Chalatenango	CH	Dulce Nombre de Maria	DN
+SV	01309	Plan Del Ojo De Agua	Chalatenango	CH	Dulce Nombre de Maria	DN
+SV	01311	Petapa	Chalatenango	CH	El Carrizal	EC
+SV	01311	Plan Verde	Chalatenango	CH	El Carrizal	EC
+SV	01311	Potrerillos	Chalatenango	CH	El Carrizal	EC
+SV	01311	Vainillas	Chalatenango	CH	El Carrizal	EC
+SV	01312	El Cobanito	Chalatenango	CH	El Paraiso municipio	EP
+SV	01312	El Paraíso	Chalatenango	CH	El Paraiso municipio	EP
+SV	01312	El Tablón	Chalatenango	CH	El Paraiso municipio	EP
+SV	01312	Santa Bárbara	Chalatenango	CH	El Paraiso municipio	EP
+SV	01312	Valle Nuevo	Chalatenango	CH	El Paraiso municipio	EP
+SV	01306	Aldea Vieja	Chalatenango	CH	Las Flores	SJ
+SV	01306	Hacienda	Chalatenango	CH	Las Flores	SJ
+SV	01306	Jaguatalla	Chalatenango	CH	Las Flores	SJ
+SV	01306	Lagunita	Chalatenango	CH	Las Flores	SJ
+SV	01306	Las Limas	Chalatenango	CH	Las Flores	SJ
+SV	01306	Llano Verde	Chalatenango	CH	Las Flores	SJ
+SV	01306	Los Guardado	Chalatenango	CH	Las Flores	SJ
+SV	01306	San José Las Flores	Chalatenango	CH	Las Flores	SJ
+SV	01317	El Conacaste	Chalatenango	CH	Las Vueltas	LV
+SV	01317	La Ceiba	Chalatenango	CH	Las Vueltas	LV
+SV	01317	Las Vueltas	Chalatenango	CH	Las Vueltas	LV
+SV	01317	San José	Chalatenango	CH	Las Vueltas	LV
+SV	01313	El Sicahuite	Chalatenango	CH	La Laguna	LL
+SV	01313	La Cuchilla	Chalatenango	CH	La Laguna	LL
+SV	01313	La Laguna	Chalatenango	CH	La Laguna	LL
+SV	01313	La Montañita	Chalatenango	CH	La Laguna	LL
+SV	01313	Los Naranjos	Chalatenango	CH	La Laguna	LL
+SV	01313	Los Prados	Chalatenango	CH	La Laguna	LL
+SV	01313	San José	Chalatenango	CH	La Laguna	LL
+SV	01314	Aguacatal	Chalatenango	CH	La Palma municipio	LP
+SV	01314	Cerro Grande	Chalatenango	CH	La Palma municipio	LP
+SV	01314	El Gramal	Chalatenango	CH	La Palma municipio	LP
+SV	01314	El Panal	Chalatenango	CH	La Palma municipio	LP
+SV	01314	El Roblito	Chalatenango	CH	La Palma municipio	LP
+SV	01314	La Palma	Chalatenango	CH	La Palma municipio	LP
+SV	01314	Las Cruces	Chalatenango	CH	La Palma municipio	LP
+SV	01314	Los Horcones	Chalatenango	CH	La Palma municipio	LP
+SV	01314	Los Planes	Chalatenango	CH	La Palma municipio	LP
+SV	01314	Río Chiquito	Chalatenango	CH	La Palma municipio	LP
+SV	01314	San José Las Caleras	Chalatenango	CH	La Palma municipio	LP
+SV	01314	San José Sacare	Chalatenango	CH	La Palma municipio	LP
+SV	01315	Aguaje Escondido	Chalatenango	CH	La Reina municipio	LR
+SV	01315	El Pepeto	Chalatenango	CH	La Reina municipio	LR
+SV	01315	El Tigre	Chalatenango	CH	La Reina municipio	LR
+SV	01315	La Reina	Chalatenango	CH	La Reina municipio	LR
+SV	01315	Las Cañas	Chalatenango	CH	La Reina municipio	LR
+SV	01315	San José El Carao	Chalatenango	CH	La Reina municipio	LR
+SV	01315	Talchaluya	Chalatenango	CH	La Reina municipio	LR
+SV	01315	Talquezal	Chalatenango	CH	La Reina municipio	LR
+SV	01315	Tecomates	Chalatenango	CH	La Reina municipio	LR
+SV	01315	Teosinte	Chalatenango	CH	La Reina municipio	LR
+SV	01315	Tilapa	Chalatenango	CH	La Reina municipio	LR
+SV	01318	Eramón	Chalatenango	CH	Nombre de Jesus	NJ
+SV	01318	Los Henríquez	Chalatenango	CH	Nombre de Jesus	NJ
+SV	01318	Nombre De Jesús	Chalatenango	CH	Nombre de Jesus	NJ
+SV	01318	Patanera	Chalatenango	CH	Nombre de Jesus	NJ
+SV	01318	Plazuelas	Chalatenango	CH	Nombre de Jesus	NJ
+SV	01318	Potrerillos	Chalatenango	CH	Nombre de Jesus	NJ
+SV	01318	Quipure	Chalatenango	CH	Nombre de Jesus	NJ
+SV	01318	San Nicolás	Chalatenango	CH	Nombre de Jesus	NJ
+SV	01319	Chagüitón	Chalatenango	CH	Nueva Concepcion municipio	NC
+SV	01319	Chilamates	Chalatenango	CH	Nueva Concepcion municipio	NC
+SV	01319	Chilincito	Chalatenango	CH	Nueva Concepcion municipio	NC
+SV	01319	El Gavilán	Chalatenango	CH	Nueva Concepcion municipio	NC
+SV	01319	El Nisperal	Chalatenango	CH	Nueva Concepcion municipio	NC
+SV	01319	El Portezuelo	Chalatenango	CH	Nueva Concepcion municipio	NC
+SV	01319	El Zapote	Chalatenango	CH	Nueva Concepcion municipio	NC
+SV	01319	Hacienda Jiboa	Chalatenango	CH	Nueva Concepcion municipio	NC
+SV	01319	Hacienda Los Jobos	Chalatenango	CH	Nueva Concepcion municipio	NC
+SV	01319	Hacienda Santa Elena	Chalatenango	CH	Nueva Concepcion municipio	NC
+SV	01319	Hacienda Santa Rosa	Chalatenango	CH	Nueva Concepcion municipio	NC
+SV	01319	Jayuca	Chalatenango	CH	Nueva Concepcion municipio	NC
+SV	01319	Laguna Seca	Chalatenango	CH	Nueva Concepcion municipio	NC
+SV	01319	La Laguneta	Chalatenango	CH	Nueva Concepcion municipio	NC
+SV	01319	Las Casitas	Chalatenango	CH	Nueva Concepcion municipio	NC
+SV	01319	Las Tablas	Chalatenango	CH	Nueva Concepcion municipio	NC
+SV	01319	Las Trancas	Chalatenango	CH	Nueva Concepcion municipio	NC
+SV	01319	Los Mangos	Chalatenango	CH	Nueva Concepcion municipio	NC
+SV	01319	Los Planes	Chalatenango	CH	Nueva Concepcion municipio	NC
+SV	01319	Los Ranchos	Chalatenango	CH	Nueva Concepcion municipio	NC
+SV	01319	Nueva Concepción	Chalatenango	CH	Nueva Concepcion municipio	NC
+SV	01319	Nuevo Edén	Chalatenango	CH	Nueva Concepcion municipio	NC
+SV	01319	Obrajito	Chalatenango	CH	Nueva Concepcion municipio	NC
+SV	01319	Potenciana	Chalatenango	CH	Nueva Concepcion municipio	NC
+SV	01319	Potrero Sula	Chalatenango	CH	Nueva Concepcion municipio	NC
+SV	01319	San Antonio Grande	Chalatenango	CH	Nueva Concepcion municipio	NC
+SV	01319	San José	Chalatenango	CH	Nueva Concepcion municipio	NC
+SV	01319	San José Chilín	Chalatenango	CH	Nueva Concepcion municipio	NC
+SV	01319	Santa Rita Cimarrón	Chalatenango	CH	Nueva Concepcion municipio	NC
+SV	01319	Santa Rosa	Chalatenango	CH	Nueva Concepcion municipio	NC
+SV	01319	Sitio Los Ranchos	Chalatenango	CH	Nueva Concepcion municipio	NC
+SV	01319	Sunapa	Chalatenango	CH	Nueva Concepcion municipio	NC
+SV	01319	Vega Grande	Chalatenango	CH	Nueva Concepcion municipio	NC
+SV	01320	Carasque	Chalatenango	CH	Nueva Trinidad	NT
+SV	01320	Cerro Grande	Chalatenango	CH	Nueva Trinidad	NT
+SV	01320	El Zacamil	Chalatenango	CH	Nueva Trinidad	NT
+SV	01320	Hacienda Vieja	Chalatenango	CH	Nueva Trinidad	NT
+SV	01320	Huizúcar	Chalatenango	CH	Nueva Trinidad	NT
+SV	01320	Nueva Trinidad	Chalatenango	CH	Nueva Trinidad	NT
+SV	01320	Santa Lucía	Chalatenango	CH	Nueva Trinidad	NT
+SV	01320	Yurique	Chalatenango	CH	Nueva Trinidad	NT
+SV	01321	Coyolar	Chalatenango	CH	Ojos de Agua municipio	OA
+SV	01321	El Carrizal	Chalatenango	CH	Ojos de Agua municipio	OA
+SV	01321	El Sitio	Chalatenango	CH	Ojos de Agua municipio	OA
+SV	01321	El Tablón	Chalatenango	CH	Ojos de Agua municipio	OA
+SV	01321	El Zapotal	Chalatenango	CH	Ojos de Agua municipio	OA
+SV	01321	La Trinidad	Chalatenango	CH	Ojos de Agua municipio	OA
+SV	01321	Ojos De Agua	Chalatenango	CH	Ojos de Agua municipio	OA
+SV	01322	Alto El Sitio	Chalatenango	CH	Potonico	PO
+SV	01322	Carolina	Chalatenango	CH	Potonico	PO
+SV	01322	Corral Falso	Chalatenango	CH	Potonico	PO
+SV	01322	Monte Redondo	Chalatenango	CH	Potonico	PO
+SV	01322	Potonico	Chalatenango	CH	Potonico	PO
+SV	01322	Potrerillos	Chalatenango	CH	Potonico	PO
+SV	01334	El Chilamate	Chalatenango	CH	Santa Rita municipio	ST
+SV	01334	La Cumbre	Chalatenango	CH	Santa Rita municipio	ST
+SV	01334	San Nicolás Piedras Gordas	Chalatenango	CH	Santa Rita municipio	ST
+SV	01334	Santa Rita	Chalatenango	CH	Santa Rita municipio	ST
+SV	01324	Concepción	Chalatenango	CH	San Antonio de la Cruz	SA
+SV	01324	Copalío	Chalatenango	CH	San Antonio de la Cruz	SA
+SV	01324	El Zapote	Chalatenango	CH	San Antonio de la Cruz	SA
+SV	01324	Los Miranda	Chalatenango	CH	San Antonio de la Cruz	SA
+SV	01324	Los Morales	Chalatenango	CH	San Antonio de la Cruz	SA
+SV	01324	San Antonio De La Cruz	Chalatenango	CH	San Antonio de la Cruz	SA
+SV	01324	San Benito	Chalatenango	CH	San Antonio de la Cruz	SA
+SV	01324	Santa Ana	Chalatenango	CH	San Antonio de la Cruz	SA
+SV	01325	El Salitre	Chalatenango	CH	San Antonio Los Ranchos	SO
+SV	01325	San Antonio Los Ranchos	Chalatenango	CH	San Antonio Los Ranchos	SO
+SV	01325	Tepeyac	Chalatenango	CH	San Antonio Los Ranchos	SO
+SV	01326	El Roblar	Chalatenango	CH	San Fernando Chalatenango	SZ
+SV	01326	Jocotán	Chalatenango	CH	San Fernando Chalatenango	SZ
+SV	01326	Los Chagüites	Chalatenango	CH	San Fernando Chalatenango	SZ
+SV	01326	Los Llanitos	Chalatenango	CH	San Fernando Chalatenango	SZ
+SV	01326	San Fernando	Chalatenango	CH	San Fernando Chalatenango	SZ
+SV	01327	San Francisco Lempa	Chalatenango	CH	San Francisco Lempa	SF
+SV	01328	El Común	Chalatenango	CH	San Francisco Morazan	SZ
+SV	01328	El Izotal	Chalatenango	CH	San Francisco Morazan	SZ
+SV	01328	El Terrero	Chalatenango	CH	San Francisco Morazan	SZ
+SV	01328	Higueral	Chalatenango	CH	San Francisco Morazan	SZ
+SV	01328	Las Cañitas	Chalatenango	CH	San Francisco Morazan	SZ
+SV	01328	Los Naranjos	Chalatenango	CH	San Francisco Morazan	SZ
+SV	01328	Plan Del Horno	Chalatenango	CH	San Francisco Morazan	SZ
+SV	01328	Río Grande De Alvarado	Chalatenango	CH	San Francisco Morazan	SZ
+SV	01328	Río Grande De Cardoza	Chalatenango	CH	San Francisco Morazan	SZ
+SV	01328	San Francisco Morazán	Chalatenango	CH	San Francisco Morazan	SZ
+SV	01328	San Juan De La Cruz	Chalatenango	CH	San Francisco Morazan	SZ
+SV	01328	San Miguelito	Chalatenango	CH	San Francisco Morazan	SZ
+SV	01328	Sumpul De Avelares	Chalatenango	CH	San Francisco Morazan	SZ
+SV	01328	Sumpul De Chacones	Chalatenango	CH	San Francisco Morazan	SZ
+SV	01328	Teosinte	Chalatenango	CH	San Francisco Morazan	SZ
+SV	01328	Tremedal	Chalatenango	CH	San Francisco Morazan	SZ
+SV	01329	El Centro	Chalatenango	CH	San Ignacio	SI
+SV	01329	El Rosario	Chalatenango	CH	San Ignacio	SI
+SV	01329	Las Pilas	Chalatenango	CH	San Ignacio	SI
+SV	01329	Los Pozos	Chalatenango	CH	San Ignacio	SI
+SV	01329	San Ignacio	Chalatenango	CH	San Ignacio	SI
+SV	01329	Santa Rosa	Chalatenango	CH	San Ignacio	SI
+SV	01330	Alvarenga	Chalatenango	CH	San Isidro Labrador municipio	SB
+SV	01330	El Mojón	Chalatenango	CH	San Isidro Labrador municipio	SB
+SV	01330	El Sicahuital	Chalatenango	CH	San Isidro Labrador municipio	SB
+SV	01330	Guarjila	Chalatenango	CH	San Isidro Labrador municipio	SB
+SV	01330	Hacienda Vieja	Chalatenango	CH	San Isidro Labrador municipio	SB
+SV	01330	La Montaña	Chalatenango	CH	San Isidro Labrador municipio	SB
+SV	01330	Los Amates	Chalatenango	CH	San Isidro Labrador municipio	SB
+SV	01330	Portillo Del Norte	Chalatenango	CH	San Isidro Labrador municipio	SB
+SV	01330	San Isidro Labrador	Chalatenango	CH	San Isidro Labrador municipio	SB
+SV	01330	Sihuapate	Chalatenango	CH	San Isidro Labrador municipio	SB
+SV	01331	El Copinol	Chalatenango	CH	San Luis del Carmen	SL
+SV	01331	El Llano	Chalatenango	CH	San Luis del Carmen	SL
+SV	01331	El Pital	Chalatenango	CH	San Luis del Carmen	SL
+SV	01331	El Sitio	Chalatenango	CH	San Luis del Carmen	SL
+SV	01331	Los Menjívar	Chalatenango	CH	San Luis del Carmen	SL
+SV	01331	Los Naranjos	Chalatenango	CH	San Luis del Carmen	SL
+SV	01331	San Juan	Chalatenango	CH	San Luis del Carmen	SL
+SV	01331	San Luis Del Carmen	Chalatenango	CH	San Luis del Carmen	SL
+SV	01331	Santa Cruz	Chalatenango	CH	San Luis del Carmen	SL
+SV	01332	El Gramal	Chalatenango	CH	San Miguel de Mercedes	SM
+SV	01332	El Matazano	Chalatenango	CH	San Miguel de Mercedes	SM
+SV	01332	Piedras Gordas	Chalatenango	CH	San Miguel de Mercedes	SM
+SV	01332	San Miguel De Mercedes	Chalatenango	CH	San Miguel de Mercedes	SM
+SV	01333	Los Desamparados	Chalatenango	CH	San Rafael	SR
+SV	01333	Ojos De Agua	Chalatenango	CH	San Rafael	SR
+SV	01333	San Antonio Buenavista	Chalatenango	CH	San Rafael	SR
+SV	01333	San José Los Sitios	Chalatenango	CH	San Rafael	SR
+SV	01333	San Miguel Tobías	Chalatenango	CH	San Rafael	SR
+SV	01333	San Rafael	Chalatenango	CH	San Rafael	SR
+SV	01335	Aldeíta	Chalatenango	CH	Tejutla municipio	TE
+SV	01335	Aposentos	Chalatenango	CH	Tejutla municipio	TE
+SV	01335	Concepción	Chalatenango	CH	Tejutla municipio	TE
+SV	01335	El Carrizal	Chalatenango	CH	Tejutla municipio	TE
+SV	01335	El Cerrón	Chalatenango	CH	Tejutla municipio	TE
+SV	01335	El Salitre	Chalatenango	CH	Tejutla municipio	TE
+SV	01335	El Tránsito	Chalatenango	CH	Tejutla municipio	TE
+SV	01335	Estanzuelas	Chalatenango	CH	Tejutla municipio	TE
+SV	01335	Las Peñas	Chalatenango	CH	Tejutla municipio	TE
+SV	01335	Los Martínez	Chalatenango	CH	Tejutla municipio	TE
+SV	01335	Quitasol	Chalatenango	CH	Tejutla municipio	TE
+SV	01335	San Cristóbal	Chalatenango	CH	Tejutla municipio	TE
+SV	01335	San José	Chalatenango	CH	Tejutla municipio	TE
+SV	01335	Tejutla	Chalatenango	CH	Tejutla municipio	TE
+SV	01402	Candelaria	Cuscatlan	CU	Candelaria municipio	CA
+SV	01402	El Rosario	Cuscatlan	CU	Candelaria municipio	CA
+SV	01402	Miraflor Arriba	Cuscatlan	CU	Candelaria municipio	CA
+SV	01402	San Antonio	Cuscatlan	CU	Candelaria municipio	CA
+SV	01402	San José La Ceiba	Cuscatlan	CU	Candelaria municipio	CA
+SV	01402	San Juan Miraflor Abajo	Cuscatlan	CU	Candelaria municipio	CA
+SV	01401	Cojutepeque	Cuscatlan	CU	Cojutepeque	CO
+SV	01401	Concepción	Cuscatlan	CU	Cojutepeque	CO
+SV	01401	Cujuapa	Cuscatlan	CU	Cojutepeque	CO
+SV	01401	El Carrizal	Cuscatlan	CU	Cojutepeque	CO
+SV	01401	Jiñuco	Cuscatlan	CU	Cojutepeque	CO
+SV	01401	Los Naranjos	Cuscatlan	CU	Cojutepeque	CO
+SV	01401	Ojo De Agua	Cuscatlan	CU	Cojutepeque	CO
+SV	01401	San Miguel Nance Verde	Cuscatlan	CU	Cojutepeque	CO
+SV	01401	San Nicolás	Cuscatlan	CU	Cojutepeque	CO
+SV	01401	San Rafael La Loma	Cuscatlan	CU	Cojutepeque	CO
+SV	01401	Santa Isabel	Cuscatlan	CU	Cojutepeque	CO
+SV	01403	Candelaria	Cuscatlan	CU	El Carmen Cuscatlan	EC
+SV	01403	El Carmen	Cuscatlan	CU	El Carmen Cuscatlan	EC
+SV	01403	La Paz	Cuscatlan	CU	El Carmen Cuscatlan	EC
+SV	01403	San Antonio	Cuscatlan	CU	El Carmen Cuscatlan	EC
+SV	01403	San Sebastián	Cuscatlan	CU	El Carmen Cuscatlan	EC
+SV	01403	Santa Lucía	Cuscatlan	CU	El Carmen Cuscatlan	EC
+SV	01403	Veracruz	Cuscatlan	CU	El Carmen Cuscatlan	EC
+SV	01404	El Calvario	Cuscatlan	CU	El Rosario Cuscatlan	ER
+SV	01404	El Carmen	Cuscatlan	CU	El Rosario Cuscatlan	ER
+SV	01404	El Rosario	Cuscatlan	CU	El Rosario Cuscatlan	ER
+SV	01404	San Martín	Cuscatlan	CU	El Rosario Cuscatlan	ER
+SV	01404	Soledad	Cuscatlan	CU	El Rosario Cuscatlan	ER
+SV	01405	Candelaria	Cuscatlan	CU	Monte San Juan	MS
+SV	01405	Concepción	Cuscatlan	CU	Monte San Juan	MS
+SV	01405	El Rosario	Cuscatlan	CU	Monte San Juan	MS
+SV	01405	Loma De Las Delicias	Cuscatlan	CU	Monte San Juan	MS
+SV	01405	Monte San Juan	Cuscatlan	CU	Monte San Juan	MS
+SV	01405	San Andrés	Cuscatlan	CU	Monte San Juan	MS
+SV	01405	San José	Cuscatlan	CU	Monte San Juan	MS
+SV	01405	San Martín	Cuscatlan	CU	Monte San Juan	MS
+SV	01406	Oratorio De Concepción	Cuscatlan	CU	Oratorio de Concepcion	OC
+SV	01406	Palacios	Cuscatlan	CU	Oratorio de Concepcion	OC
+SV	01406	Tacanagua	Cuscatlan	CU	Oratorio de Concepcion	OC
+SV	01413	Santa Cruz Analquito	Cuscatlan	CU	Santa Cruz Analquito	SA
+SV	01414	Ánimas	Cuscatlan	CU	Santa Cruz Michapa	SM
+SV	01414	Buena Vista	Cuscatlan	CU	Santa Cruz Michapa	SM
+SV	01414	El Centro	Cuscatlan	CU	Santa Cruz Michapa	SM
+SV	01414	Las Delicias	Cuscatlan	CU	Santa Cruz Michapa	SM
+SV	01414	Rosales	Cuscatlan	CU	Santa Cruz Michapa	SM
+SV	01414	Santa Cruz Michapa	Cuscatlan	CU	Santa Cruz Michapa	SM
+SV	01407	Las Lomas	Cuscatlan	CU	San Bartolome Perulapia	SB
+SV	01407	San Bartolomé Perulapía	Cuscatlan	CU	San Bartolome Perulapia	SB
+SV	01408	San Antonio	Cuscatlan	CU	San Cristobal municipio	SC
+SV	01408	San Cristóbal	Cuscatlan	CU	San Cristobal municipio	SC
+SV	01408	San José	Cuscatlan	CU	San Cristobal municipio	SC
+SV	01408	San Pablo	Cuscatlan	CU	San Cristobal municipio	SC
+SV	01408	San Pedro	Cuscatlan	CU	San Cristobal municipio	SC
+SV	01408	Santa Anita	Cuscatlan	CU	San Cristobal municipio	SC
+SV	01408	Santa Cruz	Cuscatlan	CU	San Cristobal municipio	SC
+SV	01409	Ánimas	Cuscatlan	CU	San Jose Guayabal	SJ
+SV	01409	El Salitre	Cuscatlan	CU	San Jose Guayabal	SJ
+SV	01409	La Aldea	Cuscatlan	CU	San Jose Guayabal	SJ
+SV	01409	La Cruz	Cuscatlan	CU	San Jose Guayabal	SJ
+SV	01409	La Loma	Cuscatlan	CU	San Jose Guayabal	SJ
+SV	01409	Llano Grande	Cuscatlan	CU	San Jose Guayabal	SJ
+SV	01409	Palacios	Cuscatlan	CU	San Jose Guayabal	SJ
+SV	01409	Piedra Labrada	Cuscatlan	CU	San Jose Guayabal	SJ
+SV	01409	Ramírez	Cuscatlan	CU	San Jose Guayabal	SJ
+SV	01409	Rodríguez	Cuscatlan	CU	San Jose Guayabal	SJ
+SV	01409	San José Guayabal	Cuscatlan	CU	San Jose Guayabal	SJ
+SV	01409	Santa Cruz	Cuscatlan	CU	San Jose Guayabal	SJ
+SV	01410	Buena Vista	Cuscatlan	CU	San Pedro Perulapan	SP
+SV	01410	Buenos Aires	Cuscatlan	CU	San Pedro Perulapan	SP
+SV	01410	El Carmen	Cuscatlan	CU	San Pedro Perulapan	SP
+SV	01410	El Espino	Cuscatlan	CU	San Pedro Perulapan	SP
+SV	01410	El Limón	Cuscatlan	CU	San Pedro Perulapan	SP
+SV	01410	El Molino	Cuscatlan	CU	San Pedro Perulapan	SP
+SV	01410	El Paraíso	Cuscatlan	CU	San Pedro Perulapan	SP
+SV	01410	El Rodeo	Cuscatlan	CU	San Pedro Perulapan	SP
+SV	01410	El Triunfo	Cuscatlan	CU	San Pedro Perulapan	SP
+SV	01410	Huisiltepeque	Cuscatlan	CU	San Pedro Perulapan	SP
+SV	01410	Istagua	Cuscatlan	CU	San Pedro Perulapan	SP
+SV	01410	La Esperanza	Cuscatlan	CU	San Pedro Perulapan	SP
+SV	01410	La Loma	Cuscatlan	CU	San Pedro Perulapan	SP
+SV	01410	Michapa	Cuscatlan	CU	San Pedro Perulapan	SP
+SV	01410	Miraflores	Cuscatlan	CU	San Pedro Perulapan	SP
+SV	01410	Rosario Perico	Cuscatlan	CU	San Pedro Perulapan	SP
+SV	01410	San Agustín	Cuscatlan	CU	San Pedro Perulapan	SP
+SV	01410	San Francisco	Cuscatlan	CU	San Pedro Perulapan	SP
+SV	01410	San Pedro Perulapán	Cuscatlan	CU	San Pedro Perulapan	SP
+SV	01410	Tecoluca	Cuscatlan	CU	San Pedro Perulapan	SP
+SV	01410	Tecomatepeque	Cuscatlan	CU	San Pedro Perulapan	SP
+SV	01411	Copinol	Cuscatlan	CU	San Rafael Cedros	SF
+SV	01411	El Espinal	Cuscatlan	CU	San Rafael Cedros	SF
+SV	01411	Jiboa	Cuscatlan	CU	San Rafael Cedros	SF
+SV	01411	Palacios	Cuscatlan	CU	San Rafael Cedros	SF
+SV	01411	San Rafael Cedros	Cuscatlan	CU	San Rafael Cedros	SF
+SV	01412	La Virgen	Cuscatlan	CU	San Ramon	SR
+SV	01412	San Agustín	Cuscatlan	CU	San Ramon	SR
+SV	01412	San Ramón	Cuscatlan	CU	San Ramon	SR
+SV	01414	Aguacayo	Cuscatlan	CU	Suchitoto	SU
+SV	01414	Buena Vista	Cuscatlan	CU	Suchitoto	SU
+SV	01414	Colima	Cuscatlan	CU	Suchitoto	SU
+SV	01414	Consolación	Cuscatlan	CU	Suchitoto	SU
+SV	01414	Copapayo	Cuscatlan	CU	Suchitoto	SU
+SV	01414	Corozal	Cuscatlan	CU	Suchitoto	SU
+SV	01414	El Caulote	Cuscatlan	CU	Suchitoto	SU
+SV	01414	El Líbano	Cuscatlan	CU	Suchitoto	SU
+SV	01414	El Platanar	Cuscatlan	CU	Suchitoto	SU
+SV	01414	El Roblar	Cuscatlan	CU	Suchitoto	SU
+SV	01414	El Rosario	Cuscatlan	CU	Suchitoto	SU
+SV	01414	El Salitre	Cuscatlan	CU	Suchitoto	SU
+SV	01414	El Tablón	Cuscatlan	CU	Suchitoto	SU
+SV	01414	El Trapichón	Cuscatlan	CU	Suchitoto	SU
+SV	01414	El Zapote	Cuscatlan	CU	Suchitoto	SU
+SV	01414	Estanzuelas	Cuscatlan	CU	Suchitoto	SU
+SV	01414	Finca Victoria	Cuscatlan	CU	Suchitoto	SU
+SV	01414	Guadalupe	Cuscatlan	CU	Suchitoto	SU
+SV	01414	Hacienda América	Cuscatlan	CU	Suchitoto	SU
+SV	01414	Hacienda Concepción	Cuscatlan	CU	Suchitoto	SU
+SV	01414	Hacienda Primavera	Cuscatlan	CU	Suchitoto	SU
+SV	01414	Haciendita	Cuscatlan	CU	Suchitoto	SU
+SV	01414	Ichanquezo	Cuscatlan	CU	Suchitoto	SU
+SV	01414	La Asunción	Cuscatlan	CU	Suchitoto	SU
+SV	01414	La Bermuda	Cuscatlan	CU	Suchitoto	SU
+SV	01414	La Periquera	Cuscatlan	CU	Suchitoto	SU
+SV	01414	Las Delicias	Cuscatlan	CU	Suchitoto	SU
+SV	01414	La Trinidad	Cuscatlan	CU	Suchitoto	SU
+SV	01414	Masatepeque	Cuscatlan	CU	Suchitoto	SU
+SV	01414	Milingo	Cuscatlan	CU	Suchitoto	SU
+SV	01414	Mirandilla	Cuscatlan	CU	Suchitoto	SU
+SV	01414	Montepeque	Cuscatlan	CU	Suchitoto	SU
+SV	01414	Palo Grande	Cuscatlan	CU	Suchitoto	SU
+SV	01414	Pepeishtenango	Cuscatlan	CU	Suchitoto	SU
+SV	01414	Potrero Grande	Cuscatlan	CU	Suchitoto	SU
+SV	01414	San Cristóbal	Cuscatlan	CU	Suchitoto	SU
+SV	01414	San Francisco	Cuscatlan	CU	Suchitoto	SU
+SV	01414	San Juan	Cuscatlan	CU	Suchitoto	SU
+SV	01414	San Lucas	Cuscatlan	CU	Suchitoto	SU
+SV	01414	Suchitoto	Cuscatlan	CU	Suchitoto	SU
+SV	01414	Tenango	Cuscatlan	CU	Suchitoto	SU
+SV	01414	Tres Ceibas	Cuscatlan	CU	Suchitoto	SU
+SV	01416	Ajuluco	Cuscatlan	CU	Tenancingo	TE
+SV	01416	Copalchán	Cuscatlan	CU	Tenancingo	TE
+SV	01416	Corral Viejo	Cuscatlan	CU	Tenancingo	TE
+SV	01416	El Llano	Cuscatlan	CU	Tenancingo	TE
+SV	01416	El Pepeto	Cuscatlan	CU	Tenancingo	TE
+SV	01416	Jiñuco	Cuscatlan	CU	Tenancingo	TE
+SV	01416	Rosario Tablón	Cuscatlan	CU	Tenancingo	TE
+SV	01416	Santa Anita	Cuscatlan	CU	Tenancingo	TE
+SV	01416	Tenancingo	Cuscatlan	CU	Tenancingo	TE
+SV	01502	Antiguo Cuscatlán	La Libertad Departamento	LI	Antiguo Cuscatlan	AC
+SV	01502	Ceiba De Guadalupe	La Libertad Departamento	LI	Antiguo Cuscatlan	AC
+SV	01502	El Espino	La Libertad Departamento	LI	Antiguo Cuscatlan	AC
+SV	01502	Hacienda Plan De La Laguna	La Libertad Departamento	LI	Antiguo Cuscatlan	AC
+SV	01502	La Puerta De La Laguna	La Libertad Departamento	LI	Antiguo Cuscatlan	AC
+SV	01502	Santa Elena	La Libertad Departamento	LI	Antiguo Cuscatlan	AC
+SV	01507	Chiltiupán	La Libertad Departamento	LI	Chiltiupan	CH
+SV	01507	Cuervo Abajo	La Libertad Departamento	LI	Chiltiupan	CH
+SV	01507	Cuervo Arriba	La Libertad Departamento	LI	Chiltiupan	CH
+SV	01507	El Pinal	La Libertad Departamento	LI	Chiltiupan	CH
+SV	01507	El Regadío	La Libertad Departamento	LI	Chiltiupan	CH
+SV	01507	El Tecolote	La Libertad Departamento	LI	Chiltiupan	CH
+SV	01507	El Zonte	La Libertad Departamento	LI	Chiltiupan	CH
+SV	01507	Julupe	La Libertad Departamento	LI	Chiltiupan	CH
+SV	01507	Las Flores	La Libertad Departamento	LI	Chiltiupan	CH
+SV	01507	Las Termópilas	La Libertad Departamento	LI	Chiltiupan	CH
+SV	01507	San Antonio	La Libertad Departamento	LI	Chiltiupan	CH
+SV	01507	San Isidro	La Libertad Departamento	LI	Chiltiupan	CH
+SV	01507	Santa Lucía	La Libertad Departamento	LI	Chiltiupan	CH
+SV	01507	Siberia	La Libertad Departamento	LI	Chiltiupan	CH
+SV	01507	Taquillo	La Libertad Departamento	LI	Chiltiupan	CH
+SV	01504	Caña De Tarro	La Libertad Departamento	LI	Ciudad Arce	CA
+SV	01504	Ciudad Arce	La Libertad Departamento	LI	Ciudad Arce	CA
+SV	01504	Conacaste	La Libertad Departamento	LI	Ciudad Arce	CA
+SV	01504	El Chilar	La Libertad Departamento	LI	Ciudad Arce	CA
+SV	01504	El Conacaste	La Libertad Departamento	LI	Ciudad Arce	CA
+SV	01504	El Espinal	La Libertad Departamento	LI	Ciudad Arce	CA
+SV	01504	Ingeniero San Andrés	La Libertad Departamento	LI	Ciudad Arce	CA
+SV	01504	La Cuchilla	La Libertad Departamento	LI	Ciudad Arce	CA
+SV	01504	La Esperanza	La Libertad Departamento	LI	Ciudad Arce	CA
+SV	01504	La Joyita	La Libertad Departamento	LI	Ciudad Arce	CA
+SV	01504	La Reforma	La Libertad Departamento	LI	Ciudad Arce	CA
+SV	01504	Las Acosta	La Libertad Departamento	LI	Ciudad Arce	CA
+SV	01504	Las Cruces	La Libertad Departamento	LI	Ciudad Arce	CA
+SV	01504	Las Lomas	La Libertad Departamento	LI	Ciudad Arce	CA
+SV	01504	Lomas Del Caulote	La Libertad Departamento	LI	Ciudad Arce	CA
+SV	01504	Lomas De Santiago	La Libertad Departamento	LI	Ciudad Arce	CA
+SV	01504	Rancho Gracar	La Libertad Departamento	LI	Ciudad Arce	CA
+SV	01504	San Andrés	La Libertad Departamento	LI	Ciudad Arce	CA
+SV	01504	Santa Lucía	La Libertad Departamento	LI	Ciudad Arce	CA
+SV	01504	Santa Rosa	La Libertad Departamento	LI	Ciudad Arce	CA
+SV	01504	Valle Nuevo	La Libertad Departamento	LI	Ciudad Arce	CA
+SV	01504	Veracruz	La Libertad Departamento	LI	Ciudad Arce	CA
+SV	01504	Zapotitán	La Libertad Departamento	LI	Ciudad Arce	CA
+SV	01512	Botoncillal	La Libertad Departamento	LI	Colon	CL
+SV	01512	Colón	La Libertad Departamento	LI	Colon	CL
+SV	01512	Cuyagualo	La Libertad Departamento	LI	Colon	CL
+SV	01512	El Capulín	La Libertad Departamento	LI	Colon	CL
+SV	01512	El Cobanal	La Libertad Departamento	LI	Colon	CL
+SV	01512	El Manguito	La Libertad Departamento	LI	Colon	CL
+SV	01512	Entre Ríos	La Libertad Departamento	LI	Colon	CL
+SV	01512	Hacienda Cuyagualo	La Libertad Departamento	LI	Colon	CL
+SV	01512	Hacienda Nueva	La Libertad Departamento	LI	Colon	CL
+SV	01512	Las Angosturas	La Libertad Departamento	LI	Colon	CL
+SV	01512	Las Brisas	La Libertad Departamento	LI	Colon	CL
+SV	01512	Las Moras	La Libertad Departamento	LI	Colon	CL
+SV	01512	Lourdes	La Libertad Departamento	LI	Colon	CL
+SV	01506	Comasagua	La Libertad Departamento	LI	Comasagua	CM
+SV	01506	El Conacaste	La Libertad Departamento	LI	Comasagua	CM
+SV	01506	El Faro	La Libertad Departamento	LI	Comasagua	CM
+SV	01506	El Matazano	La Libertad Departamento	LI	Comasagua	CM
+SV	01506	El Peñón	La Libertad Departamento	LI	Comasagua	CM
+SV	01506	El Rosario	La Libertad Departamento	LI	Comasagua	CM
+SV	01506	Finca El Ranchón	La Libertad Departamento	LI	Comasagua	CM
+SV	01506	La Shila	La Libertad Departamento	LI	Comasagua	CM
+SV	01506	San Antonio	La Libertad Departamento	LI	Comasagua	CM
+SV	01506	San Francisco El Potrerón	La Libertad Departamento	LI	Comasagua	CM
+SV	01506	San José El Porvenir	La Libertad Departamento	LI	Comasagua	CM
+SV	01506	San Luis	La Libertad Departamento	LI	Comasagua	CM
+SV	01506	San Rafael	La Libertad Departamento	LI	Comasagua	CM
+SV	01508	Amaquilco	La Libertad Departamento	LI	Huizucar	HU
+SV	01508	El Pulido	La Libertad Departamento	LI	Huizucar	HU
+SV	01508	Hacienda Melara	La Libertad Departamento	LI	Huizucar	HU
+SV	01508	Huizúcar	La Libertad Departamento	LI	Huizucar	HU
+SV	01508	La Lima	La Libertad Departamento	LI	Huizucar	HU
+SV	01508	Melara	La Libertad Departamento	LI	Huizucar	HU
+SV	01508	Nazaret	La Libertad Departamento	LI	Huizucar	HU
+SV	01508	Ojos De Agua	La Libertad Departamento	LI	Huizucar	HU
+SV	01508	San Juan Buena Vista	La Libertad Departamento	LI	Huizucar	HU
+SV	01508	Tilapa	La Libertad Departamento	LI	Huizucar	HU
+SV	01509	El Tránsito	La Libertad Departamento	LI	Jayaque	JA
+SV	01509	Finca La Marina	La Libertad Departamento	LI	Jayaque	JA
+SV	01509	Finca Las Tinieblas	La Libertad Departamento	LI	Jayaque	JA
+SV	01509	Jayaque	La Libertad Departamento	LI	Jayaque	JA
+SV	01509	Juan Higinio	La Libertad Departamento	LI	Jayaque	JA
+SV	01509	La Labor	La Libertad Departamento	LI	Jayaque	JA
+SV	01509	Las Flores	La Libertad Departamento	LI	Jayaque	JA
+SV	01509	Minas	La Libertad Departamento	LI	Jayaque	JA
+SV	01509	San José Los Sitios	La Libertad Departamento	LI	Jayaque	JA
+SV	01510	Jicalapa	La Libertad Departamento	LI	Jicalapa	JI
+SV	01510	Joya Verde	La Libertad Departamento	LI	Jicalapa	JI
+SV	01510	La Perla	La Libertad Departamento	LI	Jicalapa	JI
+SV	01510	San José El Tablón	La Libertad Departamento	LI	Jicalapa	JI
+SV	01511	Cangrejera	La Libertad Departamento	LI	La Libertad	LL
+SV	01511	El Majagual	La Libertad Departamento	LI	La Libertad	LL
+SV	01511	El Tablón	La Libertad Departamento	LI	La Libertad	LL
+SV	01511	Guadalupe	La Libertad Departamento	LI	La Libertad	LL
+SV	01511	La Libertad	La Libertad Departamento	LI	La Libertad	LL
+SV	01511	Los Pajales	La Libertad Departamento	LI	La Libertad	LL
+SV	01511	San Alfredo	La Libertad Departamento	LI	La Libertad	LL
+SV	01511	San Diego	La Libertad Departamento	LI	La Libertad	LL
+SV	01511	San Rafael	La Libertad Departamento	LI	La Libertad	LL
+SV	01511	Tepeagua	La Libertad Departamento	LI	La Libertad	LL
+SV	01511	Toluca	La Libertad Departamento	LI	La Libertad	LL
+SV	01513	Nuevo Cuscatlán	La Libertad Departamento	LI	Nuevo Cuscatlan	NC
+SV	01515	Agua Caliente	La Libertad Departamento	LI	Quezaltepeque municipio	QU
+SV	01515	Colonia Palmira	La Libertad Departamento	LI	Quezaltepeque municipio	QU
+SV	01515	Colonia San Judas	La Libertad Departamento	LI	Quezaltepeque municipio	QU
+SV	01515	El Cambio	La Libertad Departamento	LI	Quezaltepeque municipio	QU
+SV	01515	El Cerrito	La Libertad Departamento	LI	Quezaltepeque municipio	QU
+SV	01515	El Puente	La Libertad Departamento	LI	Quezaltepeque municipio	QU
+SV	01515	El Señor	La Libertad Departamento	LI	Quezaltepeque municipio	QU
+SV	01515	Girón	La Libertad Departamento	LI	Quezaltepeque municipio	QU
+SV	01515	Joya Del Maguey	La Libertad Departamento	LI	Quezaltepeque municipio	QU
+SV	01515	Las Mercedes	La Libertad Departamento	LI	Quezaltepeque municipio	QU
+SV	01515	La Toma	La Libertad Departamento	LI	Quezaltepeque municipio	QU
+SV	01515	Loma El Espino	La Libertad Departamento	LI	Quezaltepeque municipio	QU
+SV	01515	Macance	La Libertad Departamento	LI	Quezaltepeque municipio	QU
+SV	01515	Platanillos	La Libertad Departamento	LI	Quezaltepeque municipio	QU
+SV	01515	Primavera	La Libertad Departamento	LI	Quezaltepeque municipio	QU
+SV	01515	Quezaltepeque	La Libertad Departamento	LI	Quezaltepeque municipio	QU
+SV	01515	San Francisco	La Libertad Departamento	LI	Quezaltepeque municipio	QU
+SV	01515	San Juan Los Planes	La Libertad Departamento	LI	Quezaltepeque municipio	QU
+SV	01515	Santa Rosa	La Libertad Departamento	LI	Quezaltepeque municipio	QU
+SV	01515	Segura	La Libertad Departamento	LI	Quezaltepeque municipio	QU
+SV	01515	Sitio De Los Nejapa	La Libertad Departamento	LI	Quezaltepeque municipio	QU
+SV	01515	Tacachico	La Libertad Departamento	LI	Quezaltepeque municipio	QU
+SV	01516	Ateos	La Libertad Departamento	LI	Sacacoyo	SA
+SV	01516	El Tránsito	La Libertad Departamento	LI	Sacacoyo	SA
+SV	01516	La Montañita	La Libertad Departamento	LI	Sacacoyo	SA
+SV	01516	Sacacoyo	La Libertad Departamento	LI	Sacacoyo	SA
+SV	01501	Álvarez	La Libertad Departamento	LI	Santa Tecla	NS
+SV	01501	Ayagualo	La Libertad Departamento	LI	Santa Tecla	NS
+SV	01501	Buena Vista	La Libertad Departamento	LI	Santa Tecla	NS
+SV	01501	Colonia Las Delicias	La Libertad Departamento	LI	Santa Tecla	NS
+SV	01501	El Matazano	La Libertad Departamento	LI	Santa Tecla	NS
+SV	01501	El Progreso	La Libertad Departamento	LI	Santa Tecla	NS
+SV	01501	El Quequeishque	La Libertad Departamento	LI	Santa Tecla	NS
+SV	01501	El Sacazil	La Libertad Departamento	LI	Santa Tecla	NS
+SV	01501	El Triunfo	La Libertad Departamento	LI	Santa Tecla	NS
+SV	01501	Las Granadillas	La Libertad Departamento	LI	Santa Tecla	NS
+SV	01501	Loma Larga	La Libertad Departamento	LI	Santa Tecla	NS
+SV	01501	Los Amates	La Libertad Departamento	LI	Santa Tecla	NS
+SV	01501	Nueva San Salvador	La Libertad Departamento	LI	Santa Tecla	NS
+SV	01501	San Isidro Los Planes	La Libertad Departamento	LI	Santa Tecla	NS
+SV	01501	Victoria	La Libertad Departamento	LI	Santa Tecla	NS
+SV	01517	El Palomar	La Libertad Departamento	LI	San Jose Villanueva	SJ
+SV	01517	Hacienda El Banco	La Libertad Departamento	LI	San Jose Villanueva	SJ
+SV	01517	Las Dispensas	La Libertad Departamento	LI	San Jose Villanueva	SJ
+SV	01517	San Francisco	La Libertad Departamento	LI	San Jose Villanueva	SJ
+SV	01517	San José Villanueva	La Libertad Departamento	LI	San Jose Villanueva	SJ
+SV	01517	Tula	La Libertad Departamento	LI	San Jose Villanueva	SJ
+SV	01514	Agua Escondida	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	Barranca Honda	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	Boca Tronadora	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	Buena Vista	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	Canterillas	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	Chanmico	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	Chantusnene	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	Colonia El Ángel	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	Colonia Joya De Cerén	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	Colonia La Ceiba	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	Colonia Sitio Del Niño	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	Conacaste	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	El Ángel Talcualuya	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	El Carmen	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	El Castillo	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	El Chilar	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	El Chorrerón	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	El Espino	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	El Jabalí	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	El Jabalincito	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	El Matazano	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	El Portillo	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	El Tránsito	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	El Zapote	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	Finca El Chorro	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	Hacienda La Isla	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	Jabalinón	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	Joya De Cerén	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	Laguneta	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	La Nueva Encarnación	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	Las Anonas	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	Las Delicias	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	Las Flores	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	Las Granadillas	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	Loma Alta	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	Lomas Del Copinol	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	Los Amates	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	Los Mangos	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	Minas De Plomo	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	Nombre De Dios	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	Río Sucio	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	San Antonio	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	San Felipe	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	San José La Cueva	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	San Juan Opico	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	San Nicolás La Encarnación	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	San Nicolás Los Encuentros	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	San Pedro Mártir	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	San Pedro Oriente	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	Sitio Del Niño	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	Sitio Grande	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	Tehuicho	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	Valle Gracia	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01514	Valle Nuevo	La Libertad Departamento	LI	San Juan Opico	OP
+SV	01518	El Jícaro	La Libertad Departamento	LI	San Matias municipio	SM
+SV	01518	El Jocote	La Libertad Departamento	LI	San Matias municipio	SM
+SV	01518	Hacienda Las Flores	La Libertad Departamento	LI	San Matias municipio	SM
+SV	01518	La Joya	La Libertad Departamento	LI	San Matias municipio	SM
+SV	01518	La Loma	La Libertad Departamento	LI	San Matias municipio	SM
+SV	01518	La Puebla	La Libertad Departamento	LI	San Matias municipio	SM
+SV	01518	Las Dos Hojas	La Libertad Departamento	LI	San Matias municipio	SM
+SV	01518	Los Palmitos	La Libertad Departamento	LI	San Matias municipio	SM
+SV	01518	Masajapa	La Libertad Departamento	LI	San Matias municipio	SM
+SV	01518	San Ignacio	La Libertad Departamento	LI	San Matias municipio	SM
+SV	01518	San Lorenzo	La Libertad Departamento	LI	San Matias municipio	SM
+SV	01518	San Matías	La Libertad Departamento	LI	San Matias municipio	SM
+SV	01518	Santa Teresa	La Libertad Departamento	LI	San Matias municipio	SM
+SV	01518	Valle El Cerro	La Libertad Departamento	LI	San Matias municipio	SM
+SV	01519	Campana	La Libertad Departamento	LI	San Pablo Tacachico	SP
+SV	01519	El Papaturral	La Libertad Departamento	LI	San Pablo Tacachico	SP
+SV	01519	El Rincón	La Libertad Departamento	LI	San Pablo Tacachico	SP
+SV	01519	El Tránsito	La Libertad Departamento	LI	San Pablo Tacachico	SP
+SV	01519	El Zope	La Libertad Departamento	LI	San Pablo Tacachico	SP
+SV	01519	Hacienda Atiocoyo	La Libertad Departamento	LI	San Pablo Tacachico	SP
+SV	01519	Las Cerezas	La Libertad Departamento	LI	San Pablo Tacachico	SP
+SV	01519	Las Marías	La Libertad Departamento	LI	San Pablo Tacachico	SP
+SV	01519	Las Mesas	La Libertad Departamento	LI	San Pablo Tacachico	SP
+SV	01519	Las Tunas	La Libertad Departamento	LI	San Pablo Tacachico	SP
+SV	01519	Lima	La Libertad Departamento	LI	San Pablo Tacachico	SP
+SV	01519	Mogotes	La Libertad Departamento	LI	San Pablo Tacachico	SP
+SV	01519	Moncagua	La Libertad Departamento	LI	San Pablo Tacachico	SP
+SV	01519	Obraje Nuevo	La Libertad Departamento	LI	San Pablo Tacachico	SP
+SV	01519	San Isidro	La Libertad Departamento	LI	San Pablo Tacachico	SP
+SV	01519	San Jorge	La Libertad Departamento	LI	San Pablo Tacachico	SP
+SV	01519	San Juan La Mesa	La Libertad Departamento	LI	San Pablo Tacachico	SP
+SV	01519	San Pablo Tacachico	La Libertad Departamento	LI	San Pablo Tacachico	SP
+SV	01519	San Pedro Las Flores	La Libertad Departamento	LI	San Pablo Tacachico	SP
+SV	01519	Sitio San Agustín	La Libertad Departamento	LI	San Pablo Tacachico	SP
+SV	01519	Tepeagua	La Libertad Departamento	LI	San Pablo Tacachico	SP
+SV	01519	Valle San Felipe	La Libertad Departamento	LI	San Pablo Tacachico	SP
+SV	01521	El Limón	La Libertad Departamento	LI	Talnique	TL
+SV	01521	Las Quebradas	La Libertad Departamento	LI	Talnique	TL
+SV	01521	Los Cipreses	La Libertad Departamento	LI	Talnique	TL
+SV	01521	Los Laureles	La Libertad Departamento	LI	Talnique	TL
+SV	01521	San Carlos	La Libertad Departamento	LI	Talnique	TL
+SV	01521	San Emilio	La Libertad Departamento	LI	Talnique	TL
+SV	01521	Santa Lucía	La Libertad Departamento	LI	Talnique	TL
+SV	01521	Talnique	La Libertad Departamento	LI	Talnique	TL
+SV	01522	Buenos Aires	La Libertad Departamento	LI	Tamanique	TM
+SV	01522	Club Atami	La Libertad Departamento	LI	Tamanique	TM
+SV	01522	El Cuervo	La Libertad Departamento	LI	Tamanique	TM
+SV	01522	El Palmar	La Libertad Departamento	LI	Tamanique	TM
+SV	01522	El Sunzal	La Libertad Departamento	LI	Tamanique	TM
+SV	01522	Hacienda El Palmar	La Libertad Departamento	LI	Tamanique	TM
+SV	01522	Hacienda San Benito	La Libertad Departamento	LI	Tamanique	TM
+SV	01522	Río Tamanique	La Libertad Departamento	LI	Tamanique	TM
+SV	01522	San Alfonso	La Libertad Departamento	LI	Tamanique	TM
+SV	01522	San Benito	La Libertad Departamento	LI	Tamanique	TM
+SV	01522	Santa Lucía	La Libertad Departamento	LI	Tamanique	TM
+SV	01522	Tamanique	La Libertad Departamento	LI	Tamanique	TM
+SV	01522	Tarpeya	La Libertad Departamento	LI	Tamanique	TM
+SV	01523	Comaylán	La Libertad Departamento	LI	Teotepeque	TT
+SV	01523	El Ángel	La Libertad Departamento	LI	Teotepeque	TT
+SV	01523	El Matazano	La Libertad Departamento	LI	Teotepeque	TT
+SV	01523	El Níspero	La Libertad Departamento	LI	Teotepeque	TT
+SV	01523	La Argentina	La Libertad Departamento	LI	Teotepeque	TT
+SV	01523	Mizata	La Libertad Departamento	LI	Teotepeque	TT
+SV	01523	San Benito	La Libertad Departamento	LI	Teotepeque	TT
+SV	01523	San Marcos	La Libertad Departamento	LI	Teotepeque	TT
+SV	01523	Santa María Mizata	La Libertad Departamento	LI	Teotepeque	TT
+SV	01523	Sihuapilapa	La Libertad Departamento	LI	Teotepeque	TT
+SV	01523	Teotepeque	La Libertad Departamento	LI	Teotepeque	TT
+SV	01524	Buena Vista	La Libertad Departamento	LI	Tepecoyo	TP
+SV	01524	El Carrizo	La Libertad Departamento	LI	Tepecoyo	TP
+SV	01524	El Guamo	La Libertad Departamento	LI	Tepecoyo	TP
+SV	01524	El Mojón	La Libertad Departamento	LI	Tepecoyo	TP
+SV	01524	El Zacamil	La Libertad Departamento	LI	Tepecoyo	TP
+SV	01524	La Javía	La Libertad Departamento	LI	Tepecoyo	TP
+SV	01524	Las Flores	La Libertad Departamento	LI	Tepecoyo	TP
+SV	01524	Las Mercedes	La Libertad Departamento	LI	Tepecoyo	TP
+SV	01524	Los Alpes	La Libertad Departamento	LI	Tepecoyo	TP
+SV	01524	Los Laureles	La Libertad Departamento	LI	Tepecoyo	TP
+SV	01524	San Antonio	La Libertad Departamento	LI	Tepecoyo	TP
+SV	01524	Tepecoyo	La Libertad Departamento	LI	Tepecoyo	TP
+SV	01524	Tierra Colorada	La Libertad Departamento	LI	Tepecoyo	TP
+SV	01525	El Barillo	La Libertad Departamento	LI	Zaragoza municipio	ZA
+SV	01525	El Cimarrón	La Libertad Departamento	LI	Zaragoza municipio	ZA
+SV	01525	El Matazano	La Libertad Departamento	LI	Zaragoza municipio	ZA
+SV	01525	San Francisco	La Libertad Departamento	LI	Zaragoza municipio	ZA
+SV	01525	San Sebastián	La Libertad Departamento	LI	Zaragoza municipio	ZA
+SV	01525	Zaragoza	La Libertad Departamento	LI	Zaragoza municipio	ZA
+SV	01603	Cupinco	La Paz Salvador	PA	Cuyultitan	CU
+SV	01603	Cuyultitán	La Paz Salvador	PA	Cuyultitan	CU
+SV	01603	La Baza	La Paz Salvador	PA	Cuyultitan	CU
+SV	01603	San Antonio	La Paz Salvador	PA	Cuyultitan	CU
+SV	01603	San Isidro	La Paz Salvador	PA	Cuyultitan	CU
+SV	01604	Asunción Amatepe	La Paz Salvador	PA	El Rosario La Paz	EL
+SV	01604	El Cerro	La Paz Salvador	PA	El Rosario La Paz	EL
+SV	01604	El Pedregal	La Paz Salvador	PA	El Rosario La Paz	EL
+SV	01604	El Rosario	La Paz Salvador	PA	El Rosario La Paz	EL
+SV	01604	Nahualapa	La Paz Salvador	PA	El Rosario La Paz	EL
+SV	01604	San Felipe	La Paz Salvador	PA	El Rosario La Paz	EL
+SV	01604	San José Loma	La Paz Salvador	PA	El Rosario La Paz	EL
+SV	01604	Santa Rosa	La Paz Salvador	PA	El Rosario La Paz	EL
+SV	01605	Barrio Abajo	La Paz Salvador	PA	Jerusalen municipio	JE
+SV	01605	El Conacaste	La Paz Salvador	PA	Jerusalen municipio	JE
+SV	01605	El Espino	La Paz Salvador	PA	Jerusalen municipio	JE
+SV	01605	Jerusalén	La Paz Salvador	PA	Jerusalen municipio	JE
+SV	01605	San Juan Buenavista	La Paz Salvador	PA	Jerusalen municipio	JE
+SV	01605	San Luis	La Paz Salvador	PA	Jerusalen municipio	JE
+SV	01605	Veracruz	La Paz Salvador	PA	Jerusalen municipio	JE
+SV	01607	Los Romero	La Paz Salvador	PA	Mercedes La Ceiba	MC
+SV	01608	El Chilamate	La Paz Salvador	PA	Olocuilta	OL
+SV	01608	Jayuca	La Paz Salvador	PA	Olocuilta	OL
+SV	01608	Joyas De Girón	La Paz Salvador	PA	Olocuilta	OL
+SV	01608	La Esperanza	La Paz Salvador	PA	Olocuilta	OL
+SV	01608	Los Guachipilines	La Paz Salvador	PA	Olocuilta	OL
+SV	01608	Olocuilta	La Paz Salvador	PA	Olocuilta	OL
+SV	01608	Planes De Las Delicias	La Paz Salvador	PA	Olocuilta	OL
+SV	01608	San Antonio Girón	La Paz Salvador	PA	Olocuilta	OL
+SV	01608	San Sebastián	La Paz Salvador	PA	Olocuilta	OL
+SV	01608	Santa Fe	La Paz Salvador	PA	Olocuilta	OL
+SV	01608	Santa Lucía La Barranca	La Paz Salvador	PA	Olocuilta	OL
+SV	01608	Santo Tomás	La Paz Salvador	PA	Olocuilta	OL
+SV	01608	Veracruz	La Paz Salvador	PA	Olocuilta	OL
+SV	01609	El Copinol	La Paz Salvador	PA	Paraiso de Osorio	PO
+SV	01609	Los Zacatales	La Paz Salvador	PA	Paraiso de Osorio	PO
+SV	01609	Paraíso De Osorio	La Paz Salvador	PA	Paraiso de Osorio	PO
+SV	01609	San Bartolo	La Paz Salvador	PA	Paraiso de Osorio	PO
+SV	01621	Concepción	La Paz Salvador	PA	Santa Maria Ostuma	SO
+SV	01621	El Chaperno	La Paz Salvador	PA	Santa Maria Ostuma	SO
+SV	01621	El Tránsito	La Paz Salvador	PA	Santa Maria Ostuma	SO
+SV	01621	Loma Larga	La Paz Salvador	PA	Santa Maria Ostuma	SO
+SV	01621	Mercedes La Ceiba	La Paz Salvador	PA	Santa Maria Ostuma	SO
+SV	01621	San Antonio	La Paz Salvador	PA	Santa Maria Ostuma	SO
+SV	01621	San Isidro	La Paz Salvador	PA	Santa Maria Ostuma	SO
+SV	01621	San José El Carrizal	La Paz Salvador	PA	Santa Maria Ostuma	SO
+SV	01621	Santa María Ostuma	La Paz Salvador	PA	Santa Maria Ostuma	SO
+SV	01622	Amulunco	La Paz Salvador	PA	Santiago Nonualco	ST
+SV	01622	Chancuyo	La Paz Salvador	PA	Santiago Nonualco	ST
+SV	01622	El Sauce	La Paz Salvador	PA	Santiago Nonualco	ST
+SV	01622	Jalponguita	La Paz Salvador	PA	Santiago Nonualco	ST
+SV	01622	La Cruz Del Mojón	La Paz Salvador	PA	Santiago Nonualco	ST
+SV	01622	Las Ánimas	La Paz Salvador	PA	Santiago Nonualco	ST
+SV	01622	Las Guarumas	La Paz Salvador	PA	Santiago Nonualco	ST
+SV	01622	Los Limones	La Paz Salvador	PA	Santiago Nonualco	ST
+SV	01622	San Antonio Arriba	La Paz Salvador	PA	Santiago Nonualco	ST
+SV	01622	San Francisco El Porfiado	La Paz Salvador	PA	Santiago Nonualco	ST
+SV	01622	San Francisco Hacienda	La Paz Salvador	PA	Santiago Nonualco	ST
+SV	01622	San José Abajo	La Paz Salvador	PA	Santiago Nonualco	ST
+SV	01622	San José Arriba	La Paz Salvador	PA	Santiago Nonualco	ST
+SV	01622	San José Obrajito	La Paz Salvador	PA	Santiago Nonualco	ST
+SV	01622	San Pedro Mártir	La Paz Salvador	PA	Santiago Nonualco	ST
+SV	01622	San Rafael Obrajuelo	La Paz Salvador	PA	Santiago Nonualco	ST
+SV	01622	San Sebastián Abajo	La Paz Salvador	PA	Santiago Nonualco	ST
+SV	01622	San Sebastián Arriba	La Paz Salvador	PA	Santiago Nonualco	ST
+SV	01622	Santa Cruz Chacastal	La Paz Salvador	PA	Santiago Nonualco	ST
+SV	01622	Santa Cruz Loma	La Paz Salvador	PA	Santiago Nonualco	ST
+SV	01622	Santa Rita Almendro	La Paz Salvador	PA	Santiago Nonualco	ST
+SV	01622	Santa Teresa	La Paz Salvador	PA	Santiago Nonualco	ST
+SV	01622	Santiago Nonualco	La Paz Salvador	PA	Santiago Nonualco	ST
+SV	01610	Belén	La Paz Salvador	PA	San Antonio Masahuat	SA
+SV	01610	El Socorro	La Paz Salvador	PA	San Antonio Masahuat	SA
+SV	01610	San Antonio La Loma	La Paz Salvador	PA	San Antonio Masahuat	SA
+SV	01610	San Antonio Masahuat	La Paz Salvador	PA	San Antonio Masahuat	SA
+SV	01611	Concepción Lourdes	La Paz Salvador	PA	San Emigdio	SE
+SV	01611	San Emigdio	La Paz Salvador	PA	San Emigdio	SE
+SV	01611	San José Costa Rica	La Paz Salvador	PA	San Emigdio	SE
+SV	01611	Soledad Las Flores	La Paz Salvador	PA	San Emigdio	SE
+SV	01612	Candelaria	La Paz Salvador	PA	San Francisco Chinameca	SF
+SV	01612	Concepción Los Planes	La Paz Salvador	PA	San Francisco Chinameca	SF
+SV	01612	El Limar	La Paz Salvador	PA	San Francisco Chinameca	SF
+SV	01612	San Antonio Panchimilama	La Paz Salvador	PA	San Francisco Chinameca	SF
+SV	01612	San Francisco Chinameca	La Paz Salvador	PA	San Francisco Chinameca	SF
+SV	01612	San José La Montaña	La Paz Salvador	PA	San Francisco Chinameca	SF
+SV	01612	Santa Cruz La Vega	La Paz Salvador	PA	San Francisco Chinameca	SF
+SV	01613	Amayo	La Paz Salvador	PA	San Juan Nonualco	SN
+SV	01613	Delicias De Concepción	La Paz Salvador	PA	San Juan Nonualco	SN
+SV	01613	El Chile	La Paz Salvador	PA	San Juan Nonualco	SN
+SV	01613	El Golfo	La Paz Salvador	PA	San Juan Nonualco	SN
+SV	01613	El Salto	La Paz Salvador	PA	San Juan Nonualco	SN
+SV	01613	La Palma	La Paz Salvador	PA	San Juan Nonualco	SN
+SV	01613	Las Piedronas	La Paz Salvador	PA	San Juan Nonualco	SN
+SV	01613	Los Zacatillos	La Paz Salvador	PA	San Juan Nonualco	SN
+SV	01613	San Antonio Abajo	La Paz Salvador	PA	San Juan Nonualco	SN
+SV	01613	San Josecito	La Paz Salvador	PA	San Juan Nonualco	SN
+SV	01613	Tehuiste Abajo	La Paz Salvador	PA	San Juan Nonualco	SN
+SV	01613	Tehuiste Arriba	La Paz Salvador	PA	San Juan Nonualco	SN
+SV	01613	Tierra Colorada	La Paz Salvador	PA	San Juan Nonualco	SN
+SV	01614	Comalapa	La Paz Salvador	PA	San Juan Talpa	SU
+SV	01614	San José Buena Vista	La Paz Salvador	PA	San Juan Talpa	SU
+SV	01614	San Juan Talpa	La Paz Salvador	PA	San Juan Talpa	SU
+SV	01614	Tobalón	La Paz Salvador	PA	San Juan Talpa	SU
+SV	01615	La Cruz	La Paz Salvador	PA	San Juan Tepezontes	SJ
+SV	01615	La Esperanza	La Paz Salvador	PA	San Juan Tepezontes	SJ
+SV	01615	Los Laureles	La Paz Salvador	PA	San Juan Tepezontes	SJ
+SV	01615	San Juan Tepezontes	La Paz Salvador	PA	San Juan Tepezontes	SJ
+SV	01616	El Amatal	La Paz Salvador	PA	San Luis La Herradura	SH
+SV	01616	El Escobal	La Paz Salvador	PA	San Luis La Herradura	SH
+SV	01616	El Llano	La Paz Salvador	PA	San Luis La Herradura	SH
+SV	01616	El Zapote	La Paz Salvador	PA	San Luis La Herradura	SH
+SV	01616	Guadalupe La Zorra	La Paz Salvador	PA	San Luis La Herradura	SH
+SV	01616	Hacienda La Calzada	La Paz Salvador	PA	San Luis La Herradura	SH
+SV	01616	La Anona	La Paz Salvador	PA	San Luis La Herradura	SH
+SV	01616	La Calzada	La Paz Salvador	PA	San Luis La Herradura	SH
+SV	01616	La Herradura	La Paz Salvador	PA	San Luis La Herradura	SH
+SV	01616	Los Blancos	La Paz Salvador	PA	San Luis La Herradura	SH
+SV	01616	San Rafael Tasajera	La Paz Salvador	PA	San Luis La Herradura	SH
+SV	01616	San Sebastián El Chingo	La Paz Salvador	PA	San Luis La Herradura	SH
+SV	01616	San Sebastián La Zorra	La Paz Salvador	PA	San Luis La Herradura	SH
+SV	01614	Amatecampo	La Paz Salvador	PA	San Luis Talpa	SL
+SV	01614	Astoria	La Paz Salvador	PA	San Luis Talpa	SL
+SV	01614	El Porvenir	La Paz Salvador	PA	San Luis Talpa	SL
+SV	01614	La Esmeralda	La Paz Salvador	PA	San Luis Talpa	SL
+SV	01614	Nuevo Edén	La Paz Salvador	PA	San Luis Talpa	SL
+SV	01614	San Francisco Amatepe	La Paz Salvador	PA	San Luis Talpa	SL
+SV	01614	San José	La Paz Salvador	PA	San Luis Talpa	SL
+SV	01614	San Luis Talpa	La Paz Salvador	PA	San Luis Talpa	SL
+SV	01614	Santa Clara	La Paz Salvador	PA	San Luis Talpa	SL
+SV	01614	Tacualuya	La Paz Salvador	PA	San Luis Talpa	SL
+SV	01614	Zambombera	La Paz Salvador	PA	San Luis Talpa	SL
+SV	01615	San Miguel Tepezontes	La Paz Salvador	PA	San Miguel Tepezontes	SZ
+SV	01618	Barahona	La Paz Salvador	PA	San Pedro Masahuat	SM
+SV	01618	Buena Vista	La Paz Salvador	PA	San Pedro Masahuat	SM
+SV	01618	Dulce Nombre	La Paz Salvador	PA	San Pedro Masahuat	SM
+SV	01618	El Achiotal	La Paz Salvador	PA	San Pedro Masahuat	SM
+SV	01618	El Ángel	La Paz Salvador	PA	San Pedro Masahuat	SM
+SV	01618	El Carmen	La Paz Salvador	PA	San Pedro Masahuat	SM
+SV	01618	El Cocal	La Paz Salvador	PA	San Pedro Masahuat	SM
+SV	01618	El Fraile	La Paz Salvador	PA	San Pedro Masahuat	SM
+SV	01618	El Paredón	La Paz Salvador	PA	San Pedro Masahuat	SM
+SV	01618	El Porvenir	La Paz Salvador	PA	San Pedro Masahuat	SM
+SV	01618	Las Delicias	La Paz Salvador	PA	San Pedro Masahuat	SM
+SV	01618	Las Flores	La Paz Salvador	PA	San Pedro Masahuat	SM
+SV	01618	Las Hojas	La Paz Salvador	PA	San Pedro Masahuat	SM
+SV	01618	Las Isletas	La Paz Salvador	PA	San Pedro Masahuat	SM
+SV	01618	Marcelino	La Paz Salvador	PA	San Pedro Masahuat	SM
+SV	01618	San Antonio	La Paz Salvador	PA	San Pedro Masahuat	SM
+SV	01618	San Pedro Masahuat	La Paz Salvador	PA	San Pedro Masahuat	SM
+SV	01618	Santa Emilia	La Paz Salvador	PA	San Pedro Masahuat	SM
+SV	01618	Santa María De La Sabana	La Paz Salvador	PA	San Pedro Masahuat	SM
+SV	01618	Sicahuite	La Paz Salvador	PA	San Pedro Masahuat	SM
+SV	01618	Tilapa	La Paz Salvador	PA	San Pedro Masahuat	SM
+SV	01618	Valladares	La Paz Salvador	PA	San Pedro Masahuat	SM
+SV	01622	El Lazareto	La Paz Salvador	PA	San Pedro Nonualco	SP
+SV	01622	El Roble	La Paz Salvador	PA	San Pedro Nonualco	SP
+SV	01622	Hacienda Vieja	La Paz Salvador	PA	San Pedro Nonualco	SP
+SV	01622	La Carbonera	La Paz Salvador	PA	San Pedro Nonualco	SP
+SV	01622	La Comunidad	La Paz Salvador	PA	San Pedro Nonualco	SP
+SV	01622	San Juan Nahuistepeque	La Paz Salvador	PA	San Pedro Nonualco	SP
+SV	01622	San Pedro Nonualco	La Paz Salvador	PA	San Pedro Nonualco	SP
+SV	01622	San Ramón	La Paz Salvador	PA	San Pedro Nonualco	SP
+SV	01620	Concepción Jalponga	La Paz Salvador	PA	San Rafael Obrajuelo	SR
+SV	01620	El Pajal	La Paz Salvador	PA	San Rafael Obrajuelo	SR
+SV	01620	Jalponga	La Paz Salvador	PA	San Rafael Obrajuelo	SR
+SV	01620	La Longaniza	La Paz Salvador	PA	San Rafael Obrajuelo	SR
+SV	01620	San Jerónimo	La Paz Salvador	PA	San Rafael Obrajuelo	SR
+SV	01620	San José Obrajuelo	La Paz Salvador	PA	San Rafael Obrajuelo	SR
+SV	01623	Las Lajas	La Paz Salvador	PA	Tapalhuaca	TA
+SV	01623	San Pedro La Palma	La Paz Salvador	PA	Tapalhuaca	TA
+SV	01623	Tapalhuaca	La Paz Salvador	PA	Tapalhuaca	TA
+SV	01601	Agua Zarca	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	Ánimas Abajo	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	Ánimas Arriba	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	Azacualpa	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	Buena Vista Abajo	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	Buena Vista Arriba	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	Buena Vista Arrinconada	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	El Callejón	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	El Carmen	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	El Copinol	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	El Despoblado	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	El Maneadero	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	El Papayal	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	El Perical	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	El Puente	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	El Socorro	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	El Tapechame	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	El Zapote	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	Espino Abajo	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	Espino Arriba	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	Hatos De Los Reyes	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	La Joya	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	La Lucha	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	Las Isletas	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	Las Lomitas	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	Las Tablas	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	Lievano	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	Los Marranitos	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	Los Platanares	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	Paredes	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	Penitente Abajo	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	Penitente Arriba	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	Piedra Grande Abajo	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	Piedra Grande Arriba	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	Pineda	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	San Francisco Angulo	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	San Francisco Los Reyes	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	San Juan Nonualco	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	San Lucas	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	San Marcos De La Cruz	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	San Rafael	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	Santa Lucía	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	Sitio Viejo	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	Tierra Blanca	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	Ulapa	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	01601	Zacatecoluca	La Paz Salvador	PA	Zacatecoluca	ZA
+SV	03104	Agua Blanca	La Union	UN	Anamoros	AN
+SV	03104	Agua Fría	La Union	UN	Anamoros	AN
+SV	03104	Anamorós	La Union	UN	Anamoros	AN
+SV	03104	Cordoncillo	La Union	UN	Anamoros	AN
+SV	03104	El Carbonal	La Union	UN	Anamoros	AN
+SV	03104	El Cedro	La Union	UN	Anamoros	AN
+SV	03104	Huertas Viejas	La Union	UN	Anamoros	AN
+SV	03104	Los Zetino	La Union	UN	Anamoros	AN
+SV	03104	Matapalo	La Union	UN	Anamoros	AN
+SV	03104	Montañita	La Union	UN	Anamoros	AN
+SV	03104	Terreritos	La Union	UN	Anamoros	AN
+SV	03104	Tizate	La Union	UN	Anamoros	AN
+SV	03104	Tulima	La Union	UN	Anamoros	AN
+SV	03104	Uvitas	La Union	UN	Anamoros	AN
+SV	03104	Volcancillo	La Union	UN	Anamoros	AN
+SV	03105	Albornoz	La Union	UN	Bolivar El Salvador	BO
+SV	03105	Albornoz Arriba	La Union	UN	Bolivar El Salvador	BO
+SV	03105	Bolívar	La Union	UN	Bolivar El Salvador	BO
+SV	03105	Candelaria Albornoz	La Union	UN	Bolivar El Salvador	BO
+SV	03105	El Tránsito	La Union	UN	Bolivar El Salvador	BO
+SV	03105	Guadalupe	La Union	UN	Bolivar El Salvador	BO
+SV	03105	La Paz	La Union	UN	Bolivar El Salvador	BO
+SV	03105	La Rinconada	La Union	UN	Bolivar El Salvador	BO
+SV	03105	Los Hatillos	La Union	UN	Bolivar El Salvador	BO
+SV	03105	Nueva Guadalupe	La Union	UN	Bolivar El Salvador	BO
+SV	03105	Queseras	La Union	UN	Bolivar El Salvador	BO
+SV	03105	Santa Lucía	La Union	UN	Bolivar El Salvador	BO
+SV	03106	Agua Blanca	La Union	UN	Concepcion de Oriente	CO
+SV	03106	Concepción De Oriente	La Union	UN	Concepcion de Oriente	CO
+SV	03106	El Molino	La Union	UN	Concepcion de Oriente	CO
+SV	03106	El Terrero	La Union	UN	Concepcion de Oriente	CO
+SV	03106	El Zapote	La Union	UN	Concepcion de Oriente	CO
+SV	03106	Guayabo	La Union	UN	Concepcion de Oriente	CO
+SV	03106	Gueripe	La Union	UN	Concepcion de Oriente	CO
+SV	03106	Las Cuevas	La Union	UN	Concepcion de Oriente	CO
+SV	03106	Pueblo Nuevo	La Union	UN	Concepcion de Oriente	CO
+SV	03107	Amapalita	La Union	UN	Conchagua	CG
+SV	03107	Canoguero	La Union	UN	Conchagua	CG
+SV	03107	Caribal	La Union	UN	Conchagua	CG
+SV	03107	Cerro El Jiote	La Union	UN	Conchagua	CG
+SV	03107	Chilagual	La Union	UN	Conchagua	CG
+SV	03107	Conchagua	La Union	UN	Conchagua	CG
+SV	03107	Conchagüita	La Union	UN	Conchagua	CG
+SV	03107	El Cacao	La Union	UN	Conchagua	CG
+SV	03107	El Ciprés	La Union	UN	Conchagua	CG
+SV	03107	El Faro	La Union	UN	Conchagua	CG
+SV	03107	El Jagüey	La Union	UN	Conchagua	CG
+SV	03107	El Ocre	La Union	UN	Conchagua	CG
+SV	03107	El Pilón	La Union	UN	Conchagua	CG
+SV	03107	El Tamarindo	La Union	UN	Conchagua	CG
+SV	03107	Gualpirque	La Union	UN	Conchagua	CG
+SV	03107	Guisquil	La Union	UN	Conchagua	CG
+SV	03107	Hacienda San Carlos	La Union	UN	Conchagua	CG
+SV	03107	La Joya Redonda	La Union	UN	Conchagua	CG
+SV	03107	Llano De Los Patos	La Union	UN	Conchagua	CG
+SV	03107	Los Ángeles	La Union	UN	Conchagua	CG
+SV	03107	Los Corrales	La Union	UN	Conchagua	CG
+SV	03107	Los Negritos	La Union	UN	Conchagua	CG
+SV	03107	Maquigüe	La Union	UN	Conchagua	CG
+SV	03107	Piedra Blanca	La Union	UN	Conchagua	CG
+SV	03107	Piedra Rallada	La Union	UN	Conchagua	CG
+SV	03107	Playas Negras	La Union	UN	Conchagua	CG
+SV	03107	Yologual	La Union	UN	Conchagua	CG
+SV	03108	Alto El Roble	La Union	UN	El Carmen La Union	EC
+SV	03108	Cabrera	La Union	UN	El Carmen La Union	EC
+SV	03108	El Achiotal	La Union	UN	El Carmen La Union	EC
+SV	03108	El Amatillo	La Union	UN	El Carmen La Union	EC
+SV	03108	El Borbollón	La Union	UN	El Carmen La Union	EC
+SV	03108	El Cangrejillo	La Union	UN	El Carmen La Union	EC
+SV	03108	El Carmen	La Union	UN	El Carmen La Union	EC
+SV	03108	El Caulotillo	La Union	UN	El Carmen La Union	EC
+SV	03108	El Chile	La Union	UN	El Carmen La Union	EC
+SV	03108	El Espino	La Union	UN	El Carmen La Union	EC
+SV	03108	El Gavilán	La Union	UN	El Carmen La Union	EC
+SV	03108	El Guásimo	La Union	UN	El Carmen La Union	EC
+SV	03108	El Piche	La Union	UN	El Carmen La Union	EC
+SV	03108	El Pichito	La Union	UN	El Carmen La Union	EC
+SV	03108	El Tejar	La Union	UN	El Carmen La Union	EC
+SV	03108	El Zapotal	La Union	UN	El Carmen La Union	EC
+SV	03108	Guanacastal	La Union	UN	El Carmen La Union	EC
+SV	03108	Lagunetas	La Union	UN	El Carmen La Union	EC
+SV	03108	La Mona	La Union	UN	El Carmen La Union	EC
+SV	03108	Las Pitas	La Union	UN	El Carmen La Union	EC
+SV	03108	Los Conejos	La Union	UN	El Carmen La Union	EC
+SV	03108	Los Melgar	La Union	UN	El Carmen La Union	EC
+SV	03108	Olomega	La Union	UN	El Carmen La Union	EC
+SV	03108	Paso Del Río	La Union	UN	El Carmen La Union	EC
+SV	03108	Punta De Ceiba	La Union	UN	El Carmen La Union	EC
+SV	03108	Punta De Navarro	La Union	UN	El Carmen La Union	EC
+SV	03108	San Pedro	La Union	UN	El Carmen La Union	EC
+SV	03108	Valle Las Flores	La Union	UN	El Carmen La Union	EC
+SV	03108	Zanjón Prieto	La Union	UN	El Carmen La Union	EC
+SV	03109	Canaire	La Union	UN	El Sauce municipio	ES
+SV	03109	El Amatillo	La Union	UN	El Sauce municipio	ES
+SV	03109	El Peñón	La Union	UN	El Sauce municipio	ES
+SV	03109	El Pilón	La Union	UN	El Sauce municipio	ES
+SV	03109	El Sauce	La Union	UN	El Sauce municipio	ES
+SV	03109	El Talpetate	La Union	UN	El Sauce municipio	ES
+SV	03109	La Cantarera	La Union	UN	El Sauce municipio	ES
+SV	03109	Llano El Azote	La Union	UN	El Sauce municipio	ES
+SV	03109	Llano El Irire	La Union	UN	El Sauce municipio	ES
+SV	03109	Los Orteces	La Union	UN	El Sauce municipio	ES
+SV	03109	San Juan	La Union	UN	El Sauce municipio	ES
+SV	03109	San Juan Gualaria	La Union	UN	El Sauce municipio	ES
+SV	03109	Santa Rosita	La Union	UN	El Sauce municipio	ES
+SV	03111	Agua	La Union	UN	Intipuca	IN
+SV	03111	El Amate	La Union	UN	Intipuca	IN
+SV	03111	El Bartolo	La Union	UN	Intipuca	IN
+SV	03111	El Borbollón	La Union	UN	Intipuca	IN
+SV	03111	El Carao	La Union	UN	Intipuca	IN
+SV	03111	El Caulotillo	La Union	UN	Intipuca	IN
+SV	03111	El Chichipate	La Union	UN	Intipuca	IN
+SV	03111	El Jícarito	La Union	UN	Intipuca	IN
+SV	03111	El Marañon	La Union	UN	Intipuca	IN
+SV	03111	El Petatero	La Union	UN	Intipuca	IN
+SV	03111	El Planón	La Union	UN	Intipuca	IN
+SV	03111	Guarute	La Union	UN	Intipuca	IN
+SV	03111	Hacienda El Icacal	La Union	UN	Intipuca	IN
+SV	03111	Hacienda El Lavadero	La Union	UN	Intipuca	IN
+SV	03111	Hacienda Los Moreno	La Union	UN	Intipuca	IN
+SV	03111	Hacienda Los Romero	La Union	UN	Intipuca	IN
+SV	03111	Hacienda Monares	La Union	UN	Intipuca	IN
+SV	03111	Hacienda San Román	La Union	UN	Intipuca	IN
+SV	03111	Intipucá	La Union	UN	Intipuca	IN
+SV	03111	La Bocana	La Union	UN	Intipuca	IN
+SV	03111	La Cañada	La Union	UN	Intipuca	IN
+SV	03111	La Leona	La Union	UN	Intipuca	IN
+SV	03111	Las Pavas	La Union	UN	Intipuca	IN
+SV	03111	Las Tinajas	La Union	UN	Intipuca	IN
+SV	03111	Santa Juliana	La Union	UN	Intipuca	IN
+SV	03101	Agua Caliente	La Union	UN	La Union municipio	LU
+SV	03101	Agua Escondida	La Union	UN	La Union municipio	LU
+SV	03101	Condadillo	La Union	UN	La Union municipio	LU
+SV	03101	El Cáguamo	La Union	UN	La Union municipio	LU
+SV	03101	El Coyolito	La Union	UN	La Union municipio	LU
+SV	03101	El Higuerón	La Union	UN	La Union municipio	LU
+SV	03101	El Jícaro	La Union	UN	La Union municipio	LU
+SV	03101	El Portillo	La Union	UN	La Union municipio	LU
+SV	03101	El Portillo Del Ujushte	La Union	UN	La Union municipio	LU
+SV	03101	El Tablón	La Union	UN	La Union municipio	LU
+SV	03101	El Volcancillo	La Union	UN	La Union municipio	LU
+SV	03101	Las Chachas	La Union	UN	La Union municipio	LU
+SV	03101	Las Trancas	La Union	UN	La Union municipio	LU
+SV	03101	La Unión	La Union	UN	La Union municipio	LU
+SV	03101	Loma Larga	La Union	UN	La Union municipio	LU
+SV	03101	Pozos	La Union	UN	La Union municipio	LU
+SV	03101	Quesadilla	La Union	UN	La Union municipio	LU
+SV	03101	San Cayetano	La Union	UN	La Union municipio	LU
+SV	03101	Sincuya	La Union	UN	La Union municipio	LU
+SV	03101	Sirama	La Union	UN	La Union municipio	LU
+SV	03101	Tihuilotal	La Union	UN	La Union municipio	LU
+SV	03112	El Chilamate	La Union	UN	Lislique	LI
+SV	03112	El Derrumbado	La Union	UN	Lislique	LI
+SV	03112	El Guajiniquil	La Union	UN	Lislique	LI
+SV	03112	El Negro	La Union	UN	Lislique	LI
+SV	03112	El Terrero	La Union	UN	Lislique	LI
+SV	03112	Higueras	La Union	UN	Lislique	LI
+SV	03112	La Laguna	La Union	UN	Lislique	LI
+SV	03112	Las Mesas	La Union	UN	Lislique	LI
+SV	03112	Las Pilas	La Union	UN	Lislique	LI
+SV	03112	Lislique	La Union	UN	Lislique	LI
+SV	03112	Llano Blanco	La Union	UN	Lislique	LI
+SV	03112	Loma Alta	La Union	UN	Lislique	LI
+SV	03112	Los Picachos	La Union	UN	Lislique	LI
+SV	03112	Nacascolo	La Union	UN	Lislique	LI
+SV	03113	Conchagüita	La Union	UN	Meanguera del Golfo	MG
+SV	03113	El Salvador	La Union	UN	Meanguera del Golfo	MG
+SV	03113	Guerrero	La Union	UN	Meanguera del Golfo	MG
+SV	03113	Meanguera Del Golfo	La Union	UN	Meanguera del Golfo	MG
+SV	03113	Plan De La Negra	La Union	UN	Meanguera del Golfo	MG
+SV	03114	El Corralito	La Union	UN	Nueva Esparta municipio	NE
+SV	03114	El Portillo	La Union	UN	Nueva Esparta municipio	NE
+SV	03114	El Rincón	La Union	UN	Nueva Esparta municipio	NE
+SV	03114	Honduritas	La Union	UN	Nueva Esparta municipio	NE
+SV	03114	La Joya	La Union	UN	Nueva Esparta municipio	NE
+SV	03114	Las Lomas	La Union	UN	Nueva Esparta municipio	NE
+SV	03114	Las Marías	La Union	UN	Nueva Esparta municipio	NE
+SV	03114	Los Rubio	La Union	UN	Nueva Esparta municipio	NE
+SV	03114	Minitas	La Union	UN	Nueva Esparta municipio	NE
+SV	03114	Monteca	La Union	UN	Nueva Esparta municipio	NE
+SV	03114	Nueva Esparta	La Union	UN	Nueva Esparta municipio	NE
+SV	03114	Ocotillo	La Union	UN	Nueva Esparta municipio	NE
+SV	03114	Pueblo	La Union	UN	Nueva Esparta municipio	NE
+SV	03114	Quebrada El Naranjo	La Union	UN	Nueva Esparta municipio	NE
+SV	03114	Talpetate	La Union	UN	Nueva Esparta municipio	NE
+SV	03114	Upire	La Union	UN	Nueva Esparta municipio	NE
+SV	03116	Agua Salada	La Union	UN	Pasaquina	PA
+SV	03116	Barrancones	La Union	UN	Pasaquina	PA
+SV	03116	Cerro Pelón	La Union	UN	Pasaquina	PA
+SV	03116	El Amate	La Union	UN	Pasaquina	PA
+SV	03116	El Desagüe	La Union	UN	Pasaquina	PA
+SV	03116	El Divisadero	La Union	UN	Pasaquina	PA
+SV	03116	El Nance	La Union	UN	Pasaquina	PA
+SV	03116	El Perical	La Union	UN	Pasaquina	PA
+SV	03116	El Picacho	La Union	UN	Pasaquina	PA
+SV	03116	El Polvo	La Union	UN	Pasaquina	PA
+SV	03116	El Portillo	La Union	UN	Pasaquina	PA
+SV	03116	El Rebalse	La Union	UN	Pasaquina	PA
+SV	03116	El Rosario	La Union	UN	Pasaquina	PA
+SV	03116	El Tablón	La Union	UN	Pasaquina	PA
+SV	03116	El Talpetate	La Union	UN	Pasaquina	PA
+SV	03116	El Zapatero	La Union	UN	Pasaquina	PA
+SV	03116	Horcones	La Union	UN	Pasaquina	PA
+SV	03116	La Garita	La Union	UN	Pasaquina	PA
+SV	03116	Lagartero	La Union	UN	Pasaquina	PA
+SV	03116	Las Conchas	La Union	UN	Pasaquina	PA
+SV	03116	Las Tunas	La Union	UN	Pasaquina	PA
+SV	03116	Los Naranjos	La Union	UN	Pasaquina	PA
+SV	03116	Palo Blanco	La Union	UN	Pasaquina	PA
+SV	03116	Papalambre	La Union	UN	Pasaquina	PA
+SV	03116	Pasaquina	La Union	UN	Pasaquina	PA
+SV	03116	Piedras Blancas	La Union	UN	Pasaquina	PA
+SV	03116	San Carlos	La Union	UN	Pasaquina	PA
+SV	03116	San Eduardo	La Union	UN	Pasaquina	PA
+SV	03116	San Felipe	La Union	UN	Pasaquina	PA
+SV	03116	San José	La Union	UN	Pasaquina	PA
+SV	03116	Santa Clara	La Union	UN	Pasaquina	PA
+SV	03116	Valle Afuera	La Union	UN	Pasaquina	PA
+SV	03117	Boquín	La Union	UN	Poloros	PO
+SV	03117	Carpintero	La Union	UN	Poloros	PO
+SV	03117	El Chaparro	La Union	UN	Poloros	PO
+SV	03117	El Ocote	La Union	UN	Poloros	PO
+SV	03117	El Portillo	La Union	UN	Poloros	PO
+SV	03117	Lajitas	La Union	UN	Poloros	PO
+SV	03117	Las Pilas	La Union	UN	Poloros	PO
+SV	03117	Munguía	La Union	UN	Poloros	PO
+SV	03117	Palo Blanco	La Union	UN	Poloros	PO
+SV	03117	Polorós	La Union	UN	Poloros	PO
+SV	03117	Rodeo	La Union	UN	Poloros	PO
+SV	03121	Copetillos	La Union	UN	Santa Rosa de Lima	SR
+SV	03121	El Algodón	La Union	UN	Santa Rosa de Lima	SR
+SV	03121	El Portillo	La Union	UN	Santa Rosa de Lima	SR
+SV	03121	Jícaras Largas	La Union	UN	Santa Rosa de Lima	SR
+SV	03121	La Ceiba	La Union	UN	Santa Rosa de Lima	SR
+SV	03121	La Chorrera	La Union	UN	Santa Rosa de Lima	SR
+SV	03121	La Hacienda	La Union	UN	Santa Rosa de Lima	SR
+SV	03121	La Jagua	La Union	UN	Santa Rosa de Lima	SR
+SV	03121	Las Cañas	La Union	UN	Santa Rosa de Lima	SR
+SV	03121	Las Piñas	La Union	UN	Santa Rosa de Lima	SR
+SV	03121	La Trompina	La Union	UN	Santa Rosa de Lima	SR
+SV	03121	Los Melgar	La Union	UN	Santa Rosa de Lima	SR
+SV	03121	Los Mojones	La Union	UN	Santa Rosa de Lima	SR
+SV	03121	Pasaquinita	La Union	UN	Santa Rosa de Lima	SR
+SV	03121	Placitas	La Union	UN	Santa Rosa de Lima	SR
+SV	03121	San Sebastián	La Union	UN	Santa Rosa de Lima	SR
+SV	03121	Santa Rosa De Lima	La Union	UN	Santa Rosa de Lima	SR
+SV	03119	Aguas Frías	La Union	UN	San Alejo	SA
+SV	03119	Bobadilla	La Union	UN	San Alejo	SA
+SV	03119	Ceibillas	La Union	UN	San Alejo	SA
+SV	03119	Cerco De Piedras	La Union	UN	San Alejo	SA
+SV	03119	Cordoncillo	La Union	UN	San Alejo	SA
+SV	03119	El Alto	La Union	UN	San Alejo	SA
+SV	03119	El Capitán	La Union	UN	San Alejo	SA
+SV	03119	El Caragón	La Union	UN	San Alejo	SA
+SV	03119	El Copalío	La Union	UN	San Alejo	SA
+SV	03119	El Mogotillo	La Union	UN	San Alejo	SA
+SV	03119	El Naranjo	La Union	UN	San Alejo	SA
+SV	03119	El Tamarindito	La Union	UN	San Alejo	SA
+SV	03119	El Tamarindo	La Union	UN	San Alejo	SA
+SV	03119	El Tizate	La Union	UN	San Alejo	SA
+SV	03119	Hato Nuevo	La Union	UN	San Alejo	SA
+SV	03119	La Barahona	La Union	UN	San Alejo	SA
+SV	03119	La Cañada	La Union	UN	San Alejo	SA
+SV	03119	La Presa	La Union	UN	San Alejo	SA
+SV	03119	Los Chivos	La Union	UN	San Alejo	SA
+SV	03119	Los Jiotes	La Union	UN	San Alejo	SA
+SV	03119	Monte Verde	La Union	UN	San Alejo	SA
+SV	03119	Ojushtillo	La Union	UN	San Alejo	SA
+SV	03119	Papalón	La Union	UN	San Alejo	SA
+SV	03119	Pavana	La Union	UN	San Alejo	SA
+SV	03119	Piedra Gorda	La Union	UN	San Alejo	SA
+SV	03119	Salinas El Lajero	La Union	UN	San Alejo	SA
+SV	03119	San Alejo	La Union	UN	San Alejo	SA
+SV	03119	San José	La Union	UN	San Alejo	SA
+SV	03119	Santa Crucita	La Union	UN	San Alejo	SA
+SV	03119	Santa Cruz	La Union	UN	San Alejo	SA
+SV	03119	Siramita	La Union	UN	San Alejo	SA
+SV	03119	Tempisque	La Union	UN	San Alejo	SA
+SV	03119	Terrero Blanco	La Union	UN	San Alejo	SA
+SV	03119	Trinchera	La Union	UN	San Alejo	SA
+SV	03120	Chagüitillo	La Union	UN	San Jose	SJ
+SV	03120	El Saco	La Union	UN	San Jose	SJ
+SV	03120	El Zapote	La Union	UN	San Jose	SJ
+SV	03120	La Chacra	La Union	UN	San Jose	SJ
+SV	03120	La Joya	La Union	UN	San Jose	SJ
+SV	03120	San José	La Union	UN	San Jose	SJ
+SV	03120	Sombrerito	La Union	UN	San Jose	SJ
+SV	03122	Centeno	La Union	UN	Yayantique	YA
+SV	03122	Cofradía Nueva	La Union	UN	Yayantique	YA
+SV	03122	El Pastor	La Union	UN	Yayantique	YA
+SV	03122	El Tejar	La Union	UN	Yayantique	YA
+SV	03122	El Tuno	La Union	UN	Yayantique	YA
+SV	03122	La Ceiba	La Union	UN	Yayantique	YA
+SV	03122	La Joya	La Union	UN	Yayantique	YA
+SV	03122	La Lomita	La Union	UN	Yayantique	YA
+SV	03122	Las Cuevitas	La Union	UN	Yayantique	YA
+SV	03122	Las Lajas	La Union	UN	Yayantique	YA
+SV	03122	Los Amates	La Union	UN	Yayantique	YA
+SV	03122	Peña Parada	La Union	UN	Yayantique	YA
+SV	03122	San Jerónimo	La Union	UN	Yayantique	YA
+SV	03122	Santa Teresa	La Union	UN	Yayantique	YA
+SV	03122	Socorro	La Union	UN	Yayantique	YA
+SV	03122	Yayantique	La Union	UN	Yayantique	YA
+SV	03123	Ciricuario	La Union	UN	Yucuaiquin	YU
+SV	03123	El Carmen	La Union	UN	Yucuaiquin	YU
+SV	03123	El Zapotal	La Union	UN	Yucuaiquin	YU
+SV	03123	La Cañada	La Union	UN	Yucuaiquin	YU
+SV	03123	Las Cruces	La Union	UN	Yucuaiquin	YU
+SV	03123	Las Hojas	La Union	UN	Yucuaiquin	YU
+SV	03123	Las Marías	La Union	UN	Yucuaiquin	YU
+SV	03123	Los Melgar	La Union	UN	Yucuaiquin	YU
+SV	03123	Los Mendoza	La Union	UN	Yucuaiquin	YU
+SV	03123	San Lucas	La Union	UN	Yucuaiquin	YU
+SV	03123	Tepemechín	La Union	UN	Yucuaiquin	YU
+SV	03123	Yucuaiquín	La Union	UN	Yucuaiquin	YU
+SV	03202	Arambala	Morazan	MO	Arambala	AR
+SV	03202	Cumaro	Morazan	MO	Arambala	AR
+SV	03202	El Mozote	Morazan	MO	Arambala	AR
+SV	03202	Las Marías	Morazan	MO	Arambala	AR
+SV	03202	Las Pilas	Morazan	MO	Arambala	AR
+SV	03202	Talchiga	Morazan	MO	Arambala	AR
+SV	03202	Tierra Colorada	Morazan	MO	Arambala	AR
+SV	03216	Agua Blanca	Morazan	MO	Cacaopera	CA
+SV	03216	Agua Zarca	Morazan	MO	Cacaopera	CA
+SV	03216	Cacaopera	Morazan	MO	Cacaopera	CA
+SV	03216	El Achiote	Morazan	MO	Cacaopera	CA
+SV	03216	El Guapinol	Morazan	MO	Cacaopera	CA
+SV	03216	El Junquillo	Morazan	MO	Cacaopera	CA
+SV	03216	El León	Morazan	MO	Cacaopera	CA
+SV	03216	El Nance	Morazan	MO	Cacaopera	CA
+SV	03216	El Rodeo	Morazan	MO	Cacaopera	CA
+SV	03216	El Tambor	Morazan	MO	Cacaopera	CA
+SV	03216	Flor Del Muerto	Morazan	MO	Cacaopera	CA
+SV	03216	Guachipilín	Morazan	MO	Cacaopera	CA
+SV	03216	Gualindo Centro	Morazan	MO	Cacaopera	CA
+SV	03216	La Estancia	Morazan	MO	Cacaopera	CA
+SV	03216	Llano La Ceiba	Morazan	MO	Cacaopera	CA
+SV	03216	Ocote Seco	Morazan	MO	Cacaopera	CA
+SV	03216	Ocotillo	Morazan	MO	Cacaopera	CA
+SV	03216	Sunsulaca	Morazan	MO	Cacaopera	CA
+SV	03216	Tierra Blanca	Morazan	MO	Cacaopera	CA
+SV	03216	Yancolo	Morazan	MO	Cacaopera	CA
+SV	03205	Chaparral	Morazan	MO	Chilanga	CH
+SV	03205	Chilanga	Morazan	MO	Chilanga	CH
+SV	03205	Joya Del Matazano	Morazan	MO	Chilanga	CH
+SV	03205	La Angostura	Morazan	MO	Chilanga	CH
+SV	03205	Lajitas	Morazan	MO	Chilanga	CH
+SV	03205	Los Marquez	Morazan	MO	Chilanga	CH
+SV	03205	Piedra Parada	Morazan	MO	Chilanga	CH
+SV	03205	Portillo Blanco	Morazan	MO	Chilanga	CH
+SV	03205	Veracruz	Morazan	MO	Chilanga	CH
+SV	03204	Calavera	Morazan	MO	Corinto	CO
+SV	03204	Corinto	Morazan	MO	Corinto	CO
+SV	03204	Corralito	Morazan	MO	Corinto	CO
+SV	03204	El Escorpión	Morazan	MO	Corinto	CO
+SV	03204	El Rotillo	Morazan	MO	Corinto	CO
+SV	03204	Hondable	Morazan	MO	Corinto	CO
+SV	03204	La Ermita	Morazan	MO	Corinto	CO
+SV	03204	La Rinconada	Morazan	MO	Corinto	CO
+SV	03204	La Tortuga	Morazan	MO	Corinto	CO
+SV	03204	Llano Verde	Morazan	MO	Corinto	CO
+SV	03204	San Felipe	Morazan	MO	Corinto	CO
+SV	03204	Varilla Negra	Morazan	MO	Corinto	CO
+SV	03206	Agua Fría	Morazan	MO	Delicias de Concepcion	DC
+SV	03206	Delicias De Concepción	Morazan	MO	Delicias de Concepcion	DC
+SV	03206	La Cuchilla	Morazan	MO	Delicias de Concepcion	DC
+SV	03207	Barrios	Morazan	MO	El Divisadero	ED
+SV	03207	El Divisadero	Morazan	MO	El Divisadero	ED
+SV	03207	La Cañada	Morazan	MO	El Divisadero	ED
+SV	03207	La Jagua	Morazan	MO	El Divisadero	ED
+SV	03207	Llano De Santiago	Morazan	MO	El Divisadero	ED
+SV	03207	Loma Larga	Morazan	MO	El Divisadero	ED
+SV	03207	Montecristo	Morazan	MO	El Divisadero	ED
+SV	03207	Nombre De Jesús	Morazan	MO	El Divisadero	ED
+SV	03207	San Pedro	Morazan	MO	El Divisadero	ED
+SV	03207	Valle Nuevo	Morazan	MO	El Divisadero	ED
+SV	03207	Villa Modelo	Morazan	MO	El Divisadero	ED
+SV	03208	El Rosario	Morazan	MO	El Rosario Morazan	ER
+SV	03208	El Tablón	Morazan	MO	El Rosario Morazan	ER
+SV	03208	La Laguna	Morazan	MO	El Rosario Morazan	ER
+SV	03208	Ojo De Agua	Morazan	MO	El Rosario Morazan	ER
+SV	03209	Gualococti	Morazan	MO	Gualococti	GL
+SV	03209	La Joya	Morazan	MO	Gualococti	GL
+SV	03209	Potrero Adentro	Morazan	MO	Gualococti	GL
+SV	03209	San Lucas	Morazan	MO	Gualococti	GL
+SV	03210	El Cirigual	Morazan	MO	Guatajiagua	GT
+SV	03210	El Cutal	Morazan	MO	Guatajiagua	GT
+SV	03210	El Volcán	Morazan	MO	Guatajiagua	GT
+SV	03210	Guatajiagua	Morazan	MO	Guatajiagua	GT
+SV	03210	La Isleta	Morazan	MO	Guatajiagua	GT
+SV	03210	Los Abelines	Morazan	MO	Guatajiagua	GT
+SV	03210	Maiguera	Morazan	MO	Guatajiagua	GT
+SV	03210	Plan Del Carbón	Morazan	MO	Guatajiagua	GT
+SV	03210	San Bartolo	Morazan	MO	Guatajiagua	GT
+SV	03211	Agua Fría	Morazan	MO	Joateca	JT
+SV	03211	Cuquinca	Morazan	MO	Joateca	JT
+SV	03211	El Bramadero	Morazan	MO	Joateca	JT
+SV	03211	El Capulín	Morazan	MO	Joateca	JT
+SV	03211	El Carrizal	Morazan	MO	Joateca	JT
+SV	03211	El Limón	Morazan	MO	Joateca	JT
+SV	03211	El Tizate	Morazan	MO	Joateca	JT
+SV	03211	El Volcancillo	Morazan	MO	Joateca	JT
+SV	03211	El Zapotal	Morazan	MO	Joateca	JT
+SV	03211	Joateca	Morazan	MO	Joateca	JT
+SV	03211	La Ermita	Morazan	MO	Joateca	JT
+SV	03211	Las Cañas	Morazan	MO	Joateca	JT
+SV	03211	Masala	Morazan	MO	Joateca	JT
+SV	03211	Paturla	Morazan	MO	Joateca	JT
+SV	03212	Cururo	Morazan	MO	Jocoaitique	JQ
+SV	03212	El Rodeo	Morazan	MO	Jocoaitique	JQ
+SV	03212	El Volcancillo	Morazan	MO	Jocoaitique	JQ
+SV	03212	Jocoaitique	Morazan	MO	Jocoaitique	JQ
+SV	03212	Las Mesas	Morazan	MO	Jocoaitique	JQ
+SV	03212	Los Ramírez	Morazan	MO	Jocoaitique	JQ
+SV	03213	El Pacún	Morazan	MO	Jocoro	JR
+SV	03213	Flamenco	Morazan	MO	Jocoro	JR
+SV	03213	Gigante	Morazan	MO	Jocoro	JR
+SV	03213	Guachipilín	Morazan	MO	Jocoro	JR
+SV	03213	Jocoro	Morazan	MO	Jocoro	JR
+SV	03213	La Calavera	Morazan	MO	Jocoro	JR
+SV	03213	Las Marías	Morazan	MO	Jocoro	JR
+SV	03213	San Felipe	Morazan	MO	Jocoro	JR
+SV	03213	San José	Morazan	MO	Jocoro	JR
+SV	03213	San Juan	Morazan	MO	Jocoro	JR
+SV	03213	Valle Nuevo	Morazan	MO	Jocoro	JR
+SV	03214	El Norte	Morazan	MO	Lolotiquillo	LO
+SV	03214	El Pedernal	Morazan	MO	Lolotiquillo	LO
+SV	03214	Gualindo Abajo	Morazan	MO	Lolotiquillo	LO
+SV	03214	La Manzanilla	Morazan	MO	Lolotiquillo	LO
+SV	03214	Lolotiquillo	Morazan	MO	Lolotiquillo	LO
+SV	03214	Plan Del Higo	Morazan	MO	Lolotiquillo	LO
+SV	03215	Cerro Pando	Morazan	MO	Meanguera	ME
+SV	03215	El Rincón	Morazan	MO	Meanguera	ME
+SV	03215	Guacamaya	Morazan	MO	Meanguera	ME
+SV	03215	La Joya	Morazan	MO	Meanguera	ME
+SV	03215	Los González	Morazan	MO	Meanguera	ME
+SV	03215	Meanguera	Morazan	MO	Meanguera	ME
+SV	03215	Soledad	Morazan	MO	Meanguera	ME
+SV	03216	Güiligüiste	Morazan	MO	Osicala	OS
+SV	03216	La Loma	Morazan	MO	Osicala	OS
+SV	03216	La Montaña	Morazan	MO	Osicala	OS
+SV	03216	Llano Alegre	Morazan	MO	Osicala	OS
+SV	03216	Osicala	Morazan	MO	Osicala	OS
+SV	03216	Peña Blanca	Morazan	MO	Osicala	OS
+SV	03216	Pueblo Viejo	Morazan	MO	Osicala	OS
+SV	03217	Casa Blanca	Morazan	MO	Perquin	PE
+SV	03217	El Barrancón	Morazan	MO	Perquin	PE
+SV	03217	El Rincón	Morazan	MO	Perquin	PE
+SV	03217	Las Joyas	Morazan	MO	Perquin	PE
+SV	03217	Las Quebradas	Morazan	MO	Perquin	PE
+SV	03217	Llano Del Muerto	Morazan	MO	Perquin	PE
+SV	03217	Perquín	Morazan	MO	Perquin	PE
+SV	03217	Pueblo Viejo	Morazan	MO	Perquin	PE
+SV	03218	Concepción Corozalito	Morazan	MO	San Carlos	SC
+SV	03218	El Corozal	Morazan	MO	San Carlos	SC
+SV	03218	El Triunfo	Morazan	MO	San Carlos	SC
+SV	03218	Los Encuentros	Morazan	MO	San Carlos	SC
+SV	03218	San Carlos	Morazan	MO	San Carlos	SC
+SV	03218	San Diego	Morazan	MO	San Carlos	SC
+SV	03218	San Marcos	Morazan	MO	San Carlos	SC
+SV	03219	Azacualpa	Morazan	MO	San Fernando Morazan	SF
+SV	03219	Cañaverales	Morazan	MO	San Fernando Morazan	SF
+SV	03219	San Fernando	Morazan	MO	San Fernando Morazan	SF
+SV	03201	Cacahuatalejo	Morazan	MO	San Francisco Gotera	SG
+SV	03201	El Colorado	Morazan	MO	San Francisco Gotera	SG
+SV	03201	El Rosario	Morazan	MO	San Francisco Gotera	SG
+SV	03201	Hacienda Vieja	Morazan	MO	San Francisco Gotera	SG
+SV	03201	La Pitahaya	Morazan	MO	San Francisco Gotera	SG
+SV	03201	Las Conchas	Morazan	MO	San Francisco Gotera	SG
+SV	03201	Los Reyes	Morazan	MO	San Francisco Gotera	SG
+SV	03201	Nombre De Jesús	Morazan	MO	San Francisco Gotera	SG
+SV	03201	San Francisco	Morazan	MO	San Francisco Gotera	SG
+SV	03201	San Francisquito	Morazan	MO	San Francisco Gotera	SG
+SV	03201	San José	Morazan	MO	San Francisco Gotera	SG
+SV	03220	El Rosario	Morazan	MO	San Isidro Morazan	SI
+SV	03220	San Isidro	Morazan	MO	San Isidro Morazan	SI
+SV	03221	El Carrizal	Morazan	MO	San Simon	SS
+SV	03221	El Cerro	Morazan	MO	San Simon	SS
+SV	03221	Finca La Angostura	Morazan	MO	San Simon	SS
+SV	03221	Las Quebradas	Morazan	MO	San Simon	SS
+SV	03221	San Simón	Morazan	MO	San Simon	SS
+SV	03221	Valle Grande	Morazan	MO	San Simon	SS
+SV	03222	El Limón	Morazan	MO	Sensembra	SE
+SV	03222	El Rodeo	Morazan	MO	Sensembra	SE
+SV	03222	Guarumal	Morazan	MO	Sensembra	SE
+SV	03222	Sensembra	Morazan	MO	Sensembra	SE
+SV	03222	Yamabal	Morazan	MO	Sensembra	SE
+SV	03223	Calpules	Morazan	MO	Sociedad	SO
+SV	03223	Candelaria	Morazan	MO	Sociedad	SO
+SV	03223	Casas Viejas	Morazan	MO	Sociedad	SO
+SV	03223	El Apintal	Morazan	MO	Sociedad	SO
+SV	03223	El Carrizal	Morazan	MO	Sociedad	SO
+SV	03223	El Peñón	Morazan	MO	Sociedad	SO
+SV	03223	El Tablón	Morazan	MO	Sociedad	SO
+SV	03223	La Frutilla	Morazan	MO	Sociedad	SO
+SV	03223	La Joya	Morazan	MO	Sociedad	SO
+SV	03223	La Labranza	Morazan	MO	Sociedad	SO
+SV	03223	La Peñita	Morazan	MO	Sociedad	SO
+SV	03223	Las Ánimas	Morazan	MO	Sociedad	SO
+SV	03223	Los Ranchos	Morazan	MO	Sociedad	SO
+SV	03223	Monte Mayor	Morazan	MO	Sociedad	SO
+SV	03223	Piedra Parada	Morazan	MO	Sociedad	SO
+SV	03223	Portillo Los Carrillo	Morazan	MO	Sociedad	SO
+SV	03223	San Sebastián	Morazan	MO	Sociedad	SO
+SV	03223	Sitio Marriburria	Morazan	MO	Sociedad	SO
+SV	03223	Sociedad	Morazan	MO	Sociedad	SO
+SV	03224	Agua Zarca	Morazan	MO	Torola	TO
+SV	03224	Azacualpa	Morazan	MO	Torola	TO
+SV	03224	Cerritos	Morazan	MO	Torola	TO
+SV	03224	El Jícaro	Morazan	MO	Torola	TO
+SV	03224	El Junquillo	Morazan	MO	Torola	TO
+SV	03224	El Picacho	Morazan	MO	Torola	TO
+SV	03224	El Progreso	Morazan	MO	Torola	TO
+SV	03224	Raíces	Morazan	MO	Torola	TO
+SV	03224	San Joaquín	Morazan	MO	Torola	TO
+SV	03224	San José	Morazan	MO	Torola	TO
+SV	03224	Tijeretas	Morazan	MO	Torola	TO
+SV	03224	Torola	Morazan	MO	Torola	TO
+SV	03224	Tortolico	Morazan	MO	Torola	TO
+SV	03225	Joya De Monte Grande	Morazan	MO	Yamabal	YA
+SV	03225	La Calera	Morazan	MO	Yamabal	YA
+SV	03225	La Candelilla	Morazan	MO	Yamabal	YA
+SV	03225	San Bartolo	Morazan	MO	Yamabal	YA
+SV	03225	San Juan	Morazan	MO	Yamabal	YA
+SV	03226	El Aceituno	Morazan	MO	Yoloaiquin	YO
+SV	03226	Los Martínez	Morazan	MO	Yoloaiquin	YO
+SV	03226	Los Ventura	Morazan	MO	Yoloaiquin	YO
+SV	03226	San Antonio	Morazan	MO	Yoloaiquin	YO
+SV	03226	Yoloaiquín	Morazan	MO	Yoloaiquin	YO
+SV	02203	Candelaria De La Frontera	Santa Ana	SA	Candelaria de la Frontera	CF
+SV	02203	Casas De Teja	Santa Ana	SA	Candelaria de la Frontera	CF
+SV	02203	El Zacamil	Santa Ana	SA	Candelaria de la Frontera	CF
+SV	02203	La Parada	Santa Ana	SA	Candelaria de la Frontera	CF
+SV	02203	Los Chilamates	Santa Ana	SA	Candelaria de la Frontera	CF
+SV	02203	Monte Verde	Santa Ana	SA	Candelaria de la Frontera	CF
+SV	02203	Paraje Galán	Santa Ana	SA	Candelaria de la Frontera	CF
+SV	02203	Piedras Azules	Santa Ana	SA	Candelaria de la Frontera	CF
+SV	02203	San Cristóbal	Santa Ana	SA	Candelaria de la Frontera	CF
+SV	02203	San Rafael	Santa Ana	SA	Candelaria de la Frontera	CF
+SV	02203	San Vicente	Santa Ana	SA	Candelaria de la Frontera	CF
+SV	02203	Tabloncitos	Santa Ana	SA	Candelaria de la Frontera	CF
+SV	02203	Tierra Blanca	Santa Ana	SA	Candelaria de la Frontera	CF
+SV	02205	Ayutepeque	Santa Ana	SA	Chalchuapa	CH
+SV	02205	Beneficio Las Cruces	Santa Ana	SA	Chalchuapa	CH
+SV	02205	Buenos Aires	Santa Ana	SA	Chalchuapa	CH
+SV	02205	Chalchuapa	Santa Ana	SA	Chalchuapa	CH
+SV	02205	El Arado	Santa Ana	SA	Chalchuapa	CH
+SV	02205	El Coco	Santa Ana	SA	Chalchuapa	CH
+SV	02205	El Cuje	Santa Ana	SA	Chalchuapa	CH
+SV	02205	El Duraznillo	Santa Ana	SA	Chalchuapa	CH
+SV	02205	El Jute	Santa Ana	SA	Chalchuapa	CH
+SV	02205	El Nazareno	Santa Ana	SA	Chalchuapa	CH
+SV	02205	El Paste	Santa Ana	SA	Chalchuapa	CH
+SV	02205	El Tanque	Santa Ana	SA	Chalchuapa	CH
+SV	02205	Finca Las Victorias	Santa Ana	SA	Chalchuapa	CH
+SV	02205	Guachipilín	Santa Ana	SA	Chalchuapa	CH
+SV	02205	La Criba	Santa Ana	SA	Chalchuapa	CH
+SV	02205	La Libertad	Santa Ana	SA	Chalchuapa	CH
+SV	02205	La Magdalena	Santa Ana	SA	Chalchuapa	CH
+SV	02205	Las Cruces	Santa Ana	SA	Chalchuapa	CH
+SV	02205	Las Flores	Santa Ana	SA	Chalchuapa	CH
+SV	02205	Piedra Rajada	Santa Ana	SA	Chalchuapa	CH
+SV	02205	Porvenir Jocotillo	Santa Ana	SA	Chalchuapa	CH
+SV	02205	Sabanetas	Santa Ana	SA	Chalchuapa	CH
+SV	02205	San Cristóbal	Santa Ana	SA	Chalchuapa	CH
+SV	02205	San Isidro	Santa Ana	SA	Chalchuapa	CH
+SV	02205	San José Pinalito	Santa Ana	SA	Chalchuapa	CH
+SV	02205	San Luis	Santa Ana	SA	Chalchuapa	CH
+SV	02205	San Nicolás	Santa Ana	SA	Chalchuapa	CH
+SV	02205	Santa Rosa	Santa Ana	SA	Chalchuapa	CH
+SV	02205	Valle El Portezuelo	Santa Ana	SA	Chalchuapa	CH
+SV	02205	Zacamil	Santa Ana	SA	Chalchuapa	CH
+SV	02204	Coatepeque	Santa Ana	SA	Coatepeque municipio	CO
+SV	02204	El Bejuco	Santa Ana	SA	Coatepeque municipio	CO
+SV	02204	El Cambio	Santa Ana	SA	Coatepeque municipio	CO
+SV	02204	El Cerro	Santa Ana	SA	Coatepeque municipio	CO
+SV	02204	El Milagro	Santa Ana	SA	Coatepeque municipio	CO
+SV	02204	El Rosario	Santa Ana	SA	Coatepeque municipio	CO
+SV	02204	El Tinteral	Santa Ana	SA	Coatepeque municipio	CO
+SV	02204	Finca Venecia	Santa Ana	SA	Coatepeque municipio	CO
+SV	02204	Junquillo	Santa Ana	SA	Coatepeque municipio	CO
+SV	02204	La Joya	Santa Ana	SA	Coatepeque municipio	CO
+SV	02204	Las Aradas	Santa Ana	SA	Coatepeque municipio	CO
+SV	02204	Las Casitas	Santa Ana	SA	Coatepeque municipio	CO
+SV	02204	Las Piletas	Santa Ana	SA	Coatepeque municipio	CO
+SV	02204	Lousiana	Santa Ana	SA	Coatepeque municipio	CO
+SV	02204	Majoma	Santa Ana	SA	Coatepeque municipio	CO
+SV	02204	Palo Negro	Santa Ana	SA	Coatepeque municipio	CO
+SV	02204	Plan De Las Marías	Santa Ana	SA	Coatepeque municipio	CO
+SV	02204	Resbaladero	Santa Ana	SA	Coatepeque municipio	CO
+SV	02204	San Felipe	Santa Ana	SA	Coatepeque municipio	CO
+SV	02204	San Francisco	Santa Ana	SA	Coatepeque municipio	CO
+SV	02204	San Jacinto	Santa Ana	SA	Coatepeque municipio	CO
+SV	02204	San Luis Potosí	Santa Ana	SA	Coatepeque municipio	CO
+SV	02204	San Miguelito	Santa Ana	SA	Coatepeque municipio	CO
+SV	02204	Santa Efigenia	Santa Ana	SA	Coatepeque municipio	CO
+SV	02204	Siete Principes	Santa Ana	SA	Coatepeque municipio	CO
+SV	02204	Sitio El Rosario	Santa Ana	SA	Coatepeque municipio	CO
+SV	02204	Solimán	Santa Ana	SA	Coatepeque municipio	CO
+SV	02204	Valle Los Manojos	Santa Ana	SA	Coatepeque municipio	CO
+SV	02207	Aldea De La Cruz	Santa Ana	SA	El Congo	EC
+SV	02207	El Congo	Santa Ana	SA	El Congo	EC
+SV	02207	El Guineo	Santa Ana	SA	El Congo	EC
+SV	02207	El Pezote	Santa Ana	SA	El Congo	EC
+SV	02207	El Rodeo	Santa Ana	SA	El Congo	EC
+SV	02207	Finca San Cayetano	Santa Ana	SA	El Congo	EC
+SV	02207	Finca San José	Santa Ana	SA	El Congo	EC
+SV	02207	La Coyota	Santa Ana	SA	El Congo	EC
+SV	02207	La Laguna	Santa Ana	SA	El Congo	EC
+SV	02207	La Presa	Santa Ana	SA	El Congo	EC
+SV	02207	Las Mercedes	Santa Ana	SA	El Congo	EC
+SV	02207	Los Anteojos	Santa Ana	SA	El Congo	EC
+SV	02207	Los Pinos	Santa Ana	SA	El Congo	EC
+SV	02207	Montebello	Santa Ana	SA	El Congo	EC
+SV	02207	San José Las Flores	Santa Ana	SA	El Congo	EC
+SV	02207	Teshcal	Santa Ana	SA	El Congo	EC
+SV	02207	Zacatal	Santa Ana	SA	El Congo	EC
+SV	02208	El Porvenir	Santa Ana	SA	El Porvenir municipio	EL
+SV	02208	El Tesoro	Santa Ana	SA	El Porvenir municipio	EL
+SV	02208	Loma Chata	Santa Ana	SA	El Porvenir municipio	EL
+SV	02208	Omoa	Santa Ana	SA	El Porvenir municipio	EL
+SV	02208	San Juan Chiquito	Santa Ana	SA	El Porvenir municipio	EL
+SV	02208	Santa Rosa Senca	Santa Ana	SA	El Porvenir municipio	EL
+SV	02208	Singüil	Santa Ana	SA	El Porvenir municipio	EL
+SV	02210	Agua Fría	Santa Ana	SA	Masahuat	MA
+SV	02210	Chilín	Santa Ana	SA	Masahuat	MA
+SV	02210	El Cagalero	Santa Ana	SA	Masahuat	MA
+SV	02210	El Carmen	Santa Ana	SA	Masahuat	MA
+SV	02210	El Carrizal	Santa Ana	SA	Masahuat	MA
+SV	02210	El Rodeo	Santa Ana	SA	Masahuat	MA
+SV	02210	El Zapotillo	Santa Ana	SA	Masahuat	MA
+SV	02210	La Joya	Santa Ana	SA	Masahuat	MA
+SV	02210	La Ruda	Santa Ana	SA	Masahuat	MA
+SV	02210	Las Almohadas	Santa Ana	SA	Masahuat	MA
+SV	02210	Llano De Las Majadas	Santa Ana	SA	Masahuat	MA
+SV	02210	Masahuat	Santa Ana	SA	Masahuat	MA
+SV	02210	San Sebastián Arriba	Santa Ana	SA	Masahuat	MA
+SV	02211	Aldea Zapote	Santa Ana	SA	Metapan	ME
+SV	02211	Anguiatú	Santa Ana	SA	Metapan	ME
+SV	02211	Belén	Santa Ana	SA	Metapan	ME
+SV	02211	Belén Güijat	Santa Ana	SA	Metapan	ME
+SV	02211	Campamento Guajoyo	Santa Ana	SA	Metapan	ME
+SV	02211	Camulián	Santa Ana	SA	Metapan	ME
+SV	02211	Cañas Dulces	Santa Ana	SA	Metapan	ME
+SV	02211	Casa De Tejas	Santa Ana	SA	Metapan	ME
+SV	02211	Caserío Las Conchas	Santa Ana	SA	Metapan	ME
+SV	02211	Caserío Los Ranchos	Santa Ana	SA	Metapan	ME
+SV	02211	Casitas	Santa Ana	SA	Metapan	ME
+SV	02211	Chimalapa	Santa Ana	SA	Metapan	ME
+SV	02211	Chucumba	Santa Ana	SA	Metapan	ME
+SV	02211	Cuyuiscat	Santa Ana	SA	Metapan	ME
+SV	02211	Dulce Nombre	Santa Ana	SA	Metapan	ME
+SV	02211	El Ahogado	Santa Ana	SA	Metapan	ME
+SV	02211	El Amatal	Santa Ana	SA	Metapan	ME
+SV	02211	El Brujo	Santa Ana	SA	Metapan	ME
+SV	02211	El Capulín	Santa Ana	SA	Metapan	ME
+SV	02211	El Carmen	Santa Ana	SA	Metapan	ME
+SV	02211	El Chagüitón	Santa Ana	SA	Metapan	ME
+SV	02211	El Cóbano	Santa Ana	SA	Metapan	ME
+SV	02211	El Cuje	Santa Ana	SA	Metapan	ME
+SV	02211	El Limo	Santa Ana	SA	Metapan	ME
+SV	02211	El Malpaso	Santa Ana	SA	Metapan	ME
+SV	02211	El Panal	Santa Ana	SA	Metapan	ME
+SV	02211	El Pinito	Santa Ana	SA	Metapan	ME
+SV	02211	El Playón	Santa Ana	SA	Metapan	ME
+SV	02211	El Rodeo	Santa Ana	SA	Metapan	ME
+SV	02211	El Salitre	Santa Ana	SA	Metapan	ME
+SV	02211	El Shiste	Santa Ana	SA	Metapan	ME
+SV	02211	Guayabillas	Santa Ana	SA	Metapan	ME
+SV	02211	Hacienda La Barra	Santa Ana	SA	Metapan	ME
+SV	02211	Hacienda La Soledad	Santa Ana	SA	Metapan	ME
+SV	02211	Hacienda Las Piletas	Santa Ana	SA	Metapan	ME
+SV	02211	Hacienda Vieja	Santa Ana	SA	Metapan	ME
+SV	02211	La Bolsa	Santa Ana	SA	Metapan	ME
+SV	02211	La Cañada	Santa Ana	SA	Metapan	ME
+SV	02211	La Ceibita	Santa Ana	SA	Metapan	ME
+SV	02211	Lagnetas	Santa Ana	SA	Metapan	ME
+SV	02211	Lagunetas	Santa Ana	SA	Metapan	ME
+SV	02211	La Isla	Santa Ana	SA	Metapan	ME
+SV	02211	La Joya	Santa Ana	SA	Metapan	ME
+SV	02211	Las Cruces	Santa Ana	SA	Metapan	ME
+SV	02211	Las Higueras	Santa Ana	SA	Metapan	ME
+SV	02211	Las Lajas	Santa Ana	SA	Metapan	ME
+SV	02211	Las Margaritas	Santa Ana	SA	Metapan	ME
+SV	02211	Las Pavas	Santa Ana	SA	Metapan	ME
+SV	02211	Las Piletas	Santa Ana	SA	Metapan	ME
+SV	02211	Las Tapias	Santa Ana	SA	Metapan	ME
+SV	02211	La Virgen	Santa Ana	SA	Metapan	ME
+SV	02211	Llano Del Hoyo	Santa Ana	SA	Metapan	ME
+SV	02211	Llano Grande	Santa Ana	SA	Metapan	ME
+SV	02211	Loma De Chepe	Santa Ana	SA	Metapan	ME
+SV	02211	Los Ranchos	Santa Ana	SA	Metapan	ME
+SV	02211	Majada Vieja	Santa Ana	SA	Metapan	ME
+SV	02211	Matalapa	Santa Ana	SA	Metapan	ME
+SV	02211	Metapán	Santa Ana	SA	Metapan	ME
+SV	02211	Montecristo	Santa Ana	SA	Metapan	ME
+SV	02211	Montenegro	Santa Ana	SA	Metapan	ME
+SV	02211	Ostúa	Santa Ana	SA	Metapan	ME
+SV	02211	Paso De La Ceiba	Santa Ana	SA	Metapan	ME
+SV	02211	Pie De La Cuesta	Santa Ana	SA	Metapan	ME
+SV	02211	Pita Floja	Santa Ana	SA	Metapan	ME
+SV	02211	Quebrada De Agua	Santa Ana	SA	Metapan	ME
+SV	02211	San Antonio	Santa Ana	SA	Metapan	ME
+SV	02211	San Antonio La Junta	Santa Ana	SA	Metapan	ME
+SV	02211	San Antonio Masahuat	Santa Ana	SA	Metapan	ME
+SV	02211	San Cristóbal	Santa Ana	SA	Metapan	ME
+SV	02211	San Diego	Santa Ana	SA	Metapan	ME
+SV	02211	San Francisco	Santa Ana	SA	Metapan	ME
+SV	02211	San Isidro	Santa Ana	SA	Metapan	ME
+SV	02211	San Jerónimo	Santa Ana	SA	Metapan	ME
+SV	02211	San Jorge	Santa Ana	SA	Metapan	ME
+SV	02211	San José Ingenio	Santa Ana	SA	Metapan	ME
+SV	02211	San Juan Abajo	Santa Ana	SA	Metapan	ME
+SV	02211	San Juan Arriba	Santa Ana	SA	Metapan	ME
+SV	02211	San Miguel Ingenio	Santa Ana	SA	Metapan	ME
+SV	02211	San Miguelito	Santa Ana	SA	Metapan	ME
+SV	02211	Santa Cruz	Santa Ana	SA	Metapan	ME
+SV	02211	Santa Eloísa	Santa Ana	SA	Metapan	ME
+SV	02211	Santa Inés	Santa Ana	SA	Metapan	ME
+SV	02211	Santa Rita	Santa Ana	SA	Metapan	ME
+SV	02211	Tablón Chagüite	Santa Ana	SA	Metapan	ME
+SV	02211	Tahuilapa	Santa Ana	SA	Metapan	ME
+SV	02211	Valeriano	Santa Ana	SA	Metapan	ME
+SV	02201	Agua Fría	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Aldea San Antonio	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Ayuta	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Ayutica	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Beneficio Monte Alegre	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Calzontes Abajo	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Calzontes Arriba	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Comecayo	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Conacaste	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Concepción	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Cutumay Camones	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	El Carmen	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	El Cristo	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	El Guayabo	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	El Guineo	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	El Jurón	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	El Matazano	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	El Portezuelo	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	El Porvenir	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	El Sauce	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Esquipulas	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Finca El Sinai	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Flor Amarilla Abajo	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Granada	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Hacienda San Cayetano	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Hacienda Santa Adela	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Hacienda Santa Gertrudis	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Hacienda Santa Rosa	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Isla Del Cerro	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	La Coruña	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	La Cruz Verde	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	La Gloria	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Las Aradas	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Loma Alta	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Lomas De San Marcelino	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Los Apoyos	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Los Planes De La Laguna	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Los Rincones	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Mazacúa	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Nancintepeque	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Natividad	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Ochupse Abajo	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Ochupse Arriba	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Palo De Campana	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Pinalito	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Pinalón	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Potrerillos De La Laguna	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Potrerillos Del Matazano	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Potrero Grande Abajo	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Primavera	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Ranchador	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	San Cristóbal	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	San Isidro	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	San Jerónimo	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	San Juan Buenavista	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	San Luis	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Santa Ana	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Sitio Las Palomas	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Valle Campana	Santa Ana	SA	Santa Ana municipio	SA
+SV	02201	Valle Del Mascarón	Santa Ana	SA	Santa Ana municipio	SA
+SV	02216	El Despoblado	Santa Ana	SA	Santa Rosa Guachipilin	SR
+SV	02216	El Matazano	Santa Ana	SA	Santa Rosa Guachipilin	SR
+SV	02216	Palo Galán	Santa Ana	SA	Santa Rosa Guachipilin	SR
+SV	02216	Quebrada De Agua	Santa Ana	SA	Santa Rosa Guachipilin	SR
+SV	02216	San Francisco Apanta	Santa Ana	SA	Santa Rosa Guachipilin	SR
+SV	02216	San José Capulín	Santa Ana	SA	Santa Rosa Guachipilin	SR
+SV	02216	Santa Rosa Guachipilín	Santa Ana	SA	Santa Rosa Guachipilin	SR
+SV	02217	Caserío Cuis Cuis	Santa Ana	SA	Santiago de la Frontera	SF
+SV	02217	Caserío El Amatillo	Santa Ana	SA	Santiago de la Frontera	SF
+SV	02217	Caserío El Mogote	Santa Ana	SA	Santiago de la Frontera	SF
+SV	02217	Caserío El Pino	Santa Ana	SA	Santiago de la Frontera	SF
+SV	02217	Caserío La Joya	Santa Ana	SA	Santiago de la Frontera	SF
+SV	02217	Caserío San Luis Ciénaga	Santa Ana	SA	Santiago de la Frontera	SF
+SV	02217	El Portezuelo De La Cañada	Santa Ana	SA	Santiago de la Frontera	SF
+SV	02217	La Danta	Santa Ana	SA	Santiago de la Frontera	SF
+SV	02217	La Flor	Santa Ana	SA	Santiago de la Frontera	SF
+SV	02217	Las Piletas	Santa Ana	SA	Santiago de la Frontera	SF
+SV	02217	Ojo De Agua	Santa Ana	SA	Santiago de la Frontera	SF
+SV	02217	Santa Cruz	Santa Ana	SA	Santiago de la Frontera	SF
+SV	02217	Santiago De La Frontera	Santa Ana	SA	Santiago de la Frontera	SF
+SV	02212	Caserío Canton	Santa Ana	SA	San Antonio Pajonal	SP
+SV	02212	Caserío El Mojón	Santa Ana	SA	San Antonio Pajonal	SP
+SV	02212	Caserío Los Cocos	Santa Ana	SA	San Antonio Pajonal	SP
+SV	02212	El Tablón	Santa Ana	SA	San Antonio Pajonal	SP
+SV	02212	La Estancia	Santa Ana	SA	San Antonio Pajonal	SP
+SV	02212	La Piedrona	Santa Ana	SA	San Antonio Pajonal	SP
+SV	02212	San Antonio Angeleño	Santa Ana	SA	San Antonio Pajonal	SP
+SV	02212	San Antonio Pajonal	Santa Ana	SA	San Antonio Pajonal	SP
+SV	02212	San Ildefonso	Santa Ana	SA	San Antonio Pajonal	SP
+SV	02215	El Rosario	Santa Ana	SA	San Sebastian Salitrillo	SS
+SV	02215	Galeano	Santa Ana	SA	San Sebastian Salitrillo	SS
+SV	02215	San Sebastián Salitrillo	Santa Ana	SA	San Sebastian Salitrillo	SS
+SV	02218	Azacualpa	Santa Ana	SA	Texistepeque	TE
+SV	02218	Caserío El Nance Dulce	Santa Ana	SA	Texistepeque	TE
+SV	02218	Casitas	Santa Ana	SA	Texistepeque	TE
+SV	02218	Chilcuyo	Santa Ana	SA	Texistepeque	TE
+SV	02218	Costa Rica	Santa Ana	SA	Texistepeque	TE
+SV	02218	Cujucuyo	Santa Ana	SA	Texistepeque	TE
+SV	02218	El Jute	Santa Ana	SA	Texistepeque	TE
+SV	02218	El Paraíso	Santa Ana	SA	Texistepeque	TE
+SV	02218	El Zompopo	Santa Ana	SA	Texistepeque	TE
+SV	02218	Guarnecia	Santa Ana	SA	Texistepeque	TE
+SV	02218	Hacienda La Florida	Santa Ana	SA	Texistepeque	TE
+SV	02218	Honduritas	Santa Ana	SA	Texistepeque	TE
+SV	02218	Las Mesas	Santa Ana	SA	Texistepeque	TE
+SV	02218	Las Negritas	Santa Ana	SA	Texistepeque	TE
+SV	02218	Las Piletas	Santa Ana	SA	Texistepeque	TE
+SV	02218	Los Horcones	Santa Ana	SA	Texistepeque	TE
+SV	02218	Ojo De Agua	Santa Ana	SA	Texistepeque	TE
+SV	02218	Piedra Cargada	Santa Ana	SA	Texistepeque	TE
+SV	02218	San José Zompopo	Santa Ana	SA	Texistepeque	TE
+SV	02218	San Miguel	Santa Ana	SA	Texistepeque	TE
+SV	02218	San Pedro Potrerillos	Santa Ana	SA	Texistepeque	TE
+SV	02218	Santa Elena	Santa Ana	SA	Texistepeque	TE
+SV	02218	San Tiburcio	Santa Ana	SA	Texistepeque	TE
+SV	02218	Santo Tomás	Santa Ana	SA	Texistepeque	TE
+SV	02218	Texistepeque	Santa Ana	SA	Texistepeque	TE
+SV	03302	Carolina	San Miguel	SM	Carolina municipio	CA
+SV	03302	La Ceibita	San Miguel	SM	Carolina municipio	CA
+SV	03302	La Chacara	San Miguel	SM	Carolina municipio	CA
+SV	03302	La Quebradona	San Miguel	SM	Carolina municipio	CA
+SV	03302	Miracapa	San Miguel	SM	Carolina municipio	CA
+SV	03302	Portillo Blanco	San Miguel	SM	Carolina municipio	CA
+SV	03302	Volcancillo	San Miguel	SM	Carolina municipio	CA
+SV	03305	Chapeltique	San Miguel	SM	Chapeltique	CP
+SV	03305	El Jiote	San Miguel	SM	Chapeltique	CP
+SV	03305	El Papalón	San Miguel	SM	Chapeltique	CP
+SV	03305	El Portillo	San Miguel	SM	Chapeltique	CP
+SV	03305	El Porvenir	San Miguel	SM	Chapeltique	CP
+SV	03305	Hualama	San Miguel	SM	Chapeltique	CP
+SV	03305	La Cruz	San Miguel	SM	Chapeltique	CP
+SV	03305	La Esperanza	San Miguel	SM	Chapeltique	CP
+SV	03305	La Trinidad	San Miguel	SM	Chapeltique	CP
+SV	03305	Los Amates	San Miguel	SM	Chapeltique	CP
+SV	03305	Pajigua	San Miguel	SM	Chapeltique	CP
+SV	03305	Pie De La Cuesta	San Miguel	SM	Chapeltique	CP
+SV	03305	San Jerónimo	San Miguel	SM	Chapeltique	CP
+SV	03305	San Pedro	San Miguel	SM	Chapeltique	CP
+SV	03305	Santo Tomás	San Miguel	SM	Chapeltique	CP
+SV	03306	Boquerón	San Miguel	SM	Chinameca municipio	CM
+SV	03306	Candelaria	San Miguel	SM	Chinameca municipio	CM
+SV	03306	Chambala	San Miguel	SM	Chinameca municipio	CM
+SV	03306	Chinameca	San Miguel	SM	Chinameca municipio	CM
+SV	03306	Conacastal	San Miguel	SM	Chinameca municipio	CM
+SV	03306	El Chagüite	San Miguel	SM	Chinameca municipio	CM
+SV	03306	El Jocote	San Miguel	SM	Chinameca municipio	CM
+SV	03306	Jocote Dulce	San Miguel	SM	Chinameca municipio	CM
+SV	03306	La Peña	San Miguel	SM	Chinameca municipio	CM
+SV	03306	La Placita	San Miguel	SM	Chinameca municipio	CM
+SV	03306	Las Marías	San Miguel	SM	Chinameca municipio	CM
+SV	03306	Ojo De Agua	San Miguel	SM	Chinameca municipio	CM
+SV	03306	San Antonio	San Miguel	SM	Chinameca municipio	CM
+SV	03306	Zaragoza	San Miguel	SM	Chinameca municipio	CM
+SV	03307	Chilanguera	San Miguel	SM	Chirilagua	CR
+SV	03307	Chirilagua	San Miguel	SM	Chirilagua	CR
+SV	03307	El Almidón	San Miguel	SM	Chirilagua	CR
+SV	03307	El Caimito	San Miguel	SM	Chirilagua	CR
+SV	03307	El Capulín	San Miguel	SM	Chirilagua	CR
+SV	03307	El Carao	San Miguel	SM	Chirilagua	CR
+SV	03307	El Carretero	San Miguel	SM	Chirilagua	CR
+SV	03307	El Castaño	San Miguel	SM	Chirilagua	CR
+SV	03307	El Cedral	San Miguel	SM	Chirilagua	CR
+SV	03307	El Chayal	San Miguel	SM	Chirilagua	CR
+SV	03307	El Chilar	San Miguel	SM	Chirilagua	CR
+SV	03307	El Chorizo	San Miguel	SM	Chirilagua	CR
+SV	03307	El Coyolar	San Miguel	SM	Chirilagua	CR
+SV	03307	El Criba	San Miguel	SM	Chirilagua	CR
+SV	03307	El Huiscoyol	San Miguel	SM	Chirilagua	CR
+SV	03307	El Jobo	San Miguel	SM	Chirilagua	CR
+SV	03307	El Manguito	San Miguel	SM	Chirilagua	CR
+SV	03307	El Mostacillar	San Miguel	SM	Chirilagua	CR
+SV	03307	El Nispero	San Miguel	SM	Chirilagua	CR
+SV	03307	El Pajarito	San Miguel	SM	Chirilagua	CR
+SV	03307	El Peinado	San Miguel	SM	Chirilagua	CR
+SV	03307	El Portillo	San Miguel	SM	Chirilagua	CR
+SV	03307	El Roble	San Miguel	SM	Chirilagua	CR
+SV	03307	El Rucio	San Miguel	SM	Chirilagua	CR
+SV	03307	El Salto	San Miguel	SM	Chirilagua	CR
+SV	03307	El Tablón	San Miguel	SM	Chirilagua	CR
+SV	03307	El Talpetate	San Miguel	SM	Chirilagua	CR
+SV	03307	El Talquezal	San Miguel	SM	Chirilagua	CR
+SV	03307	El Tamboral	San Miguel	SM	Chirilagua	CR
+SV	03307	El Zorral	San Miguel	SM	Chirilagua	CR
+SV	03307	Guadalupe	San Miguel	SM	Chirilagua	CR
+SV	03307	Gualosito	San Miguel	SM	Chirilagua	CR
+SV	03307	Hacienda Nueva	San Miguel	SM	Chirilagua	CR
+SV	03307	Hacienda Nueva De Chilanguera	San Miguel	SM	Chirilagua	CR
+SV	03307	Hacienda San José	San Miguel	SM	Chirilagua	CR
+SV	03307	Hacienda Tierra Blanca	San Miguel	SM	Chirilagua	CR
+SV	03307	Hacienda Vieja Chilanguera	San Miguel	SM	Chirilagua	CR
+SV	03307	Joconcota	San Miguel	SM	Chirilagua	CR
+SV	03307	José Gualozo	San Miguel	SM	Chirilagua	CR
+SV	03307	La Cañada	San Miguel	SM	Chirilagua	CR
+SV	03307	La Cebadilla	San Miguel	SM	Chirilagua	CR
+SV	03307	La Ceiba	San Miguel	SM	Chirilagua	CR
+SV	03307	La China	San Miguel	SM	Chirilagua	CR
+SV	03307	La Colonia	San Miguel	SM	Chirilagua	CR
+SV	03307	La Cumbre	San Miguel	SM	Chirilagua	CR
+SV	03307	La Estrechura	San Miguel	SM	Chirilagua	CR
+SV	03307	La Flor	San Miguel	SM	Chirilagua	CR
+SV	03307	La Mona	San Miguel	SM	Chirilagua	CR
+SV	03307	Las Guayabas	San Miguel	SM	Chirilagua	CR
+SV	03307	Las Lajitas	San Miguel	SM	Chirilagua	CR
+SV	03307	Las Mesas	San Miguel	SM	Chirilagua	CR
+SV	03307	Las Salinas	San Miguel	SM	Chirilagua	CR
+SV	03307	La Suncuya	San Miguel	SM	Chirilagua	CR
+SV	03307	Llano De Las Rosas	San Miguel	SM	Chirilagua	CR
+SV	03307	Loma Aislada	San Miguel	SM	Chirilagua	CR
+SV	03307	Los Berríos	San Miguel	SM	Chirilagua	CR
+SV	03307	Los Riítos	San Miguel	SM	Chirilagua	CR
+SV	03307	Monte Fresco	San Miguel	SM	Chirilagua	CR
+SV	03307	Mundo Nuevo	San Miguel	SM	Chirilagua	CR
+SV	03307	Nueva Concepción	San Miguel	SM	Chirilagua	CR
+SV	03307	Playa Grande	San Miguel	SM	Chirilagua	CR
+SV	03307	Potrero Seco	San Miguel	SM	Chirilagua	CR
+SV	03307	Puerto Viejo	San Miguel	SM	Chirilagua	CR
+SV	03307	Punta De Navarro	San Miguel	SM	Chirilagua	CR
+SV	03307	Punta De Sueño	San Miguel	SM	Chirilagua	CR
+SV	03307	Río San Román	San Miguel	SM	Chirilagua	CR
+SV	03307	San Pedro	San Miguel	SM	Chirilagua	CR
+SV	03307	San Román	San Miguel	SM	Chirilagua	CR
+SV	03307	Santa Ana	San Miguel	SM	Chirilagua	CR
+SV	03307	Talpetate	San Miguel	SM	Chirilagua	CR
+SV	03307	Tierra Blanca	San Miguel	SM	Chirilagua	CR
+SV	03307	Tierra Morada	San Miguel	SM	Chirilagua	CR
+SV	03307	Tres Palos	San Miguel	SM	Chirilagua	CR
+SV	03307	Valle Nuevo	San Miguel	SM	Chirilagua	CR
+SV	03307	Zapatagua	San Miguel	SM	Chirilagua	CR
+SV	03303	Agua Zarca	San Miguel	SM	Ciudad Barrios	CB
+SV	03303	Apapuerta	San Miguel	SM	Ciudad Barrios	CB
+SV	03303	Belén	San Miguel	SM	Ciudad Barrios	CB
+SV	03303	Ciudad Barrios	San Miguel	SM	Ciudad Barrios	CB
+SV	03303	Coyotera	San Miguel	SM	Ciudad Barrios	CB
+SV	03303	El Chaparral	San Miguel	SM	Ciudad Barrios	CB
+SV	03303	El Picacho	San Miguel	SM	Ciudad Barrios	CB
+SV	03303	Guanacaste	San Miguel	SM	Ciudad Barrios	CB
+SV	03303	Joya Grande	San Miguel	SM	Ciudad Barrios	CB
+SV	03303	La Angostura	San Miguel	SM	Ciudad Barrios	CB
+SV	03303	La Puerta	San Miguel	SM	Ciudad Barrios	CB
+SV	03303	Llano El Ángel	San Miguel	SM	Ciudad Barrios	CB
+SV	03303	Nuevo Porvenir	San Miguel	SM	Ciudad Barrios	CB
+SV	03303	San Cristóbal	San Miguel	SM	Ciudad Barrios	CB
+SV	03303	San Juan	San Miguel	SM	Ciudad Barrios	CB
+SV	03303	San Luisito	San Miguel	SM	Ciudad Barrios	CB
+SV	03303	San Matías	San Miguel	SM	Ciudad Barrios	CB
+SV	03303	Teponaguaste	San Miguel	SM	Ciudad Barrios	CB
+SV	03304	Candelaria	San Miguel	SM	Comacaran	CO
+SV	03304	Comacarán	San Miguel	SM	Comacaran	CO
+SV	03304	El Hormiguero	San Miguel	SM	Comacaran	CO
+SV	03304	La Joya	San Miguel	SM	Comacaran	CO
+SV	03304	Platanarillo	San Miguel	SM	Comacaran	CO
+SV	03304	Santa Anita	San Miguel	SM	Comacaran	CO
+SV	03309	Calle Nueva	San Miguel	SM	El Transito	ET
+SV	03309	Cruz Verde	San Miguel	SM	El Transito	ET
+SV	03309	El Borbollón	San Miguel	SM	El Transito	ET
+SV	03309	El Tránsito	San Miguel	SM	El Transito	ET
+SV	03309	Gualchua	San Miguel	SM	El Transito	ET
+SV	03309	Llano Del Coyol	San Miguel	SM	El Transito	ET
+SV	03309	Moropala	San Miguel	SM	El Transito	ET
+SV	03309	Piedra Azul	San Miguel	SM	El Transito	ET
+SV	03309	Primavera	San Miguel	SM	El Transito	ET
+SV	03311	Amaya	San Miguel	SM	Lolotique	LO
+SV	03311	Concepción	San Miguel	SM	Lolotique	LO
+SV	03311	El Guayabito	San Miguel	SM	Lolotique	LO
+SV	03311	El Hotel	San Miguel	SM	Lolotique	LO
+SV	03311	El Jícaro	San Miguel	SM	Lolotique	LO
+SV	03311	El Nancito	San Miguel	SM	Lolotique	LO
+SV	03311	El Palón	San Miguel	SM	Lolotique	LO
+SV	03311	Hacienda La Palestina	San Miguel	SM	Lolotique	LO
+SV	03311	Hacienda Las Palmeras	San Miguel	SM	Lolotique	LO
+SV	03311	Las Ventas	San Miguel	SM	Lolotique	LO
+SV	03311	Lolotique	San Miguel	SM	Lolotique	LO
+SV	03311	Pabaya	San Miguel	SM	Lolotique	LO
+SV	03311	San Francisco	San Miguel	SM	Lolotique	LO
+SV	03311	Santa Bárbara	San Miguel	SM	Lolotique	LO
+SV	03311	Santa Catarina	San Miguel	SM	Lolotique	LO
+SV	03311	Valencia	San Miguel	SM	Lolotique	LO
+SV	03312	El Cerro	San Miguel	SM	Moncagua	MO
+SV	03312	El Jobo	San Miguel	SM	Moncagua	MO
+SV	03312	El Papalón	San Miguel	SM	Moncagua	MO
+SV	03312	El Platanar	San Miguel	SM	Moncagua	MO
+SV	03312	El Rodeo	San Miguel	SM	Moncagua	MO
+SV	03312	El Zapote	San Miguel	SM	Moncagua	MO
+SV	03312	Hacienda La Estancia	San Miguel	SM	Moncagua	MO
+SV	03312	Hacienda Tamera	San Miguel	SM	Moncagua	MO
+SV	03312	Hacienda Tongolona	San Miguel	SM	Moncagua	MO
+SV	03312	La Estancia	San Miguel	SM	Moncagua	MO
+SV	03312	La Fragua	San Miguel	SM	Moncagua	MO
+SV	03312	Los Ejidos	San Miguel	SM	Moncagua	MO
+SV	03312	Moncagua	San Miguel	SM	Moncagua	MO
+SV	03312	Salamar	San Miguel	SM	Moncagua	MO
+SV	03312	Santa Bárbara	San Miguel	SM	Moncagua	MO
+SV	03312	Tongolona	San Miguel	SM	Moncagua	MO
+SV	03312	Valle Alegre	San Miguel	SM	Moncagua	MO
+SV	03313	Las Mesas	San Miguel	SM	Nueva Guadalupe	NG
+SV	03313	Los Planes	San Miguel	SM	Nueva Guadalupe	NG
+SV	03313	Los Planes De San Sebastián	San Miguel	SM	Nueva Guadalupe	NG
+SV	03313	Nueva Guadalupe	San Miguel	SM	Nueva Guadalupe	NG
+SV	03314	Corlantique	San Miguel	SM	Nuevo Eden de San Juan	NE
+SV	03314	El Amatillo	San Miguel	SM	Nuevo Eden de San Juan	NE
+SV	03314	La Mula	San Miguel	SM	Nuevo Eden de San Juan	NE
+SV	03314	Las Barrancas	San Miguel	SM	Nuevo Eden de San Juan	NE
+SV	03314	Laureles	San Miguel	SM	Nuevo Eden de San Juan	NE
+SV	03314	Montecillos	San Miguel	SM	Nuevo Eden de San Juan	NE
+SV	03314	Nuevo Edén De San Juan	San Miguel	SM	Nuevo Eden de San Juan	NE
+SV	03314	Ojeo	San Miguel	SM	Nuevo Eden de San Juan	NE
+SV	03314	Queseras	San Miguel	SM	Nuevo Eden de San Juan	NE
+SV	03314	San Carlos	San Miguel	SM	Nuevo Eden de San Juan	NE
+SV	03314	San Sebastián	San Miguel	SM	Nuevo Eden de San Juan	NE
+SV	03314	Santa Rita	San Miguel	SM	Nuevo Eden de San Juan	NE
+SV	03315	Quelepa	San Miguel	SM	Quelepa	QU
+SV	03315	San José	San Miguel	SM	Quelepa	QU
+SV	03316	San Antonio	San Miguel	SM	San Antonio municipio	SA
+SV	03316	San Diego	San Miguel	SM	San Antonio municipio	SA
+SV	03316	San Marcos	San Miguel	SM	San Antonio municipio	SA
+SV	03318	Candelaria	San Miguel	SM	San Gerardo	SG
+SV	03318	El Espíritu Santo	San Miguel	SM	San Gerardo	SG
+SV	03318	El Jícaro	San Miguel	SM	San Gerardo	SG
+SV	03318	Joya Del Zapotillo	San Miguel	SM	San Gerardo	SG
+SV	03318	La Joya	San Miguel	SM	San Gerardo	SG
+SV	03318	La Laguna	San Miguel	SM	San Gerardo	SG
+SV	03318	Quebracho	San Miguel	SM	San Gerardo	SG
+SV	03318	San Andrés	San Miguel	SM	San Gerardo	SG
+SV	03318	San Gerardo	San Miguel	SM	San Gerardo	SG
+SV	03318	San Jerónimo	San Miguel	SM	San Gerardo	SG
+SV	03318	San Pedro	San Miguel	SM	San Gerardo	SG
+SV	03318	Santa Bárbara	San Miguel	SM	San Gerardo	SG
+SV	03319	Joya De Ventura	San Miguel	SM	San Jorge	SJ
+SV	03319	La Ceiba	San Miguel	SM	San Jorge	SJ
+SV	03319	La Morita	San Miguel	SM	San Jorge	SJ
+SV	03319	San Jorge	San Miguel	SM	San Jorge	SJ
+SV	03319	San Julián	San Miguel	SM	San Jorge	SJ
+SV	03320	El Huiscoyolito	San Miguel	SM	San Luis de la Reina	SL
+SV	03320	El Junquillo	San Miguel	SM	San Luis de la Reina	SL
+SV	03320	El Tablón	San Miguel	SM	San Luis de la Reina	SL
+SV	03320	Ostucal	San Miguel	SM	San Luis de la Reina	SL
+SV	03320	San Antonio	San Miguel	SM	San Luis de la Reina	SL
+SV	03320	San Juan	San Miguel	SM	San Luis de la Reina	SL
+SV	03320	San Luis De La Reina	San Miguel	SM	San Luis de la Reina	SL
+SV	03320	Santa Catarina	San Miguel	SM	San Luis de la Reina	SL
+SV	03320	Vado Nuevo	San Miguel	SM	San Luis de la Reina	SL
+SV	03301	Agua Salada	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Agua Zarca	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Altamiz	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Alto Del Llano	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Altomiro	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Altos Del Mora	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Altos Del Moral	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Anchico	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Buena Vista	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Cantora	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Cerro Bonito	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Chaparrastique	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Chucuyo	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Colonia Belén	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Colonia Carrillo	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Colonia Ciudad Jardín	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Colonia Conde	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Colonia El Pedrerito	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Colonia Gavidia	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Colonia Guzmán	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Colonia Hirlemann	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Colonia Los Angeles	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Colonia Milagro De La Paz	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Colonia Morataya	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Colonia Nombre De Jesus	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Colonia Panamericana	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Colonia San José	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Colonia Santa Julia	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Colonia Zamorán	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Colonia Zapata	San Miguel	SM	San Miguel municipio	SM
+SV	03301	El Amate	San Miguel	SM	San Miguel municipio	SM
+SV	03301	El Brazo	San Miguel	SM	San Miguel municipio	SM
+SV	03301	El Caimito	San Miguel	SM	San Miguel municipio	SM
+SV	03301	El Casco	San Miguel	SM	San Miguel municipio	SM
+SV	03301	El Cedral	San Miguel	SM	San Miguel municipio	SM
+SV	03301	El Chiquirín	San Miguel	SM	San Miguel municipio	SM
+SV	03301	El Chorizo	San Miguel	SM	San Miguel municipio	SM
+SV	03301	El Ciprés	San Miguel	SM	San Miguel municipio	SM
+SV	03301	El Conde	San Miguel	SM	San Miguel municipio	SM
+SV	03301	El Consuelo	San Miguel	SM	San Miguel municipio	SM
+SV	03301	El Delirio	San Miguel	SM	San Miguel municipio	SM
+SV	03301	El Espino	San Miguel	SM	San Miguel municipio	SM
+SV	03301	El Garrote	San Miguel	SM	San Miguel municipio	SM
+SV	03301	El Havillal	San Miguel	SM	San Miguel municipio	SM
+SV	03301	El Huiscoyol	San Miguel	SM	San Miguel municipio	SM
+SV	03301	El Jícaro	San Miguel	SM	San Miguel municipio	SM
+SV	03301	El Jute	San Miguel	SM	San Miguel municipio	SM
+SV	03301	El Manguito	San Miguel	SM	San Miguel municipio	SM
+SV	03301	El Mono	San Miguel	SM	San Miguel municipio	SM
+SV	03301	El Moral	San Miguel	SM	San Miguel municipio	SM
+SV	03301	El Niño	San Miguel	SM	San Miguel municipio	SM
+SV	03301	El Pacún	San Miguel	SM	San Miguel municipio	SM
+SV	03301	El Papalón	San Miguel	SM	San Miguel municipio	SM
+SV	03301	El Progreso	San Miguel	SM	San Miguel municipio	SM
+SV	03301	El Rebalse	San Miguel	SM	San Miguel municipio	SM
+SV	03301	El Saso	San Miguel	SM	San Miguel municipio	SM
+SV	03301	El Sitio	San Miguel	SM	San Miguel municipio	SM
+SV	03301	El Tapesco	San Miguel	SM	San Miguel municipio	SM
+SV	03301	El Tecomatal	San Miguel	SM	San Miguel municipio	SM
+SV	03301	El Volcán	San Miguel	SM	San Miguel municipio	SM
+SV	03301	El Zapotal	San Miguel	SM	San Miguel municipio	SM
+SV	03301	El Zarzal	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Guacamaya	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Guacuco	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Guadalupe	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Gualuca	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Hacienda Casa Mota	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Hacienda El Cortijo	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Hacienda La Cruz	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Hato Nuevo	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Jalacatal	San Miguel	SM	San Miguel municipio	SM
+SV	03301	La Arenera	San Miguel	SM	San Miguel municipio	SM
+SV	03301	La Bolsa	San Miguel	SM	San Miguel municipio	SM
+SV	03301	La Canoa	San Miguel	SM	San Miguel municipio	SM
+SV	03301	La Casona	San Miguel	SM	San Miguel municipio	SM
+SV	03301	La Ceiba De Agua	San Miguel	SM	San Miguel municipio	SM
+SV	03301	La Ceibita	San Miguel	SM	San Miguel municipio	SM
+SV	03301	La Chiricana	San Miguel	SM	San Miguel municipio	SM
+SV	03301	La Cruz	San Miguel	SM	San Miguel municipio	SM
+SV	03301	La Cruzadilla	San Miguel	SM	San Miguel municipio	SM
+SV	03301	La Cuesta	San Miguel	SM	San Miguel municipio	SM
+SV	03301	La Escondida	San Miguel	SM	San Miguel municipio	SM
+SV	03301	La Gallina	San Miguel	SM	San Miguel municipio	SM
+SV	03301	La Gloria	San Miguel	SM	San Miguel municipio	SM
+SV	03301	La Isla	San Miguel	SM	San Miguel municipio	SM
+SV	03301	La Joya	San Miguel	SM	San Miguel municipio	SM
+SV	03301	La Morita	San Miguel	SM	San Miguel municipio	SM
+SV	03301	La Pelota	San Miguel	SM	San Miguel municipio	SM
+SV	03301	La Pila	San Miguel	SM	San Miguel municipio	SM
+SV	03301	La Presa	San Miguel	SM	San Miguel municipio	SM
+SV	03301	La Puerta	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Las Casitas	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Las Cocinas	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Las Delicias	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Las Hojas	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Las Lomitas	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Las Mesas	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Las Peñitas	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Las Piletas	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Las Playitas	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Las Tablas	San Miguel	SM	San Miguel municipio	SM
+SV	03301	La Trinidad	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Los Berríos	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Los Limones	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Los Llanitos	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Los Piedror	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Los Portillo	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Los Portillos	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Los Ranchos	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Los Reyes	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Los Rodas	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Los Sánchez	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Los Sorto	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Los Talpetates	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Mayucaquín	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Miraflores	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Monte Grande	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Ojo De Agua	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Olomeguita	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Palos Prietos	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Piedras Blancas	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Poste Grueso	San Miguel	SM	San Miguel municipio	SM
+SV	03301	San Andrés	San Miguel	SM	San Miguel municipio	SM
+SV	03301	San Antonio Silva	San Miguel	SM	San Miguel municipio	SM
+SV	03301	San Carlos	San Miguel	SM	San Miguel municipio	SM
+SV	03301	San Jacinto	San Miguel	SM	San Miguel municipio	SM
+SV	03301	San Joaquín	San Miguel	SM	San Miguel municipio	SM
+SV	03301	San Miquel	San Miguel	SM	San Miguel municipio	SM
+SV	03301	San Nicolás Anchico	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Santa Inés	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Santa Lucía	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Tecomatal	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Tierra Dura	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Valle Alegre	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Valle Nuevo	San Miguel	SM	San Miguel municipio	SM
+SV	03301	Zamorán	San Miguel	SM	San Miguel municipio	SM
+SV	03322	Loma Alta	San Miguel	SM	San Rafael Oriente	SR
+SV	03322	Los Moreira	San Miguel	SM	San Rafael Oriente	SR
+SV	03322	Rodeo De Piedrón	San Miguel	SM	San Rafael Oriente	SR
+SV	03322	San Rafael Oriente	San Miguel	SM	San Rafael Oriente	SR
+SV	03323	Charlaca	San Miguel	SM	Sesori	SE
+SV	03323	Chilamate	San Miguel	SM	Sesori	SE
+SV	03323	Cordoncillo	San Miguel	SM	Sesori	SE
+SV	03323	El Conacaste	San Miguel	SM	Sesori	SE
+SV	03323	El Escarbadero	San Miguel	SM	Sesori	SE
+SV	03323	El Tablón	San Miguel	SM	Sesori	SE
+SV	03323	Guajiniquil	San Miguel	SM	Sesori	SE
+SV	03323	Guatinluca	San Miguel	SM	Sesori	SE
+SV	03323	La Majada	San Miguel	SM	Sesori	SE
+SV	03323	Las Delicias	San Miguel	SM	Sesori	SE
+SV	03323	Las Mesas	San Miguel	SM	Sesori	SE
+SV	03323	La Zanja	San Miguel	SM	Sesori	SE
+SV	03323	Los Espinos	San Miguel	SM	Sesori	SE
+SV	03323	Managuara	San Miguel	SM	Sesori	SE
+SV	03323	Mazatepeque	San Miguel	SM	Sesori	SE
+SV	03323	Mineral El Potosí	San Miguel	SM	Sesori	SE
+SV	03323	Minitas	San Miguel	SM	Sesori	SE
+SV	03323	Paso Hondo	San Miguel	SM	Sesori	SE
+SV	03323	Petacones	San Miguel	SM	Sesori	SE
+SV	03323	Piedras Gordas	San Miguel	SM	Sesori	SE
+SV	03323	San Jacinto	San Miguel	SM	Sesori	SE
+SV	03323	San Jorge	San Miguel	SM	Sesori	SE
+SV	03323	San Sebastián	San Miguel	SM	Sesori	SE
+SV	03323	Santa Rosa	San Miguel	SM	Sesori	SE
+SV	03323	Sesori	San Miguel	SM	Sesori	SE
+SV	03323	Suntulín	San Miguel	SM	Sesori	SE
+SV	03324	El Güiligüistal	San Miguel	SM	Uluazapa	UL
+SV	03324	El Jicaral	San Miguel	SM	Uluazapa	UL
+SV	03324	El Manzanillo	San Miguel	SM	Uluazapa	UL
+SV	03324	El Salamar	San Miguel	SM	Uluazapa	UL
+SV	03324	El Tablón	San Miguel	SM	Uluazapa	UL
+SV	03324	El Zorral	San Miguel	SM	Uluazapa	UL
+SV	03324	Juan Yánez	San Miguel	SM	Uluazapa	UL
+SV	03324	La Esperanza	San Miguel	SM	Uluazapa	UL
+SV	03324	La Romalguena	San Miguel	SM	Uluazapa	UL
+SV	03324	Los Pilones	San Miguel	SM	Uluazapa	UL
+SV	03324	Los Vásquez	San Miguel	SM	Uluazapa	UL
+SV	03324	Río Vargas	San Miguel	SM	Uluazapa	UL
+SV	03324	San Nicolás Anchico	San Miguel	SM	Uluazapa	UL
+SV	03324	Uluazapa	San Miguel	SM	Uluazapa	UL
+SV	01122	Aguilares	San Salvador Departamento	SS	Aguilares	AG
+SV	01122	La Florida	San Salvador Departamento	SS	Aguilares	AG
+SV	01122	Las Tunas	San Salvador Departamento	SS	Aguilares	AG
+SV	01122	Los Mangos	San Salvador Departamento	SS	Aguilares	AG
+SV	01122	Piñalitos	San Salvador Departamento	SS	Aguilares	AG
+SV	01123	Aldea Mercedes	San Salvador Departamento	SS	Apopa	AP
+SV	01123	Apopa	San Salvador Departamento	SS	Apopa	AP
+SV	01123	Chancala	San Salvador Departamento	SS	Apopa	AP
+SV	01123	El Ángel	San Salvador Departamento	SS	Apopa	AP
+SV	01123	Guadalupe	San Salvador Departamento	SS	Apopa	AP
+SV	01123	Joya Grande	San Salvador Departamento	SS	Apopa	AP
+SV	01123	Las Delicias	San Salvador Departamento	SS	Apopa	AP
+SV	01123	San Nicolás	San Salvador Departamento	SS	Apopa	AP
+SV	01123	Suchinango	San Salvador Departamento	SS	Apopa	AP
+SV	01123	Tres Ceibas	San Salvador Departamento	SS	Apopa	AP
+SV	01121	Ayutuxtepeque	San Salvador Departamento	SS	Ayutuxtepeque	AY
+SV	01121	Las Flores	San Salvador Departamento	SS	Ayutuxtepeque	AY
+SV	01121	Los Llanitos	San Salvador Departamento	SS	Ayutuxtepeque	AY
+SV	01119	Cuscatancingo	San Salvador Departamento	SS	Cuscatancingo	CU
+SV	01119	El Arenal	San Salvador Departamento	SS	Cuscatancingo	CU
+SV	01119	San Luis Mariona	San Salvador Departamento	SS	Cuscatancingo	CU
+SV	01118	Calle Real	San Salvador Departamento	SS	Delgado	DE
+SV	01118	Delgado	San Salvador Departamento	SS	Delgado	DE
+SV	01118	El Callejón	San Salvador Departamento	SS	Delgado	DE
+SV	01118	La Cabaña	San Salvador Departamento	SS	Delgado	DE
+SV	01118	Las Victorias	San Salvador Departamento	SS	Delgado	DE
+SV	01118	Milingo	San Salvador Departamento	SS	Delgado	DE
+SV	01118	San José Cortez	San Salvador Departamento	SS	Delgado	DE
+SV	01118	San Laureano	San Salvador Departamento	SS	Delgado	DE
+SV	01118	Soyapango	San Salvador Departamento	SS	Delgado	DE
+SV	01124	Agua Helada	San Salvador Departamento	SS	El Paisnal	EL
+SV	01124	Atiocoyo	San Salvador Departamento	SS	El Paisnal	EL
+SV	01124	Consolación	San Salvador Departamento	SS	El Paisnal	EL
+SV	01124	El Bejuco	San Salvador Departamento	SS	El Paisnal	EL
+SV	01124	El Escondido	San Salvador Departamento	SS	El Paisnal	EL
+SV	01124	El Jicarón	San Salvador Departamento	SS	El Paisnal	EL
+SV	01124	El Matazano	San Salvador Departamento	SS	El Paisnal	EL
+SV	01124	El Paisnal	San Salvador Departamento	SS	El Paisnal	EL
+SV	01124	El Tablón	San Salvador Departamento	SS	El Paisnal	EL
+SV	01124	El Tronador	San Salvador Departamento	SS	El Paisnal	EL
+SV	01124	Hacienda San Diego	San Salvador Departamento	SS	El Paisnal	EL
+SV	01124	La Cabaña	San Salvador Departamento	SS	El Paisnal	EL
+SV	01124	Las Delicias	San Salvador Departamento	SS	El Paisnal	EL
+SV	01124	Las Ventanas	San Salvador Departamento	SS	El Paisnal	EL
+SV	01124	Los Dos Cerros	San Salvador Departamento	SS	El Paisnal	EL
+SV	01124	Los Escobar	San Salvador Departamento	SS	El Paisnal	EL
+SV	01124	Natividad	San Salvador Departamento	SS	El Paisnal	EL
+SV	01124	San Antonio	San Salvador Departamento	SS	El Paisnal	EL
+SV	01124	San Diego	San Salvador Departamento	SS	El Paisnal	EL
+SV	01124	San Rafael	San Salvador Departamento	SS	El Paisnal	EL
+SV	01124	Valle Nuevo	San Salvador Departamento	SS	El Paisnal	EL
+SV	01125	Calle Nueva	San Salvador Departamento	SS	Guazapa	GU
+SV	01125	El Mico	San Salvador Departamento	SS	Guazapa	GU
+SV	01125	Guazapa	San Salvador Departamento	SS	Guazapa	GU
+SV	01125	Loma De Ramos	San Salvador Departamento	SS	Guazapa	GU
+SV	01125	Nance Verde	San Salvador Departamento	SS	Guazapa	GU
+SV	01125	Palmira	San Salvador Departamento	SS	Guazapa	GU
+SV	01125	Pishishapa	San Salvador Departamento	SS	Guazapa	GU
+SV	01125	San Cristóbal	San Salvador Departamento	SS	Guazapa	GU
+SV	01125	San Jerónimo	San Salvador Departamento	SS	Guazapa	GU
+SV	01125	Santa Bárbara	San Salvador Departamento	SS	Guazapa	GU
+SV	01125	Santa Cruz	San Salvador Departamento	SS	Guazapa	GU
+SV	01125	Zacamil	San Salvador Departamento	SS	Guazapa	GU
+SV	01117	Amatitán	San Salvador Departamento	SS	Ilopango	IL
+SV	01117	Dolores Apulo	San Salvador Departamento	SS	Ilopango	IL
+SV	01117	Ilopango	San Salvador Departamento	SS	Ilopango	IL
+SV	01117	San Bartolo	San Salvador Departamento	SS	Ilopango	IL
+SV	01120	Delicias Del Norte	San Salvador Departamento	SS	Mejicanos	ME
+SV	01120	El Zapote	San Salvador Departamento	SS	Mejicanos	ME
+SV	01120	Mejicanos	San Salvador Departamento	SS	Mejicanos	ME
+SV	01120	San Miguel	San Salvador Departamento	SS	Mejicanos	ME
+SV	01120	San Roque	San Salvador Departamento	SS	Mejicanos	ME
+SV	01120	Zacamil	San Salvador Departamento	SS	Mejicanos	ME
+SV	01126	Camotepeque	San Salvador Departamento	SS	Nejapa	NE
+SV	01126	Conacaste	San Salvador Departamento	SS	Nejapa	NE
+SV	01126	El Bonete	San Salvador Departamento	SS	Nejapa	NE
+SV	01126	El Salitre	San Salvador Departamento	SS	Nejapa	NE
+SV	01126	Galera Quemada	San Salvador Departamento	SS	Nejapa	NE
+SV	01126	Joya Galana	San Salvador Departamento	SS	Nejapa	NE
+SV	01126	Nejapa	San Salvador Departamento	SS	Nejapa	NE
+SV	01126	San Jerónimo Los Planes	San Salvador Departamento	SS	Nejapa	NE
+SV	01126	Tutultepeque	San Salvador Departamento	SS	Nejapa	NE
+SV	01127	Amayón	San Salvador Departamento	SS	Panchimalco	PA
+SV	01127	Azacualpa	San Salvador Departamento	SS	Panchimalco	PA
+SV	01127	Cerco De Piedra	San Salvador Departamento	SS	Panchimalco	PA
+SV	01127	El Cedro	San Salvador Departamento	SS	Panchimalco	PA
+SV	01127	El Divisadero	San Salvador Departamento	SS	Panchimalco	PA
+SV	01127	El Guayabo	San Salvador Departamento	SS	Panchimalco	PA
+SV	01127	Loma Y Media	San Salvador Departamento	SS	Panchimalco	PA
+SV	01127	Los Pajales	San Salvador Departamento	SS	Panchimalco	PA
+SV	01127	Los Palones	San Salvador Departamento	SS	Panchimalco	PA
+SV	01127	Los Troncones	San Salvador Departamento	SS	Panchimalco	PA
+SV	01127	Panchimalco	San Salvador Departamento	SS	Panchimalco	PA
+SV	01127	Panchimalquito	San Salvador Departamento	SS	Panchimalco	PA
+SV	01127	Quezalapa	San Salvador Departamento	SS	Panchimalco	PA
+SV	01127	San Isidro	San Salvador Departamento	SS	Panchimalco	PA
+SV	01127	Santa Cruz	San Salvador Departamento	SS	Panchimalco	PA
+SV	01128	El Carrizal	San Salvador Departamento	SS	Rosario de Mora	RM
+SV	01128	Jutillo	San Salvador Departamento	SS	Rosario de Mora	RM
+SV	01128	Las Barrosas	San Salvador Departamento	SS	Rosario de Mora	RM
+SV	01128	Palo Grande	San Salvador Departamento	SS	Rosario de Mora	RM
+SV	01128	Plan Del Mango	San Salvador Departamento	SS	Rosario de Mora	RM
+SV	01128	Rosario De Mora	San Salvador Departamento	SS	Rosario de Mora	RM
+SV	01128	San Ramón	San Salvador Departamento	SS	Rosario de Mora	RM
+SV	01130	Asino	San Salvador Departamento	SS	Santiago Texacuangos	SG
+SV	01130	Joya Grande	San Salvador Departamento	SS	Santiago Texacuangos	SG
+SV	01130	La Cuchilla	San Salvador Departamento	SS	Santiago Texacuangos	SG
+SV	01130	Santiago Texacuangos	San Salvador Departamento	SS	Santiago Texacuangos	SG
+SV	01130	Shaltipa	San Salvador Departamento	SS	Santiago Texacuangos	SG
+SV	01131	Caña Brava	San Salvador Departamento	SS	Santo Tomas municipio	ST
+SV	01131	Chaltepe	San Salvador Departamento	SS	Santo Tomas municipio	ST
+SV	01131	Changallo	San Salvador Departamento	SS	Santo Tomas municipio	ST
+SV	01131	El Carmen	San Salvador Departamento	SS	Santo Tomas municipio	ST
+SV	01131	El Ciprés	San Salvador Departamento	SS	Santo Tomas municipio	ST
+SV	01131	El Guaje	San Salvador Departamento	SS	Santo Tomas municipio	ST
+SV	01131	El Morro	San Salvador Departamento	SS	Santo Tomas municipio	ST
+SV	01131	El Porvenir	San Salvador Departamento	SS	Santo Tomas municipio	ST
+SV	01131	Las Casitas	San Salvador Departamento	SS	Santo Tomas municipio	ST
+SV	01131	Potrerillos	San Salvador Departamento	SS	Santo Tomas municipio	ST
+SV	01131	Santo Tomás	San Salvador Departamento	SS	Santo Tomas municipio	ST
+SV	01115	Colonia El Milagro	San Salvador Departamento	SS	San Marcos municipio	SM
+SV	01115	Colonia Los Andes	San Salvador Departamento	SS	San Marcos municipio	SM
+SV	01115	El Pepeto	San Salvador Departamento	SS	San Marcos municipio	SM
+SV	01115	San José Aquacatitán	San Salvador Departamento	SS	San Marcos municipio	SM
+SV	01115	San Marcos	San Salvador Departamento	SS	San Marcos municipio	SM
+SV	01129	El Rosario	San Salvador Departamento	SS	San Martin municipio	SN
+SV	01129	El Sauce	San Salvador Departamento	SS	San Martin municipio	SN
+SV	01129	Hacienda Buena Vista	San Salvador Departamento	SS	San Martin municipio	SN
+SV	01129	La Cruz	San Salvador Departamento	SS	San Martin municipio	SN
+SV	01129	La Flor	San Salvador Departamento	SS	San Martin municipio	SN
+SV	01129	La Palma	San Salvador Departamento	SS	San Martin municipio	SN
+SV	01129	Las Ánimas	San Salvador Departamento	SS	San Martin municipio	SN
+SV	01129	Las Delicias	San Salvador Departamento	SS	San Martin municipio	SN
+SV	01129	San José Primero	San Salvador Departamento	SS	San Martin municipio	SN
+SV	01129	San José Segundo	San Salvador Departamento	SS	San Martin municipio	SN
+SV	01129	San Martín	San Salvador Departamento	SS	San Martin municipio	SN
+SV	01101	Amatepeque	San Salvador Departamento	SS	San Salvador municipio	SS
+SV	01101	Casa De Piedra	San Salvador Departamento	SS	San Salvador municipio	SS
+SV	01101	Colonia América	San Salvador Departamento	SS	San Salvador municipio	SS
+SV	01101	Colonia Dolores	San Salvador Departamento	SS	San Salvador municipio	SS
+SV	01101	Colonia Escalón	San Salvador Departamento	SS	San Salvador municipio	SS
+SV	01101	Colonia San Benito	San Salvador Departamento	SS	San Salvador municipio	SS
+SV	01101	El Cacao	San Salvador Departamento	SS	San Salvador municipio	SS
+SV	01101	El Carmen	San Salvador Departamento	SS	San Salvador municipio	SS
+SV	01101	El Tejar	San Salvador Departamento	SS	San Salvador municipio	SS
+SV	01101	Guadalupe	San Salvador Departamento	SS	San Salvador municipio	SS
+SV	01101	Lomas De Candelaria	San Salvador Departamento	SS	San Salvador municipio	SS
+SV	01101	Montserrat	San Salvador Departamento	SS	San Salvador municipio	SS
+SV	01101	Planes De Renderos	San Salvador Departamento	SS	San Salvador municipio	SS
+SV	01101	San Antonio Abad	San Salvador Departamento	SS	San Salvador municipio	SS
+SV	01101	Santo Domingo	San Salvador Departamento	SS	San Salvador municipio	SS
+SV	01116	Buena Vista	San Salvador Departamento	SS	Soyapango	SO
+SV	01116	El Guaje	San Salvador Departamento	SS	Soyapango	SO
+SV	01116	El Limón	San Salvador Departamento	SS	Soyapango	SO
+SV	01116	El Matazano	San Salvador Departamento	SS	Soyapango	SO
+SV	01116	El Tránsito	San Salvador Departamento	SS	Soyapango	SO
+SV	01116	Guapa	San Salvador Departamento	SS	Soyapango	SO
+SV	01116	Plan Del Pino	San Salvador Departamento	SS	Soyapango	SO
+SV	01116	Prusia	San Salvador Departamento	SS	Soyapango	SO
+SV	01116	Santa Lucía	San Salvador Departamento	SS	Soyapango	SO
+SV	01116	Venecia	San Salvador Departamento	SS	Soyapango	SO
+SV	01132	El Rosario	San Salvador Departamento	SS	Tonacatepeque	TO
+SV	01132	El Sauce	San Salvador Departamento	SS	Tonacatepeque	TO
+SV	01132	El Tránsito	San Salvador Departamento	SS	Tonacatepeque	TO
+SV	01132	Hacienda San José Arrazola	San Salvador Departamento	SS	Tonacatepeque	TO
+SV	01132	La Fuente	San Salvador Departamento	SS	Tonacatepeque	TO
+SV	01132	Las Flores	San Salvador Departamento	SS	Tonacatepeque	TO
+SV	01132	La Unión	San Salvador Departamento	SS	Tonacatepeque	TO
+SV	01132	Malacof	San Salvador Departamento	SS	Tonacatepeque	TO
+SV	01132	Meléndez	San Salvador Departamento	SS	Tonacatepeque	TO
+SV	01132	Tonacatepeque	San Salvador Departamento	SS	Tonacatepeque	TO
+SV	01132	Veracruz	San Salvador Departamento	SS	Tonacatepeque	TO
+SV	01702	Apastepeque	San Vicente	SV	Apastepeque	AP
+SV	01702	Calderas	San Vicente	SV	Apastepeque	AP
+SV	01702	Cutumayo	San Vicente	SV	Apastepeque	AP
+SV	01702	El Guayabo	San Vicente	SV	Apastepeque	AP
+SV	01702	El Junquillal	San Vicente	SV	Apastepeque	AP
+SV	01702	Las Ánimas	San Vicente	SV	Apastepeque	AP
+SV	01702	Plan De Mesas	San Vicente	SV	Apastepeque	AP
+SV	01702	San Felipe	San Vicente	SV	Apastepeque	AP
+SV	01702	San Felipito	San Vicente	SV	Apastepeque	AP
+SV	01702	San José Almendros	San Vicente	SV	Apastepeque	AP
+SV	01702	San Nicolás	San Vicente	SV	Apastepeque	AP
+SV	01702	San Pedro	San Vicente	SV	Apastepeque	AP
+SV	01703	Guadalupe	San Vicente	SV	Guadalupe municipio	GU
+SV	01703	Joya De Munguía	San Vicente	SV	Guadalupe municipio	GU
+SV	01703	La Laguneta	San Vicente	SV	Guadalupe municipio	GU
+SV	01703	San Benito Piedra Gorda	San Vicente	SV	Guadalupe municipio	GU
+SV	01703	San Emigdio El Tablón	San Vicente	SV	Guadalupe municipio	GU
+SV	01703	San José Carbonera	San Vicente	SV	Guadalupe municipio	GU
+SV	01709	Agua Helada	San Vicente	SV	Santa Clara	SC
+SV	01709	Aradillas	San Vicente	SV	Santa Clara	SC
+SV	01709	El Rosario	San Vicente	SV	Santa Clara	SC
+SV	01709	El Tablón	San Vicente	SV	Santa Clara	SC
+SV	01709	El Tortuguero	San Vicente	SV	Santa Clara	SC
+SV	01709	San Jacinto	San Vicente	SV	Santa Clara	SC
+SV	01709	San Jerónimo	San Vicente	SV	Santa Clara	SC
+SV	01709	San José	San Vicente	SV	Santa Clara	SC
+SV	01709	San Juan De Merino	San Vicente	SV	Santa Clara	SC
+SV	01709	Santa Clara	San Vicente	SV	Santa Clara	SC
+SV	01709	Santa Rosa	San Vicente	SV	Santa Clara	SC
+SV	01710	El Refugio	San Vicente	SV	Santo Domingo municipio	SD
+SV	01710	Izcanales	San Vicente	SV	Santo Domingo municipio	SD
+SV	01710	Los Rodríguez	San Vicente	SV	Santo Domingo municipio	SD
+SV	01710	Santo Domingo	San Vicente	SV	Santo Domingo municipio	SD
+SV	01704	Candelaria	San Vicente	SV	San Cayetano Istepeque	SY
+SV	01704	Las Minas	San Vicente	SV	San Cayetano Istepeque	SY
+SV	01704	San Cayetano Istepeque	San Vicente	SV	San Cayetano Istepeque	SY
+SV	01704	Santa Lucía	San Vicente	SV	San Cayetano Istepeque	SY
+SV	01705	Amatitán Abajo	San Vicente	SV	San Esteban Catarina	SE
+SV	01705	Amatitán Arriba	San Vicente	SV	San Esteban Catarina	SE
+SV	01705	Cerros De San Pedro	San Vicente	SV	San Esteban Catarina	SE
+SV	01705	Hacienda Amatitán Arriba	San Vicente	SV	San Esteban Catarina	SE
+SV	01705	La Guayabilla	San Vicente	SV	San Esteban Catarina	SE
+SV	01705	San Esteban	San Vicente	SV	San Esteban Catarina	SE
+SV	01705	San Esteban Catarina	San Vicente	SV	San Esteban Catarina	SE
+SV	01705	San Ildefonso	San Vicente	SV	San Esteban Catarina	SE
+SV	01705	San Jacinto La Burrera	San Vicente	SV	San Esteban Catarina	SE
+SV	01705	Santa Catarina	San Vicente	SV	San Esteban Catarina	SE
+SV	01706	Candelaria Lempa	San Vicente	SV	San Ildefonso	SI
+SV	01706	El Pulguero	San Vicente	SV	San Ildefonso	SI
+SV	01706	Guachipilín	San Vicente	SV	San Ildefonso	SI
+SV	01706	Lajas Y Canoas	San Vicente	SV	San Ildefonso	SI
+SV	01706	La Línea	San Vicente	SV	San Ildefonso	SI
+SV	01706	Las Lajas	San Vicente	SV	San Ildefonso	SI
+SV	01706	San Francisco	San Vicente	SV	San Ildefonso	SI
+SV	01706	San Ildefonso	San Vicente	SV	San Ildefonso	SI
+SV	01706	San Lorenzo	San Vicente	SV	San Ildefonso	SI
+SV	01706	San Pablo Cañales	San Vicente	SV	San Ildefonso	SI
+SV	01707	La Cruz	San Vicente	SV	San Lorenzo San Vicente	SL
+SV	01707	Las Ánimas	San Vicente	SV	San Lorenzo San Vicente	SL
+SV	01707	San Francisco	San Vicente	SV	San Lorenzo San Vicente	SL
+SV	01707	San Lorenzo	San Vicente	SV	San Lorenzo San Vicente	SL
+SV	01708	El Paraíso	San Vicente	SV	San Sebastian municipio	SS
+SV	01708	El Porvenir Aguacayo	San Vicente	SV	San Sebastian municipio	SS
+SV	01708	La Esperanza	San Vicente	SV	San Sebastian municipio	SS
+SV	01708	La Labor	San Vicente	SV	San Sebastian municipio	SS
+SV	01708	Las Rosas	San Vicente	SV	San Sebastian municipio	SS
+SV	01708	Los Laureles	San Vicente	SV	San Sebastian municipio	SS
+SV	01708	San Francisco	San Vicente	SV	San Sebastian municipio	SS
+SV	01708	San Sebastián	San Vicente	SV	San Sebastian municipio	SS
+SV	01708	Santa Elena	San Vicente	SV	San Sebastian municipio	SS
+SV	01708	Santa Teresa	San Vicente	SV	San Sebastian municipio	SS
+SV	01701	Antón Flores	San Vicente	SV	San Vicente municipio	SV
+SV	01701	Chamoco	San Vicente	SV	San Vicente municipio	SV
+SV	01701	Chucuyo	San Vicente	SV	San Vicente municipio	SV
+SV	01701	Copinol	San Vicente	SV	San Vicente municipio	SV
+SV	01701	Dos Quebradas	San Vicente	SV	San Vicente municipio	SV
+SV	01701	El Arco	San Vicente	SV	San Vicente municipio	SV
+SV	01701	El Brujo	San Vicente	SV	San Vicente municipio	SV
+SV	01701	El Caracol	San Vicente	SV	San Vicente municipio	SV
+SV	01701	El Carrizo	San Vicente	SV	San Vicente municipio	SV
+SV	01701	El Chorizo	San Vicente	SV	San Vicente municipio	SV
+SV	01701	El Cimarrón	San Vicente	SV	San Vicente municipio	SV
+SV	01701	El Coyolar	San Vicente	SV	San Vicente municipio	SV
+SV	01701	El Coyolito	San Vicente	SV	San Vicente municipio	SV
+SV	01701	El Curunco	San Vicente	SV	San Vicente municipio	SV
+SV	01701	El Filo	San Vicente	SV	San Vicente municipio	SV
+SV	01701	El Marquezado	San Vicente	SV	San Vicente municipio	SV
+SV	01701	El Matazano	San Vicente	SV	San Vicente municipio	SV
+SV	01701	El Obrajuelo Lempa	San Vicente	SV	San Vicente municipio	SV
+SV	01701	El Pedregal	San Vicente	SV	San Vicente municipio	SV
+SV	01701	El Rebelde	San Vicente	SV	San Vicente municipio	SV
+SV	01701	El Tamarindo	San Vicente	SV	San Vicente municipio	SV
+SV	01701	Finca Barrios	San Vicente	SV	San Vicente municipio	SV
+SV	01701	Hacienda Chamoco	San Vicente	SV	San Vicente municipio	SV
+SV	01701	Hacienda La Joya	San Vicente	SV	San Vicente municipio	SV
+SV	01701	La Joya	San Vicente	SV	San Vicente municipio	SV
+SV	01701	La Laguna	San Vicente	SV	San Vicente municipio	SV
+SV	01701	La Puertona	San Vicente	SV	San Vicente municipio	SV
+SV	01701	La Soledad	San Vicente	SV	San Vicente municipio	SV
+SV	01701	León De Piedra	San Vicente	SV	San Vicente municipio	SV
+SV	01701	Llanos De Achichilco	San Vicente	SV	San Vicente municipio	SV
+SV	01701	Los Jobos	San Vicente	SV	San Vicente municipio	SV
+SV	01701	Los Laureles	San Vicente	SV	San Vicente municipio	SV
+SV	01701	Los Pozos	San Vicente	SV	San Vicente municipio	SV
+SV	01701	Parras Lempa	San Vicente	SV	San Vicente municipio	SV
+SV	01701	Río Frío	San Vicente	SV	San Vicente municipio	SV
+SV	01701	Río Grande	San Vicente	SV	San Vicente municipio	SV
+SV	01701	San Antonio Achichilquito	San Vicente	SV	San Vicente municipio	SV
+SV	01701	San Antonio Caminos	San Vicente	SV	San Vicente municipio	SV
+SV	01701	San Antonio Tras El Cerro	San Vicente	SV	San Vicente municipio	SV
+SV	01701	San Bartolo Ichanmico	San Vicente	SV	San Vicente municipio	SV
+SV	01701	San Diego	San Vicente	SV	San Vicente municipio	SV
+SV	01701	San Jacinto	San Vicente	SV	San Vicente municipio	SV
+SV	01701	San Juan Buenavista	San Vicente	SV	San Vicente municipio	SV
+SV	01701	Sanqueque	San Vicente	SV	San Vicente municipio	SV
+SV	01701	San Rafael San Diego	San Vicente	SV	San Vicente municipio	SV
+SV	01701	Santa Gertrudis	San Vicente	SV	San Vicente municipio	SV
+SV	01701	San Vicente	San Vicente	SV	San Vicente municipio	SV
+SV	01701	Valle El Aceituno	San Vicente	SV	San Vicente municipio	SV
+SV	01701	Volcán Opico	San Vicente	SV	San Vicente municipio	SV
+SV	01711	Agua Fuerte	San Vicente	SV	Tecoluca	TC
+SV	01711	Barrio Nuevo	San Vicente	SV	Tecoluca	TC
+SV	01711	Campanario	San Vicente	SV	Tecoluca	TC
+SV	01711	Cruzadilla De Vaqueranos	San Vicente	SV	Tecoluca	TC
+SV	01711	El Amate	San Vicente	SV	Tecoluca	TC
+SV	01711	El Caracol	San Vicente	SV	Tecoluca	TC
+SV	01711	El Carao	San Vicente	SV	Tecoluca	TC
+SV	01711	El Pacún	San Vicente	SV	Tecoluca	TC
+SV	01711	El Palomar	San Vicente	SV	Tecoluca	TC
+SV	01711	El Playón	San Vicente	SV	Tecoluca	TC
+SV	01711	El Porrillo	San Vicente	SV	Tecoluca	TC
+SV	01711	El Socorro	San Vicente	SV	Tecoluca	TC
+SV	01711	Hacienda El Playón	San Vicente	SV	Tecoluca	TC
+SV	01711	Hacienda El Triunfo	San Vicente	SV	Tecoluca	TC
+SV	01711	Hacienda Guajoyo	San Vicente	SV	Tecoluca	TC
+SV	01711	India	San Vicente	SV	Tecoluca	TC
+SV	01711	La Canoa	San Vicente	SV	Tecoluca	TC
+SV	01711	La Esperanza	San Vicente	SV	Tecoluca	TC
+SV	01711	Las Anonas	San Vicente	SV	Tecoluca	TC
+SV	01711	Las Mesas	San Vicente	SV	Tecoluca	TC
+SV	01711	Los Marines	San Vicente	SV	Tecoluca	TC
+SV	01711	Potrerillos	San Vicente	SV	Tecoluca	TC
+SV	01711	San Andrés Achiotes	San Vicente	SV	Tecoluca	TC
+SV	01711	San Antonio	San Vicente	SV	Tecoluca	TC
+SV	01711	San Benito	San Vicente	SV	Tecoluca	TC
+SV	01711	San Carlos	San Vicente	SV	Tecoluca	TC
+SV	01711	San Fernando	San Vicente	SV	Tecoluca	TC
+SV	01711	San José La Montaña	San Vicente	SV	Tecoluca	TC
+SV	01711	San José Llano Grande	San Vicente	SV	Tecoluca	TC
+SV	01711	San Marcos Lempa	San Vicente	SV	Tecoluca	TC
+SV	01711	San Nicolás Lempa	San Vicente	SV	Tecoluca	TC
+SV	01711	San Ramón Grifal	San Vicente	SV	Tecoluca	TC
+SV	01711	Santa Bárbara	San Vicente	SV	Tecoluca	TC
+SV	01711	Santa Cruz	San Vicente	SV	Tecoluca	TC
+SV	01711	Tecoluca	San Vicente	SV	Tecoluca	TC
+SV	01712	Cerro Grande	San Vicente	SV	Tepetitan	TP
+SV	01712	Concepción Cañas	San Vicente	SV	Tepetitan	TP
+SV	01712	La Virgen	San Vicente	SV	Tepetitan	TP
+SV	01712	Loma Alta	San Vicente	SV	Tepetitan	TP
+SV	01712	San Francisco Aqua Agria	San Vicente	SV	Tepetitan	TP
+SV	01712	San Pedro Agua Caliente	San Vicente	SV	Tepetitan	TP
+SV	01712	Tepetitán	San Vicente	SV	Tepetitan	TP
+SV	01713	El Carmen	San Vicente	SV	Verapaz	VE
+SV	01713	Molineros	San Vicente	SV	Verapaz	VE
+SV	01713	San Antonio Jiboa	San Vicente	SV	Verapaz	VE
+SV	01713	San Antonio Los Ranchos	San Vicente	SV	Verapaz	VE
+SV	01713	San Isidro	San Vicente	SV	Verapaz	VE
+SV	01713	San Jerónimo Limón	San Vicente	SV	Verapaz	VE
+SV	01713	Talpetates	San Vicente	SV	Verapaz	VE
+SV	01713	Verapaz	San Vicente	SV	Verapaz	VE
+SV	02302	Acajutla	Sonsonate	SO	Acajutla	AC
+SV	02302	Buenos Aires	Sonsonate	SO	Acajutla	AC
+SV	02302	Club Salinitas	Sonsonate	SO	Acajutla	AC
+SV	02302	Cupatacho	Sonsonate	SO	Acajutla	AC
+SV	02302	El Amatal	Sonsonate	SO	Acajutla	AC
+SV	02302	El Coyol	Sonsonate	SO	Acajutla	AC
+SV	02302	El Flor	Sonsonate	SO	Acajutla	AC
+SV	02302	El Salamo	Sonsonate	SO	Acajutla	AC
+SV	02302	Hacienda Atalaya	Sonsonate	SO	Acajutla	AC
+SV	02302	Hacienda El Coyol	Sonsonate	SO	Acajutla	AC
+SV	02302	Hacienda San Antonio	Sonsonate	SO	Acajutla	AC
+SV	02302	Hacienda San Pedro	Sonsonate	SO	Acajutla	AC
+SV	02302	La Nueva	Sonsonate	SO	Acajutla	AC
+SV	02302	Los Cóbanos	Sonsonate	SO	Acajutla	AC
+SV	02302	Los Méndez	Sonsonate	SO	Acajutla	AC
+SV	02302	Metalío	Sonsonate	SO	Acajutla	AC
+SV	02302	Miramar	Sonsonate	SO	Acajutla	AC
+SV	02302	Morro Grande	Sonsonate	SO	Acajutla	AC
+SV	02302	Punta Remedios	Sonsonate	SO	Acajutla	AC
+SV	02302	San Julián	Sonsonate	SO	Acajutla	AC
+SV	02302	Suncita	Sonsonate	SO	Acajutla	AC
+SV	02302	Valle Nuevo	Sonsonate	SO	Acajutla	AC
+SV	02303	Armenia	Sonsonate	SO	Armenia municipio	AR
+SV	02303	Azacualpa	Sonsonate	SO	Armenia municipio	AR
+SV	02303	Copapayo	Sonsonate	SO	Armenia municipio	AR
+SV	02303	El Cerro	Sonsonate	SO	Armenia municipio	AR
+SV	02303	El Guayabo	Sonsonate	SO	Armenia municipio	AR
+SV	02303	El Rosario	Sonsonate	SO	Armenia municipio	AR
+SV	02303	Las Crucitas	Sonsonate	SO	Armenia municipio	AR
+SV	02303	Los Mangos	Sonsonate	SO	Armenia municipio	AR
+SV	02303	Puerto Arturo	Sonsonate	SO	Armenia municipio	AR
+SV	02303	San Eugenio	Sonsonate	SO	Armenia municipio	AR
+SV	02303	Tres Ceibas	Sonsonate	SO	Armenia municipio	AR
+SV	02303	Valle Nuevo	Sonsonate	SO	Armenia municipio	AR
+SV	02304	Agua Caliente	Sonsonate	SO	Caluco	CA
+SV	02304	Caluco	Sonsonate	SO	Caluco	CA
+SV	02304	Ceiba Del Charco	Sonsonate	SO	Caluco	CA
+SV	02304	Cerro Alto	Sonsonate	SO	Caluco	CA
+SV	02304	Cerro De Las Flores	Sonsonate	SO	Caluco	CA
+SV	02304	Comalapa	Sonsonate	SO	Caluco	CA
+SV	02304	El Balsamar	Sonsonate	SO	Caluco	CA
+SV	02304	El Castaño	Sonsonate	SO	Caluco	CA
+SV	02304	El Zapote	Sonsonate	SO	Caluco	CA
+SV	02304	Los Gramales	Sonsonate	SO	Caluco	CA
+SV	02304	Piedras Pachas	Sonsonate	SO	Caluco	CA
+SV	02304	Plan De Amayo	Sonsonate	SO	Caluco	CA
+SV	02304	Sunquiat	Sonsonate	SO	Caluco	CA
+SV	02304	Tecumán	Sonsonate	SO	Caluco	CA
+SV	02305	Agua Shuca	Sonsonate	SO	Cuisnahuat	CU
+SV	02305	Apancoyo	Sonsonate	SO	Cuisnahuat	CU
+SV	02305	Coquiama	Sonsonate	SO	Cuisnahuat	CU
+SV	02305	Cuisnahuat	Sonsonate	SO	Cuisnahuat	CU
+SV	02305	La Ensenada	Sonsonate	SO	Cuisnahuat	CU
+SV	02305	San Lucas	Sonsonate	SO	Cuisnahuat	CU
+SV	02306	Almendro	Sonsonate	SO	Izalco	IZ
+SV	02306	Cangrejera	Sonsonate	SO	Izalco	IZ
+SV	02306	Chorro Abajo	Sonsonate	SO	Izalco	IZ
+SV	02306	Chorro Arriba	Sonsonate	SO	Izalco	IZ
+SV	02306	Cruz Grande	Sonsonate	SO	Izalco	IZ
+SV	02306	Cuntán	Sonsonate	SO	Izalco	IZ
+SV	02306	Cuyagualo	Sonsonate	SO	Izalco	IZ
+SV	02306	El Mojón	Sonsonate	SO	Izalco	IZ
+SV	02306	Hacienda La Joya	Sonsonate	SO	Izalco	IZ
+SV	02306	Huiscoyolate	Sonsonate	SO	Izalco	IZ
+SV	02306	Izalco	Sonsonate	SO	Izalco	IZ
+SV	02306	Joya De Cerén	Sonsonate	SO	Izalco	IZ
+SV	02306	La Chapina	Sonsonate	SO	Izalco	IZ
+SV	02306	La Quebrada Española	Sonsonate	SO	Izalco	IZ
+SV	02306	Las Higueras	Sonsonate	SO	Izalco	IZ
+SV	02306	Las Lajas	Sonsonate	SO	Izalco	IZ
+SV	02306	Las Marías	Sonsonate	SO	Izalco	IZ
+SV	02306	Loma Chata	Sonsonate	SO	Izalco	IZ
+SV	02306	Los Tunalmiles	Sonsonate	SO	Izalco	IZ
+SV	02306	San Isidro	Sonsonate	SO	Izalco	IZ
+SV	02306	San Luis	Sonsonate	SO	Izalco	IZ
+SV	02306	Shan Shon	Sonsonate	SO	Izalco	IZ
+SV	02306	Talcomunca	Sonsonate	SO	Izalco	IZ
+SV	02306	Tapalshucut	Sonsonate	SO	Izalco	IZ
+SV	02306	Teshcal	Sonsonate	SO	Izalco	IZ
+SV	02307	Buenos Aires	Sonsonate	SO	Juayua	JU
+SV	02307	Cusamaluco	Sonsonate	SO	Juayua	JU
+SV	02307	El Canelo	Sonsonate	SO	Juayua	JU
+SV	02307	Juayúa	Sonsonate	SO	Juayua	JU
+SV	02307	La Fuente	Sonsonate	SO	Juayua	JU
+SV	02307	La Puente	Sonsonate	SO	Juayua	JU
+SV	02307	La Unión	Sonsonate	SO	Juayua	JU
+SV	02307	Los Naranjos	Sonsonate	SO	Juayua	JU
+SV	02307	Ojo De Agua	Sonsonate	SO	Juayua	JU
+SV	02307	San José La Majada	Sonsonate	SO	Juayua	JU
+SV	02307	San Juan De Dios	Sonsonate	SO	Juayua	JU
+SV	02307	Valle Nuevo	Sonsonate	SO	Juayua	JU
+SV	02311	Anal Abajo	Sonsonate	SO	Nahuizalco	NZ
+SV	02311	Anal Arriba	Sonsonate	SO	Nahuizalco	NZ
+SV	02311	El Almendro	Sonsonate	SO	Nahuizalco	NZ
+SV	02311	El Arenal	Sonsonate	SO	Nahuizalco	NZ
+SV	02311	El Cerrito	Sonsonate	SO	Nahuizalco	NZ
+SV	02311	El Chaparrón	Sonsonate	SO	Nahuizalco	NZ
+SV	02311	La Guacamaya	Sonsonate	SO	Nahuizalco	NZ
+SV	02311	Loma Del Muerto	Sonsonate	SO	Nahuizalco	NZ
+SV	02311	Nahuizalco	Sonsonate	SO	Nahuizalco	NZ
+SV	02311	Pushtán	Sonsonate	SO	Nahuizalco	NZ
+SV	02311	Río Las Monjas	Sonsonate	SO	Nahuizalco	NZ
+SV	02311	Sabana Grande	Sonsonate	SO	Nahuizalco	NZ
+SV	02311	Sabana San Juan Abajo	Sonsonate	SO	Nahuizalco	NZ
+SV	02311	Sabana San Juan Arriba	Sonsonate	SO	Nahuizalco	NZ
+SV	02311	Sisimitepet	Sonsonate	SO	Nahuizalco	NZ
+SV	02311	Tajcuilujlán	Sonsonate	SO	Nahuizalco	NZ
+SV	02312	Alemán	Sonsonate	SO	Nahulingo	NL
+SV	02312	Conacaste Herrado	Sonsonate	SO	Nahulingo	NL
+SV	02312	El Guayabo	Sonsonate	SO	Nahulingo	NL
+SV	02312	Hacienda La Bolsona	Sonsonate	SO	Nahulingo	NL
+SV	02312	La Fincona	Sonsonate	SO	Nahulingo	NL
+SV	02312	Las Delicias	Sonsonate	SO	Nahulingo	NL
+SV	02312	Nahulingo	Sonsonate	SO	Nahulingo	NL
+SV	02312	Piedra De Moler	Sonsonate	SO	Nahulingo	NL
+SV	02312	Santa Emilia	Sonsonate	SO	Nahulingo	NL
+SV	02312	Tres Ceibas	Sonsonate	SO	Nahulingo	NL
+SV	02313	El Monarca	Sonsonate	SO	Salcoatitan	SL
+SV	02313	El Puente	Sonsonate	SO	Salcoatitan	SL
+SV	02313	Los Anisales	Sonsonate	SO	Salcoatitan	SL
+SV	02313	Salcoatitán	Sonsonate	SO	Salcoatitan	SL
+SV	02317	Cuyuapa	Sonsonate	SO	Santa Catarina Masahuat	SC
+SV	02317	El Matazano	Sonsonate	SO	Santa Catarina Masahuat	SC
+SV	02317	Santa Catarina Masahuat	Sonsonate	SO	Santa Catarina Masahuat	SC
+SV	02318	Acachapa	Sonsonate	SO	Santa Isabel Ishuatan	SI
+SV	02318	Atiluya	Sonsonate	SO	Santa Isabel Ishuatan	SI
+SV	02318	El Corozal	Sonsonate	SO	Santa Isabel Ishuatan	SI
+SV	02318	El Paraíso	Sonsonate	SO	Santa Isabel Ishuatan	SI
+SV	02318	Las Piedras	Sonsonate	SO	Santa Isabel Ishuatan	SI
+SV	02318	Linda Vista	Sonsonate	SO	Santa Isabel Ishuatan	SI
+SV	02318	Los Izotes	Sonsonate	SO	Santa Isabel Ishuatan	SI
+SV	02318	Miramar	Sonsonate	SO	Santa Isabel Ishuatan	SI
+SV	02318	Paso De Canoas	Sonsonate	SO	Santa Isabel Ishuatan	SI
+SV	02318	Salinas De Ayacachapa	Sonsonate	SO	Santa Isabel Ishuatan	SI
+SV	02318	Santa Isabel Ishuatán	Sonsonate	SO	Santa Isabel Ishuatan	SI
+SV	02319	El Carrizal	Sonsonate	SO	Santo Domingo de Guzman municipio	SD
+SV	02319	El Caulote	Sonsonate	SO	Santo Domingo de Guzman municipio	SD
+SV	02319	El Zarzalito	Sonsonate	SO	Santo Domingo de Guzman municipio	SD
+SV	02319	El Zope	Sonsonate	SO	Santo Domingo de Guzman municipio	SD
+SV	02319	Hacienda El Zope	Sonsonate	SO	Santo Domingo de Guzman municipio	SD
+SV	02319	Santo Domingo De Guzmán	Sonsonate	SO	Santo Domingo de Guzman municipio	SD
+SV	02319	Texispulco	Sonsonate	SO	Santo Domingo de Guzman municipio	SD
+SV	02314	Agua Santa	Sonsonate	SO	San Antonio del Monte	SA
+SV	02314	Cuyuapa Abajo	Sonsonate	SO	San Antonio del Monte	SA
+SV	02314	El Carrizal	Sonsonate	SO	San Antonio del Monte	SA
+SV	02314	El Castaño	Sonsonate	SO	San Antonio del Monte	SA
+SV	02314	San Antonio Del Monte	Sonsonate	SO	San Antonio del Monte	SA
+SV	02316	Agua Shuca	Sonsonate	SO	San Julian	SJ
+SV	02316	Chilata	Sonsonate	SO	San Julian	SJ
+SV	02316	El Achiotal	Sonsonate	SO	San Julian	SJ
+SV	02316	El Bebedero	Sonsonate	SO	San Julian	SJ
+SV	02316	El Sauce	Sonsonate	SO	San Julian	SJ
+SV	02316	El Sunza	Sonsonate	SO	San Julian	SJ
+SV	02316	El Triunfo	Sonsonate	SO	San Julian	SJ
+SV	02316	Hacienda El Bebedero	Sonsonate	SO	San Julian	SJ
+SV	02316	Hacienda Los Lagartos	Sonsonate	SO	San Julian	SJ
+SV	02316	La Puerta	Sonsonate	SO	San Julian	SJ
+SV	02316	Las Mercedes	Sonsonate	SO	San Julian	SJ
+SV	02316	Los Lagartos	Sonsonate	SO	San Julian	SJ
+SV	02316	Palo Verde	Sonsonate	SO	San Julian	SJ
+SV	02316	Peña Blanca	Sonsonate	SO	San Julian	SJ
+SV	02316	Petacas	Sonsonate	SO	San Julian	SJ
+SV	02316	San Julián	Sonsonate	SO	San Julian	SJ
+SV	02301	Barra Ciega	Sonsonate	SO	Sonsonate municipio	SO
+SV	02301	Barra Salada	Sonsonate	SO	Sonsonate municipio	SO
+SV	02301	Chiquihuat	Sonsonate	SO	Sonsonate municipio	SO
+SV	02301	Cruz Verde	Sonsonate	SO	Sonsonate municipio	SO
+SV	02301	El Cacao	Sonsonate	SO	Sonsonate municipio	SO
+SV	02301	El Edén	Sonsonate	SO	Sonsonate municipio	SO
+SV	02301	El Presidio	Sonsonate	SO	Sonsonate municipio	SO
+SV	02301	Hacienda El Cacao	Sonsonate	SO	Sonsonate municipio	SO
+SV	02301	Hacienda Ojos De Agua	Sonsonate	SO	Sonsonate municipio	SO
+SV	02301	Hacienda Santa Clara	Sonsonate	SO	Sonsonate municipio	SO
+SV	02301	Hacienda Santa Emilia	Sonsonate	SO	Sonsonate municipio	SO
+SV	02301	Las Hojas	Sonsonate	SO	Sonsonate municipio	SO
+SV	02301	Las Tablas	Sonsonate	SO	Sonsonate municipio	SO
+SV	02301	Miravalle	Sonsonate	SO	Sonsonate municipio	SO
+SV	02301	Río Las Monjas	Sonsonate	SO	Sonsonate municipio	SO
+SV	02301	San Ramón	Sonsonate	SO	Sonsonate municipio	SO
+SV	02301	Sonsonate	Sonsonate	SO	Sonsonate municipio	SO
+SV	02301	Tonalá	Sonsonate	SO	Sonsonate municipio	SO
+SV	02301	Valle Jocotillo	Sonsonate	SO	Sonsonate municipio	SO
+SV	02320	Sonzacate	Sonsonate	SO	Sonzacate	SZ
+SV	03402	Alegría	Usulutan	US	Alegria	AL
+SV	03402	Apastepeque	Usulutan	US	Alegria	AL
+SV	03402	Campanero	Usulutan	US	Alegria	AL
+SV	03402	El Salto	Usulutan	US	Alegria	AL
+SV	03402	La Montañita	Usulutan	US	Alegria	AL
+SV	03402	La Peña	Usulutan	US	Alegria	AL
+SV	03402	La Puerta	Usulutan	US	Alegria	AL
+SV	03402	Las Flores	Usulutan	US	Alegria	AL
+SV	03402	Quebracho	Usulutan	US	Alegria	AL
+SV	03402	San José Montañita	Usulutan	US	Alegria	AL
+SV	03402	Yomo	Usulutan	US	Alegria	AL
+SV	03402	Zapotillo	Usulutan	US	Alegria	AL
+SV	03403	Berlín	Usulutan	US	Berlin Salvador	BE
+SV	03403	Colón	Usulutan	US	Berlin Salvador	BE
+SV	03403	Concepción	Usulutan	US	Berlin Salvador	BE
+SV	03403	El Corozal	Usulutan	US	Berlin Salvador	BE
+SV	03403	El Tablón	Usulutan	US	Berlin Salvador	BE
+SV	03403	Hacienda Mechotique	Usulutan	US	Berlin Salvador	BE
+SV	03403	Las Delicias	Usulutan	US	Berlin Salvador	BE
+SV	03403	Las Piletas	Usulutan	US	Berlin Salvador	BE
+SV	03403	La Unión	Usulutan	US	Berlin Salvador	BE
+SV	03403	Los Horcones	Usulutan	US	Berlin Salvador	BE
+SV	03403	Los Talpetates	Usulutan	US	Berlin Salvador	BE
+SV	03403	San Felipe	Usulutan	US	Berlin Salvador	BE
+SV	03403	San Francisco	Usulutan	US	Berlin Salvador	BE
+SV	03403	San Isidro	Usulutan	US	Berlin Salvador	BE
+SV	03403	San Juan Loma Alta	Usulutan	US	Berlin Salvador	BE
+SV	03403	San Lorenzo	Usulutan	US	Berlin Salvador	BE
+SV	03403	Santa Cruz	Usulutan	US	Berlin Salvador	BE
+SV	03403	Virginia	Usulutan	US	Berlin Salvador	BE
+SV	03404	California	Usulutan	US	California municipio	CA
+SV	03404	El Pozón	Usulutan	US	California municipio	CA
+SV	03405	El Cañal	Usulutan	US	Concepcion Batres	CB
+SV	03405	El Chingaste	Usulutan	US	Concepcion Batres	CB
+SV	03405	El Porvenir	Usulutan	US	Concepcion Batres	CB
+SV	03405	Hacienda Nueva	Usulutan	US	Concepcion Batres	CB
+SV	03405	Hacienda San Antonio	Usulutan	US	Concepcion Batres	CB
+SV	03405	Hacienda San Felipe	Usulutan	US	Concepcion Batres	CB
+SV	03405	Hacienda San Pedro	Usulutan	US	Concepcion Batres	CB
+SV	03405	La Anchila	Usulutan	US	Concepcion Batres	CB
+SV	03405	La Danta	Usulutan	US	Concepcion Batres	CB
+SV	03405	Salamar	Usulutan	US	Concepcion Batres	CB
+SV	03405	San Antonio	Usulutan	US	Concepcion Batres	CB
+SV	03405	San Felipe	Usulutan	US	Concepcion Batres	CB
+SV	03405	San Ildefonso	Usulutan	US	Concepcion Batres	CB
+SV	03406	El Aceituno	Usulutan	US	El Triunfo	ET
+SV	03406	El Triunfo	Usulutan	US	El Triunfo	ET
+SV	03406	Hacienda San Antonio	Usulutan	US	El Triunfo	ET
+SV	03406	La Palmera	Usulutan	US	El Triunfo	ET
+SV	03406	La Tronconada	Usulutan	US	El Triunfo	ET
+SV	03406	Los Limones	Usulutan	US	El Triunfo	ET
+SV	03406	Los Novillos	Usulutan	US	El Triunfo	ET
+SV	03407	Analco	Usulutan	US	Ereguayquin	ER
+SV	03407	Concepción Batres	Usulutan	US	Ereguayquin	ER
+SV	03407	Ereguayquín	Usulutan	US	Ereguayquin	ER
+SV	03407	Hacienda Obrajuelo	Usulutan	US	Ereguayquin	ER
+SV	03407	La Danta	Usulutan	US	Ereguayquin	ER
+SV	03407	Los Encuentros	Usulutan	US	Ereguayquin	ER
+SV	03407	Maculís	Usulutan	US	Ereguayquin	ER
+SV	03408	Condadillo	Usulutan	US	Estanzuelas	ES
+SV	03408	El Amatillo	Usulutan	US	Estanzuelas	ES
+SV	03408	El Caragual	Usulutan	US	Estanzuelas	ES
+SV	03408	El Guayabito	Usulutan	US	Estanzuelas	ES
+SV	03408	El Ojushte	Usulutan	US	Estanzuelas	ES
+SV	03408	El Tecomatal	Usulutan	US	Estanzuelas	ES
+SV	03408	Estanzuelas	Usulutan	US	Estanzuelas	ES
+SV	03408	Lepaz	Usulutan	US	Estanzuelas	ES
+SV	03408	San Juan	Usulutan	US	Estanzuelas	ES
+SV	03408	San Pedro	Usulutan	US	Estanzuelas	ES
+SV	03408	Santa Cruz	Usulutan	US	Estanzuelas	ES
+SV	03408	Sitio De San Antonio	Usulutan	US	Estanzuelas	ES
+SV	03408	Tempisque	Usulutan	US	Estanzuelas	ES
+SV	03409	Aguacayo	Usulutan	US	Jiquilisco	JI
+SV	03409	Bolívar	Usulutan	US	Jiquilisco	JI
+SV	03409	Cabos Negros	Usulutan	US	Jiquilisco	JI
+SV	03409	California	Usulutan	US	Jiquilisco	JI
+SV	03409	Ceiba Gacha	Usulutan	US	Jiquilisco	JI
+SV	03409	El Carmen	Usulutan	US	Jiquilisco	JI
+SV	03409	El Carrizal	Usulutan	US	Jiquilisco	JI
+SV	03409	El Castaño	Usulutan	US	Jiquilisco	JI
+SV	03409	El Marillo	Usulutan	US	Jiquilisco	JI
+SV	03409	El Paraíso	Usulutan	US	Jiquilisco	JI
+SV	03409	Hacienda Bolívar	Usulutan	US	Jiquilisco	JI
+SV	03409	Hacienda California	Usulutan	US	Jiquilisco	JI
+SV	03409	Hacienda Chaguantique	Usulutan	US	Jiquilisco	JI
+SV	03409	Hacienda La Normandía	Usulutan	US	Jiquilisco	JI
+SV	03409	Hacienda San Juan Del Gozo	Usulutan	US	Jiquilisco	JI
+SV	03409	Hule Chacho	Usulutan	US	Jiquilisco	JI
+SV	03409	Isla De Méndez	Usulutan	US	Jiquilisco	JI
+SV	03409	Jiquilisco	Usulutan	US	Jiquilisco	JI
+SV	03409	Joya Del Pilar	Usulutan	US	Jiquilisco	JI
+SV	03409	La Concordia	Usulutan	US	Jiquilisco	JI
+SV	03409	La Montaña	Usulutan	US	Jiquilisco	JI
+SV	03409	La Mora	Usulutan	US	Jiquilisco	JI
+SV	03409	La Noria	Usulutan	US	Jiquilisco	JI
+SV	03409	La Quesera	Usulutan	US	Jiquilisco	JI
+SV	03409	Las Delicias	Usulutan	US	Jiquilisco	JI
+SV	03409	Las Flores	Usulutan	US	Jiquilisco	JI
+SV	03409	La Tirana	Usulutan	US	Jiquilisco	JI
+SV	03409	Los Ayala	Usulutan	US	Jiquilisco	JI
+SV	03409	Los Campos	Usulutan	US	Jiquilisco	JI
+SV	03409	Los Esperanza	Usulutan	US	Jiquilisco	JI
+SV	03409	Los Limones	Usulutan	US	Jiquilisco	JI
+SV	03409	Los Pozos	Usulutan	US	Jiquilisco	JI
+SV	03409	Los Ranchos	Usulutan	US	Jiquilisco	JI
+SV	03409	Los Tres Chorros	Usulutan	US	Jiquilisco	JI
+SV	03409	Montecristo	Usulutan	US	Jiquilisco	JI
+SV	03409	Nueva California	Usulutan	US	Jiquilisco	JI
+SV	03409	Puerto Los Ávalos	Usulutan	US	Jiquilisco	JI
+SV	03409	Quita Calzón	Usulutan	US	Jiquilisco	JI
+SV	03409	Roquinte	Usulutan	US	Jiquilisco	JI
+SV	03409	Salinas De Sisiguayo	Usulutan	US	Jiquilisco	JI
+SV	03409	Salinas El Potrero	Usulutan	US	Jiquilisco	JI
+SV	03409	San Antonio Potrerillos	Usulutan	US	Jiquilisco	JI
+SV	03409	San Bartolo	Usulutan	US	Jiquilisco	JI
+SV	03409	San Juan De Letrán	Usulutan	US	Jiquilisco	JI
+SV	03409	San Juan Del Gozo	Usulutan	US	Jiquilisco	JI
+SV	03409	San Judas	Usulutan	US	Jiquilisco	JI
+SV	03409	San Pedro	Usulutan	US	Jiquilisco	JI
+SV	03409	Taburete Jagual	Usulutan	US	Jiquilisco	JI
+SV	03409	Taburete Los Claros	Usulutan	US	Jiquilisco	JI
+SV	03409	Tierra Blanca	Usulutan	US	Jiquilisco	JI
+SV	03409	Zamorán	Usulutan	US	Jiquilisco	JI
+SV	03410	El Amate	Usulutan	US	Jucuapa	JP
+SV	03410	El Amatón	Usulutan	US	Jucuapa	JP
+SV	03410	El Cerrito	Usulutan	US	Jucuapa	JP
+SV	03410	Jucuapa	Usulutan	US	Jucuapa	JP
+SV	03410	Llano Grande De Las Piedras	Usulutan	US	Jucuapa	JP
+SV	03410	Los Batres	Usulutan	US	Jucuapa	JP
+SV	03410	Oromontique	Usulutan	US	Jucuapa	JP
+SV	03410	Plan Grande	Usulutan	US	Jucuapa	JP
+SV	03410	San Buenaventura	Usulutan	US	Jucuapa	JP
+SV	03410	San Luis	Usulutan	US	Jucuapa	JP
+SV	03410	Santa Cruz	Usulutan	US	Jucuapa	JP
+SV	03410	Tapesquillo Alto	Usulutan	US	Jucuapa	JP
+SV	03410	Tapesquillo Bajo	Usulutan	US	Jucuapa	JP
+SV	03411	El Alambre	Usulutan	US	Jucuaran	JR
+SV	03411	El Amatillo	Usulutan	US	Jucuaran	JR
+SV	03411	El Aquino	Usulutan	US	Jucuaran	JR
+SV	03411	El Arco	Usulutan	US	Jucuaran	JR
+SV	03411	El Bajío	Usulutan	US	Jucuaran	JR
+SV	03411	El Bosque	Usulutan	US	Jucuaran	JR
+SV	03411	El Cacao	Usulutan	US	Jucuaran	JR
+SV	03411	El Carmelo	Usulutan	US	Jucuaran	JR
+SV	03411	El Chapernal	Usulutan	US	Jucuaran	JR
+SV	03411	El Chichipate	Usulutan	US	Jucuaran	JR
+SV	03411	El Colorado	Usulutan	US	Jucuaran	JR
+SV	03411	El Encantado	Usulutan	US	Jucuaran	JR
+SV	03411	El Espino	Usulutan	US	Jucuaran	JR
+SV	03411	El Guaycume	Usulutan	US	Jucuaran	JR
+SV	03411	El Jícarito	Usulutan	US	Jucuaran	JR
+SV	03411	El Jícaro	Usulutan	US	Jucuaran	JR
+SV	03411	El Jiote	Usulutan	US	Jucuaran	JR
+SV	03411	El Jobo	Usulutan	US	Jucuaran	JR
+SV	03411	El Jutal	Usulutan	US	Jucuaran	JR
+SV	03411	El Llano	Usulutan	US	Jucuaran	JR
+SV	03411	El Monito	Usulutan	US	Jucuaran	JR
+SV	03411	El Mono	Usulutan	US	Jucuaran	JR
+SV	03411	El Naranjito	Usulutan	US	Jucuaran	JR
+SV	03411	El Naranjo	Usulutan	US	Jucuaran	JR
+SV	03411	El Planón	Usulutan	US	Jucuaran	JR
+SV	03411	El Portillito	Usulutan	US	Jucuaran	JR
+SV	03411	El Progreso	Usulutan	US	Jucuaran	JR
+SV	03411	El Sálamo	Usulutan	US	Jucuaran	JR
+SV	03411	El Tempiscal	Usulutan	US	Jucuaran	JR
+SV	03411	El Tiangue	Usulutan	US	Jucuaran	JR
+SV	03411	El Zacatoso	Usulutan	US	Jucuaran	JR
+SV	03411	El Zapote	Usulutan	US	Jucuaran	JR
+SV	03411	El Zúngano	Usulutan	US	Jucuaran	JR
+SV	03411	Gualora	Usulutan	US	Jucuaran	JR
+SV	03411	Guazacapán	Usulutan	US	Jucuaran	JR
+SV	03411	Hacienda La Chepona	Usulutan	US	Jucuaran	JR
+SV	03411	Hacienda San José	Usulutan	US	Jucuaran	JR
+SV	03411	Hoja De Sal	Usulutan	US	Jucuaran	JR
+SV	03411	Jucuarán	Usulutan	US	Jucuaran	JR
+SV	03411	La Cabaña	Usulutan	US	Jucuaran	JR
+SV	03411	La Cruz	Usulutan	US	Jucuaran	JR
+SV	03411	La Palanca	Usulutan	US	Jucuaran	JR
+SV	03411	La Periquera	Usulutan	US	Jucuaran	JR
+SV	03411	La Piragua	Usulutan	US	Jucuaran	JR
+SV	03411	Las Flores	Usulutan	US	Jucuaran	JR
+SV	03411	Las Huateras	Usulutan	US	Jucuaran	JR
+SV	03411	Las Lajitas	Usulutan	US	Jucuaran	JR
+SV	03411	Las Piletas	Usulutan	US	Jucuaran	JR
+SV	03411	Los Llanitos	Usulutan	US	Jucuaran	JR
+SV	03411	Ojo De Agua Arriba	Usulutan	US	Jucuaran	JR
+SV	03411	Ojo De Agua De León	Usulutan	US	Jucuaran	JR
+SV	03411	Piedra De Agua	Usulutan	US	Jucuaran	JR
+SV	03411	Puerto Caballo	Usulutan	US	Jucuaran	JR
+SV	03411	Samuria	Usulutan	US	Jucuaran	JR
+SV	03411	San Cristóbal	Usulutan	US	Jucuaran	JR
+SV	03411	Santa Lucía	Usulutan	US	Jucuaran	JR
+SV	03412	El Caulote	Usulutan	US	Mercedes Umana	MU
+SV	03412	El Jícaro	Usulutan	US	Mercedes Umana	MU
+SV	03412	El Jocotillo	Usulutan	US	Mercedes Umana	MU
+SV	03412	El Trilladero	Usulutan	US	Mercedes Umana	MU
+SV	03412	Hacienda Santa Anita	Usulutan	US	Mercedes Umana	MU
+SV	03412	La Barca	Usulutan	US	Mercedes Umana	MU
+SV	03412	La Cruz	Usulutan	US	Mercedes Umana	MU
+SV	03412	La Puerta	Usulutan	US	Mercedes Umana	MU
+SV	03412	Mercedes Umaña	Usulutan	US	Mercedes Umana	MU
+SV	03412	San Benito	Usulutan	US	Mercedes Umana	MU
+SV	03412	Santa Anita	Usulutan	US	Mercedes Umana	MU
+SV	03413	Azacualpía De Gualcho	Usulutan	US	Nueva Granada municipio	NG
+SV	03413	Azacualpía De Joco	Usulutan	US	Nueva Granada municipio	NG
+SV	03413	El Palón	Usulutan	US	Nueva Granada municipio	NG
+SV	03413	Isleta	Usulutan	US	Nueva Granada municipio	NG
+SV	03413	Joco	Usulutan	US	Nueva Granada municipio	NG
+SV	03413	Jocomontique	Usulutan	US	Nueva Granada municipio	NG
+SV	03413	La Palomilla	Usulutan	US	Nueva Granada municipio	NG
+SV	03413	Las Llaves	Usulutan	US	Nueva Granada municipio	NG
+SV	03413	Loma Grande	Usulutan	US	Nueva Granada municipio	NG
+SV	03413	Los Talnetes	Usulutan	US	Nueva Granada municipio	NG
+SV	03413	Nueva Granada	Usulutan	US	Nueva Granada municipio	NG
+SV	03413	San Antonio	Usulutan	US	Nueva Granada municipio	NG
+SV	03413	San José	Usulutan	US	Nueva Granada municipio	NG
+SV	03413	Valle Nuevo	Usulutan	US	Nueva Granada municipio	NG
+SV	03415	El Delirio	Usulutan	US	Ozatlan	OZ
+SV	03415	El Palmital	Usulutan	US	Ozatlan	OZ
+SV	03415	Hacienda La Hulera	Usulutan	US	Ozatlan	OZ
+SV	03415	La Breña	Usulutan	US	Ozatlan	OZ
+SV	03415	La Poza	Usulutan	US	Ozatlan	OZ
+SV	03415	Las Trancas	Usulutan	US	Ozatlan	OZ
+SV	03415	Ozatlán	Usulutan	US	Ozatlan	OZ
+SV	03417	Corral De Mulas	Usulutan	US	Puerto El Triunfo	PT
+SV	03417	El Espíritu Santo	Usulutan	US	Puerto El Triunfo	PT
+SV	03417	El Jobal	Usulutan	US	Puerto El Triunfo	PT
+SV	03417	Hacienda Corral De Mulas	Usulutan	US	Puerto El Triunfo	PT
+SV	03417	Hacienda La Carrera	Usulutan	US	Puerto El Triunfo	PT
+SV	03417	Hacienda Madresal	Usulutan	US	Puerto El Triunfo	PT
+SV	03417	Madre Sal	Usulutan	US	Puerto El Triunfo	PT
+SV	03417	Puerto El Triunfo	Usulutan	US	Puerto El Triunfo	PT
+SV	03417	Sitio De Santa Lucía	Usulutan	US	Puerto El Triunfo	PT
+SV	03422	Arenales	Usulutan	US	Santa Elena municipio	SE
+SV	03422	El Nisperal	Usulutan	US	Santa Elena municipio	SE
+SV	03422	El Volcán	Usulutan	US	Santa Elena municipio	SE
+SV	03422	Joya Ancha Abajo	Usulutan	US	Santa Elena municipio	SE
+SV	03422	Joya Ancha Arriba	Usulutan	US	Santa Elena municipio	SE
+SV	03422	Las Cruces	Usulutan	US	Santa Elena municipio	SE
+SV	03422	Los Amates	Usulutan	US	Santa Elena municipio	SE
+SV	03422	Los Zelaya	Usulutan	US	Santa Elena municipio	SE
+SV	03422	Miramar	Usulutan	US	Santa Elena municipio	SE
+SV	03422	Piedra Ancha	Usulutan	US	Santa Elena municipio	SE
+SV	03422	San Pedro	Usulutan	US	Santa Elena municipio	SE
+SV	03422	Santa Clara	Usulutan	US	Santa Elena municipio	SE
+SV	03422	Santa Elena	Usulutan	US	Santa Elena municipio	SE
+SV	03423	La Constancia	Usulutan	US	Santa Maria municipio	SM
+SV	03423	La Laguna	Usulutan	US	Santa Maria municipio	SM
+SV	03423	Mejicapa	Usulutan	US	Santa Maria municipio	SM
+SV	03423	Palo Galán	Usulutan	US	Santa Maria municipio	SM
+SV	03423	San Francisco	Usulutan	US	Santa Maria municipio	SM
+SV	03424	Beneficio El Marquesado	Usulutan	US	Santiago de Maria	SG
+SV	03424	El Coco	Usulutan	US	Santiago de Maria	SG
+SV	03424	El Marquesado	Usulutan	US	Santiago de Maria	SG
+SV	03424	El Tigre	Usulutan	US	Santiago de Maria	SG
+SV	03424	Las Casitas	Usulutan	US	Santiago de Maria	SG
+SV	03424	Loma De Los González	Usulutan	US	Santiago de Maria	SG
+SV	03424	Playitas	Usulutan	US	Santiago de Maria	SG
+SV	03424	San Juan	Usulutan	US	Santiago de Maria	SG
+SV	03424	Santiago De María	Usulutan	US	Santiago de Maria	SG
+SV	03418	Buenos Aires	Usulutan	US	San Agustin municipio	SA
+SV	03418	El Cedro	Usulutan	US	San Agustin municipio	SA
+SV	03418	El Corozo	Usulutan	US	San Agustin municipio	SA
+SV	03418	El Jícaro	Usulutan	US	San Agustin municipio	SA
+SV	03418	El Jocote	Usulutan	US	San Agustin municipio	SA
+SV	03418	El Rodeo	Usulutan	US	San Agustin municipio	SA
+SV	03418	El Zapote	Usulutan	US	San Agustin municipio	SA
+SV	03418	Galingagua	Usulutan	US	San Agustin municipio	SA
+SV	03418	Hoja De Sal	Usulutan	US	San Agustin municipio	SA
+SV	03418	Jobal Arrozales	Usulutan	US	San Agustin municipio	SA
+SV	03418	La Ceiba	Usulutan	US	San Agustin municipio	SA
+SV	03418	La Cruzadilla De San Juan	Usulutan	US	San Agustin municipio	SA
+SV	03418	Las Champas	Usulutan	US	San Agustin municipio	SA
+SV	03418	Los Arrozales	Usulutan	US	San Agustin municipio	SA
+SV	03418	Los Cañales	Usulutan	US	San Agustin municipio	SA
+SV	03418	Los Eucaliptos	Usulutan	US	San Agustin municipio	SA
+SV	03418	Los Planes	Usulutan	US	San Agustin municipio	SA
+SV	03418	Montañita	Usulutan	US	San Agustin municipio	SA
+SV	03418	Nombre De Dios	Usulutan	US	San Agustin municipio	SA
+SV	03418	San Agustín	Usulutan	US	San Agustin municipio	SA
+SV	03418	San Antonio	Usulutan	US	San Agustin municipio	SA
+SV	03419	El Jicarito	Usulutan	US	San Buena Ventura	SB
+SV	03419	El Semillero	Usulutan	US	San Buena Ventura	SB
+SV	03419	La Caridad	Usulutan	US	San Buena Ventura	SB
+SV	03419	Los Charcos	Usulutan	US	San Buena Ventura	SB
+SV	03419	Los Espinos	Usulutan	US	San Buena Ventura	SB
+SV	03420	El Chile	Usulutan	US	San Dionisio municipio	SD
+SV	03420	Hacienda La Alcancía	Usulutan	US	San Dionisio municipio	SD
+SV	03420	Iglesia Vieja	Usulutan	US	San Dionisio municipio	SD
+SV	03420	Mundo Nuevo	Usulutan	US	San Dionisio municipio	SD
+SV	03420	San Dionisio	Usulutan	US	San Dionisio municipio	SD
+SV	03420	San Francisco	Usulutan	US	San Dionisio municipio	SD
+SV	03421	El Palmo	Usulutan	US	San Francisco Javier	SF
+SV	03421	El Tablón	Usulutan	US	San Francisco Javier	SF
+SV	03421	El Zúngano	Usulutan	US	San Francisco Javier	SF
+SV	03421	La Cruz	Usulutan	US	San Francisco Javier	SF
+SV	03421	La Peña	Usulutan	US	San Francisco Javier	SF
+SV	03421	Los Horcones	Usulutan	US	San Francisco Javier	SF
+SV	03421	Los Hornos	Usulutan	US	San Francisco Javier	SF
+SV	03421	Los Ríos	Usulutan	US	San Francisco Javier	SF
+SV	03421	San Francisco Javier	Usulutan	US	San Francisco Javier	SF
+SV	03426	El Jícaro	Usulutan	US	Tecapan	TE
+SV	03426	Gualache	Usulutan	US	Tecapan	TE
+SV	03426	Los Chapetones	Usulutan	US	Tecapan	TE
+SV	03426	Los Horcones	Usulutan	US	Tecapan	TE
+SV	03426	Tecapán	Usulutan	US	Tecapan	TE
+SV	03401	Cerro El Nanzal	Usulutan	US	Usulutan municipio	US
+SV	03401	El Cerrito	Usulutan	US	Usulutan municipio	US
+SV	03401	El Desparrame	Usulutan	US	Usulutan municipio	US
+SV	03401	El Limón	Usulutan	US	Usulutan municipio	US
+SV	03401	El Talpetate	Usulutan	US	Usulutan municipio	US
+SV	03401	El Trillo	Usulutan	US	Usulutan municipio	US
+SV	03401	El Ujushte	Usulutan	US	Usulutan municipio	US
+SV	03401	Hacienda La Poza	Usulutan	US	Usulutan municipio	US
+SV	03401	Hacienda San Mariano	Usulutan	US	Usulutan municipio	US
+SV	03401	La Ceiba	Usulutan	US	Usulutan municipio	US
+SV	03401	La Joya	Usulutan	US	Usulutan municipio	US
+SV	03401	La Peña	Usulutan	US	Usulutan municipio	US
+SV	03401	La Presa	Usulutan	US	Usulutan municipio	US
+SV	03401	Las Salinas	Usulutan	US	Usulutan municipio	US
+SV	03401	Obrajuelo	Usulutan	US	Usulutan municipio	US
+SV	03401	Ojo De Agua	Usulutan	US	Usulutan municipio	US
+SV	03401	Puerto Parada	Usulutan	US	Usulutan municipio	US
+SV	03401	Santa Bárbara	Usulutan	US	Usulutan municipio	US
+SV	03401	Santa María	Usulutan	US	Usulutan municipio	US
+SV	03401	Usulután	Usulutan	US	Usulutan municipio	US

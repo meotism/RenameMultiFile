@@ -1,0 +1,94 @@
+WS	WS1182	Satui	Aana	AA	Aana Alofi I				
+WS	WS1182	Satui	Aana	AA	Aana Alofi I				
+WS	WS1182	Satui	Aana	AA	Aana Alofi I				
+WS	WS1462	Lalomauga	Aana	AA	Aana Alofi I				
+WS	WS1462	Lalomauga	Aana	AA	Aana Alofi I				
+WS	WS1292	Faleatiu	Aana	AA	Aana Alofi I				
+WS	WS1290	Faleolo	Aana	AA	Aana Alofi I				
+WS	WS1291	Satapuala	Aana	AA	Aana Alofi I				
+WS	WS1171	Satuimalufilufi	Aana	AA	Aana Alofi I				
+WS	WS1240	Falelatai	Aana	AA	Falelatai Samatau				
+WS	WS1190	Manono Tai	Aana	AA	Falelatai Samatau				
+WS	WS1191	Manono-uta	Aana	AA	Falelatai Samatau				
+WS	WS1230	Samatau	Aana	AA	Falelatai Samatau				
+WS	WS1261	Savaia	Aana	AA	Lefaga Faleseela				
+WS	WS1170	Mulifanua	Aiga i le Tai	AL	Aiga i le Tai subdistrict				
+WS	WS1453	Amaile	Atua	AT	Aleipata Itupa i Lalo				
+WS	WS1440	Malaela	Atua	AT	Aleipata Itupa i Lalo				
+WS	WS1455	Mutiatele	Atua	AT	Aleipata Itupa i Lalo				
+WS	WS1452	Samusu	Atua	AT	Aleipata Itupa i Lalo				
+WS	WS1441	Satitoa	Atua	AT	Aleipata Itupa i Lalo				
+WS	WS1431	Lalomanu	Atua	AT	Aleipata Itupa i Luga				
+WS	WS1433	Lata	Atua	AT	Aleipata Itupa i Luga				
+WS	WS1432	Lefaga	Atua	AT	Aleipata Itupa i Luga				
+WS	WS1434	Matautu	Atua	AT	Aleipata Itupa i Luga				
+WS	WS1442	Ulutogia	Atua	AT	Aleipata Itupa i Luga				
+WS	WS1430	Vailoa	Atua	AT	Aleipata Itupa i Luga				
+WS	WS1460	Falefa	Atua	AT	Anoamaa East				
+WS	WS1461	Falevao	Atua	AT	Anoamaa East				
+WS	WS1462	Lalomauga	Atua	AT	Anoamaa East				
+WS	WS1471	Lufilufi	Atua	AT	Anoamaa East				
+WS	WS1474	Manunu	Atua	AT	Anoamaa East				
+WS	WS1472	Sauniatu	Atua	AT	Anoamaa East				
+WS	WS1481	Eva	Atua	AT	Anoamaa West				
+WS	WS1482	Salelesi	Atua	AT	Anoamaa West				
+WS	WS1480	Solosolo	Atua	AT	Anoamaa West				
+WS	WS1400	Malaemalu	Atua	AT	Falealili				
+WS	WS1413	Matautu	Atua	AT	Falealili				
+WS	WS1407	Matavai	Atua	AT	Falealili				
+WS	WS1415	Poutasi	Atua	AT	Falealili				
+WS	WS1403	Salani	Atua	AT	Falealili				
+WS	WS1416	Saleilua	Atua	AT	Falealili				
+WS	WS1405	Salesatele	Atua	AT	Falealili				
+WS	WS1404	Sapunaoa	Atua	AT	Falealili				
+WS	WS1408	Satalo	Atua	AT	Falealili				
+WS	WS1406	Tafatafa	Atua	AT	Falealili				
+WS	WS1401	Utulaelae	Atua	AT	Falealili				
+WS	WS1414	Vaovai	Atua	AT	Falealili				
+WS	WS1421	Lepa	Atua	AT	Lepa				
+WS	WS1420	Saleapaga	Atua	AT	Lepa				
+WS	WS1423	Vaigalu	Atua	AT	Lepa				
+WS	WS1411	Lotofaga	Atua	AT	Lotofaga				
+WS	WS1412	Matatufu	Atua	AT	Lotofaga				
+WS	WS1403	Salani	Atua	AT	Lotofaga				
+WS	WS1410	Vavau	Atua	AT	Lotofaga				
+WS	WS1309	Salamumu	Gagaemauga	GE	Salamumu				
+WS	WS1407	Matavai	Gagaifomauga	GI	Gagaifomauga I				
+WS	WS1407	Matavai	Gagaifomauga	GI	Gagaifomauga I				
+WS	WS1383	Nuu	Palauli	PA	Palauli le Falefa				
+WS	WS1332	Vaiala	Palauli	PA	Palauli le Falefa				
+WS	WS1343	Alafua	Tuamasaga	TU	Faleata East				
+WS	WS1337	Fugalei	Tuamasaga	TU	Faleata East				
+WS	WS1342	Lotopa	Tuamasaga	TU	Faleata East				
+WS	WS1335	Moamoa	Tuamasaga	TU	Faleata East				
+WS	WS1336	Sinamoga	Tuamasaga	TU	Faleata East				
+WS	WS1334	Vaimoso	Tuamasaga	TU	Faleata East				
+WS	WS1340	Lepea	Tuamasaga	TU	Faleata West				
+WS	WS1372	Saina	Tuamasaga	TU	Faleata West				
+WS	WS1360	Siusega	Tuamasaga	TU	Faleata West				
+WS	WS1354	Talimatau	Tuamasaga	TU	Faleata West				
+WS	WS1371	Toamua	Tuamasaga	TU	Faleata West				
+WS	WS1353	Tulaele	Tuamasaga	TU	Faleata West				
+WS	WS1365	Vaigaga	Tuamasaga	TU	Faleata West				
+WS	WS1364	Vaitele	Tuamasaga	TU	Faleata West				
+WS	WS1341	Vaitoloa	Tuamasaga	TU	Faleata West				
+WS	WS1352	Vaiusu	Tuamasaga	TU	Faleata West				
+WS	WS1302	Fausaga	Tuamasaga	TU	Safata				
+WS	WS1304	Fusi	Tuamasaga	TU	Safata				
+WS	WS1411	Lotofaga	Tuamasaga	TU	Safata				
+WS	WS1300	Mulivai	Tuamasaga	TU	Safata				
+WS	WS1305	Sataoa	Tuamasaga	TU	Safata				
+WS	WS1301	Tafitoala	Tuamasaga	TU	Safata				
+WS	WS1362	Aleisa	Tuamasaga	TU	Sagaga le Falefa				
+WS	WS1383	Nuu	Tuamasaga	TU	Sagaga le Falefa				
+WS	WS1391	Tufulele	Tuamasaga	TU	Sagaga le Falefa				
+WS	WS1381	Malie	Tuamasaga	TU	Sagaga Le Usoga				
+WS	WS1312	Letogo	Tuamasaga	TU	Vaimauga East				
+WS	WS1310	Vailele	Tuamasaga	TU	Vaimauga East				
+WS	WS1331	Alamagoto	Tuamasaga	TU	Vaimauga West				
+WS	WS1323	Faatoia	Tuamasaga	TU	Vaimauga West				
+WS	WS1339	Matafele	Tuamasaga	TU	Vaimauga West				
+WS	WS1332	Vaiala	Tuamasaga	TU	Vaimauga West				
+WS	WS1321	Vaivase	Tuamasaga	TU	Vaimauga West				
+WS	WS1473	Faleapuna	Vaa o Fonoti	VF	Vaa o Fonoti subdistrict				
+WS	WS1290	Faleolo	Vaisigano	VS	Falealupo				

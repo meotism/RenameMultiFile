@@ -1,0 +1,217 @@
+PG	355	Arawa	Bougainville	NS	Central Bougainville	KI
+PG	355	Wakunai	Bougainville	NS	Central Bougainville	KI
+PG	355	Atolls	Bougainville	NS	North Bougainville	BK
+PG	355	Buka	Bougainville	NS	North Bougainville	BK
+PG	355	Kunua	Bougainville	NS	North Bougainville	BK
+PG	355	Nissan	Bougainville	NS	North Bougainville	BK
+PG	355	Selau Suir	Bougainville	NS	North Bougainville	BK
+PG	355	Tinputz	Bougainville	NS	North Bougainville	BK
+PG	355	Bana	Bougainville	NS	South Bougainville	BN
+PG	355	Buin	Bougainville	NS	South Bougainville	BN
+PG	355	Siwai	Bougainville	NS	South Bougainville	BN
+PG	355	Torokina	Bougainville	NS	South Bougainville	BN
+PG	151	Amazon Bay	Central Papua	CE	Abau	AB
+PG	151	Aroma	Central Papua	CE	Abau	AB
+PG	151	Cloudy Bay	Central Papua	CE	Abau	AB
+PG	461	Chuave	Chimbu	CH	Chuave	CH
+PG	461	Elimbari	Chimbu	CH	Chuave	CH
+PG	461	Siane	Chimbu	CH	Chuave	CH
+PG	461	Bomai-Kumai	Chimbu	CH	Gumine	GM
+PG	461	Gumine	Chimbu	CH	Gumine	GM
+PG	461	Mount Digine	Chimbu	CH	Gumine	GM
+PG	461	Karimui	Chimbu	CH	Karimui Nomane	KM
+PG	461	Nomane	Chimbu	CH	Karimui Nomane	KM
+PG	461	Salt	Chimbu	CH	Karimui Nomane	KM
+PG	461	Gena-Waugla	Chimbu	CH	Kerowagi	KG
+PG	461	Kerowagi	Chimbu	CH	Kerowagi	KG
+PG	461	Kup	Chimbu	CH	Kerowagi	KG
+PG	461	Kundiawa	Chimbu	CH	Kundiawa Gembogl	KD
+PG	461	Mount Wilhelm	Chimbu	CH	Kundiawa Gembogl	KD
+PG	461	Niglkande	Chimbu	CH	Kundiawa Gembogl	KD
+PG	461	Waiye	Chimbu	CH	Kundiawa Gembogl	KD
+PG	461	Sinasina	Chimbu	CH	Sina Sina Yonggomugl	SN
+PG	461	Suwai	Chimbu	CH	Sina Sina Yonggomugl	SN
+PG	461	Yonggomugl	Chimbu	CH	Sina Sina Yonggomugl	SN
+PG	441	Goroka (rural)	Eastern Highlands	EH	Goroka	GK
+PG	441	Goroka (urban)	Eastern Highlands	EH	Goroka	GK
+PG	443	Kainantu (rural)	Eastern Highlands	EH	Kainantu	KA
+PG	443	Kainantu (urban)	Eastern Highlands	EH	Kainantu	KA
+PG	611	Balanataman	East New Britain	EN	Rabaul	RL
+PG	611	Kombiu	East New Britain	EN	Rabaul	RL
+PG	611	Rabaul	East New Britain	EN	Rabaul	RL
+PG	611	Watom Island	East New Britain	EN	Rabaul	RL
+PG	534	Ambunti	East Sepik	ES	Ambunti Dreikikir	AT
+PG	534	Dreikikir	East Sepik	ES	Ambunti Dreikikir	AT
+PG	534	Gawanga	East Sepik	ES	Ambunti Dreikikir	AT
+PG	534	Tunap-Hunstein Range	East Sepik	ES	Ambunti Dreikikir	AT
+PG	535	Angoram-Middle Sepik	East Sepik	ES	Angoram	AN
+PG	535	Karawari	East Sepik	ES	Angoram	AN
+PG	535	Keram	East Sepik	ES	Angoram	AN
+PG	535	Marienberg-Lower Sepik	East Sepik	ES	Angoram	AN
+PG	535	Yuat	East Sepik	ES	Angoram	AN
+PG	533	Albiges Mamblep	East Sepik	ES	Maprik	MP
+PG	533	Bumbuita Muhiang	East Sepik	ES	Maprik	MP
+PG	533	Maprik Wora	East Sepik	ES	Maprik	MP
+PG	533	Yamil Tamaui	East Sepik	ES	Maprik	MP
+PG	531	Boikin Dagua	East Sepik	ES	Wewak	WE
+PG	531	Turubu	East Sepik	ES	Wewak	WE
+PG	531	Wewak Islands	East Sepik	ES	Wewak	WE
+PG	531	Wewak (rural)	East Sepik	ES	Wewak	WE
+PG	531	Wewak (urban)	East Sepik	ES	Wewak	WE
+PG	293	Kandep	Enga	EG	Kandep	KD
+PG	293	Tsak	Enga	EG	Kandep	KD
+PG	293	Wage	Enga	EG	Kandep	KD
+PG	299	Lagaip	Enga	EG	Lagaip Porgera	LP
+PG	299	Maip-Mulitaka	Enga	EG	Lagaip Porgera	LP
+PG	299	Paiela-Hewa	Enga	EG	Lagaip Porgera	LP
+PG	299	Pogera	Enga	EG	Lagaip Porgera	LP
+PG	291	Maramuni	Enga	EG	Wabag	WB
+PG	291	Wabag (rural)	Enga	EG	Wabag	WB
+PG	291	Wabag (urban)	Enga	EG	Wabag	WB
+PG	293	Wapenamanda	Enga	EG	Wapenamanda	WP
+PG	311	Central Kerema	Gulf	GU	Kerema	KM
+PG	311	East Kerema	Gulf	GU	Kerema	KM
+PG	311	Kaintiba	Gulf	GU	Kerema	KM
+PG	311	Kerema	Gulf	GU	Kerema	KM
+PG	311	Kotidanga	Gulf	GU	Kerema	KM
+PG	311	Lakekamu-Tauri	Gulf	GU	Kerema	KM
+PG	313	Baimuru	Gulf	GU	Kikori	KK
+PG	315	East Kikori	Gulf	GU	Kikori	KK
+PG	314	Ihu	Gulf	GU	Kikori	KK
+PG	315	West Kikori	Gulf	GU	Kikori	KK
+PG	255	Hayapuga	Hela	HE	Tari Pori	TA
+PG	255	Tagali	Hela	HE	Tari Pori	TA
+PG	255	Tari	Hela	HE	Tari Pori	TA
+PG	255	Tebi	Hela	HE	Tari Pori	TA
+PG	517	Almami	Madang	MD	Bogia	BG
+PG	517	Iabu	Madang	MD	Bogia	BG
+PG	517	Yawar	Madang	MD	Bogia	BG
+PG	511	Ambenob	Madang	MD	Madang Madang	MG
+PG	511	Madang	Madang	MD	Madang Madang	MG
+PG	511	Transgogol	Madang	MD	Madang Madang	MG
+PG	525	Astrolabe Bay	Madang	MD	Rai Coast	RC
+PG	525	Naho Rawa	Madang	MD	Rai Coast	RC
+PG	525	Saidor	Madang	MD	Rai Coast	RC
+PG	515	Karkar	Madang	MD	Sumkar	KA
+PG	515	Sumgilbar	Madang	MD	Sumkar	KA
+PG	522	Bundi	Madang	MD	Usino Bundi	UB
+PG	522	Usino	Madang	MD	Usino Bundi	UB
+PG	641	Aua-Wuvulu	Manus	MN	Manus Manus	MN
+PG	641	Balopa	Manus	MN	Manus Manus	MN
+PG	641	Bisikani-Soparibeu Kabin	Manus	MN	Manus Manus	MN
+PG	641	Lelemadih-Bupi Chupei	Manus	MN	Manus Manus	MN
+PG	641	Lorengau	Manus	MN	Manus Manus	MN
+PG	641	Los Negros	Manus	MN	Manus Manus	MN
+PG	641	Nali Sopat-Penabu	Manus	MN	Manus Manus	MN
+PG	641	Nigoherm	Manus	MN	Manus Manus	MN
+PG	641	Pobuma	Manus	MN	Manus Manus	MN
+PG	641	Pomutu-Kurti-Andra	Manus	MN	Manus Manus	MN
+PG	641	Rapatona	Manus	MN	Manus Manus	MN
+PG	641	Tetidu	Manus	MN	Manus Manus	MN
+PG	211	Alotau	Milne Bay	MB	Alotau	AL
+PG	211	Daga	Milne Bay	MB	Alotau	AL
+PG	211	Huhu	Milne Bay	MB	Alotau	AL
+PG	211	Makamaka	Milne Bay	MB	Alotau	AL
+PG	211	Maramatana	Milne Bay	MB	Alotau	AL
+PG	211	Suau	Milne Bay	MB	Alotau	AL
+PG	211	Weraura	Milne Bay	MB	Alotau	AL
+PG	226	Dobu	Milne Bay	MB	Esaala	EA
+PG	226	Duau	Milne Bay	MB	Esaala	EA
+PG	226	West Ferguson	Milne Bay	MB	Esaala	EA
+PG	423	Buang	Morobe	MR	Bulolo	BL
+PG	423	Mumeng	Morobe	MR	Bulolo	BL
+PG	423	Waria	Morobe	MR	Bulolo	BL
+PG	423	Watut	Morobe	MR	Bulolo	BL
+PG	422	Wau	Morobe	MR	Bulolo	BL
+PG	423	Wau-Bulolo	Morobe	MR	Bulolo	BL
+PG	435	Burum-Kuat	Morobe	MR	Finschhafen	FI
+PG	435	Finschafen	Morobe	MR	Finschhafen	FI
+PG	435	Hube	Morobe	MR	Finschhafen	FI
+PG	435	Kotte	Morobe	MR	Finschhafen	FI
+PG	435	Yabim-Mape	Morobe	MR	Finschhafen	FI
+PG	434	Deyamos	Morobe	MR	Kabwum	KW
+PG	434	Komba (Seko)	Morobe	MR	Kabwum	KW
+PG	434	Selepet	Morobe	MR	Kabwum	KW
+PG	434	Yus	Morobe	MR	Kabwum	KW
+PG	411	Ahi	Morobe	MR	Lae	LA
+PG	411	Lae	Morobe	MR	Lae	LA
+PG	427	Kapao	Morobe	MR	Menyamya	MY
+PG	427	Kome	Morobe	MR	Menyamya	MY
+PG	427	Nanima Kariba	Morobe	MR	Menyamya	MY
+PG	427	Wapi	Morobe	MR	Menyamya	MY
+PG	432	Wasu	Morobe	MR	Tewae Siassi	SS
+PG	123	Badili	National Capital District	NC	Port Moresby	NC
+PG	111	Boroko	National Capital District	NC	Port Moresby	NC
+PG	136	Gerehu	National Capital District	NC	Port Moresby	NC
+PG	133	Jacksons	National Capital District	NC	Port Moresby	NC
+PG	125	Konedobu	National Capital District	NC	Port Moresby	NC
+PG	139	Parliament House	National Capital District	NC	Port Moresby	NC
+PG	121	Port Moresby	National Capital District	NC	Port Moresby	NC
+PG	134	University	National Capital District	NC	Port Moresby	NC
+PG	131	Waigani	National Capital District	NC	Port Moresby	NC
+PG	631	Kavieng	New Ireland	NI	Kavieng	KV
+PG	631	Lavongai	New Ireland	NI	Kavieng	KV
+PG	631	Murat	New Ireland	NI	Kavieng	KV
+PG	631	Tikana	New Ireland	NI	Kavieng	KV
+PG	633	Konoagil	New Ireland	NI	Namatanai	NA
+PG	633	Namatanai	New Ireland	NI	Namatanai	NA
+PG	633	Nimamar	New Ireland	NI	Namatanai	NA
+PG	633	Sentral Niu Ailan	New Ireland	NI	Namatanai	NA
+PG	633	Tanir	New Ireland	NI	Namatanai	NA
+PG	241	Afore	Oro	NO	Ijivitari	PP
+PG	241	Cape Nelson	Oro	NO	Ijivitari	PP
+PG	241	Oro Bay	Oro	NO	Ijivitari	PP
+PG	241	Popendetta	Oro	NO	Ijivitari	PP
+PG	244	Higaturu	Oro	NO	Sohe	KK
+PG	244	Kira	Oro	NO	Sohe	KK
+PG	244	Kokoda	Oro	NO	Sohe	KK
+PG	244	Tamata	Oro	NO	Sohe	KK
+PG	553	East Aitape	Sandaun	SA	Aitape Lumi	AL
+PG	553	East Wapei	Sandaun	SA	Aitape Lumi	AL
+PG	553	West Aitape	Sandaun	SA	Aitape Lumi	AL
+PG	553	West Wapei	Sandaun	SA	Aitape Lumi	AL
+PG	556	Maimai Wanwan	Sandaun	SA	Nuku	NU
+PG	556	Nuku	Sandaun	SA	Nuku	NU
+PG	556	Palai	Sandaun	SA	Nuku	NU
+PG	556	Yangkok	Sandaun	SA	Nuku	NU
+PG	555	Namea	Sandaun	SA	Telefomin	TE
+PG	555	Oksapmin	Sandaun	SA	Telefomin	TE
+PG	555	Telefomin	Sandaun	SA	Telefomin	TE
+PG	555	Yapsie	Sandaun	SA	Telefomin	TE
+PG	551	Amanab	Sandaun	SA	Vanimo Green River	VA
+PG	551	Bewani-Wutung-Onei	Sandaun	SA	Vanimo Green River	VA
+PG	551	Green River	Sandaun	SA	Vanimo Green River	VA
+PG	551	Vanimo	Sandaun	SA	Vanimo Green River	VA
+PG	551	Walsa	Sandaun	SA	Vanimo Green River	VA
+PG	265	East Pangia	Southern Highlands	SH	Ialibu Pangia	IP
+PG	265	Ialibu	Southern Highlands	SH	Ialibu Pangia	IP
+PG	265	Kewabi	Southern Highlands	SH	Ialibu Pangia	IP
+PG	265	Wiru	Southern Highlands	SH	Ialibu Pangia	IP
+PG	251	Karints	Southern Highlands	SH	Mendi Munihu	MD
+PG	251	Lai Valley	Southern Highlands	SH	Mendi Munihu	MD
+PG	251	Mendi	Southern Highlands	SH	Mendi Munihu	MD
+PG	251	Upper Mendi	Southern Highlands	SH	Mendi Munihu	MD
+PG	281	Mount Hagen (rural)	Western Highlands	WH	Mount Hagen	HC
+PG	281	Mount Hagen (urban)	Western Highlands	WH	Mount Hagen	HC
+PG	336	Balimo	Western Papua	WE	Middle Fly	BM
+PG	336	Bamu	Western Papua	WE	Middle Fly	BM
+PG	336	Gogodala	Western Papua	WE	Middle Fly	BM
+PG	336	Lake Murray	Western Papua	WE	Middle Fly	BM
+PG	336	Nomad	Western Papua	WE	Middle Fly	BM
+PG	335	Kiunga (rural)	Western Papua	WE	North Fly	KI
+PG	335	Kiunga (urban)	Western Papua	WE	North Fly	KI
+PG	335	Ningerum	Western Papua	WE	North Fly	KI
+PG	335	Olsobip	Western Papua	WE	North Fly	KI
+PG	335	Star Mountains	Western Papua	WE	North Fly	KI
+PG	331	Daru	Western Papua	WE	South Fly	DA
+PG	331	Kiwai	Western Papua	WE	South Fly	DA
+PG	331	Morehead	Western Papua	WE	South Fly	DA
+PG	331	Oriomo-Bituri	Western Papua	WE	South Fly	DA
+PG	625	Gasmata	West New Britain	WN	Kandrian Gloucester	KG
+PG	625	Gloucester	West New Britain	WN	Kandrian Gloucester	KG
+PG	625	Kandrian Coastal	West New Britain	WN	Kandrian Gloucester	KG
+PG	625	Kandrian Inland	West New Britain	WN	Kandrian Gloucester	KG
+PG	625	Kove-Kaliai	West New Britain	WN	Kandrian Gloucester	KG
+PG	624	Bialla	West New Britain	WN	Talasea	TL
+PG	622	Hoskins	West New Britain	WN	Talasea	TL
+PG	621	Kimbe	West New Britain	WN	Talasea	TL

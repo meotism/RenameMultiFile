@@ -1,0 +1,528 @@
+GT	00000	Cahabón	Alta Verapaz	AV	Cahabon
+GT	00000	Chahal	Alta Verapaz	AV	Chahal
+GT	00000	Las Conchas	Alta Verapaz	AV	Chahal
+GT	00000	Salacuín	Alta Verapaz	AV	Chahal
+GT	00000	Chisec	Alta Verapaz	AV	Chisec
+GT	00000	Sebol	Alta Verapaz	AV	Chisec
+GT	00000	Cobán	Alta Verapaz	AV	Coban
+GT	00000	Boloncó	Alta Verapaz	AV	Fray Bartolome de las Casas
+GT	00000	Lanquín	Alta Verapaz	AV	Lanquin
+GT	00000	Telemán	Alta Verapaz	AV	Panzos
+GT	00000	Raxruhá	Alta Verapaz	AV	Raxruha
+GT	00000	La Tinta	Alta Verapaz	AV	Santa Catalina La Tinta
+GT	00000	Santa Cruz Verapaz	Alta Verapaz	AV	Santa Cruz Verapaz
+GT	00000	San Cristóbal Verapaz	Alta Verapaz	AV	San Cristobal Verapaz
+GT	00000	San Juan Chamelco	Alta Verapaz	AV	San Juan Chamelco
+GT	00000	Tucurú	Alta Verapaz	AV	San Miguel Tucuru
+GT	00000	Campur	Alta Verapaz	AV	San Pedro Carcha
+GT	00000	Las Casas	Alta Verapaz	AV	San Pedro Carcha
+GT	00000	San Bartolomé	Alta Verapaz	AV	San Pedro Carcha
+GT	00000	San Pedro Carchá	Alta Verapaz	AV	San Pedro Carcha
+GT	00000	El Rosario	Alta Verapaz	AV	Senahu
+GT	00000	Pancajché	Alta Verapaz	AV	Senahu
+GT	00000	Panzós	Alta Verapaz	AV	Senahu
+GT	00000	Senahú	Alta Verapaz	AV	Senahu
+GT	00000	Tactic	Alta Verapaz	AV	Tactic
+GT	00000	Tamahú	Alta Verapaz	AV	Tamahu
+GT	00000	Cubulco	Baja Verapaz	BV	Cubulco
+GT	00000	El Chol	Baja Verapaz	BV	El Chol
+GT	00000	Granados	Baja Verapaz	BV	Granados Baja Verapaz
+GT	00000	Saltán	Baja Verapaz	BV	Granados Baja Verapaz
+GT	00000	Purulhá	Baja Verapaz	BV	Purulha
+GT	00000	La Canoa	Baja Verapaz	BV	Salama Baja Verapaz
+GT	00000	Los Amates	Baja Verapaz	BV	Salama Baja Verapaz
+GT	00000	Salamá	Baja Verapaz	BV	Salama Baja Verapaz
+GT	00000	San Jerónimo	Baja Verapaz	BV	San Jeronimo Baja Verapaz
+GT	00000	Rabinal	Baja Verapaz	BV	San Miguel Chicaj
+GT	00000	San Gabriel Pansuy	Baja Verapaz	BV	San Miguel Chicaj
+GT	00000	San Miguel Chicaj	Baja Verapaz	BV	San Miguel Chicaj
+GT	00000	Acatenango	Chimaltenango	CM	Acatenango
+GT	00000	Chimaltenango	Chimaltenango	CM	Chimaltenango Chimaltenango
+GT	00000	El Tejar	Chimaltenango	CM	El Tejar Chimaltenango
+GT	00000	Parramos	Chimaltenango	CM	Parramos
+GT	00000	Patzicía	Chimaltenango	CM	Patzicia
+GT	00000	Patzún	Chimaltenango	CM	Patzun
+GT	00000	Pochuta	Chimaltenango	CM	Pochuta
+GT	00000	Santa Apolonia	Chimaltenango	CM	Santa Apolonia Chimaltenango
+GT	00000	Santa Cruz Balanyá	Chimaltenango	CM	Santa Cruz Balanya
+GT	00000	San Andrés Itzapa	Chimaltenango	CM	San Andres Itzapa
+GT	00000	San José Poaquil	Chimaltenango	CM	San Jose Poaquil
+GT	00000	Comalapa	Chimaltenango	CM	San Juan Comalapa
+GT	00000	San Martín Jilotepeque	Chimaltenango	CM	San Martin Jilotepeque
+GT	00000	Tecpán Guatemala	Chimaltenango	CM	Tecpan Guatemala
+GT	00000	Yepocapa	Chimaltenango	CM	Yepocapa
+GT	00000	Zaragoza	Chimaltenango	CM	Zaragoza Chimaltenango
+GT	00000	Camotán	Chiquimula	CQ	Camotan
+GT	00000	El Amatillo	Chiquimula	CQ	Camotan
+GT	00000	El Florido	Chiquimula	CQ	Camotan
+GT	00000	Chiquimula	Chiquimula	CQ	Chiquimula Chiquimula
+GT	00000	San Esteban	Chiquimula	CQ	Chiquimula Chiquimula
+GT	00000	Santa Elena	Chiquimula	CQ	Chiquimula Chiquimula
+GT	00000	Vado Hondo	Chiquimula	CQ	Chiquimula Chiquimula
+GT	00000	Agua Caliente	Chiquimula	CQ	Concepcion Las Minas
+GT	00000	Concepción Las Minas	Chiquimula	CQ	Concepcion Las Minas
+GT	00000	Nueva Anguiatú	Chiquimula	CQ	Concepcion Las Minas
+GT	00000	Esquipulas	Chiquimula	CQ	Esquipulas Chiquimula
+GT	00000	Tierra Colorada	Chiquimula	CQ	Esquipulas Chiquimula
+GT	00000	Anguiatú	Chiquimula	CQ	Ipala
+GT	00000	Ipala	Chiquimula	CQ	Ipala
+GT	00000	Jocotán	Chiquimula	CQ	Jocotan
+GT	00000	Olopa	Chiquimula	CQ	Olopa
+GT	00000	Quetzaltepeque	Chiquimula	CQ	Quezaltepeque
+GT	00000	San Jacinto	Chiquimula	CQ	San Jacinto Chiquimula
+GT	00000	San José La Arada	Chiquimula	CQ	San Jose La Arada
+GT	00000	San Juan Ermita	Chiquimula	CQ	San Juan Ermita
+GT	00000	El Paso de los Jalapas	El Progreso	PR	El Jicaro El Progreso
+GT	00000	San Cristóbal Acasaguastlán	El Progreso	PR	El Jicaro El Progreso
+GT	00000	Guastatoya	El Progreso	PR	Guastatoya
+GT	00000	Santa Rita	El Progreso	PR	Guastatoya
+GT	00000	Morazán	El Progreso	PR	Morazan El Progreso
+GT	00000	El Jícaro	El Progreso	PR	Sanarate
+GT	00000	Sanarate	El Progreso	PR	Sanarate
+GT	00000	Estación Jalapa	El Progreso	PR	Sansare
+GT	00000	Sansare	El Progreso	PR	Sansare
+GT	00000	El Rancho	El Progreso	PR	San Agustin Acasaguastlan
+GT	00000	San Agustín Acasaguastlán	El Progreso	PR	San Agustin Acasaguastlan
+GT	00000	Tulumaje	El Progreso	PR	San Agustin Acasaguastlan
+GT	00000	Tulumajillo	El Progreso	PR	San Agustin Acasaguastlan
+GT	00000	San Antonio La Paz	El Progreso	PR	San Antonio La Paz
+GT	00000	Estancia de La Virgen	El Progreso	PR	San Cristobal Acasaguastlan
+GT	00000	Escuintla	Escuintla	ES	Escuintla Escuintla
+GT	00000	Brito	Escuintla	ES	Guanagazapa
+GT	00000	Iztapa	Escuintla	ES	Iztapa
+GT	00000	La Democracia	Escuintla	ES	La Democracia Escuintla
+GT	00000	El Naranjo	Escuintla	ES	La Gomera
+GT	00000	La Gomera	Escuintla	ES	La Gomera
+GT	00000	Sipacate	Escuintla	ES	La Gomera
+GT	00000	Cuyuta	Escuintla	ES	Masagua
+GT	00000	El Porvenir Ticanlu	Escuintla	ES	Masagua
+GT	00000	Masagua	Escuintla	ES	Masagua
+GT	00000	Obero	Escuintla	ES	Masagua
+GT	00000	Nueva Concepción	Escuintla	ES	Nueva Concepcion
+GT	00000	Santa Ana Mixtán	Escuintla	ES	Nueva Concepcion
+GT	00000	Palín	Escuintla	ES	Palin Escuintla
+GT	00000	Santa Lucía Cotzumalguapa	Escuintla	ES	Santa Lucia Cotzumalguapa
+GT	00000	Itzapa	Escuintla	ES	San Jose Escuintla
+GT	00000	San José	Escuintla	ES	San Jose Escuintla
+GT	00000	San Vicente Pacaya	Escuintla	ES	San Vicente Pacaya
+GT	00000	San Andrés Osuna	Escuintla	ES	Siquinala
+GT	00000	Siquinalá	Escuintla	ES	Siquinala
+GT	00000	Tiquisate	Escuintla	ES	Tiquisate
+GT	00000	Amatitlán	Guatemala	GU	Departamento
+GT	00000	Chinautla	Guatemala	GU	Departamento
+GT	00000	Chuarrancho	Guatemala	GU	Departamento
+GT	00000	Trapiche Grande	Guatemala	GU	Departamento
+GT	00000	Vuelta Grande	Guatemala	GU	Departamento
+GT	00000	Canalitos	Guatemala	GU	Departamento
+GT	00000	Ciudad de Guatemala	Guatemala	GU	Departamento
+GT	00000	Fraijanes	Guatemala	GU	Departamento
+GT	00000	Mixco	Guatemala	GU	Departamento
+GT	00000	El Fiscal	Guatemala	GU	Departamento
+GT	00000	Palencia	Guatemala	GU	Departamento
+GT	00000	Puerta Parada	Guatemala	GU	Departamento
+GT	00000	Santa Catarina Pinula	Guatemala	GU	Departamento
+GT	00000	San José del Golfo	Guatemala	GU	Departamento
+GT	00000	San José Pinula	Guatemala	GU	Departamento
+GT	00000	San Juan Sacatepéquez	Guatemala	GU	Departamento
+GT	00000	Petapa	Guatemala	GU	Departamento
+GT	00000	San Pedro Ayampuc	Guatemala	GU	Departamento
+GT	00000	San Pedro Sacatepéquez	Guatemala	GU	Departamento
+GT	00000	San Raymundo	Guatemala	GU	Departamento
+GT	00000	Boca del Monte	Guatemala	GU	Departamento
+GT	00000	Santa Elena Barillas	Guatemala	GU	Departamento
+GT	00000	Villa Canales	Guatemala	GU	Departamento
+GT	00000	Villa Nueva	Guatemala	GU	Departamento
+GT	00000	Aguacatán	Huehuetenango	HU	Aguacatan
+GT	00000	Chiantla	Huehuetenango	HU	Chiantla
+GT	00000	Páquix	Huehuetenango	HU	Chiantla
+GT	00000	Colotenango	Huehuetenango	HU	Colotenango
+GT	00000	Santiago Chimaltenango	Huehuetenango	HU	Colotenango
+GT	00000	Concepción	Huehuetenango	HU	Concepcion Huista
+GT	00000	Jacaltenango	Huehuetenango	HU	Concepcion Huista
+GT	00000	Chalum	Huehuetenango	HU	Cuilco
+GT	00000	Cuilco	Huehuetenango	HU	Cuilco
+GT	00000	Huehuetenango	Huehuetenango	HU	Huehuetenango Huehuetenango
+GT	00000	Ixtahuacán	Huehuetenango	HU	Ixtahuacan
+GT	00000	La Libertad	Huehuetenango	HU	Ixtahuacan
+GT	00000	San Andrés Huista	Huehuetenango	HU	Jacaltenango
+GT	00000	San Marcos Huista	Huehuetenango	HU	Jacaltenango
+GT	00000	La Democracia	Huehuetenango	HU	La Democracia Huehuetenango
+GT	00000	La Mesilla	Huehuetenango	HU	La Libertad Huehuetenango
+GT	00000	Malacatancito	Huehuetenango	HU	Malacatancito
+GT	00000	San Lorenzo	Huehuetenango	HU	Malacatancito
+GT	00000	Gracias a Dios	Huehuetenango	HU	Nenton
+GT	00000	Nentón	Huehuetenango	HU	Nenton
+GT	00000	Santa Ana Huista	Huehuetenango	HU	Santa Ana Huista
+GT	00000	Santa Bárbara	Huehuetenango	HU	Santa Barbara Huehuetenango
+GT	00000	Barillas	Huehuetenango	HU	Santa Cruz Barillas
+GT	00000	Santa Eulalia	Huehuetenango	HU	Santa Eulalia Huehuetenango
+GT	00000	San Martín Cuchumatán	Huehuetenango	HU	Santiago Chimaltenango
+GT	00000	San Antonio Huista	Huehuetenango	HU	San Antonio Huista
+GT	00000	San Gaspar Ixchil	Huehuetenango	HU	San Gaspar Ixchil
+GT	00000	San Juan Atitán	Huehuetenango	HU	San Juan Atitan
+GT	00000	San Juan Ixcoy	Huehuetenango	HU	San Juan Ixcoy
+GT	00000	San Mateo Ixtatán	Huehuetenango	HU	San Mateo Ixtatan
+GT	00000	San Miguel Acatán	Huehuetenango	HU	San Miguel Acatan
+GT	00000	Michicoy	Huehuetenango	HU	San Pedro Necta
+GT	00000	Petatán	Huehuetenango	HU	San Pedro Necta
+GT	00000	San Pedro Necta	Huehuetenango	HU	San Pedro Necta
+GT	00000	San Rafael La Independencia	Huehuetenango	HU	San Rafael La Independencia
+GT	00000	San Rafael Petzal	Huehuetenango	HU	San Rafael Petzal
+GT	00000	San Sebastián Coatán	Huehuetenango	HU	San Sebastian Coatan
+GT	00000	San Sebastián Huehuetenango	Huehuetenango	HU	San Sebastian Huehuetenango
+GT	00000	Soloma	Huehuetenango	HU	Soloma
+GT	00000	Tectitán	Huehuetenango	HU	Tectitan
+GT	00000	Todos Santos Cuchumatán	Huehuetenango	HU	Todos Santos Cuchumatan
+GT	00000	El Estor	Izabal	IZ	El Estor
+GT	00000	Las Viñas	Izabal	IZ	Livingston
+GT	00000	Lívingston	Izabal	IZ	Livingston
+GT	00000	San Felipe	Izabal	IZ	Livingston
+GT	00000	El Refugio	Izabal	IZ	Los Amates
+GT	00000	El Rico	Izabal	IZ	Los Amates
+GT	00000	Los Amates	Izabal	IZ	Los Amates
+GT	00000	Mariscos	Izabal	IZ	Los Amates
+GT	00000	Quiriguá	Izabal	IZ	Los Amates
+GT	00000	Santa Inés	Izabal	IZ	Los Amates
+GT	00000	Bananera	Izabal	IZ	Morales Izabal
+GT	00000	Buenos Aires	Izabal	IZ	Morales Izabal
+GT	00000	Cayuga	Izabal	IZ	Morales Izabal
+GT	00000	El Mitchal	Izabal	IZ	Morales Izabal
+GT	00000	Fronteras	Izabal	IZ	Morales Izabal
+GT	00000	Las Quebradas	Izabal	IZ	Morales Izabal
+GT	00000	Morales	Izabal	IZ	Morales Izabal
+GT	00000	Playitas	Izabal	IZ	Morales Izabal
+GT	00000	Tenedores	Izabal	IZ	Morales Izabal
+GT	00000	El Cinchado	Izabal	IZ	Puerto Barrios
+GT	00000	Entre Ríos	Izabal	IZ	Puerto Barrios
+GT	00000	Puerto Barrios	Izabal	IZ	Puerto Barrios
+GT	00000	Santo Tomás de Castilla	Izabal	IZ	Puerto Barrios
+GT	00000	Jalapa	Jalapa	JA	Jalapa Jalapa
+GT	00000	Llano Grande	Jalapa	JA	Jalapa Jalapa
+GT	00000	Mataquescuintla	Jalapa	JA	Mataquescuintla
+GT	00000	Monjas	Jalapa	JA	Monjas Jalapa
+GT	00000	San Carlos Alzatate	Jalapa	JA	San Carlos Alzatate
+GT	00000	San Luis Jilotepeque	Jalapa	JA	San Luis Jilotepeque
+GT	00000	San Manuel Chaparrón	Jalapa	JA	San Manuel Chaparron
+GT	00000	San Pedro Pinula	Jalapa	JA	San Pedro Pinula
+GT	00000	Agua Blanca	Jutiapa	JU	Agua Blanca Jutiapa
+GT	00000	Asunción Mita	Jutiapa	JU	Asuncion Mita
+GT	00000	Tiúcal	Jutiapa	JU	Asuncion Mita
+GT	00000	Atescatempa	Jutiapa	JU	Atescatempa
+GT	00000	Contepeque	Jutiapa	JU	Atescatempa
+GT	00000	San Cristóbal Frontera	Jutiapa	JU	Atescatempa
+GT	00000	Comapa	Jutiapa	JU	Comapa Jutiapa
+GT	00000	Conguanco	Jutiapa	JU	Conguaco
+GT	00000	El Adelanto	Jutiapa	JU	El Adelanto
+GT	00000	El Ovejero	Jutiapa	JU	El Progreso Jutiapa
+GT	00000	El Progreso	Jutiapa	JU	El Progreso Jutiapa
+GT	00000	Jalpatagua	Jutiapa	JU	Jalpatagua
+GT	00000	Valle Nuevo Jalpatagua	Jutiapa	JU	Jalpatagua
+GT	00000	Jerez	Jutiapa	JU	Jerez Jutiapa
+GT	00000	La Esmeralda	Jutiapa	JU	Jerez Jutiapa
+GT	00000	Jutiapa	Jutiapa	JU	Jutiapa Jutiapa
+GT	00000	Río de Paz	Jutiapa	JU	Jutiapa Jutiapa
+GT	00000	Ciudad Pedro de Alvarado	Jutiapa	JU	Moyuta
+GT	00000	Moyuta	Jutiapa	JU	Moyuta
+GT	00000	Pasaco	Jutiapa	JU	Pasaco
+GT	00000	Quesada	Jutiapa	JU	Quesada Jutiapa
+GT	00000	Horcones	Jutiapa	JU	Santa Catarina Mita
+GT	00000	Santa Catarina Mita	Jutiapa	JU	Santa Catarina Mita
+GT	00000	San José Acatempa	Jutiapa	JU	San Jose Acatempa
+GT	00000	Yupiltepeque	Jutiapa	JU	Yupiltepeque
+GT	00000	Zapotitlán	Jutiapa	JU	Zapotitlan Jutiapa
+GT	00000	Dolores	Peten	PE	Dolores Peten
+GT	00000	Santo Toribio	Peten	PE	Dolores Peten
+GT	00000	Dos Lagunas	Peten	PE	Flores Peten
+GT	00000	El Remate	Peten	PE	Flores Peten
+GT	00000	Flores	Peten	PE	Flores Peten
+GT	00000	La Felicidad	Peten	PE	Flores Peten
+GT	00000	Tikal	Peten	PE	Flores Peten
+GT	00000	Uaxactún	Peten	PE	Flores Peten
+GT	00000	Las Cruces	Peten	PE	Las Cruces
+GT	00000	La Libertad	Peten	PE	La Libertad Peten
+GT	00000	Melchor de Mencos	Peten	PE	Melchor de Mencos
+GT	00000	Machaquilá	Peten	PE	Poptun
+GT	00000	Poptún	Peten	PE	Poptun
+GT	00000	Sabaneta	Peten	PE	Poptun
+GT	00000	El Chal	Peten	PE	Santa Ana Peten
+GT	00000	Macanché	Peten	PE	Santa Ana Peten
+GT	00000	Paxcamán	Peten	PE	Santa Ana Peten
+GT	00000	Santa Ana	Peten	PE	Santa Ana Peten
+GT	00000	Carmelita	Peten	PE	San Andres Peten
+GT	00000	Paso Caballos	Peten	PE	San Andres Peten
+GT	00000	San Andrés	Peten	PE	San Andres Peten
+GT	00000	Sacpuy	Peten	PE	San Benito Peten
+GT	00000	San Benito	Peten	PE	San Benito Peten
+GT	00000	Santa Elena	Peten	PE	San Benito Peten
+GT	00000	San Francisco	Peten	PE	San Francisco Peten
+GT	00000	San José	Peten	PE	San Jose Peten
+GT	00000	El Naranjo	Peten	PE	San Luis Peten
+GT	00000	San Luis	Peten	PE	San Luis Peten
+GT	00000	Sayaxché	Peten	PE	Sayaxche
+GT	00000	Almolonga	Quetzaltenango	QZ	Almolonga
+GT	00000	Cabricán	Quetzaltenango	QZ	Cabrican
+GT	00000	Cajolá	Quetzaltenango	QZ	Cajola
+GT	00000	El Tambor	Quetzaltenango	QZ	Cajola
+GT	00000	Cantel	Quetzaltenango	QZ	Cantel
+GT	00000	Coatepeque	Quetzaltenango	QZ	Coatepeque
+GT	00000	La Esperanza	Quetzaltenango	QZ	Coatepeque
+GT	00000	Las Palmas	Quetzaltenango	QZ	Coatepeque
+GT	00000	Palestina de los Altos	Quetzaltenango	QZ	Coatepeque
+GT	00000	Colomba	Quetzaltenango	QZ	Colomba
+GT	00000	Las Mercedes	Quetzaltenango	QZ	Colomba
+GT	00000	Palmira	Quetzaltenango	QZ	Colomba
+GT	00000	Concepción Chiquirichapa	Quetzaltenango	QZ	Concepcion Chiquirichapa
+GT	00000	El Palmar	Quetzaltenango	QZ	El Palmar
+GT	00000	Flores Costa Cuca	Quetzaltenango	QZ	Flores Costa Cuca
+GT	00000	Génova	Quetzaltenango	QZ	Genova Quetzaltenango
+GT	00000	Huitán	Quetzaltenango	QZ	Huitan
+GT	00000	Olintepeque	Quetzaltenango	QZ	Olintepeque
+GT	00000	Ostuncalco	Quetzaltenango	QZ	Ostuncalco
+GT	00000	El Edén	Quetzaltenango	QZ	Palestina de Los Altos
+GT	00000	Quetzaltenango	Quetzaltenango	QZ	Quetzaltenango Quetzaltenango
+GT	00000	Salcajá	Quetzaltenango	QZ	Salcaja
+GT	00000	San José Chiquilajá	Quetzaltenango	QZ	Salcaja
+GT	00000	Chiquibal	Quetzaltenango	QZ	San Carlos Sija
+GT	00000	Chuatuj	Quetzaltenango	QZ	San Carlos Sija
+GT	00000	San Carlos Sija	Quetzaltenango	QZ	San Carlos Sija
+GT	00000	San Francisco La Unión	Quetzaltenango	QZ	San Francisco La Union
+GT	00000	San Martín Sacatepéquez	Quetzaltenango	QZ	San Martin Sacatepequez
+GT	00000	San Mateo	Quetzaltenango	QZ	San Mateo Quetzaltenango
+GT	00000	San Miguel Sigüilá	Quetzaltenango	QZ	San Miguel Siguila
+GT	00000	CUICALBA	Quetzaltenango	QZ	Sibilia
+GT	00000	Sibilia	Quetzaltenango	QZ	Sibilia
+GT	00000	Santa María de Jesús	Quetzaltenango	QZ	Zunil
+GT	00000	Zunil	Quetzaltenango	QZ	Zunil
+GT	00000	Canillá	Quiche	QC	Canilla
+GT	00000	Chajul	Quiche	QC	Chajul
+GT	00000	Chicamán	Quiche	QC	Chicaman
+GT	00000	Cantabal	Quiche	QC	Chiche
+GT	00000	Chichicastenango	Quiche	QC	Chichicastenango
+GT	00000	Chinique	Quiche	QC	Chinique
+GT	00000	Santa Rosa Chucuyub	Quiche	QC	Chinique
+GT	00000	Cunén	Quiche	QC	Cunen
+GT	00000	Playa Grande	Quiche	QC	Ixcan
+GT	00000	Joyabaj	Quiche	QC	Joyabaj
+GT	00000	Nebaj	Quiche	QC	Nebaj
+GT	00000	Pachalum	Quiche	QC	Pachalum
+GT	00000	Patzité	Quiche	QC	Patzite
+GT	00000	Sacapulas	Quiche	QC	Sacapulas
+GT	00000	San José	Quiche	QC	Sacapulas
+GT	00000	Quiché	Quiche	QC	Santa Cruz del Quiche
+GT	00000	Santa Cruz del Quiché	Quiche	QC	Santa Cruz del Quiche
+GT	00000	Xacbal	Quiche	QC	Santa Cruz del Quiche
+GT	00000	San Andrés Sajcabajá	Quiche	QC	San Andres Sajcabaja
+GT	00000	San Antonio Ilotenango	Quiche	QC	San Antonio Ilotenango
+GT	00000	San Bartolomé Jocotenango	Quiche	QC	San Bartolome Jocotenango
+GT	00000	San Juan Cotzal	Quiche	QC	San Juan Cotzal
+GT	00000	San Pedro Jocopilas	Quiche	QC	San Pedro Jocopilas
+GT	00000	Uspantán	Quiche	QC	Uspantan
+GT	00000	Zacualpa	Quiche	QC	Zacualpa
+GT	00000	Champerico	Retalhuleu	RE	Champerico
+GT	00000	El Asintal	Retalhuleu	RE	El Asintal
+GT	00000	El Xab	Retalhuleu	RE	El Asintal
+GT	00000	Sinavba	Retalhuleu	RE	El Asintal
+GT	00000	Candelaria Xolhuitz	Retalhuleu	RE	Nuevo San Carlos
+GT	00000	La Máquina	Retalhuleu	RE	Nuevo San Carlos
+GT	00000	Nuevo San Carlos	Retalhuleu	RE	Nuevo San Carlos
+GT	00000	Caballo Blanco	Retalhuleu	RE	Retalhuleu Retalhuleu
+GT	00000	Retalhuleu	Retalhuleu	RE	Retalhuleu Retalhuleu
+GT	00000	San Martín Zapotitlán	Retalhuleu	RE	Santa Cruz Mulua
+GT	00000	Santa Cruz Muluá	Retalhuleu	RE	Santa Cruz Mulua
+GT	00000	San Andrés Villa Seca	Retalhuleu	RE	San Andres Villa Seca
+GT	00000	San Felipe	Retalhuleu	RE	San Felipe Retalhuleu
+GT	00000	San Sebastián	Retalhuleu	RE	San Sebastian Retalhuleu
+GT	00000	Alotenango	Sacatepequez	SA	Alotenango
+GT	00000	Antigua Guatemala	Sacatepequez	SA	Antigua Guatemala
+GT	00000	Ciudad Vieja	Sacatepequez	SA	Ciudad Vieja
+GT	00000	Jocotenango	Sacatepequez	SA	Jocotenango
+GT	00000	Magdalena Milpas Altas	Sacatepequez	SA	Magdalena Milpas Altas
+GT	00000	Pastores	Sacatepequez	SA	Pastores Sacatepequez
+GT	00000	Santa Catarina Barahona	Sacatepequez	SA	Santa Catarina Barahona
+GT	00000	Santa Lucía Milpas Altas	Sacatepequez	SA	Santa Lucia Milpas Altas
+GT	00000	Santa María de Jesús	Sacatepequez	SA	Santa Maria de Jesus
+GT	00000	Santa María Cauqué	Sacatepequez	SA	Santiago Sacatepequez
+GT	00000	Santiago Sacatepéquez	Sacatepequez	SA	Santiago Sacatepequez
+GT	00000	Santo Domingo Xenacoj	Sacatepequez	SA	Santo Domingo Xenacoj
+GT	00000	San Antonio Aguas Calientes	Sacatepequez	SA	San Antonio Aguas Calientes
+GT	00000	San Bartolomé Milpas Altas	Sacatepequez	SA	San Bartolome Milpas Altas
+GT	00000	San Lucas Sacatepéquez	Sacatepequez	SA	San Lucas Sacatepequez
+GT	00000	San Miguel Dueñas	Sacatepequez	SA	San Miguel Duenas
+GT	00000	Sumpango	Sacatepequez	SA	Sumpango
+GT	00000	Barberena	Santa Rosa	SR	Barberena
+GT	00000	El Serinal	Santa Rosa	SR	Barberena
+GT	00000	Ayarza	Santa Rosa	SR	Casillas Santa Rosa
+GT	00000	Casillas	Santa Rosa	SR	Casillas Santa Rosa
+GT	00000	El Molino	Santa Rosa	SR	Casillas Santa Rosa
+GT	00000	Casas Viejas	Santa Rosa	SR	Chiquimulilla
+GT	00000	Chiquimulilla	Santa Rosa	SR	Chiquimulilla
+GT	00000	El Ahumado	Santa Rosa	SR	Chiquimulilla
+GT	00000	Los Cerritos	Santa Rosa	SR	Chiquimulilla
+GT	00000	Nancinta	Santa Rosa	SR	Chiquimulilla
+GT	00000	Cuilapa	Santa Rosa	SR	Cuilapa
+GT	00000	Los Esclavos	Santa Rosa	SR	Cuilapa
+GT	00000	San Juan de Arana	Santa Rosa	SR	Cuilapa
+GT	00000	Guazacapán	Santa Rosa	SR	Guazacapan
+GT	00000	Nueva Santa Rosa	Santa Rosa	SR	Nueva Santa Rosa
+GT	00000	Oratorio	Santa Rosa	SR	Oratorio
+GT	00000	Pueblo Nuevo Viñas	Santa Rosa	SR	Pueblo Nuevo Vinas
+GT	00000	Santa Cruz Naranjo	Santa Rosa	SR	Santa Cruz Naranjo
+GT	00000	Santa María Ixhuatán	Santa Rosa	SR	Santa Maria Ixhuatan
+GT	00000	Cerro Gordo	Santa Rosa	SR	Santa Rosa de Lima Santa Rosa
+GT	00000	El Rinconcito	Santa Rosa	SR	Santa Rosa de Lima Santa Rosa
+GT	00000	Santa Rosa de Lima	Santa Rosa	SR	Santa Rosa de Lima Santa Rosa
+GT	00000	San Juan Tecuaco	Santa Rosa	SR	San Juan Tecuaco
+GT	00000	San Rafael Las Flores	Santa Rosa	SR	San Rafael Las Flores
+GT	00000	Monterrico	Santa Rosa	SR	Taxisco
+GT	00000	San Miguel Aroche	Santa Rosa	SR	Taxisco
+GT	00000	Taxisco	Santa Rosa	SR	Taxisco
+GT	00000	Tecún Umán	San Marcos	SM	Ayutla San Marcos
+GT	00000	Zanjón San Lorenzo	San Marcos	SM	Ayutla San Marcos
+GT	00000	Catarina	San Marcos	SM	Catarina San Marcos
+GT	00000	El Sitio	San Marcos	SM	Catarina San Marcos
+GT	00000	Malacatán	San Marcos	SM	Catarina San Marcos
+GT	00000	Santa Lucía Ixcamal	San Marcos	SM	Catarina San Marcos
+GT	00000	Comitancillo	San Marcos	SM	Comitancillo
+GT	00000	Concepción Tutuapa	San Marcos	SM	Concepcion Tutuapa
+GT	00000	El Quetzal	San Marcos	SM	El Quetzal
+GT	00000	Los Platanares	San Marcos	SM	El Quetzal
+GT	00000	San Francisco	San Marcos	SM	El Quetzal
+GT	00000	El Rodeo	San Marcos	SM	El Rodeo
+GT	00000	El Amparo	San Marcos	SM	El Tumbador
+GT	00000	El Cielo	San Marcos	SM	El Tumbador
+GT	00000	El Tumbador	San Marcos	SM	El Tumbador
+GT	00000	La Democracia	San Marcos	SM	El Tumbador
+GT	00000	Las Delicias	San Marcos	SM	El Tumbador
+GT	00000	San Jerónimo	San Marcos	SM	El Tumbador
+GT	00000	Esquipulas Palo Gordo	San Marcos	SM	Esquipulas Palo Gordo
+GT	00000	Ixchiguán	San Marcos	SM	Ixchiguan
+GT	00000	La Reforma	San Marcos	SM	La Reforma San Marcos
+GT	00000	San José Ixtal	San Marcos	SM	La Reforma San Marcos
+GT	00000	El Carmen	San Marcos	SM	Malacatan
+GT	00000	La Conquista	San Marcos	SM	Nuevo Progreso San Marcos
+GT	00000	Nuevo Progreso	San Marcos	SM	Nuevo Progreso San Marcos
+GT	00000	La Blanca	San Marcos	SM	Ocos
+GT	00000	Los Limones	San Marcos	SM	Ocos
+GT	00000	Ocós	San Marcos	SM	Ocos
+GT	00000	Pajapita	San Marcos	SM	Pajapita
+GT	00000	Río Blanco	San Marcos	SM	Rio Blanco San Marcos
+GT	00000	San Antonio Sacatepéquez	San Marcos	SM	San Antonio Sacatepequez
+GT	00000	San Cristóbal Cucho	San Marcos	SM	San Cristobal Cucho
+GT	00000	San José Ojetenán	San Marcos	SM	San Jose Ojetenam
+GT	00000	San Lorenzo	San Marcos	SM	San Lorenzo San Marcos
+GT	00000	San Marcos	San Marcos	SM	San Marcos San Marcos
+GT	00000	San Sebastián	San Marcos	SM	San Marcos San Marcos
+GT	00000	Serchil	San Marcos	SM	San Marcos San Marcos
+GT	00000	San Miguel Ixtahuacán	San Marcos	SM	San Miguel Ixtahuacan
+GT	00000	San Pablo	San Marcos	SM	San Pablo San Marcos
+GT	00000	Tocache	San Marcos	SM	San Pablo San Marcos
+GT	00000	Champollap	San Marcos	SM	San Pedro Sacatepequez San Marcos
+GT	00000	Piedra Grande	San Marcos	SM	San Pedro Sacatepequez San Marcos
+GT	00000	San Pedro Sacatepéquez	San Marcos	SM	San Pedro Sacatepequez San Marcos
+GT	00000	San Rafael Pie de La Cuesta	San Marcos	SM	San Rafael Pie de La Cuesta
+GT	00000	Sibinal	San Marcos	SM	Sibinal
+GT	00000	Sipacapa	San Marcos	SM	Sipacapa
+GT	00000	Tacaná	San Marcos	SM	Tacana
+GT	00000	Tajumulco	San Marcos	SM	Tajumulco
+GT	00000	Calapté	San Marcos	SM	Tejutla
+GT	00000	Tejutla	San Marcos	SM	Tejutla
+GT	00000	Concepción	Solola	SO	Concepcion Solola
+GT	00000	Nahualá	Solola	SO	Nahuala
+GT	00000	Panajachel	Solola	SO	Panajachel
+GT	00000	Santa Catarina Ixtahuacán	Solola	SO	Santa Catarina Ixtahuacan
+GT	00000	Santa Catarina Palopó	Solola	SO	Santa Catarina Palopo
+GT	00000	Santa Clara La Laguna	Solola	SO	Santa Clara La Laguna
+GT	00000	Santa Cruz La Laguna	Solola	SO	Santa Cruz La Laguna
+GT	00000	Santa Lucía Utatlán	Solola	SO	Santa Lucia Utatlan
+GT	00000	Santa María Visitación	Solola	SO	Santa Maria Visitacion
+GT	00000	Santiago Atitlán	Solola	SO	Santiago Atitlan Solola
+GT	00000	Godínez	Solola	SO	San Andres Semetabaj
+GT	00000	San Andrés Semetabaj	Solola	SO	San Andres Semetabaj
+GT	00000	Agua Escondida	Solola	SO	San Antonio Palopo
+GT	00000	San Antonio Palopó	Solola	SO	San Antonio Palopo
+GT	00000	San José Chacayá	Solola	SO	San Jose Chacaya
+GT	00000	San Juan La Laguna	Solola	SO	San Juan La Laguna
+GT	00000	San Lucas Tolimán	Solola	SO	San Lucas Toliman
+GT	00000	San Marcos La Laguna	Solola	SO	San Marcos La Laguna
+GT	00000	San Pablo La Laguna	Solola	SO	San Pablo La Laguna
+GT	00000	San Pedro La Laguna	Solola	SO	San Pedro La Laguna
+GT	00000	Argueta	Solola	SO	Solola Solola
+GT	00000	Los Encuentros	Solola	SO	Solola Solola
+GT	00000	Pixabaj	Solola	SO	Solola Solola
+GT	00000	Sololá	Solola	SO	Solola Solola
+GT	00000	Chicacao	Suchitepequez	SU	Chicacao
+GT	00000	Cuyotenango	Suchitepequez	SU	Cuyotenango
+GT	00000	La Máquina	Suchitepequez	SU	Cuyotenango
+GT	00000	Mazatenango	Suchitepequez	SU	Mazatenango
+GT	00000	Patulul	Suchitepequez	SU	Patulul
+GT	00000	Pueblo Nuevo	Suchitepequez	SU	Pueblo Nuevo Suchitepequez
+GT	00000	Guatalón	Suchitepequez	SU	Rio Bravo Suchitepequez
+GT	00000	Río Bravo	Suchitepequez	SU	Rio Bravo Suchitepequez
+GT	00000	Samayac	Suchitepequez	SU	Samayac
+GT	00000	San Rafael Panán	Suchitepequez	SU	Santa Barbara Suchitepequez
+GT	00000	Santa Bárbara	Suchitepequez	SU	Santa Barbara Suchitepequez
+GT	00000	Bolivia	Suchitepequez	SU	Santo Domingo Suchitepequez
+GT	00000	Monterrey	Suchitepequez	SU	Santo Domingo Suchitepequez
+GT	00000	Santo Domingo Suchitepéquez	Suchitepequez	SU	Santo Domingo Suchitepequez
+GT	00000	Santo Tomás La Unión	Suchitepequez	SU	Santo Tomas La Union Guatemala
+GT	00000	Palo Gordo	Suchitepequez	SU	San Antonio Suchitepequez
+GT	00000	San Antonio Suchitepéquez	Suchitepequez	SU	San Antonio Suchitepequez
+GT	00000	San Bernardino	Suchitepequez	SU	San Bernardino Suchitepequez
+GT	00000	San Francisco Zapotitlán	Suchitepequez	SU	San Francisco Zapotitlan
+GT	00000	Cocales	Suchitepequez	SU	San Gabriel Suchitepequez
+GT	00000	San Gabriel	Suchitepequez	SU	San Gabriel Suchitepequez
+GT	00000	San José El Ídolo	Suchitepequez	SU	San Jose El Idolo
+GT	00000	San Juan Bautista	Suchitepequez	SU	San Juan Bautista Suchitepequez
+GT	00000	Bracitos	Suchitepequez	SU	San Lorenzo Suchitepequez
+GT	00000	San Lorenzo	Suchitepequez	SU	San Lorenzo Suchitepequez
+GT	00000	Tahuexco	Suchitepequez	SU	San Lorenzo Suchitepequez
+GT	00000	San Miguel Panán	Suchitepequez	SU	San Miguel Panan
+GT	00000	Chocolá	Suchitepequez	SU	San Pablo Jocopilas
+GT	00000	San Pablo Jocopilas	Suchitepequez	SU	San Pablo Jocopilas
+GT	00000	Zunilito	Suchitepequez	SU	Zunilito
+GT	00000	Momostenango	Totonicapan	TO	Momostenango
+GT	00000	Santa Lucía La Reforma	Totonicapan	TO	Santa Lucia La Reforma
+GT	00000	Santa María Chiquimula	Totonicapan	TO	Santa Maria Chiquimula
+GT	00000	San Andrés Xecul	Totonicapan	TO	San Andres Xecul
+GT	00000	San Bartolo	Totonicapan	TO	San Bartolo Totonicapan
+GT	00000	San Cristóbal Totonicapán	Totonicapan	TO	San Cristobal Totonicapan
+GT	00000	San Francisco El Alto	Totonicapan	TO	San Francisco El Alto
+GT	00000	Totonicapán	Totonicapan	TO	Totonicapan Totonicapan
+GT	00000	Cabañas	Zacapa	ZA	Cabanas Zacapa
+GT	00000	San Vicente	Zacapa	ZA	Cabanas Zacapa
+GT	00000	Estanzuela	Zacapa	ZA	Estanzuela
+GT	00000	Gualán	Zacapa	ZA	Gualan
+GT	00000	Huité	Zacapa	ZA	Huite
+GT	00000	La Reforma	Zacapa	ZA	Huite
+GT	00000	La Unión	Zacapa	ZA	La Union Zacapa
+GT	00000	Río Hondo	Zacapa	ZA	Rio Hondo Zacapa
+GT	00000	Santa Rosalía	Zacapa	ZA	Rio Hondo Zacapa
+GT	00000	San Diego	Zacapa	ZA	San Diego Zacapa
+GT	00000	San José	Zacapa	ZA	Teculutan
+GT	00000	Teculután	Zacapa	ZA	Teculutan
+GT	00000	Usumatlán	Zacapa	ZA	Usumatlan
+GT	00000	La Fragua	Zacapa	ZA	Zacapa Zacapa
+GT	00000	San Jorge	Zacapa	ZA	Zacapa Zacapa
+GT	00000	San Pablo	Zacapa	ZA	Zacapa Zacapa
+GT	00000	Santa Lucía	Zacapa	ZA	Zacapa Zacapa
+GT	00000	Zacapa	Zacapa	ZA	Zacapa Zacapa
+GT	00000	Ciudad de Guatemala	Guatemala	GU	Departamento
+GT	00000	Ciudad de Guatemala	Guatemala	GU	Departamento
+GT	00000	Ciudad de Guatemala	Guatemala	GU	Departamento
+GT	00000	Ciudad de Guatemala	Guatemala	GU	Departamento
+GT	00000	Ciudad de Guatemala	Guatemala	GU	Departamento
+GT	00000	Ciudad de Guatemala	Guatemala	GU	Departamento
+GT	00000	Ciudad de Guatemala	Guatemala	GU	Departamento
+GT	00000	Ciudad de Guatemala	Guatemala	GU	Departamento
+GT	00000	Ciudad de Guatemala	Guatemala	GU	Departamento
+GT	00000	Ciudad de Guatemala	Guatemala	GU	Departamento
+GT	00000	Ciudad de Guatemala	Guatemala	GU	Departamento
+GT	00000	Ciudad de Guatemala	Guatemala	GU	Departamento
+GT	00000	Ciudad de Guatemala	Guatemala	GU	Departamento
+GT	00000	Ciudad de Guatemala	Guatemala	GU	Departamento
+GT	00000	Ciudad de Guatemala	Guatemala	GU	Departamento
+GT	00000	Ciudad de Guatemala	Guatemala	GU	Departamento
+GT	00000	Ciudad de Guatemala	Guatemala	GU	Departamento
+GT	00000	Ciudad de Guatemala	Guatemala	GU	Departamento
+GT	00000	Ciudad de Guatemala	Guatemala	GU	Departamento
+GT	00000	Horcones	Jutiapa	JU	Santa Catarina Mita

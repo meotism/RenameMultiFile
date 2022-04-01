@@ -1,0 +1,2023 @@
+MU	A1101		Agalega Islands	AG	Agalega				
+MU	91001		Black River	BL	Albion				
+MU	90101		Black River	BL	Bambous				
+MU	90110		Black River	BL	Beau Bassin				
+MU	90601		Black River	BL	Black River				
+MU	90201		Black River	BL	Cascavelle				
+MU	90301		Black River	BL	Case Noyale				
+MU	90401		Black River	BL	Chamarel				
+MU	90501		Black River	BL	Flic-en-Flac				
+MU	90701		Black River	BL	Gros Cailloux				
+MU	91101		Black River	BL	La Gaulette				
+MU	91201		Black River	BL	Le Morne				
+MU	90801		Black River	BL	Petite Riviere				
+MU	11101		Black River	BL	Pointe aux Sables				
+MU	91301		Black River	BL	Richelieu				
+MU	90901		Black River	BL	Tamarin				
+MU	00000		Cargados Carajos	CC	Avoquer				
+MU	00000		Cargados Carajos	CC	Baleine Rocks				
+MU	00000		Cargados Carajos	CC	Chaloupe				
+MU	00000		Cargados Carajos	CC	Courson				
+MU	00000		Cargados Carajos	CC	Grande Capitane				
+MU	00000		Cargados Carajos	CC	Île Albatross				
+MU	00000		Cargados Carajos	CC	île aux Cocos				
+MU	00000		Cargados Carajos	CC	Île du Sud				
+MU	00000		Cargados Carajos	CC	Île Frégate				
+MU	00000		Cargados Carajos	CC	Île Perle				
+MU	00000		Cargados Carajos	CC	Île Poulailer				
+MU	00000		Cargados Carajos	CC	Île Raphael				
+MU	00000		Cargados Carajos	CC	Île Tortue				
+MU	00000		Cargados Carajos	CC	Île Veronge				
+MU	00000		Cargados Carajos	CC	Îlot du Nord				
+MU	00000		Cargados Carajos	CC	Îlote du Paul				
+MU	00000		Cargados Carajos	CC	Îlot Siren				
+MU	00000		Cargados Carajos	CC	Îlot Veronge				
+MU	00000		Cargados Carajos	CC	Mapare Islet				
+MU	00000		Cargados Carajos	CC	Palm Islet				
+MU	00000		Cargados Carajos	CC	Petite Capitane				
+MU	00000		Cargados Carajos	CC	Puits-à-Eau				
+MU	40101		Flacq	FL	Bel Air				
+MU	40202		Flacq	FL	Bon Accueil				
+MU	43201		Flacq	FL	Bramsthan				
+MU	42403		Flacq	FL	Brisée Verdière				
+MU	40301		Flacq	FL	Camp de Masque				
+MU	40401		Flacq	FL	Camp de Masque Pavé				
+MU	40501		Flacq	FL	Camp Ithier				
+MU	40601		Flacq	FL	Centre de Flacq				
+MU	40701		Flacq	FL	Clémencia				
+MU	40801		Flacq	FL	Écroignard				
+MU	43302		Flacq	FL	Grande Retraite				
+MU	40901		Flacq	FL	G.R.S.E				
+MU	42601		Flacq	FL	Lalmatie				
+MU	41001		Flacq	FL	Laventure				
+MU	41101		Flacq	FL	Mare La Chaux				
+MU	41201		Flacq	FL	Médine Camp de Masque				
+MU	41401		Flacq	FL	Olivia				
+MU	41501		Flacq	FL	Poste de Flacq				
+MU	41601		Flacq	FL	Quatre Cocos				
+MU	52701		Flacq	FL	Quatre Soeurs				
+MU	42701		Flacq	FL	Queen Victoria				
+MU	41901		Flacq	FL	Saint Julien d'Hotman				
+MU	42101		Flacq	FL	Sébastopol				
+MU	42201		Flacq	FL	Trou d'Eau Douce				
+MU	50101		Grand Port	GP	Bambous Virieux				
+MU	50201		Grand Port	GP	Bananes				
+MU	52201		Grand Port	GP	Beau Vallon				
+MU	50401		Grand Port	GP	Bois des Amourettes				
+MU	52401		Grand Port	GP	Camp Carol				
+MU	50501		Grand Port	GP	Cluny				
+MU	50301		Grand Port	GP	Grand Bel Air				
+MU	50601		Grand Port	GP	Grand Sable				
+MU	61401		Grand Port	GP	L'Escalier				
+MU	50801		Grand Port	GP	Mahébourg				
+MU	51001		Grand Port	GP	Mare d'Albert				
+MU	51101		Grand Port	GP	Mare Tabac				
+MU	51201		Grand Port	GP	New Grove				
+MU	51301		Grand Port	GP	Nouvelle France				
+MU	52301		Grand Port	GP	Petit Bel Air				
+MU	51501		Grand Port	GP	Plaine Magnien				
+MU	51601		Grand Port	GP	Rivière des Créoles				
+MU	51802		Grand Port	GP	Rose Belle				
+MU	51901		Grand Port	GP	Saint Hubert				
+MU	52001		Grand Port	GP	Trois Boutiques				
+MU	52104		Grand Port	GP	Union Park				
+MU	51401		Grand Port	GP	Vieux Grand-Port				
+MU	80201		Moka	MO	Dagotière				
+MU	81501		Moka	MO	Dubreuil				
+MU	80501		Moka	MO	La Laura - Malenga				
+MU	80401		Moka	MO	L'Avenir				
+MU	80301		Moka	MO	L'Espérance				
+MU	80701		Moka	MO	Melrose				
+MU	80801		Moka	MO	Moka				
+MU	80901		Moka	MO	Montagne Blanche				
+MU	81201		Moka	MO	Nouvelle Découverte				
+MU	81601		Moka	MO	Providence				
+MU	81101		Moka	MO	Quartier Militaire				
+MU	80832		Moka	MO	Réduit				
+MU	82001		Moka	MO	Ripailles				
+MU	81401		Moka	MO	Saint Pierre				
+MU	81801		Moka	MO	Verdun				
+MU	20101		Pamplemousses	PA	Arsenal				
+MU	21701		Pamplemousses	PA	Baie-du-Tombeau				
+MU	21612		Pamplemousses	PA	Brisée Verdière				
+MU	20201		Pamplemousses	PA	Calebasses				
+MU	20301		Pamplemousses	PA	Congomah				
+MU	20401		Pamplemousses	PA	Crève Coeur				
+MU	20501		Pamplemousses	PA	D'Épinay				
+MU	20601		Pamplemousses	PA	Fond du Sac				
+MU	21801		Pamplemousses	PA	Le Hochet				
+MU	20801		Pamplemousses	PA	Montagne Longue				
+MU	20901		Pamplemousses	PA	Morcellement Saint André				
+MU	22001		Pamplemousses	PA	Notre Dame				
+MU	21001		Pamplemousses	PA	Pamplemousses				
+MU	21201		Pamplemousses	PA	Plaine des Papayes				
+MU	21301		Pamplemousses	PA	Pointe aux Piments				
+MU	21401		Pamplemousses	PA	Terre Rouge				
+MU	21501		Pamplemousses	PA	Triolet				
+MU	22301		Pamplemousses	PA	Trou-aux-Biches				
+MU	21601		Pamplemousses	PA	Ville-Bague				
+MU	71401		Plaines Wilhems	PW	Beau Bassin				
+MU	74208		Plaines Wilhems	PW	Curepipe				
+MU	74109		Plaines Wilhems	PW	Eau Coulée				
+MU	72201		Plaines Wilhems	PW	Ebène				
+MU	73103		Plaines Wilhems	PW	Floreal				
+MU	74215		Plaines Wilhems	PW	Forest Side				
+MU	52501		Plaines Wilhems	PW	Midlands				
+MU	73417		Plaines Wilhems	PW	Phoenix				
+MU	72103		Plaines Wilhems	PW	Quatre Bornes				
+MU	71126		Plaines Wilhems	PW	Rose-Hill				
+MU	52601		Plaines Wilhems	PW	Seizième Mille				
+MU	11201		Port Louis	PL	Port Louis				
+MU	31501		Riviere du Rempart	RR	Amitié				
+MU	31701		Riviere du Rempart	RR	Cap Malheureux				
+MU	30201		Riviere du Rempart	RR	Cottage				
+MU	30401		Riviere du Rempart	RR	Goodlands				
+MU	30501		Riviere du Rempart	RR	Grand Baie				
+MU	30601		Riviere du Rempart	RR	Grand Gaube				
+MU	30301		Riviere du Rempart	RR	L'Espérance Trébuchet				
+MU	31301		Riviere du Rempart	RR	Le Vale				
+MU	31801		Riviere du Rempart	RR	Mapou				
+MU	30701		Riviere du Rempart	RR	Petit Raffray				
+MU	30801		Riviere du Rempart	RR	Piton				
+MU	30901		Riviere du Rempart	RR	Poudre d'Or				
+MU	31001		Riviere du Rempart	RR	Poudre d'Or Hamlet				
+MU	30101		Riviere du Rempart	RR	Rivière du Rempart				
+MU	31201		Riviere du Rempart	RR	Roches Noires				
+MU	32001		Riviere du Rempart	RR	Roche Terre				
+MU	R3416		Rodrigues	RO	Grand Montagne				
+MU	R131		Rodrigues	RO	La Ferme				
+MU	R2226		Rodrigues	RO	Mont Lubin				
+MU	R411		Rodrigues	RO	Port Mathurin				
+MU	R1513		Rodrigues	RO	Rivière Cocos				
+MU	60101		Savanne	SA	Baie du Cap				
+MU	61001		Savanne	SA	Bel Ombre				
+MU	61101		Savanne	SA	Bénarès				
+MU	60201		Savanne	SA	Bois Chéri				
+MU	61201		Savanne	SA	Britannia				
+MU	60301		Savanne	SA	Camp Diable				
+MU	61301		Savanne	SA	Chamouny				
+MU	60401		Savanne	SA	Chemin Grenier				
+MU	60509		Savanne	SA	Grand Bois				
+MU	61701		Savanne	SA	La Flora				
+MU	60601		Savanne	SA	Rivière des Anguilles				
+MU	60701		Savanne	SA	Rivière du Poste				
+MU	60801		Savanne	SA	Souillac				
+MU	60901		Savanne	SA	Surinam				
+MU	61801		Savanne	SA	Tyack				
+MU	61501		Savanne	SA	Union Ducray - Saint Aubin				
+MU	A1102		Agalega Islands	AG	Agalega				
+MU	A1103		Agalega Islands	AG	Agalega				
+MU	A2101		Agalega Islands	AG	Agalega				
+MU	91002		Black River	BL	Albion				
+MU	91003		Black River	BL	Albion				
+MU	91004		Black River	BL	Albion				
+MU	91005		Black River	BL	Albion				
+MU	91006		Black River	BL	Albion				
+MU	91007		Black River	BL	Albion				
+MU	91008		Black River	BL	Albion				
+MU	91009		Black River	BL	Albion				
+MU	90102		Black River	BL	Bambous				
+MU	90103		Black River	BL	Bambous				
+MU	90104		Black River	BL	Bambous				
+MU	90105		Black River	BL	Bambous				
+MU	90106		Black River	BL	Bambous				
+MU	90107		Black River	BL	Bambous				
+MU	90108		Black River	BL	Bambous				
+MU	90109		Black River	BL	Bambous				
+MU	90705		Black River	BL	Beau Bassin				
+MU	90602		Black River	BL	Black River				
+MU	90603		Black River	BL	Black River				
+MU	90604		Black River	BL	Black River				
+MU	90605		Black River	BL	Black River				
+MU	90606		Black River	BL	Black River				
+MU	90607		Black River	BL	Black River				
+MU	90608		Black River	BL	Black River				
+MU	90609		Black River	BL	Black River				
+MU	90610		Black River	BL	Black River				
+MU	90611		Black River	BL	Black River				
+MU	90612		Black River	BL	Black River				
+MU	90613		Black River	BL	Black River				
+MU	90614		Black River	BL	Black River				
+MU	90615		Black River	BL	Black River				
+MU	90616		Black River	BL	Black River				
+MU	90617		Black River	BL	Black River				
+MU	90618		Black River	BL	Black River				
+MU	90619		Black River	BL	Black River				
+MU	90620		Black River	BL	Black River				
+MU	90621		Black River	BL	Black River				
+MU	90622		Black River	BL	Black River				
+MU	90623		Black River	BL	Black River				
+MU	90624		Black River	BL	Black River				
+MU	90625		Black River	BL	Black River				
+MU	90626		Black River	BL	Black River				
+MU	90202		Black River	BL	Cascavelle				
+MU	90203		Black River	BL	Cascavelle				
+MU	90204		Black River	BL	Cascavelle				
+MU	90302		Black River	BL	Case Noyale				
+MU	90303		Black River	BL	Case Noyale				
+MU	90304		Black River	BL	Case Noyale				
+MU	90305		Black River	BL	Case Noyale				
+MU	90306		Black River	BL	Case Noyale				
+MU	90402		Black River	BL	Chamarel				
+MU	90403		Black River	BL	Chamarel				
+MU	90404		Black River	BL	Chamarel				
+MU	90405		Black River	BL	Chamarel				
+MU	90406		Black River	BL	Chamarel				
+MU	90407		Black River	BL	Chamarel				
+MU	90408		Black River	BL	Chamarel				
+MU	90409		Black River	BL	Chamarel				
+MU	90502		Black River	BL	Flic-en-Flac				
+MU	90503		Black River	BL	Flic-en-Flac				
+MU	90504		Black River	BL	Flic-en-Flac				
+MU	90505		Black River	BL	Flic-en-Flac				
+MU	90506		Black River	BL	Flic-en-Flac				
+MU	90507		Black River	BL	Flic-en-Flac				
+MU	90508		Black River	BL	Flic-en-Flac				
+MU	90509		Black River	BL	Flic-en-Flac				
+MU	90510		Black River	BL	Flic-en-Flac				
+MU	90511		Black River	BL	Flic-en-Flac				
+MU	90512		Black River	BL	Flic-en-Flac				
+MU	90513		Black River	BL	Flic-en-Flac				
+MU	90514		Black River	BL	Flic-en-Flac				
+MU	90515		Black River	BL	Flic-en-Flac				
+MU	90516		Black River	BL	Flic-en-Flac				
+MU	90517		Black River	BL	Flic-en-Flac				
+MU	90518		Black River	BL	Flic-en-Flac				
+MU	90519		Black River	BL	Flic-en-Flac				
+MU	90520		Black River	BL	Flic-en-Flac				
+MU	90521		Black River	BL	Flic-en-Flac				
+MU	90702		Black River	BL	Gros Cailloux				
+MU	90703		Black River	BL	Gros Cailloux				
+MU	91102		Black River	BL	La Gaulette				
+MU	91103		Black River	BL	La Gaulette				
+MU	91104		Black River	BL	La Gaulette				
+MU	91202		Black River	BL	Le Morne				
+MU	91203		Black River	BL	Le Morne				
+MU	91204		Black River	BL	Le Morne				
+MU	91205		Black River	BL	Le Morne				
+MU	90802		Black River	BL	Petite Riviere				
+MU	90803		Black River	BL	Petite Riviere				
+MU	90804		Black River	BL	Petite Riviere				
+MU	90805		Black River	BL	Petite Riviere				
+MU	90806		Black River	BL	Petite Riviere				
+MU	90807		Black River	BL	Petite Riviere				
+MU	90808		Black River	BL	Petite Riviere				
+MU	11102		Black River	BL	Pointe aux Sables				
+MU	11103		Black River	BL	Pointe aux Sables				
+MU	11104		Black River	BL	Pointe aux Sables				
+MU	11105		Black River	BL	Pointe aux Sables				
+MU	11106		Black River	BL	Pointe aux Sables				
+MU	11107		Black River	BL	Pointe aux Sables				
+MU	11108		Black River	BL	Pointe aux Sables				
+MU	11109		Black River	BL	Pointe aux Sables				
+MU	11110		Black River	BL	Pointe aux Sables				
+MU	11111		Black River	BL	Pointe aux Sables				
+MU	11112		Black River	BL	Pointe aux Sables				
+MU	11113		Black River	BL	Pointe aux Sables				
+MU	11114		Black River	BL	Pointe aux Sables				
+MU	11115		Black River	BL	Pointe aux Sables				
+MU	11116		Black River	BL	Pointe aux Sables				
+MU	11117		Black River	BL	Pointe aux Sables				
+MU	11118		Black River	BL	Pointe aux Sables				
+MU	11119		Black River	BL	Pointe aux Sables				
+MU	11120		Black River	BL	Pointe aux Sables				
+MU	11121		Black River	BL	Pointe aux Sables				
+MU	11122		Black River	BL	Pointe aux Sables				
+MU	11123		Black River	BL	Pointe aux Sables				
+MU	11124		Black River	BL	Pointe aux Sables				
+MU	11125		Black River	BL	Pointe aux Sables				
+MU	11126		Black River	BL	Pointe aux Sables				
+MU	11127		Black River	BL	Pointe aux Sables				
+MU	11128		Black River	BL	Pointe aux Sables				
+MU	11129		Black River	BL	Pointe aux Sables				
+MU	11130		Black River	BL	Pointe aux Sables				
+MU	11131		Black River	BL	Pointe aux Sables				
+MU	11132		Black River	BL	Pointe aux Sables				
+MU	11133		Black River	BL	Pointe aux Sables				
+MU	11134		Black River	BL	Pointe aux Sables				
+MU	11135		Black River	BL	Pointe aux Sables				
+MU	91302		Black River	BL	Richelieu				
+MU	91303		Black River	BL	Richelieu				
+MU	91304		Black River	BL	Richelieu				
+MU	90902		Black River	BL	Tamarin				
+MU	90903		Black River	BL	Tamarin				
+MU	90904		Black River	BL	Tamarin				
+MU	90905		Black River	BL	Tamarin				
+MU	90906		Black River	BL	Tamarin				
+MU	90907		Black River	BL	Tamarin				
+MU	90908		Black River	BL	Tamarin				
+MU	90909		Black River	BL	Tamarin				
+MU	90910		Black River	BL	Tamarin				
+MU	90911		Black River	BL	Tamarin				
+MU	90912		Black River	BL	Tamarin				
+MU	90913		Black River	BL	Tamarin				
+MU	90914		Black River	BL	Tamarin				
+MU	90915		Black River	BL	Tamarin				
+MU	90916		Black River	BL	Tamarin				
+MU	90917		Black River	BL	Tamarin				
+MU	90918		Black River	BL	Tamarin				
+MU	90919		Black River	BL	Tamarin				
+MU	90920		Black River	BL	Tamarin				
+MU	90921		Black River	BL	Tamarin				
+MU	90922		Black River	BL	Tamarin				
+MU	40102		Flacq	FL	Bel Air				
+MU	40103		Flacq	FL	Bel Air				
+MU	40104		Flacq	FL	Bel Air				
+MU	40105		Flacq	FL	Bel Air				
+MU	40106		Flacq	FL	Bel Air				
+MU	40107		Flacq	FL	Bel Air				
+MU	40108		Flacq	FL	Bel Air				
+MU	40109		Flacq	FL	Bel Air				
+MU	40110		Flacq	FL	Bel Air				
+MU	40111		Flacq	FL	Bel Air				
+MU	40112		Flacq	FL	Bel Air				
+MU	40203		Flacq	FL	Bon Accueil				
+MU	40204		Flacq	FL	Bon Accueil				
+MU	40205		Flacq	FL	Bon Accueil				
+MU	40206		Flacq	FL	Bon Accueil				
+MU	40208		Flacq	FL	Bon Accueil				
+MU	40209		Flacq	FL	Bon Accueil				
+MU	43301		Flacq	FL	Bon Accueil				
+MU	43302		Flacq	FL	Bon Accueil				
+MU	42409		Flacq	FL	Brisée Verdière				
+MU	42410		Flacq	FL	Brisée Verdière				
+MU	42411		Flacq	FL	Brisée Verdière				
+MU	40302		Flacq	FL	Camp de Masque				
+MU	40303		Flacq	FL	Camp de Masque				
+MU	40304		Flacq	FL	Camp de Masque				
+MU	40402		Flacq	FL	Camp de Masque Pavé				
+MU	40403		Flacq	FL	Camp de Masque Pavé				
+MU	40502		Flacq	FL	Camp Ithier				
+MU	40503		Flacq	FL	Camp Ithier				
+MU	40602		Flacq	FL	Centre de Flacq				
+MU	40603		Flacq	FL	Centre de Flacq				
+MU	40604		Flacq	FL	Centre de Flacq				
+MU	40605		Flacq	FL	Centre de Flacq				
+MU	40606		Flacq	FL	Centre de Flacq				
+MU	40607		Flacq	FL	Centre de Flacq				
+MU	40608		Flacq	FL	Centre de Flacq				
+MU	40609		Flacq	FL	Centre de Flacq				
+MU	40610		Flacq	FL	Centre de Flacq				
+MU	40611		Flacq	FL	Centre de Flacq				
+MU	40612		Flacq	FL	Centre de Flacq				
+MU	40613		Flacq	FL	Centre de Flacq				
+MU	40614		Flacq	FL	Centre de Flacq				
+MU	40615		Flacq	FL	Centre de Flacq				
+MU	40616		Flacq	FL	Centre de Flacq				
+MU	40617		Flacq	FL	Centre de Flacq				
+MU	40618		Flacq	FL	Centre de Flacq				
+MU	40619		Flacq	FL	Centre de Flacq				
+MU	40702		Flacq	FL	Clémencia				
+MU	43303		Flacq	FL	Grande Retraite				
+MU	40902		Flacq	FL	G.R.S.E				
+MU	40903		Flacq	FL	G.R.S.E				
+MU	40904		Flacq	FL	G.R.S.E				
+MU	40905		Flacq	FL	G.R.S.E				
+MU	40906		Flacq	FL	G.R.S.E				
+MU	40907		Flacq	FL	G.R.S.E				
+MU	40908		Flacq	FL	G.R.S.E				
+MU	42602		Flacq	FL	Lalmatie				
+MU	42603		Flacq	FL	Lalmatie				
+MU	42604		Flacq	FL	Lalmatie				
+MU	41102		Flacq	FL	Mare La Chaux				
+MU	41202		Flacq	FL	Médine Camp de Masque				
+MU	41203		Flacq	FL	Médine Camp de Masque				
+MU	41402		Flacq	FL	Olivia				
+MU	41403		Flacq	FL	Olivia				
+MU	41404		Flacq	FL	Olivia				
+MU	41405		Flacq	FL	Olivia				
+MU	41406		Flacq	FL	Olivia				
+MU	41407		Flacq	FL	Olivia				
+MU	41408		Flacq	FL	Olivia				
+MU	41409		Flacq	FL	Olivia				
+MU	41410		Flacq	FL	Olivia				
+MU	41411		Flacq	FL	Olivia				
+MU	41412		Flacq	FL	Olivia				
+MU	41413		Flacq	FL	Olivia				
+MU	41414		Flacq	FL	Olivia				
+MU	41415		Flacq	FL	Olivia				
+MU	41416		Flacq	FL	Olivia				
+MU	41417		Flacq	FL	Olivia				
+MU	41418		Flacq	FL	Olivia				
+MU	41502		Flacq	FL	Poste de Flacq				
+MU	41503		Flacq	FL	Poste de Flacq				
+MU	41504		Flacq	FL	Poste de Flacq				
+MU	41505		Flacq	FL	Poste de Flacq				
+MU	41506		Flacq	FL	Poste de Flacq				
+MU	41507		Flacq	FL	Poste de Flacq				
+MU	41508		Flacq	FL	Poste de Flacq				
+MU	41509		Flacq	FL	Poste de Flacq				
+MU	41510		Flacq	FL	Poste de Flacq				
+MU	41511		Flacq	FL	Poste de Flacq				
+MU	41512		Flacq	FL	Poste de Flacq				
+MU	41513		Flacq	FL	Poste de Flacq				
+MU	41514		Flacq	FL	Poste de Flacq				
+MU	41515		Flacq	FL	Poste de Flacq				
+MU	41516		Flacq	FL	Poste de Flacq				
+MU	41517		Flacq	FL	Poste de Flacq				
+MU	41518		Flacq	FL	Poste de Flacq				
+MU	41519		Flacq	FL	Poste de Flacq				
+MU	41520		Flacq	FL	Poste de Flacq				
+MU	41521		Flacq	FL	Poste de Flacq				
+MU	41601		Flacq	FL	Poste de Flacq				
+MU	41602		Flacq	FL	Poste de Flacq				
+MU	41602		Flacq	FL	Quatre Cocos				
+MU	41603		Flacq	FL	Quatre Cocos				
+MU	41604		Flacq	FL	Quatre Cocos				
+MU	41605		Flacq	FL	Quatre Cocos				
+MU	52702		Flacq	FL	Quatre Soeurs				
+MU	52703		Flacq	FL	Quatre Soeurs				
+MU	52704		Flacq	FL	Quatre Soeurs				
+MU	52705		Flacq	FL	Quatre Soeurs				
+MU	42702		Flacq	FL	Queen Victoria				
+MU	42703		Flacq	FL	Queen Victoria				
+MU	42704		Flacq	FL	Queen Victoria				
+MU	41902		Flacq	FL	Saint Julien d'Hotman				
+MU	41903		Flacq	FL	Saint Julien d'Hotman				
+MU	80101		Flacq	FL	Saint Julien d'Hotman				
+MU	80102		Flacq	FL	Saint Julien d'Hotman				
+MU	42102		Flacq	FL	Sébastopol				
+MU	42103		Flacq	FL	Sébastopol				
+MU	42104		Flacq	FL	Sébastopol				
+MU	42105		Flacq	FL	Sébastopol				
+MU	42106		Flacq	FL	Sébastopol				
+MU	42107		Flacq	FL	Sébastopol				
+MU	42202		Flacq	FL	Trou d'Eau Douce				
+MU	42203		Flacq	FL	Trou d'Eau Douce				
+MU	42204		Flacq	FL	Trou d'Eau Douce				
+MU	42205		Flacq	FL	Trou d'Eau Douce				
+MU	42206		Flacq	FL	Trou d'Eau Douce				
+MU	42207		Flacq	FL	Trou d'Eau Douce				
+MU	42208		Flacq	FL	Trou d'Eau Douce				
+MU	42209		Flacq	FL	Trou d'Eau Douce				
+MU	42210		Flacq	FL	Trou d'Eau Douce				
+MU	42211		Flacq	FL	Trou d'Eau Douce				
+MU	42212		Flacq	FL	Trou d'Eau Douce				
+MU	42213		Flacq	FL	Trou d'Eau Douce				
+MU	50102		Grand Port	GP	Bambous Virieux				
+MU	50103		Grand Port	GP	Bambous Virieux				
+MU	50104		Grand Port	GP	Bambous Virieux				
+MU	50202		Grand Port	GP	Bananes				
+MU	52202		Grand Port	GP	Beau Vallon				
+MU	52203		Grand Port	GP	Beau Vallon				
+MU	52204		Grand Port	GP	Beau Vallon				
+MU	52205		Grand Port	GP	Beau Vallon				
+MU	50402		Grand Port	GP	Bois des Amourettes				
+MU	50403		Grand Port	GP	Bois des Amourettes				
+MU	50404		Grand Port	GP	Bois des Amourettes				
+MU	52402		Grand Port	GP	Camp Carol				
+MU	52403		Grand Port	GP	Camp Carol				
+MU	52404		Grand Port	GP	Camp Carol				
+MU	52405		Grand Port	GP	Camp Carol				
+MU	52406		Grand Port	GP	Camp Carol				
+MU	50502		Grand Port	GP	Cluny				
+MU	50503		Grand Port	GP	Cluny				
+MU	50504		Grand Port	GP	Cluny				
+MU	50505		Grand Port	GP	Cluny				
+MU	50506		Grand Port	GP	Cluny				
+MU	50602		Grand Port	GP	Grand Sable				
+MU	50603		Grand Port	GP	Grand Sable				
+MU	50604		Grand Port	GP	Grand Sable				
+MU	50605		Grand Port	GP	Grand Sable				
+MU	50606		Grand Port	GP	Grand Sable				
+MU	61402		Grand Port	GP	L'Escalier				
+MU	61403		Grand Port	GP	L'Escalier				
+MU	61404		Grand Port	GP	L'Escalier				
+MU	61405		Grand Port	GP	L'Escalier				
+MU	61406		Grand Port	GP	L'Escalier				
+MU	61407		Grand Port	GP	L'Escalier				
+MU	61408		Grand Port	GP	L'Escalier				
+MU	61409		Grand Port	GP	L'Escalier				
+MU	61410		Grand Port	GP	L'Escalier				
+MU	61411		Grand Port	GP	L'Escalier				
+MU	61412		Grand Port	GP	L'Escalier				
+MU	61413		Grand Port	GP	L'Escalier				
+MU	61414		Grand Port	GP	L'Escalier				
+MU	61415		Grand Port	GP	L'Escalier				
+MU	61416		Grand Port	GP	L'Escalier				
+MU	61417		Grand Port	GP	L'Escalier				
+MU	50802		Grand Port	GP	Mahébourg				
+MU	50803		Grand Port	GP	Mahébourg				
+MU	50804		Grand Port	GP	Mahébourg				
+MU	50805		Grand Port	GP	Mahébourg				
+MU	50806		Grand Port	GP	Mahébourg				
+MU	50807		Grand Port	GP	Mahébourg				
+MU	50808		Grand Port	GP	Mahébourg				
+MU	50809		Grand Port	GP	Mahébourg				
+MU	50810		Grand Port	GP	Mahébourg				
+MU	50811		Grand Port	GP	Mahébourg				
+MU	50812		Grand Port	GP	Mahébourg				
+MU	50813		Grand Port	GP	Mahébourg				
+MU	50814		Grand Port	GP	Mahébourg				
+MU	50815		Grand Port	GP	Mahébourg				
+MU	50816		Grand Port	GP	Mahébourg				
+MU	50817		Grand Port	GP	Mahébourg				
+MU	50818		Grand Port	GP	Mahébourg				
+MU	50819		Grand Port	GP	Mahébourg				
+MU	50820		Grand Port	GP	Mahébourg				
+MU	50821		Grand Port	GP	Mahébourg				
+MU	50822		Grand Port	GP	Mahébourg				
+MU	50823		Grand Port	GP	Mahébourg				
+MU	51002		Grand Port	GP	Mare d'Albert				
+MU	51003		Grand Port	GP	Mare d'Albert				
+MU	51004		Grand Port	GP	Mare d'Albert				
+MU	51005		Grand Port	GP	Mare d'Albert				
+MU	51006		Grand Port	GP	Mare d'Albert				
+MU	51007		Grand Port	GP	Mare d'Albert				
+MU	51008		Grand Port	GP	Mare d'Albert				
+MU	51009		Grand Port	GP	Mare d'Albert				
+MU	51010		Grand Port	GP	Mare d'Albert				
+MU	51011		Grand Port	GP	Mare d'Albert				
+MU	51012		Grand Port	GP	Mare d'Albert				
+MU	51102		Grand Port	GP	Mare Tabac				
+MU	51103		Grand Port	GP	Mare Tabac				
+MU	51104		Grand Port	GP	Mare Tabac				
+MU	51105		Grand Port	GP	Mare Tabac				
+MU	51106		Grand Port	GP	Mare Tabac				
+MU	51107		Grand Port	GP	Mare Tabac				
+MU	51108		Grand Port	GP	Mare Tabac				
+MU	51109		Grand Port	GP	Mare Tabac				
+MU	51110		Grand Port	GP	Mare Tabac				
+MU	51202		Grand Port	GP	New Grove				
+MU	51203		Grand Port	GP	New Grove				
+MU	51204		Grand Port	GP	New Grove				
+MU	51205		Grand Port	GP	New Grove				
+MU	51206		Grand Port	GP	New Grove				
+MU	51207		Grand Port	GP	New Grove				
+MU	51208		Grand Port	GP	New Grove				
+MU	51209		Grand Port	GP	New Grove				
+MU	51210		Grand Port	GP	New Grove				
+MU	51211		Grand Port	GP	New Grove				
+MU	51212		Grand Port	GP	New Grove				
+MU	51213		Grand Port	GP	New Grove				
+MU	51214		Grand Port	GP	New Grove				
+MU	51215		Grand Port	GP	New Grove				
+MU	51216		Grand Port	GP	New Grove				
+MU	51217		Grand Port	GP	New Grove				
+MU	51218		Grand Port	GP	New Grove				
+MU	51219		Grand Port	GP	New Grove				
+MU	51220		Grand Port	GP	New Grove				
+MU	51221		Grand Port	GP	New Grove				
+MU	51222		Grand Port	GP	New Grove				
+MU	51223		Grand Port	GP	New Grove				
+MU	51224		Grand Port	GP	New Grove				
+MU	51302		Grand Port	GP	Nouvelle France				
+MU	51303		Grand Port	GP	Nouvelle France				
+MU	51304		Grand Port	GP	Nouvelle France				
+MU	51305		Grand Port	GP	Nouvelle France				
+MU	51306		Grand Port	GP	Nouvelle France				
+MU	51307		Grand Port	GP	Nouvelle France				
+MU	51308		Grand Port	GP	Nouvelle France				
+MU	51309		Grand Port	GP	Nouvelle France				
+MU	51310		Grand Port	GP	Nouvelle France				
+MU	51311		Grand Port	GP	Nouvelle France				
+MU	51312		Grand Port	GP	Nouvelle France				
+MU	51313		Grand Port	GP	Nouvelle France				
+MU	52302		Grand Port	GP	Petit Bel Air				
+MU	52303		Grand Port	GP	Petit Bel Air				
+MU	51502		Grand Port	GP	Plaine Magnien				
+MU	51503		Grand Port	GP	Plaine Magnien				
+MU	51504		Grand Port	GP	Plaine Magnien				
+MU	51505		Grand Port	GP	Plaine Magnien				
+MU	51506		Grand Port	GP	Plaine Magnien				
+MU	51507		Grand Port	GP	Plaine Magnien				
+MU	51508		Grand Port	GP	Plaine Magnien				
+MU	51509		Grand Port	GP	Plaine Magnien				
+MU	51510		Grand Port	GP	Plaine Magnien				
+MU	51511		Grand Port	GP	Plaine Magnien				
+MU	51512		Grand Port	GP	Plaine Magnien				
+MU	51513		Grand Port	GP	Plaine Magnien				
+MU	51514		Grand Port	GP	Plaine Magnien				
+MU	51515		Grand Port	GP	Plaine Magnien				
+MU	51516		Grand Port	GP	Plaine Magnien				
+MU	51517		Grand Port	GP	Plaine Magnien				
+MU	51518		Grand Port	GP	Plaine Magnien				
+MU	51519		Grand Port	GP	Plaine Magnien				
+MU	51520		Grand Port	GP	Plaine Magnien				
+MU	51602		Grand Port	GP	Rivière des Créoles				
+MU	51603		Grand Port	GP	Rivière des Créoles				
+MU	51604		Grand Port	GP	Rivière des Créoles				
+MU	51605		Grand Port	GP	Rivière des Créoles				
+MU	51606		Grand Port	GP	Rivière des Créoles				
+MU	51803		Grand Port	GP	Rose Belle				
+MU	51804		Grand Port	GP	Rose Belle				
+MU	51805		Grand Port	GP	Rose Belle				
+MU	51806		Grand Port	GP	Rose Belle				
+MU	51808		Grand Port	GP	Rose Belle				
+MU	51810		Grand Port	GP	Rose Belle				
+MU	51811		Grand Port	GP	Rose Belle				
+MU	51812		Grand Port	GP	Rose Belle				
+MU	51813		Grand Port	GP	Rose Belle				
+MU	51814		Grand Port	GP	Rose Belle				
+MU	51815		Grand Port	GP	Rose Belle				
+MU	51816		Grand Port	GP	Rose Belle				
+MU	51817		Grand Port	GP	Rose Belle				
+MU	51818		Grand Port	GP	Rose Belle				
+MU	51819		Grand Port	GP	Rose Belle				
+MU	51820		Grand Port	GP	Rose Belle				
+MU	51821		Grand Port	GP	Rose Belle				
+MU	51822		Grand Port	GP	Rose Belle				
+MU	51823		Grand Port	GP	Rose Belle				
+MU	51824		Grand Port	GP	Rose Belle				
+MU	51825		Grand Port	GP	Rose Belle				
+MU	51826		Grand Port	GP	Rose Belle				
+MU	51827		Grand Port	GP	Rose Belle				
+MU	51828		Grand Port	GP	Rose Belle				
+MU	51829		Grand Port	GP	Rose Belle				
+MU	52101		Grand Port	GP	Rose Belle				
+MU	52107		Grand Port	GP	Rose Belle				
+MU	52109		Grand Port	GP	Rose Belle				
+MU	51902		Grand Port	GP	Saint Hubert				
+MU	51903		Grand Port	GP	Saint Hubert				
+MU	51904		Grand Port	GP	Saint Hubert				
+MU	51905		Grand Port	GP	Saint Hubert				
+MU	51906		Grand Port	GP	Saint Hubert				
+MU	51907		Grand Port	GP	Saint Hubert				
+MU	51908		Grand Port	GP	Saint Hubert				
+MU	51909		Grand Port	GP	Saint Hubert				
+MU	51910		Grand Port	GP	Saint Hubert				
+MU	51911		Grand Port	GP	Saint Hubert				
+MU	51912		Grand Port	GP	Saint Hubert				
+MU	51913		Grand Port	GP	Saint Hubert				
+MU	51914		Grand Port	GP	Saint Hubert				
+MU	51915		Grand Port	GP	Saint Hubert				
+MU	51916		Grand Port	GP	Saint Hubert				
+MU	51917		Grand Port	GP	Saint Hubert				
+MU	52002		Grand Port	GP	Trois Boutiques				
+MU	52003		Grand Port	GP	Trois Boutiques				
+MU	52004		Grand Port	GP	Trois Boutiques				
+MU	52005		Grand Port	GP	Trois Boutiques				
+MU	52006		Grand Port	GP	Trois Boutiques				
+MU	52007		Grand Port	GP	Trois Boutiques				
+MU	52008		Grand Port	GP	Trois Boutiques				
+MU	52009		Grand Port	GP	Trois Boutiques				
+MU	52010		Grand Port	GP	Trois Boutiques				
+MU	52011		Grand Port	GP	Trois Boutiques				
+MU	52012		Grand Port	GP	Trois Boutiques				
+MU	52013		Grand Port	GP	Trois Boutiques				
+MU	52105		Grand Port	GP	Union Park				
+MU	52106		Grand Port	GP	Union Park				
+MU	52107		Grand Port	GP	Union Park				
+MU	52108		Grand Port	GP	Union Park				
+MU	51402		Grand Port	GP	Vieux Grand-Port				
+MU	51403		Grand Port	GP	Vieux Grand-Port				
+MU	51404		Grand Port	GP	Vieux Grand-Port				
+MU	51405		Grand Port	GP	Vieux Grand-Port				
+MU	51406		Grand Port	GP	Vieux Grand-Port				
+MU	80202		Moka	MO	Dagotière				
+MU	80203		Moka	MO	Dagotière				
+MU	80204		Moka	MO	Dagotière				
+MU	80205		Moka	MO	Dagotière				
+MU	81502		Moka	MO	Dubreuil				
+MU	81503		Moka	MO	Dubreuil				
+MU	81504		Moka	MO	Dubreuil				
+MU	80502		Moka	MO	La Laura - Malenga				
+MU	80503		Moka	MO	La Laura - Malenga				
+MU	80402		Moka	MO	L'Avenir				
+MU	80702		Moka	MO	Melrose				
+MU	80802		Moka	MO	Moka				
+MU	80803		Moka	MO	Moka				
+MU	80804		Moka	MO	Moka				
+MU	80805		Moka	MO	Moka				
+MU	80806		Moka	MO	Moka				
+MU	80807		Moka	MO	Moka				
+MU	80808		Moka	MO	Moka				
+MU	80809		Moka	MO	Moka				
+MU	80810		Moka	MO	Moka				
+MU	80811		Moka	MO	Moka				
+MU	80812		Moka	MO	Moka				
+MU	80813		Moka	MO	Moka				
+MU	80814		Moka	MO	Moka				
+MU	80815		Moka	MO	Moka				
+MU	80816		Moka	MO	Moka				
+MU	80817		Moka	MO	Moka				
+MU	80818		Moka	MO	Moka				
+MU	80819		Moka	MO	Moka				
+MU	80820		Moka	MO	Moka				
+MU	80821		Moka	MO	Moka				
+MU	80822		Moka	MO	Moka				
+MU	80823		Moka	MO	Moka				
+MU	80824		Moka	MO	Moka				
+MU	80825		Moka	MO	Moka				
+MU	80826		Moka	MO	Moka				
+MU	80827		Moka	MO	Moka				
+MU	80828		Moka	MO	Moka				
+MU	80829		Moka	MO	Moka				
+MU	80830		Moka	MO	Moka				
+MU	80831		Moka	MO	Moka				
+MU	80838		Moka	MO	Moka				
+MU	80839		Moka	MO	Moka				
+MU	80840		Moka	MO	Moka				
+MU	80902		Moka	MO	Montagne Blanche				
+MU	80903		Moka	MO	Montagne Blanche				
+MU	80905		Moka	MO	Montagne Blanche				
+MU	80906		Moka	MO	Montagne Blanche				
+MU	81602		Moka	MO	Providence				
+MU	81603		Moka	MO	Providence				
+MU	81604		Moka	MO	Providence				
+MU	81605		Moka	MO	Providence				
+MU	81102		Moka	MO	Quartier Militaire				
+MU	81103		Moka	MO	Quartier Militaire				
+MU	81104		Moka	MO	Quartier Militaire				
+MU	81105		Moka	MO	Quartier Militaire				
+MU	81106		Moka	MO	Quartier Militaire				
+MU	81107		Moka	MO	Quartier Militaire				
+MU	80833		Moka	MO	Réduit				
+MU	80834		Moka	MO	Réduit				
+MU	80835		Moka	MO	Réduit				
+MU	80836		Moka	MO	Réduit				
+MU	80837		Moka	MO	Réduit				
+MU	81402		Moka	MO	Saint Pierre				
+MU	81403		Moka	MO	Saint Pierre				
+MU	81404		Moka	MO	Saint Pierre				
+MU	81405		Moka	MO	Saint Pierre				
+MU	81406		Moka	MO	Saint Pierre				
+MU	81407		Moka	MO	Saint Pierre				
+MU	81408		Moka	MO	Saint Pierre				
+MU	81409		Moka	MO	Saint Pierre				
+MU	81410		Moka	MO	Saint Pierre				
+MU	81411		Moka	MO	Saint Pierre				
+MU	81412		Moka	MO	Saint Pierre				
+MU	81413		Moka	MO	Saint Pierre				
+MU	81414		Moka	MO	Saint Pierre				
+MU	81415		Moka	MO	Saint Pierre				
+MU	81416		Moka	MO	Saint Pierre				
+MU	81417		Moka	MO	Saint Pierre				
+MU	81418		Moka	MO	Saint Pierre				
+MU	81419		Moka	MO	Saint Pierre				
+MU	81420		Moka	MO	Saint Pierre				
+MU	81421		Moka	MO	Saint Pierre				
+MU	81422		Moka	MO	Saint Pierre				
+MU	81423		Moka	MO	Saint Pierre				
+MU	81802		Moka	MO	Verdun				
+MU	81803		Moka	MO	Verdun				
+MU	20102		Pamplemousses	PA	Arsenal				
+MU	20103		Pamplemousses	PA	Arsenal				
+MU	20104		Pamplemousses	PA	Arsenal				
+MU	20105		Pamplemousses	PA	Arsenal				
+MU	20106		Pamplemousses	PA	Arsenal				
+MU	20107		Pamplemousses	PA	Arsenal				
+MU	20108		Pamplemousses	PA	Arsenal				
+MU	20109		Pamplemousses	PA	Arsenal				
+MU	20110		Pamplemousses	PA	Arsenal				
+MU	20111		Pamplemousses	PA	Arsenal				
+MU	21307		Pamplemousses	PA	Arsenal				
+MU	21308		Pamplemousses	PA	Arsenal				
+MU	21702		Pamplemousses	PA	Baie-du-Tombeau				
+MU	21703		Pamplemousses	PA	Baie-du-Tombeau				
+MU	21704		Pamplemousses	PA	Baie-du-Tombeau				
+MU	21705		Pamplemousses	PA	Baie-du-Tombeau				
+MU	21706		Pamplemousses	PA	Baie-du-Tombeau				
+MU	21707		Pamplemousses	PA	Baie-du-Tombeau				
+MU	21708		Pamplemousses	PA	Baie-du-Tombeau				
+MU	21709		Pamplemousses	PA	Baie-du-Tombeau				
+MU	21710		Pamplemousses	PA	Baie-du-Tombeau				
+MU	21711		Pamplemousses	PA	Baie-du-Tombeau				
+MU	21712		Pamplemousses	PA	Baie-du-Tombeau				
+MU	21713		Pamplemousses	PA	Baie-du-Tombeau				
+MU	21714		Pamplemousses	PA	Baie-du-Tombeau				
+MU	21715		Pamplemousses	PA	Baie-du-Tombeau				
+MU	21716		Pamplemousses	PA	Baie-du-Tombeau				
+MU	21717		Pamplemousses	PA	Baie-du-Tombeau				
+MU	21718		Pamplemousses	PA	Baie-du-Tombeau				
+MU	21719		Pamplemousses	PA	Baie-du-Tombeau				
+MU	21720		Pamplemousses	PA	Baie-du-Tombeau				
+MU	21721		Pamplemousses	PA	Baie-du-Tombeau				
+MU	21722		Pamplemousses	PA	Baie-du-Tombeau				
+MU	21723		Pamplemousses	PA	Baie-du-Tombeau				
+MU	21724		Pamplemousses	PA	Baie-du-Tombeau				
+MU	21725		Pamplemousses	PA	Baie-du-Tombeau				
+MU	21726		Pamplemousses	PA	Baie-du-Tombeau				
+MU	21727		Pamplemousses	PA	Baie-du-Tombeau				
+MU	21728		Pamplemousses	PA	Baie-du-Tombeau				
+MU	21729		Pamplemousses	PA	Baie-du-Tombeau				
+MU	21730		Pamplemousses	PA	Baie-du-Tombeau				
+MU	21731		Pamplemousses	PA	Baie-du-Tombeau				
+MU	21732		Pamplemousses	PA	Baie-du-Tombeau				
+MU	21733		Pamplemousses	PA	Baie-du-Tombeau				
+MU	21734		Pamplemousses	PA	Baie-du-Tombeau				
+MU	21735		Pamplemousses	PA	Baie-du-Tombeau				
+MU	20202		Pamplemousses	PA	Calebasses				
+MU	20203		Pamplemousses	PA	Calebasses				
+MU	20204		Pamplemousses	PA	Calebasses				
+MU	20302		Pamplemousses	PA	Congomah				
+MU	20303		Pamplemousses	PA	Congomah				
+MU	20402		Pamplemousses	PA	Crève Coeur				
+MU	20403		Pamplemousses	PA	Crève Coeur				
+MU	20404		Pamplemousses	PA	Crève Coeur				
+MU	20405		Pamplemousses	PA	Crève Coeur				
+MU	20406		Pamplemousses	PA	Crève Coeur				
+MU	20502		Pamplemousses	PA	D'Épinay				
+MU	20503		Pamplemousses	PA	D'Épinay				
+MU	20504		Pamplemousses	PA	D'Épinay				
+MU	20505		Pamplemousses	PA	D'Épinay				
+MU	20506		Pamplemousses	PA	D'Épinay				
+MU	20507		Pamplemousses	PA	D'Épinay				
+MU	20508		Pamplemousses	PA	D'Épinay				
+MU	20509		Pamplemousses	PA	D'Épinay				
+MU	20510		Pamplemousses	PA	D'Épinay				
+MU	20511		Pamplemousses	PA	D'Épinay				
+MU	20512		Pamplemousses	PA	D'Épinay				
+MU	20513		Pamplemousses	PA	D'Épinay				
+MU	20514		Pamplemousses	PA	D'Épinay				
+MU	20515		Pamplemousses	PA	D'Épinay				
+MU	20516		Pamplemousses	PA	D'Épinay				
+MU	20602		Pamplemousses	PA	Fond du Sac				
+MU	20603		Pamplemousses	PA	Fond du Sac				
+MU	21802		Pamplemousses	PA	Le Hochet				
+MU	21803		Pamplemousses	PA	Le Hochet				
+MU	21804		Pamplemousses	PA	Le Hochet				
+MU	21805		Pamplemousses	PA	Le Hochet				
+MU	21806		Pamplemousses	PA	Le Hochet				
+MU	21807		Pamplemousses	PA	Le Hochet				
+MU	21808		Pamplemousses	PA	Le Hochet				
+MU	21809		Pamplemousses	PA	Le Hochet				
+MU	21810		Pamplemousses	PA	Le Hochet				
+MU	21811		Pamplemousses	PA	Le Hochet				
+MU	21812		Pamplemousses	PA	Le Hochet				
+MU	21813		Pamplemousses	PA	Le Hochet				
+MU	21814		Pamplemousses	PA	Le Hochet				
+MU	21815		Pamplemousses	PA	Le Hochet				
+MU	20802		Pamplemousses	PA	Montagne Longue				
+MU	20803		Pamplemousses	PA	Montagne Longue				
+MU	20804		Pamplemousses	PA	Montagne Longue				
+MU	20805		Pamplemousses	PA	Montagne Longue				
+MU	20806		Pamplemousses	PA	Montagne Longue				
+MU	20807		Pamplemousses	PA	Montagne Longue				
+MU	20808		Pamplemousses	PA	Montagne Longue				
+MU	20809		Pamplemousses	PA	Montagne Longue				
+MU	20810		Pamplemousses	PA	Montagne Longue				
+MU	20811		Pamplemousses	PA	Montagne Longue				
+MU	20812		Pamplemousses	PA	Montagne Longue				
+MU	20813		Pamplemousses	PA	Montagne Longue				
+MU	20814		Pamplemousses	PA	Montagne Longue				
+MU	20902		Pamplemousses	PA	Morcellement Saint André				
+MU	20903		Pamplemousses	PA	Morcellement Saint André				
+MU	20904		Pamplemousses	PA	Morcellement Saint André				
+MU	22002		Pamplemousses	PA	Notre Dame				
+MU	22003		Pamplemousses	PA	Notre Dame				
+MU	22004		Pamplemousses	PA	Notre Dame				
+MU	22005		Pamplemousses	PA	Notre Dame				
+MU	22006		Pamplemousses	PA	Notre Dame				
+MU	22007		Pamplemousses	PA	Notre Dame				
+MU	22008		Pamplemousses	PA	Notre Dame				
+MU	22009		Pamplemousses	PA	Notre Dame				
+MU	22010		Pamplemousses	PA	Notre Dame				
+MU	22011		Pamplemousses	PA	Notre Dame				
+MU	22012		Pamplemousses	PA	Notre Dame				
+MU	21002		Pamplemousses	PA	Pamplemousses				
+MU	21003		Pamplemousses	PA	Pamplemousses				
+MU	21004		Pamplemousses	PA	Pamplemousses				
+MU	21005		Pamplemousses	PA	Pamplemousses				
+MU	21006		Pamplemousses	PA	Pamplemousses				
+MU	21007		Pamplemousses	PA	Pamplemousses				
+MU	21008		Pamplemousses	PA	Pamplemousses				
+MU	21009		Pamplemousses	PA	Pamplemousses				
+MU	21010		Pamplemousses	PA	Pamplemousses				
+MU	21011		Pamplemousses	PA	Pamplemousses				
+MU	21012		Pamplemousses	PA	Pamplemousses				
+MU	21013		Pamplemousses	PA	Pamplemousses				
+MU	21014		Pamplemousses	PA	Pamplemousses				
+MU	21015		Pamplemousses	PA	Pamplemousses				
+MU	21016		Pamplemousses	PA	Pamplemousses				
+MU	21017		Pamplemousses	PA	Pamplemousses				
+MU	21202		Pamplemousses	PA	Plaine des Papayes				
+MU	21203		Pamplemousses	PA	Plaine des Papayes				
+MU	21204		Pamplemousses	PA	Plaine des Papayes				
+MU	21205		Pamplemousses	PA	Plaine des Papayes				
+MU	21206		Pamplemousses	PA	Plaine des Papayes				
+MU	21207		Pamplemousses	PA	Plaine des Papayes				
+MU	21208		Pamplemousses	PA	Plaine des Papayes				
+MU	21209		Pamplemousses	PA	Plaine des Papayes				
+MU	21210		Pamplemousses	PA	Plaine des Papayes				
+MU	21211		Pamplemousses	PA	Plaine des Papayes				
+MU	21212		Pamplemousses	PA	Plaine des Papayes				
+MU	21213		Pamplemousses	PA	Plaine des Papayes				
+MU	21214		Pamplemousses	PA	Plaine des Papayes				
+MU	21215		Pamplemousses	PA	Plaine des Papayes				
+MU	21302		Pamplemousses	PA	Pointe aux Piments				
+MU	21303		Pamplemousses	PA	Pointe aux Piments				
+MU	21304		Pamplemousses	PA	Pointe aux Piments				
+MU	21305		Pamplemousses	PA	Pointe aux Piments				
+MU	21306		Pamplemousses	PA	Pointe aux Piments				
+MU	21402		Pamplemousses	PA	Terre Rouge				
+MU	21403		Pamplemousses	PA	Terre Rouge				
+MU	21404		Pamplemousses	PA	Terre Rouge				
+MU	21405		Pamplemousses	PA	Terre Rouge				
+MU	21406		Pamplemousses	PA	Terre Rouge				
+MU	21407		Pamplemousses	PA	Terre Rouge				
+MU	21408		Pamplemousses	PA	Terre Rouge				
+MU	21409		Pamplemousses	PA	Terre Rouge				
+MU	21410		Pamplemousses	PA	Terre Rouge				
+MU	21411		Pamplemousses	PA	Terre Rouge				
+MU	21412		Pamplemousses	PA	Terre Rouge				
+MU	21413		Pamplemousses	PA	Terre Rouge				
+MU	21414		Pamplemousses	PA	Terre Rouge				
+MU	21415		Pamplemousses	PA	Terre Rouge				
+MU	21416		Pamplemousses	PA	Terre Rouge				
+MU	21502		Pamplemousses	PA	Triolet				
+MU	21503		Pamplemousses	PA	Triolet				
+MU	21504		Pamplemousses	PA	Triolet				
+MU	21505		Pamplemousses	PA	Triolet				
+MU	21506		Pamplemousses	PA	Triolet				
+MU	21507		Pamplemousses	PA	Triolet				
+MU	21508		Pamplemousses	PA	Triolet				
+MU	21509		Pamplemousses	PA	Triolet				
+MU	22302		Pamplemousses	PA	Trou-aux-Biches				
+MU	22303		Pamplemousses	PA	Trou-aux-Biches				
+MU	22304		Pamplemousses	PA	Trou-aux-Biches				
+MU	22305		Pamplemousses	PA	Trou-aux-Biches				
+MU	22306		Pamplemousses	PA	Trou-aux-Biches				
+MU	22307		Pamplemousses	PA	Trou-aux-Biches				
+MU	22308		Pamplemousses	PA	Trou-aux-Biches				
+MU	22309		Pamplemousses	PA	Trou-aux-Biches				
+MU	22310		Pamplemousses	PA	Trou-aux-Biches				
+MU	22311		Pamplemousses	PA	Trou-aux-Biches				
+MU	22312		Pamplemousses	PA	Trou-aux-Biches				
+MU	22313		Pamplemousses	PA	Trou-aux-Biches				
+MU	22314		Pamplemousses	PA	Trou-aux-Biches				
+MU	22315		Pamplemousses	PA	Trou-aux-Biches				
+MU	22316		Pamplemousses	PA	Trou-aux-Biches				
+MU	22317		Pamplemousses	PA	Trou-aux-Biches				
+MU	22318		Pamplemousses	PA	Trou-aux-Biches				
+MU	22319		Pamplemousses	PA	Trou-aux-Biches				
+MU	22320		Pamplemousses	PA	Trou-aux-Biches				
+MU	22321		Pamplemousses	PA	Trou-aux-Biches				
+MU	22322		Pamplemousses	PA	Trou-aux-Biches				
+MU	21602		Pamplemousses	PA	Ville-Bague				
+MU	21603		Pamplemousses	PA	Ville-Bague				
+MU	21604		Pamplemousses	PA	Ville-Bague				
+MU	21605		Pamplemousses	PA	Ville-Bague				
+MU	21606		Pamplemousses	PA	Ville-Bague				
+MU	21607		Pamplemousses	PA	Ville-Bague				
+MU	71402		Plaines Wilhems	PW	Beau Bassin				
+MU	71403		Plaines Wilhems	PW	Beau Bassin				
+MU	71404		Plaines Wilhems	PW	Beau Bassin				
+MU	71405		Plaines Wilhems	PW	Beau Bassin				
+MU	71406		Plaines Wilhems	PW	Beau Bassin				
+MU	71407		Plaines Wilhems	PW	Beau Bassin				
+MU	71408		Plaines Wilhems	PW	Beau Bassin				
+MU	71409		Plaines Wilhems	PW	Beau Bassin				
+MU	71410		Plaines Wilhems	PW	Beau Bassin				
+MU	71501		Plaines Wilhems	PW	Beau Bassin				
+MU	71502		Plaines Wilhems	PW	Beau Bassin				
+MU	71503		Plaines Wilhems	PW	Beau Bassin				
+MU	71504		Plaines Wilhems	PW	Beau Bassin				
+MU	71505		Plaines Wilhems	PW	Beau Bassin				
+MU	71506		Plaines Wilhems	PW	Beau Bassin				
+MU	71507		Plaines Wilhems	PW	Beau Bassin				
+MU	71508		Plaines Wilhems	PW	Beau Bassin				
+MU	71509		Plaines Wilhems	PW	Beau Bassin				
+MU	71510		Plaines Wilhems	PW	Beau Bassin				
+MU	71511		Plaines Wilhems	PW	Beau Bassin				
+MU	71512		Plaines Wilhems	PW	Beau Bassin				
+MU	71513		Plaines Wilhems	PW	Beau Bassin				
+MU	71514		Plaines Wilhems	PW	Beau Bassin				
+MU	71515		Plaines Wilhems	PW	Beau Bassin				
+MU	71516		Plaines Wilhems	PW	Beau Bassin				
+MU	71517		Plaines Wilhems	PW	Beau Bassin				
+MU	71518		Plaines Wilhems	PW	Beau Bassin				
+MU	71519		Plaines Wilhems	PW	Beau Bassin				
+MU	71601		Plaines Wilhems	PW	Beau Bassin				
+MU	71602		Plaines Wilhems	PW	Beau Bassin				
+MU	71603		Plaines Wilhems	PW	Beau Bassin				
+MU	71604		Plaines Wilhems	PW	Beau Bassin				
+MU	71605		Plaines Wilhems	PW	Beau Bassin				
+MU	71606		Plaines Wilhems	PW	Beau Bassin				
+MU	71607		Plaines Wilhems	PW	Beau Bassin				
+MU	71608		Plaines Wilhems	PW	Beau Bassin				
+MU	71609		Plaines Wilhems	PW	Beau Bassin				
+MU	71610		Plaines Wilhems	PW	Beau Bassin				
+MU	71611		Plaines Wilhems	PW	Beau Bassin				
+MU	71612		Plaines Wilhems	PW	Beau Bassin				
+MU	71613		Plaines Wilhems	PW	Beau Bassin				
+MU	71614		Plaines Wilhems	PW	Beau Bassin				
+MU	71615		Plaines Wilhems	PW	Beau Bassin				
+MU	71616		Plaines Wilhems	PW	Beau Bassin				
+MU	71617		Plaines Wilhems	PW	Beau Bassin				
+MU	71618		Plaines Wilhems	PW	Beau Bassin				
+MU	71619		Plaines Wilhems	PW	Beau Bassin				
+MU	71620		Plaines Wilhems	PW	Beau Bassin				
+MU	71621		Plaines Wilhems	PW	Beau Bassin				
+MU	71622		Plaines Wilhems	PW	Beau Bassin				
+MU	71623		Plaines Wilhems	PW	Beau Bassin				
+MU	71624		Plaines Wilhems	PW	Beau Bassin				
+MU	74213		Plaines Wilhems	PW	Curepipe				
+MU	74216		Plaines Wilhems	PW	Curepipe				
+MU	74220		Plaines Wilhems	PW	Curepipe				
+MU	74221		Plaines Wilhems	PW	Curepipe				
+MU	74222		Plaines Wilhems	PW	Curepipe				
+MU	74224		Plaines Wilhems	PW	Curepipe				
+MU	74234		Plaines Wilhems	PW	Curepipe				
+MU	74309		Plaines Wilhems	PW	Curepipe				
+MU	74311		Plaines Wilhems	PW	Curepipe				
+MU	74319		Plaines Wilhems	PW	Curepipe				
+MU	74335		Plaines Wilhems	PW	Curepipe				
+MU	74404		Plaines Wilhems	PW	Curepipe				
+MU	74405		Plaines Wilhems	PW	Curepipe				
+MU	74407		Plaines Wilhems	PW	Curepipe				
+MU	74410		Plaines Wilhems	PW	Curepipe				
+MU	74412		Plaines Wilhems	PW	Curepipe				
+MU	74414		Plaines Wilhems	PW	Curepipe				
+MU	74415		Plaines Wilhems	PW	Curepipe				
+MU	74418		Plaines Wilhems	PW	Curepipe				
+MU	74423		Plaines Wilhems	PW	Curepipe				
+MU	74425		Plaines Wilhems	PW	Curepipe				
+MU	74426		Plaines Wilhems	PW	Curepipe				
+MU	74430		Plaines Wilhems	PW	Curepipe				
+MU	74431		Plaines Wilhems	PW	Curepipe				
+MU	74432		Plaines Wilhems	PW	Curepipe				
+MU	74501		Plaines Wilhems	PW	Curepipe				
+MU	74502		Plaines Wilhems	PW	Curepipe				
+MU	74503		Plaines Wilhems	PW	Curepipe				
+MU	74506		Plaines Wilhems	PW	Curepipe				
+MU	74517		Plaines Wilhems	PW	Curepipe				
+MU	74527		Plaines Wilhems	PW	Curepipe				
+MU	74528		Plaines Wilhems	PW	Curepipe				
+MU	74529		Plaines Wilhems	PW	Curepipe				
+MU	74533		Plaines Wilhems	PW	Curepipe				
+MU	74536		Plaines Wilhems	PW	Curepipe				
+MU	74124		Plaines Wilhems	PW	Eau Coulée				
+MU	74202		Plaines Wilhems	PW	Eau Coulée				
+MU	74203		Plaines Wilhems	PW	Eau Coulée				
+MU	74207		Plaines Wilhems	PW	Eau Coulée				
+MU	74208		Plaines Wilhems	PW	Eau Coulée				
+MU	74217		Plaines Wilhems	PW	Eau Coulée				
+MU	74218		Plaines Wilhems	PW	Eau Coulée				
+MU	74220		Plaines Wilhems	PW	Eau Coulée				
+MU	74222		Plaines Wilhems	PW	Eau Coulée				
+MU	74225		Plaines Wilhems	PW	Eau Coulée				
+MU	74226		Plaines Wilhems	PW	Eau Coulée				
+MU	74229		Plaines Wilhems	PW	Eau Coulée				
+MU	74231		Plaines Wilhems	PW	Eau Coulée				
+MU	74232		Plaines Wilhems	PW	Eau Coulée				
+MU	74233		Plaines Wilhems	PW	Eau Coulée				
+MU	74235		Plaines Wilhems	PW	Eau Coulée				
+MU	74245		Plaines Wilhems	PW	Eau Coulée				
+MU	74248		Plaines Wilhems	PW	Eau Coulée				
+MU	74252		Plaines Wilhems	PW	Eau Coulée				
+MU	74301		Plaines Wilhems	PW	Eau Coulée				
+MU	74305		Plaines Wilhems	PW	Eau Coulée				
+MU	74306		Plaines Wilhems	PW	Eau Coulée				
+MU	74310		Plaines Wilhems	PW	Eau Coulée				
+MU	74311		Plaines Wilhems	PW	Eau Coulée				
+MU	74312		Plaines Wilhems	PW	Eau Coulée				
+MU	74313		Plaines Wilhems	PW	Eau Coulée				
+MU	74314		Plaines Wilhems	PW	Eau Coulée				
+MU	74315		Plaines Wilhems	PW	Eau Coulée				
+MU	74316		Plaines Wilhems	PW	Eau Coulée				
+MU	74321		Plaines Wilhems	PW	Eau Coulée				
+MU	74323		Plaines Wilhems	PW	Eau Coulée				
+MU	74327		Plaines Wilhems	PW	Eau Coulée				
+MU	74328		Plaines Wilhems	PW	Eau Coulée				
+MU	74330		Plaines Wilhems	PW	Eau Coulée				
+MU	74334		Plaines Wilhems	PW	Eau Coulée				
+MU	74336		Plaines Wilhems	PW	Eau Coulée				
+MU	74337		Plaines Wilhems	PW	Eau Coulée				
+MU	74338		Plaines Wilhems	PW	Eau Coulée				
+MU	74339		Plaines Wilhems	PW	Eau Coulée				
+MU	74340		Plaines Wilhems	PW	Eau Coulée				
+MU	74341		Plaines Wilhems	PW	Eau Coulée				
+MU	74342		Plaines Wilhems	PW	Eau Coulée				
+MU	74343		Plaines Wilhems	PW	Eau Coulée				
+MU	74344		Plaines Wilhems	PW	Eau Coulée				
+MU	74347		Plaines Wilhems	PW	Eau Coulée				
+MU	74354		Plaines Wilhems	PW	Eau Coulée				
+MU	74356		Plaines Wilhems	PW	Eau Coulée				
+MU	74446		Plaines Wilhems	PW	Eau Coulée				
+MU	74449		Plaines Wilhems	PW	Eau Coulée				
+MU	74451		Plaines Wilhems	PW	Eau Coulée				
+MU	74504		Plaines Wilhems	PW	Eau Coulée				
+MU	74519		Plaines Wilhems	PW	Eau Coulée				
+MU	74550		Plaines Wilhems	PW	Eau Coulée				
+MU	74553		Plaines Wilhems	PW	Eau Coulée				
+MU	74555		Plaines Wilhems	PW	Eau Coulée				
+MU	72202		Plaines Wilhems	PW	Ebène				
+MU	72203		Plaines Wilhems	PW	Ebène				
+MU	73105		Plaines Wilhems	PW	Floreal				
+MU	73106		Plaines Wilhems	PW	Floreal				
+MU	73107		Plaines Wilhems	PW	Floreal				
+MU	73108		Plaines Wilhems	PW	Floreal				
+MU	73109		Plaines Wilhems	PW	Floreal				
+MU	73114		Plaines Wilhems	PW	Floreal				
+MU	73116		Plaines Wilhems	PW	Floreal				
+MU	73117		Plaines Wilhems	PW	Floreal				
+MU	73120		Plaines Wilhems	PW	Floreal				
+MU	73126		Plaines Wilhems	PW	Floreal				
+MU	73132		Plaines Wilhems	PW	Floreal				
+MU	73135		Plaines Wilhems	PW	Floreal				
+MU	73137		Plaines Wilhems	PW	Floreal				
+MU	73215		Plaines Wilhems	PW	Floreal				
+MU	73221		Plaines Wilhems	PW	Floreal				
+MU	73222		Plaines Wilhems	PW	Floreal				
+MU	73227		Plaines Wilhems	PW	Floreal				
+MU	73233		Plaines Wilhems	PW	Floreal				
+MU	73234		Plaines Wilhems	PW	Floreal				
+MU	73238		Plaines Wilhems	PW	Floreal				
+MU	73239		Plaines Wilhems	PW	Floreal				
+MU	73240		Plaines Wilhems	PW	Floreal				
+MU	73242		Plaines Wilhems	PW	Floreal				
+MU	73250		Plaines Wilhems	PW	Floreal				
+MU	73252		Plaines Wilhems	PW	Floreal				
+MU	73253		Plaines Wilhems	PW	Floreal				
+MU	73254		Plaines Wilhems	PW	Floreal				
+MU	73255		Plaines Wilhems	PW	Floreal				
+MU	73304		Plaines Wilhems	PW	Floreal				
+MU	73310		Plaines Wilhems	PW	Floreal				
+MU	73324		Plaines Wilhems	PW	Floreal				
+MU	73325		Plaines Wilhems	PW	Floreal				
+MU	73328		Plaines Wilhems	PW	Floreal				
+MU	73329		Plaines Wilhems	PW	Floreal				
+MU	73330		Plaines Wilhems	PW	Floreal				
+MU	73344		Plaines Wilhems	PW	Floreal				
+MU	73345		Plaines Wilhems	PW	Floreal				
+MU	73346		Plaines Wilhems	PW	Floreal				
+MU	73347		Plaines Wilhems	PW	Floreal				
+MU	73348		Plaines Wilhems	PW	Floreal				
+MU	73356		Plaines Wilhems	PW	Floreal				
+MU	73357		Plaines Wilhems	PW	Floreal				
+MU	73358		Plaines Wilhems	PW	Floreal				
+MU	73359		Plaines Wilhems	PW	Floreal				
+MU	73401		Plaines Wilhems	PW	Floreal				
+MU	73402		Plaines Wilhems	PW	Floreal				
+MU	73411		Plaines Wilhems	PW	Floreal				
+MU	73412		Plaines Wilhems	PW	Floreal				
+MU	73413		Plaines Wilhems	PW	Floreal				
+MU	73418		Plaines Wilhems	PW	Floreal				
+MU	73419		Plaines Wilhems	PW	Floreal				
+MU	73423		Plaines Wilhems	PW	Floreal				
+MU	73431		Plaines Wilhems	PW	Floreal				
+MU	73436		Plaines Wilhems	PW	Floreal				
+MU	73441		Plaines Wilhems	PW	Floreal				
+MU	73443		Plaines Wilhems	PW	Floreal				
+MU	73449		Plaines Wilhems	PW	Floreal				
+MU	73451		Plaines Wilhems	PW	Floreal				
+MU	74101		Plaines Wilhems	PW	Floreal				
+MU	74102		Plaines Wilhems	PW	Floreal				
+MU	74103		Plaines Wilhems	PW	Floreal				
+MU	74104		Plaines Wilhems	PW	Floreal				
+MU	74105		Plaines Wilhems	PW	Floreal				
+MU	74106		Plaines Wilhems	PW	Floreal				
+MU	74107		Plaines Wilhems	PW	Floreal				
+MU	74108		Plaines Wilhems	PW	Floreal				
+MU	74109		Plaines Wilhems	PW	Floreal				
+MU	74110		Plaines Wilhems	PW	Floreal				
+MU	74111		Plaines Wilhems	PW	Floreal				
+MU	74112		Plaines Wilhems	PW	Floreal				
+MU	74401		Plaines Wilhems	PW	Forest Side				
+MU	74402		Plaines Wilhems	PW	Forest Side				
+MU	74403		Plaines Wilhems	PW	Forest Side				
+MU	74405		Plaines Wilhems	PW	Forest Side				
+MU	74406		Plaines Wilhems	PW	Forest Side				
+MU	74409		Plaines Wilhems	PW	Forest Side				
+MU	74410		Plaines Wilhems	PW	Forest Side				
+MU	74416		Plaines Wilhems	PW	Forest Side				
+MU	74419		Plaines Wilhems	PW	Forest Side				
+MU	74420		Plaines Wilhems	PW	Forest Side				
+MU	74421		Plaines Wilhems	PW	Forest Side				
+MU	74422		Plaines Wilhems	PW	Forest Side				
+MU	74423		Plaines Wilhems	PW	Forest Side				
+MU	74424		Plaines Wilhems	PW	Forest Side				
+MU	74425		Plaines Wilhems	PW	Forest Side				
+MU	74427		Plaines Wilhems	PW	Forest Side				
+MU	74428		Plaines Wilhems	PW	Forest Side				
+MU	74429		Plaines Wilhems	PW	Forest Side				
+MU	74430		Plaines Wilhems	PW	Forest Side				
+MU	74434		Plaines Wilhems	PW	Forest Side				
+MU	74435		Plaines Wilhems	PW	Forest Side				
+MU	74436		Plaines Wilhems	PW	Forest Side				
+MU	74437		Plaines Wilhems	PW	Forest Side				
+MU	74438		Plaines Wilhems	PW	Forest Side				
+MU	74444		Plaines Wilhems	PW	Forest Side				
+MU	74445		Plaines Wilhems	PW	Forest Side				
+MU	74447		Plaines Wilhems	PW	Forest Side				
+MU	74448		Plaines Wilhems	PW	Forest Side				
+MU	74508		Plaines Wilhems	PW	Forest Side				
+MU	74511		Plaines Wilhems	PW	Forest Side				
+MU	74512		Plaines Wilhems	PW	Forest Side				
+MU	74513		Plaines Wilhems	PW	Forest Side				
+MU	74514		Plaines Wilhems	PW	Forest Side				
+MU	74532		Plaines Wilhems	PW	Forest Side				
+MU	74537		Plaines Wilhems	PW	Forest Side				
+MU	74556		Plaines Wilhems	PW	Forest Side				
+MU	52502		Plaines Wilhems	PW	Midlands				
+MU	52503		Plaines Wilhems	PW	Midlands				
+MU	52504		Plaines Wilhems	PW	Midlands				
+MU	73423		Plaines Wilhems	PW	Phoenix				
+MU	73440		Plaines Wilhems	PW	Phoenix				
+MU	73501		Plaines Wilhems	PW	Phoenix				
+MU	73502		Plaines Wilhems	PW	Phoenix				
+MU	73514		Plaines Wilhems	PW	Phoenix				
+MU	73515		Plaines Wilhems	PW	Phoenix				
+MU	73516		Plaines Wilhems	PW	Phoenix				
+MU	73518		Plaines Wilhems	PW	Phoenix				
+MU	73524		Plaines Wilhems	PW	Phoenix				
+MU	73525		Plaines Wilhems	PW	Phoenix				
+MU	73526		Plaines Wilhems	PW	Phoenix				
+MU	73529		Plaines Wilhems	PW	Phoenix				
+MU	73532		Plaines Wilhems	PW	Phoenix				
+MU	73535		Plaines Wilhems	PW	Phoenix				
+MU	73536		Plaines Wilhems	PW	Phoenix				
+MU	73538		Plaines Wilhems	PW	Phoenix				
+MU	73539		Plaines Wilhems	PW	Phoenix				
+MU	73541		Plaines Wilhems	PW	Phoenix				
+MU	73542		Plaines Wilhems	PW	Phoenix				
+MU	73544		Plaines Wilhems	PW	Phoenix				
+MU	73546		Plaines Wilhems	PW	Phoenix				
+MU	73547		Plaines Wilhems	PW	Phoenix				
+MU	73548		Plaines Wilhems	PW	Phoenix				
+MU	73549		Plaines Wilhems	PW	Phoenix				
+MU	73551		Plaines Wilhems	PW	Phoenix				
+MU	73553		Plaines Wilhems	PW	Phoenix				
+MU	73603		Plaines Wilhems	PW	Phoenix				
+MU	73604		Plaines Wilhems	PW	Phoenix				
+MU	73605		Plaines Wilhems	PW	Phoenix				
+MU	73606		Plaines Wilhems	PW	Phoenix				
+MU	73607		Plaines Wilhems	PW	Phoenix				
+MU	73608		Plaines Wilhems	PW	Phoenix				
+MU	73609		Plaines Wilhems	PW	Phoenix				
+MU	73610		Plaines Wilhems	PW	Phoenix				
+MU	73611		Plaines Wilhems	PW	Phoenix				
+MU	73612		Plaines Wilhems	PW	Phoenix				
+MU	73613		Plaines Wilhems	PW	Phoenix				
+MU	73619		Plaines Wilhems	PW	Phoenix				
+MU	73620		Plaines Wilhems	PW	Phoenix				
+MU	73621		Plaines Wilhems	PW	Phoenix				
+MU	73622		Plaines Wilhems	PW	Phoenix				
+MU	73627		Plaines Wilhems	PW	Phoenix				
+MU	73628		Plaines Wilhems	PW	Phoenix				
+MU	73630		Plaines Wilhems	PW	Phoenix				
+MU	73631		Plaines Wilhems	PW	Phoenix				
+MU	73633		Plaines Wilhems	PW	Phoenix				
+MU	73634		Plaines Wilhems	PW	Phoenix				
+MU	73637		Plaines Wilhems	PW	Phoenix				
+MU	73643		Plaines Wilhems	PW	Phoenix				
+MU	73645		Plaines Wilhems	PW	Phoenix				
+MU	73650		Plaines Wilhems	PW	Phoenix				
+MU	73652		Plaines Wilhems	PW	Phoenix				
+MU	72104		Plaines Wilhems	PW	Quatre Bornes				
+MU	72109		Plaines Wilhems	PW	Quatre Bornes				
+MU	72208		Plaines Wilhems	PW	Quatre Bornes				
+MU	72211		Plaines Wilhems	PW	Quatre Bornes				
+MU	72218		Plaines Wilhems	PW	Quatre Bornes				
+MU	72219		Plaines Wilhems	PW	Quatre Bornes				
+MU	72222		Plaines Wilhems	PW	Quatre Bornes				
+MU	72224		Plaines Wilhems	PW	Quatre Bornes				
+MU	72228		Plaines Wilhems	PW	Quatre Bornes				
+MU	72231		Plaines Wilhems	PW	Quatre Bornes				
+MU	72238		Plaines Wilhems	PW	Quatre Bornes				
+MU	72241		Plaines Wilhems	PW	Quatre Bornes				
+MU	72242		Plaines Wilhems	PW	Quatre Bornes				
+MU	72243		Plaines Wilhems	PW	Quatre Bornes				
+MU	72247		Plaines Wilhems	PW	Quatre Bornes				
+MU	72248		Plaines Wilhems	PW	Quatre Bornes				
+MU	72249		Plaines Wilhems	PW	Quatre Bornes				
+MU	72253		Plaines Wilhems	PW	Quatre Bornes				
+MU	72254		Plaines Wilhems	PW	Quatre Bornes				
+MU	72256		Plaines Wilhems	PW	Quatre Bornes				
+MU	72257		Plaines Wilhems	PW	Quatre Bornes				
+MU	72258		Plaines Wilhems	PW	Quatre Bornes				
+MU	72259		Plaines Wilhems	PW	Quatre Bornes				
+MU	72260		Plaines Wilhems	PW	Quatre Bornes				
+MU	72262		Plaines Wilhems	PW	Quatre Bornes				
+MU	72263		Plaines Wilhems	PW	Quatre Bornes				
+MU	72264		Plaines Wilhems	PW	Quatre Bornes				
+MU	72265		Plaines Wilhems	PW	Quatre Bornes				
+MU	72310		Plaines Wilhems	PW	Quatre Bornes				
+MU	72313		Plaines Wilhems	PW	Quatre Bornes				
+MU	72314		Plaines Wilhems	PW	Quatre Bornes				
+MU	72317		Plaines Wilhems	PW	Quatre Bornes				
+MU	72326		Plaines Wilhems	PW	Quatre Bornes				
+MU	72350		Plaines Wilhems	PW	Quatre Bornes				
+MU	72351		Plaines Wilhems	PW	Quatre Bornes				
+MU	72352		Plaines Wilhems	PW	Quatre Bornes				
+MU	72425		Plaines Wilhems	PW	Quatre Bornes				
+MU	72427		Plaines Wilhems	PW	Quatre Bornes				
+MU	72435		Plaines Wilhems	PW	Quatre Bornes				
+MU	72436		Plaines Wilhems	PW	Quatre Bornes				
+MU	72440		Plaines Wilhems	PW	Quatre Bornes				
+MU	72444		Plaines Wilhems	PW	Quatre Bornes				
+MU	72445		Plaines Wilhems	PW	Quatre Bornes				
+MU	72455		Plaines Wilhems	PW	Quatre Bornes				
+MU	72501		Plaines Wilhems	PW	Quatre Bornes				
+MU	72502		Plaines Wilhems	PW	Quatre Bornes				
+MU	72512		Plaines Wilhems	PW	Quatre Bornes				
+MU	72515		Plaines Wilhems	PW	Quatre Bornes				
+MU	72523		Plaines Wilhems	PW	Quatre Bornes				
+MU	72529		Plaines Wilhems	PW	Quatre Bornes				
+MU	72530		Plaines Wilhems	PW	Quatre Bornes				
+MU	72533		Plaines Wilhems	PW	Quatre Bornes				
+MU	72534		Plaines Wilhems	PW	Quatre Bornes				
+MU	72537		Plaines Wilhems	PW	Quatre Bornes				
+MU	72539		Plaines Wilhems	PW	Quatre Bornes				
+MU	72546		Plaines Wilhems	PW	Quatre Bornes				
+MU	72560		Plaines Wilhems	PW	Quatre Bornes				
+MU	73360		Plaines Wilhems	PW	Quatre Bornes				
+MU	73361		Plaines Wilhems	PW	Quatre Bornes				
+MU	73452		Plaines Wilhems	PW	Quatre Bornes				
+MU	71128		Plaines Wilhems	PW	Rose-Hill				
+MU	71129		Plaines Wilhems	PW	Rose-Hill				
+MU	71132		Plaines Wilhems	PW	Rose-Hill				
+MU	71135		Plaines Wilhems	PW	Rose-Hill				
+MU	71170		Plaines Wilhems	PW	Rose-Hill				
+MU	71171		Plaines Wilhems	PW	Rose-Hill				
+MU	71173		Plaines Wilhems	PW	Rose-Hill				
+MU	71174		Plaines Wilhems	PW	Rose-Hill				
+MU	71175		Plaines Wilhems	PW	Rose-Hill				
+MU	71176		Plaines Wilhems	PW	Rose-Hill				
+MU	71203		Plaines Wilhems	PW	Rose-Hill				
+MU	71204		Plaines Wilhems	PW	Rose-Hill				
+MU	71205		Plaines Wilhems	PW	Rose-Hill				
+MU	71207		Plaines Wilhems	PW	Rose-Hill				
+MU	71210		Plaines Wilhems	PW	Rose-Hill				
+MU	71216		Plaines Wilhems	PW	Rose-Hill				
+MU	71225		Plaines Wilhems	PW	Rose-Hill				
+MU	71230		Plaines Wilhems	PW	Rose-Hill				
+MU	71231		Plaines Wilhems	PW	Rose-Hill				
+MU	71233		Plaines Wilhems	PW	Rose-Hill				
+MU	71234		Plaines Wilhems	PW	Rose-Hill				
+MU	71238		Plaines Wilhems	PW	Rose-Hill				
+MU	71241		Plaines Wilhems	PW	Rose-Hill				
+MU	71242		Plaines Wilhems	PW	Rose-Hill				
+MU	71243		Plaines Wilhems	PW	Rose-Hill				
+MU	71244		Plaines Wilhems	PW	Rose-Hill				
+MU	71245		Plaines Wilhems	PW	Rose-Hill				
+MU	71246		Plaines Wilhems	PW	Rose-Hill				
+MU	712547		Plaines Wilhems	PW	Rose-Hill				
+MU	71255		Plaines Wilhems	PW	Rose-Hill				
+MU	71258		Plaines Wilhems	PW	Rose-Hill				
+MU	71259		Plaines Wilhems	PW	Rose-Hill				
+MU	71301		Plaines Wilhems	PW	Rose-Hill				
+MU	71302		Plaines Wilhems	PW	Rose-Hill				
+MU	71308		Plaines Wilhems	PW	Rose-Hill				
+MU	71309		Plaines Wilhems	PW	Rose-Hill				
+MU	71311		Plaines Wilhems	PW	Rose-Hill				
+MU	71312		Plaines Wilhems	PW	Rose-Hill				
+MU	71313		Plaines Wilhems	PW	Rose-Hill				
+MU	71314		Plaines Wilhems	PW	Rose-Hill				
+MU	71315		Plaines Wilhems	PW	Rose-Hill				
+MU	71317		Plaines Wilhems	PW	Rose-Hill				
+MU	71318		Plaines Wilhems	PW	Rose-Hill				
+MU	71319		Plaines Wilhems	PW	Rose-Hill				
+MU	71320		Plaines Wilhems	PW	Rose-Hill				
+MU	71321		Plaines Wilhems	PW	Rose-Hill				
+MU	71322		Plaines Wilhems	PW	Rose-Hill				
+MU	71323		Plaines Wilhems	PW	Rose-Hill				
+MU	71324		Plaines Wilhems	PW	Rose-Hill				
+MU	71327		Plaines Wilhems	PW	Rose-Hill				
+MU	71336		Plaines Wilhems	PW	Rose-Hill				
+MU	71337		Plaines Wilhems	PW	Rose-Hill				
+MU	71339		Plaines Wilhems	PW	Rose-Hill				
+MU	71340		Plaines Wilhems	PW	Rose-Hill				
+MU	71347		Plaines Wilhems	PW	Rose-Hill				
+MU	71348		Plaines Wilhems	PW	Rose-Hill				
+MU	71349		Plaines Wilhems	PW	Rose-Hill				
+MU	71350		Plaines Wilhems	PW	Rose-Hill				
+MU	71351		Plaines Wilhems	PW	Rose-Hill				
+MU	71352		Plaines Wilhems	PW	Rose-Hill				
+MU	71353		Plaines Wilhems	PW	Rose-Hill				
+MU	71354		Plaines Wilhems	PW	Rose-Hill				
+MU	71356		Plaines Wilhems	PW	Rose-Hill				
+MU	71360		Plaines Wilhems	PW	Rose-Hill				
+MU	71361		Plaines Wilhems	PW	Rose-Hill				
+MU	71362		Plaines Wilhems	PW	Rose-Hill				
+MU	71363		Plaines Wilhems	PW	Rose-Hill				
+MU	71364		Plaines Wilhems	PW	Rose-Hill				
+MU	71365		Plaines Wilhems	PW	Rose-Hill				
+MU	71366		Plaines Wilhems	PW	Rose-Hill				
+MU	71367		Plaines Wilhems	PW	Rose-Hill				
+MU	71368		Plaines Wilhems	PW	Rose-Hill				
+MU	72101		Plaines Wilhems	PW	Rose-Hill				
+MU	72102		Plaines Wilhems	PW	Rose-Hill				
+MU	72106		Plaines Wilhems	PW	Rose-Hill				
+MU	72107		Plaines Wilhems	PW	Rose-Hill				
+MU	72108		Plaines Wilhems	PW	Rose-Hill				
+MU	72109		Plaines Wilhems	PW	Rose-Hill				
+MU	72204		Plaines Wilhems	PW	Rose-Hill				
+MU	72301		Plaines Wilhems	PW	Rose-Hill				
+MU	52602		Plaines Wilhems	PW	Seizième Mille				
+MU	52603		Plaines Wilhems	PW	Seizième Mille				
+MU	52604		Plaines Wilhems	PW	Seizième Mille				
+MU	52605		Plaines Wilhems	PW	Seizième Mille				
+MU	52606		Plaines Wilhems	PW	Seizième Mille				
+MU	52607		Plaines Wilhems	PW	Seizième Mille				
+MU	52608		Plaines Wilhems	PW	Seizième Mille				
+MU	52609		Plaines Wilhems	PW	Seizième Mille				
+MU	11202		Port Louis	PL	Port Louis				
+MU	11203		Port Louis	PL	Port Louis				
+MU	11204		Port Louis	PL	Port Louis				
+MU	11205		Port Louis	PL	Port Louis				
+MU	11206		Port Louis	PL	Port Louis				
+MU	11207		Port Louis	PL	Port Louis				
+MU	11208		Port Louis	PL	Port Louis				
+MU	11209		Port Louis	PL	Port Louis				
+MU	11210		Port Louis	PL	Port Louis				
+MU	11211		Port Louis	PL	Port Louis				
+MU	11212		Port Louis	PL	Port Louis				
+MU	11213		Port Louis	PL	Port Louis				
+MU	11214		Port Louis	PL	Port Louis				
+MU	11215		Port Louis	PL	Port Louis				
+MU	11216		Port Louis	PL	Port Louis				
+MU	11217		Port Louis	PL	Port Louis				
+MU	11218		Port Louis	PL	Port Louis				
+MU	11219		Port Louis	PL	Port Louis				
+MU	11220		Port Louis	PL	Port Louis				
+MU	11221		Port Louis	PL	Port Louis				
+MU	11222		Port Louis	PL	Port Louis				
+MU	11223		Port Louis	PL	Port Louis				
+MU	11224		Port Louis	PL	Port Louis				
+MU	11225		Port Louis	PL	Port Louis				
+MU	11226		Port Louis	PL	Port Louis				
+MU	11227		Port Louis	PL	Port Louis				
+MU	11301		Port Louis	PL	Port Louis				
+MU	11302		Port Louis	PL	Port Louis				
+MU	11303		Port Louis	PL	Port Louis				
+MU	11304		Port Louis	PL	Port Louis				
+MU	11305		Port Louis	PL	Port Louis				
+MU	11306		Port Louis	PL	Port Louis				
+MU	11307		Port Louis	PL	Port Louis				
+MU	11308		Port Louis	PL	Port Louis				
+MU	11309		Port Louis	PL	Port Louis				
+MU	11310		Port Louis	PL	Port Louis				
+MU	11311		Port Louis	PL	Port Louis				
+MU	11312		Port Louis	PL	Port Louis				
+MU	11313		Port Louis	PL	Port Louis				
+MU	11314		Port Louis	PL	Port Louis				
+MU	11315		Port Louis	PL	Port Louis				
+MU	11316		Port Louis	PL	Port Louis				
+MU	11317		Port Louis	PL	Port Louis				
+MU	11318		Port Louis	PL	Port Louis				
+MU	11319		Port Louis	PL	Port Louis				
+MU	11320		Port Louis	PL	Port Louis				
+MU	11321		Port Louis	PL	Port Louis				
+MU	11322		Port Louis	PL	Port Louis				
+MU	11323		Port Louis	PL	Port Louis				
+MU	11324		Port Louis	PL	Port Louis				
+MU	11325		Port Louis	PL	Port Louis				
+MU	11326		Port Louis	PL	Port Louis				
+MU	11327		Port Louis	PL	Port Louis				
+MU	11328		Port Louis	PL	Port Louis				
+MU	11401		Port Louis	PL	Port Louis				
+MU	11402		Port Louis	PL	Port Louis				
+MU	11403		Port Louis	PL	Port Louis				
+MU	11404		Port Louis	PL	Port Louis				
+MU	11405		Port Louis	PL	Port Louis				
+MU	11406		Port Louis	PL	Port Louis				
+MU	11407		Port Louis	PL	Port Louis				
+MU	11408		Port Louis	PL	Port Louis				
+MU	11409		Port Louis	PL	Port Louis				
+MU	11410		Port Louis	PL	Port Louis				
+MU	11411		Port Louis	PL	Port Louis				
+MU	11412		Port Louis	PL	Port Louis				
+MU	11413		Port Louis	PL	Port Louis				
+MU	11501		Port Louis	PL	Port Louis				
+MU	11502		Port Louis	PL	Port Louis				
+MU	11503		Port Louis	PL	Port Louis				
+MU	11504		Port Louis	PL	Port Louis				
+MU	11505		Port Louis	PL	Port Louis				
+MU	11506		Port Louis	PL	Port Louis				
+MU	11601		Port Louis	PL	Port Louis				
+MU	11602		Port Louis	PL	Port Louis				
+MU	11603		Port Louis	PL	Port Louis				
+MU	11604		Port Louis	PL	Port Louis				
+MU	11605		Port Louis	PL	Port Louis				
+MU	11606		Port Louis	PL	Port Louis				
+MU	11607		Port Louis	PL	Port Louis				
+MU	11608		Port Louis	PL	Port Louis				
+MU	11609		Port Louis	PL	Port Louis				
+MU	11610		Port Louis	PL	Port Louis				
+MU	11611		Port Louis	PL	Port Louis				
+MU	11612		Port Louis	PL	Port Louis				
+MU	11613		Port Louis	PL	Port Louis				
+MU	11614		Port Louis	PL	Port Louis				
+MU	11615		Port Louis	PL	Port Louis				
+MU	11701		Port Louis	PL	Port Louis				
+MU	11702		Port Louis	PL	Port Louis				
+MU	11703		Port Louis	PL	Port Louis				
+MU	11704		Port Louis	PL	Port Louis				
+MU	11705		Port Louis	PL	Port Louis				
+MU	11706		Port Louis	PL	Port Louis				
+MU	11707		Port Louis	PL	Port Louis				
+MU	11708		Port Louis	PL	Port Louis				
+MU	11801		Port Louis	PL	Port Louis				
+MU	11802		Port Louis	PL	Port Louis				
+MU	11803		Port Louis	PL	Port Louis				
+MU	11804		Port Louis	PL	Port Louis				
+MU	11805		Port Louis	PL	Port Louis				
+MU	11806		Port Louis	PL	Port Louis				
+MU	11807		Port Louis	PL	Port Louis				
+MU	11808		Port Louis	PL	Port Louis				
+MU	11809		Port Louis	PL	Port Louis				
+MU	11810		Port Louis	PL	Port Louis				
+MU	11811		Port Louis	PL	Port Louis				
+MU	11812		Port Louis	PL	Port Louis				
+MU	11813		Port Louis	PL	Port Louis				
+MU	11814		Port Louis	PL	Port Louis				
+MU	11815		Port Louis	PL	Port Louis				
+MU	11816		Port Louis	PL	Port Louis				
+MU	11817		Port Louis	PL	Port Louis				
+MU	11818		Port Louis	PL	Port Louis				
+MU	31502		Riviere du Rempart	RR	Amitié				
+MU	31503		Riviere du Rempart	RR	Amitié				
+MU	31504		Riviere du Rempart	RR	Amitié				
+MU	31702		Riviere du Rempart	RR	Cap Malheureux				
+MU	31703		Riviere du Rempart	RR	Cap Malheureux				
+MU	31704		Riviere du Rempart	RR	Cap Malheureux				
+MU	31705		Riviere du Rempart	RR	Cap Malheureux				
+MU	31706		Riviere du Rempart	RR	Cap Malheureux				
+MU	31707		Riviere du Rempart	RR	Cap Malheureux				
+MU	31708		Riviere du Rempart	RR	Cap Malheureux				
+MU	31709		Riviere du Rempart	RR	Cap Malheureux				
+MU	31710		Riviere du Rempart	RR	Cap Malheureux				
+MU	31711		Riviere du Rempart	RR	Cap Malheureux				
+MU	31712		Riviere du Rempart	RR	Cap Malheureux				
+MU	31713		Riviere du Rempart	RR	Cap Malheureux				
+MU	31714		Riviere du Rempart	RR	Cap Malheureux				
+MU	31715		Riviere du Rempart	RR	Cap Malheureux				
+MU	31716		Riviere du Rempart	RR	Cap Malheureux				
+MU	31717		Riviere du Rempart	RR	Cap Malheureux				
+MU	31718		Riviere du Rempart	RR	Cap Malheureux				
+MU	31719		Riviere du Rempart	RR	Cap Malheureux				
+MU	31720		Riviere du Rempart	RR	Cap Malheureux				
+MU	31721		Riviere du Rempart	RR	Cap Malheureux				
+MU	31722		Riviere du Rempart	RR	Cap Malheureux				
+MU	31723		Riviere du Rempart	RR	Cap Malheureux				
+MU	31724		Riviere du Rempart	RR	Cap Malheureux				
+MU	31725		Riviere du Rempart	RR	Cap Malheureux				
+MU	31726		Riviere du Rempart	RR	Cap Malheureux				
+MU	31727		Riviere du Rempart	RR	Cap Malheureux				
+MU	30202		Riviere du Rempart	RR	Cottage				
+MU	30203		Riviere du Rempart	RR	Cottage				
+MU	30204		Riviere du Rempart	RR	Cottage				
+MU	30205		Riviere du Rempart	RR	Cottage				
+MU	30206		Riviere du Rempart	RR	Cottage				
+MU	30207		Riviere du Rempart	RR	Cottage				
+MU	30402		Riviere du Rempart	RR	Goodlands				
+MU	30403		Riviere du Rempart	RR	Goodlands				
+MU	30404		Riviere du Rempart	RR	Goodlands				
+MU	30405		Riviere du Rempart	RR	Goodlands				
+MU	30406		Riviere du Rempart	RR	Goodlands				
+MU	30407		Riviere du Rempart	RR	Goodlands				
+MU	30408		Riviere du Rempart	RR	Goodlands				
+MU	30409		Riviere du Rempart	RR	Goodlands				
+MU	30410		Riviere du Rempart	RR	Goodlands				
+MU	30411		Riviere du Rempart	RR	Goodlands				
+MU	30412		Riviere du Rempart	RR	Goodlands				
+MU	30413		Riviere du Rempart	RR	Goodlands				
+MU	30414		Riviere du Rempart	RR	Goodlands				
+MU	30415		Riviere du Rempart	RR	Goodlands				
+MU	30416		Riviere du Rempart	RR	Goodlands				
+MU	30417		Riviere du Rempart	RR	Goodlands				
+MU	30418		Riviere du Rempart	RR	Goodlands				
+MU	30419		Riviere du Rempart	RR	Goodlands				
+MU	30420		Riviere du Rempart	RR	Goodlands				
+MU	30421		Riviere du Rempart	RR	Goodlands				
+MU	30502		Riviere du Rempart	RR	Grand Baie				
+MU	30503		Riviere du Rempart	RR	Grand Baie				
+MU	30504		Riviere du Rempart	RR	Grand Baie				
+MU	30505		Riviere du Rempart	RR	Grand Baie				
+MU	30506		Riviere du Rempart	RR	Grand Baie				
+MU	30507		Riviere du Rempart	RR	Grand Baie				
+MU	30508		Riviere du Rempart	RR	Grand Baie				
+MU	30509		Riviere du Rempart	RR	Grand Baie				
+MU	30510		Riviere du Rempart	RR	Grand Baie				
+MU	30511		Riviere du Rempart	RR	Grand Baie				
+MU	30512		Riviere du Rempart	RR	Grand Baie				
+MU	30513		Riviere du Rempart	RR	Grand Baie				
+MU	30514		Riviere du Rempart	RR	Grand Baie				
+MU	30516		Riviere du Rempart	RR	Grand Baie				
+MU	30517		Riviere du Rempart	RR	Grand Baie				
+MU	30518		Riviere du Rempart	RR	Grand Baie				
+MU	30519		Riviere du Rempart	RR	Grand Baie				
+MU	30520		Riviere du Rempart	RR	Grand Baie				
+MU	30521		Riviere du Rempart	RR	Grand Baie				
+MU	30522		Riviere du Rempart	RR	Grand Baie				
+MU	30523		Riviere du Rempart	RR	Grand Baie				
+MU	30524		Riviere du Rempart	RR	Grand Baie				
+MU	30525		Riviere du Rempart	RR	Grand Baie				
+MU	30526		Riviere du Rempart	RR	Grand Baie				
+MU	30527		Riviere du Rempart	RR	Grand Baie				
+MU	30528		Riviere du Rempart	RR	Grand Baie				
+MU	30529		Riviere du Rempart	RR	Grand Baie				
+MU	30530		Riviere du Rempart	RR	Grand Baie				
+MU	30531		Riviere du Rempart	RR	Grand Baie				
+MU	30532		Riviere du Rempart	RR	Grand Baie				
+MU	30533		Riviere du Rempart	RR	Grand Baie				
+MU	30534		Riviere du Rempart	RR	Grand Baie				
+MU	30535		Riviere du Rempart	RR	Grand Baie				
+MU	30536		Riviere du Rempart	RR	Grand Baie				
+MU	30537		Riviere du Rempart	RR	Grand Baie				
+MU	30538		Riviere du Rempart	RR	Grand Baie				
+MU	30539		Riviere du Rempart	RR	Grand Baie				
+MU	30540		Riviere du Rempart	RR	Grand Baie				
+MU	30541		Riviere du Rempart	RR	Grand Baie				
+MU	30542		Riviere du Rempart	RR	Grand Baie				
+MU	30543		Riviere du Rempart	RR	Grand Baie				
+MU	30544		Riviere du Rempart	RR	Grand Baie				
+MU	30545		Riviere du Rempart	RR	Grand Baie				
+MU	30546		Riviere du Rempart	RR	Grand Baie				
+MU	30547		Riviere du Rempart	RR	Grand Baie				
+MU	30548		Riviere du Rempart	RR	Grand Baie				
+MU	30549		Riviere du Rempart	RR	Grand Baie				
+MU	30550		Riviere du Rempart	RR	Grand Baie				
+MU	30551		Riviere du Rempart	RR	Grand Baie				
+MU	30602		Riviere du Rempart	RR	Grand Gaube				
+MU	30603		Riviere du Rempart	RR	Grand Gaube				
+MU	30604		Riviere du Rempart	RR	Grand Gaube				
+MU	30605		Riviere du Rempart	RR	Grand Gaube				
+MU	30606		Riviere du Rempart	RR	Grand Gaube				
+MU	30607		Riviere du Rempart	RR	Grand Gaube				
+MU	30608		Riviere du Rempart	RR	Grand Gaube				
+MU	30609		Riviere du Rempart	RR	Grand Gaube				
+MU	30610		Riviere du Rempart	RR	Grand Gaube				
+MU	30611		Riviere du Rempart	RR	Grand Gaube				
+MU	30612		Riviere du Rempart	RR	Grand Gaube				
+MU	30613		Riviere du Rempart	RR	Grand Gaube				
+MU	30614		Riviere du Rempart	RR	Grand Gaube				
+MU	30615		Riviere du Rempart	RR	Grand Gaube				
+MU	30616		Riviere du Rempart	RR	Grand Gaube				
+MU	30617		Riviere du Rempart	RR	Grand Gaube				
+MU	30618		Riviere du Rempart	RR	Grand Gaube				
+MU	30619		Riviere du Rempart	RR	Grand Gaube				
+MU	30620		Riviere du Rempart	RR	Grand Gaube				
+MU	30621		Riviere du Rempart	RR	Grand Gaube				
+MU	30622		Riviere du Rempart	RR	Grand Gaube				
+MU	30623		Riviere du Rempart	RR	Grand Gaube				
+MU	30624		Riviere du Rempart	RR	Grand Gaube				
+MU	30625		Riviere du Rempart	RR	Grand Gaube				
+MU	30626		Riviere du Rempart	RR	Grand Gaube				
+MU	30627		Riviere du Rempart	RR	Grand Gaube				
+MU	31302		Riviere du Rempart	RR	Le Vale				
+MU	31802		Riviere du Rempart	RR	Mapou				
+MU	31803		Riviere du Rempart	RR	Mapou				
+MU	31804		Riviere du Rempart	RR	Mapou				
+MU	31805		Riviere du Rempart	RR	Mapou				
+MU	31806		Riviere du Rempart	RR	Mapou				
+MU	31807		Riviere du Rempart	RR	Mapou				
+MU	31808		Riviere du Rempart	RR	Mapou				
+MU	30702		Riviere du Rempart	RR	Petit Raffray				
+MU	30703		Riviere du Rempart	RR	Petit Raffray				
+MU	30704		Riviere du Rempart	RR	Petit Raffray				
+MU	30705		Riviere du Rempart	RR	Petit Raffray				
+MU	30706		Riviere du Rempart	RR	Petit Raffray				
+MU	30707		Riviere du Rempart	RR	Petit Raffray				
+MU	30708		Riviere du Rempart	RR	Petit Raffray				
+MU	30709		Riviere du Rempart	RR	Petit Raffray				
+MU	30710		Riviere du Rempart	RR	Petit Raffray				
+MU	30711		Riviere du Rempart	RR	Petit Raffray				
+MU	30712		Riviere du Rempart	RR	Petit Raffray				
+MU	30713		Riviere du Rempart	RR	Petit Raffray				
+MU	30714		Riviere du Rempart	RR	Petit Raffray				
+MU	30715		Riviere du Rempart	RR	Petit Raffray				
+MU	30716		Riviere du Rempart	RR	Petit Raffray				
+MU	30802		Riviere du Rempart	RR	Piton				
+MU	30803		Riviere du Rempart	RR	Piton				
+MU	30804		Riviere du Rempart	RR	Piton				
+MU	30805		Riviere du Rempart	RR	Piton				
+MU	30806		Riviere du Rempart	RR	Piton				
+MU	30807		Riviere du Rempart	RR	Piton				
+MU	30808		Riviere du Rempart	RR	Piton				
+MU	30809		Riviere du Rempart	RR	Piton				
+MU	30902		Riviere du Rempart	RR	Poudre d'Or				
+MU	30903		Riviere du Rempart	RR	Poudre d'Or				
+MU	30904		Riviere du Rempart	RR	Poudre d'Or				
+MU	30905		Riviere du Rempart	RR	Poudre d'Or				
+MU	31002		Riviere du Rempart	RR	Poudre d'Or Hamlet				
+MU	31003		Riviere du Rempart	RR	Poudre d'Or Hamlet				
+MU	31004		Riviere du Rempart	RR	Poudre d'Or Hamlet				
+MU	31005		Riviere du Rempart	RR	Poudre d'Or Hamlet				
+MU	31006		Riviere du Rempart	RR	Poudre d'Or Hamlet				
+MU	30102		Riviere du Rempart	RR	Rivière du Rempart				
+MU	30103		Riviere du Rempart	RR	Rivière du Rempart				
+MU	30104		Riviere du Rempart	RR	Rivière du Rempart				
+MU	30105		Riviere du Rempart	RR	Rivière du Rempart				
+MU	30106		Riviere du Rempart	RR	Rivière du Rempart				
+MU	30107		Riviere du Rempart	RR	Rivière du Rempart				
+MU	30108		Riviere du Rempart	RR	Rivière du Rempart				
+MU	31101		Riviere du Rempart	RR	Rivière du Rempart				
+MU	31102		Riviere du Rempart	RR	Rivière du Rempart				
+MU	31103		Riviere du Rempart	RR	Rivière du Rempart				
+MU	31104		Riviere du Rempart	RR	Rivière du Rempart				
+MU	31105		Riviere du Rempart	RR	Rivière du Rempart				
+MU	31106		Riviere du Rempart	RR	Rivière du Rempart				
+MU	31107		Riviere du Rempart	RR	Rivière du Rempart				
+MU	31108		Riviere du Rempart	RR	Rivière du Rempart				
+MU	31109		Riviere du Rempart	RR	Rivière du Rempart				
+MU	31110		Riviere du Rempart	RR	Rivière du Rempart				
+MU	31111		Riviere du Rempart	RR	Rivière du Rempart				
+MU	31112		Riviere du Rempart	RR	Rivière du Rempart				
+MU	31113		Riviere du Rempart	RR	Rivière du Rempart				
+MU	31114		Riviere du Rempart	RR	Rivière du Rempart				
+MU	31115		Riviere du Rempart	RR	Rivière du Rempart				
+MU	31116		Riviere du Rempart	RR	Rivière du Rempart				
+MU	31401		Riviere du Rempart	RR	Rivière du Rempart				
+MU	31402		Riviere du Rempart	RR	Rivière du Rempart				
+MU	31403		Riviere du Rempart	RR	Rivière du Rempart				
+MU	31404		Riviere du Rempart	RR	Rivière du Rempart				
+MU	31901		Riviere du Rempart	RR	Rivière du Rempart				
+MU	31902		Riviere du Rempart	RR	Rivière du Rempart				
+MU	31903		Riviere du Rempart	RR	Rivière du Rempart				
+MU	31904		Riviere du Rempart	RR	Rivière du Rempart				
+MU	31202		Riviere du Rempart	RR	Roches Noires				
+MU	31203		Riviere du Rempart	RR	Roches Noires				
+MU	31204		Riviere du Rempart	RR	Roches Noires				
+MU	31205		Riviere du Rempart	RR	Roches Noires				
+MU	31206		Riviere du Rempart	RR	Roches Noires				
+MU	31207		Riviere du Rempart	RR	Roches Noires				
+MU	31208		Riviere du Rempart	RR	Roches Noires				
+MU	32002		Riviere du Rempart	RR	Roche Terre				
+MU	R3418		Rodrigues	RO	Grand Montagne				
+MU	R342		Rodrigues	RO	Grand Montagne				
+MU	R3420		Rodrigues	RO	Grand Montagne				
+MU	R3423		Rodrigues	RO	Grand Montagne				
+MU	R3424		Rodrigues	RO	Grand Montagne				
+MU	R3426		Rodrigues	RO	Grand Montagne				
+MU	R3432		Rodrigues	RO	Grand Montagne				
+MU	R3439		Rodrigues	RO	Grand Montagne				
+MU	R348		Rodrigues	RO	Grand Montagne				
+MU	R349		Rodrigues	RO	Grand Montagne				
+MU	R641		Rodrigues	RO	Grand Montagne				
+MU	R6410		Rodrigues	RO	Grand Montagne				
+MU	R6411		Rodrigues	RO	Grand Montagne				
+MU	R6412		Rodrigues	RO	Grand Montagne				
+MU	R6413		Rodrigues	RO	Grand Montagne				
+MU	R6414		Rodrigues	RO	Grand Montagne				
+MU	R6415		Rodrigues	RO	Grand Montagne				
+MU	R6417		Rodrigues	RO	Grand Montagne				
+MU	R6419		Rodrigues	RO	Grand Montagne				
+MU	R6421		Rodrigues	RO	Grand Montagne				
+MU	R6422		Rodrigues	RO	Grand Montagne				
+MU	R6424		Rodrigues	RO	Grand Montagne				
+MU	R6425		Rodrigues	RO	Grand Montagne				
+MU	R6426		Rodrigues	RO	Grand Montagne				
+MU	R6427		Rodrigues	RO	Grand Montagne				
+MU	R6428		Rodrigues	RO	Grand Montagne				
+MU	R6429		Rodrigues	RO	Grand Montagne				
+MU	R643		Rodrigues	RO	Grand Montagne				
+MU	R6430		Rodrigues	RO	Grand Montagne				
+MU	R6431		Rodrigues	RO	Grand Montagne				
+MU	R6433		Rodrigues	RO	Grand Montagne				
+MU	R6434		Rodrigues	RO	Grand Montagne				
+MU	R6435		Rodrigues	RO	Grand Montagne				
+MU	R6436		Rodrigues	RO	Grand Montagne				
+MU	R6437		Rodrigues	RO	Grand Montagne				
+MU	R6438		Rodrigues	RO	Grand Montagne				
+MU	R6439		Rodrigues	RO	Grand Montagne				
+MU	R644		Rodrigues	RO	Grand Montagne				
+MU	R6440		Rodrigues	RO	Grand Montagne				
+MU	R6441		Rodrigues	RO	Grand Montagne				
+MU	R645		Rodrigues	RO	Grand Montagne				
+MU	R646		Rodrigues	RO	Grand Montagne				
+MU	R647		Rodrigues	RO	Grand Montagne				
+MU	R1312		Rodrigues	RO	La Ferme				
+MU	R1315		Rodrigues	RO	La Ferme				
+MU	R1316		Rodrigues	RO	La Ferme				
+MU	R1317		Rodrigues	RO	La Ferme				
+MU	R1318		Rodrigues	RO	La Ferme				
+MU	R1319		Rodrigues	RO	La Ferme				
+MU	R132		Rodrigues	RO	La Ferme				
+MU	R1320		Rodrigues	RO	La Ferme				
+MU	R1321		Rodrigues	RO	La Ferme				
+MU	R1322		Rodrigues	RO	La Ferme				
+MU	R1323		Rodrigues	RO	La Ferme				
+MU	R1326		Rodrigues	RO	La Ferme				
+MU	R1327		Rodrigues	RO	La Ferme				
+MU	R1328		Rodrigues	RO	La Ferme				
+MU	R133		Rodrigues	RO	La Ferme				
+MU	R1331		Rodrigues	RO	La Ferme				
+MU	R1332		Rodrigues	RO	La Ferme				
+MU	R1333		Rodrigues	RO	La Ferme				
+MU	R1334		Rodrigues	RO	La Ferme				
+MU	R1335		Rodrigues	RO	La Ferme				
+MU	R1337		Rodrigues	RO	La Ferme				
+MU	R135		Rodrigues	RO	La Ferme				
+MU	R136		Rodrigues	RO	La Ferme				
+MU	R137		Rodrigues	RO	La Ferme				
+MU	R138		Rodrigues	RO	La Ferme				
+MU	R139		Rodrigues	RO	La Ferme				
+MU	R2310		Rodrigues	RO	La Ferme				
+MU	R2311		Rodrigues	RO	La Ferme				
+MU	R2313		Rodrigues	RO	La Ferme				
+MU	R2314		Rodrigues	RO	La Ferme				
+MU	R2316		Rodrigues	RO	La Ferme				
+MU	R2322		Rodrigues	RO	La Ferme				
+MU	R2324		Rodrigues	RO	La Ferme				
+MU	R2325		Rodrigues	RO	La Ferme				
+MU	R2330		Rodrigues	RO	La Ferme				
+MU	R2336		Rodrigues	RO	La Ferme				
+MU	R234		Rodrigues	RO	La Ferme				
+MU	R4313		Rodrigues	RO	La Ferme				
+MU	R4329		Rodrigues	RO	La Ferme				
+MU	R4336		Rodrigues	RO	La Ferme				
+MU	R434		Rodrigues	RO	La Ferme				
+MU	R223		Rodrigues	RO	Mont Lubin				
+MU	R228		Rodrigues	RO	Mont Lubin				
+MU	R321		Rodrigues	RO	Mont Lubin				
+MU	R3211		Rodrigues	RO	Mont Lubin				
+MU	R3213		Rodrigues	RO	Mont Lubin				
+MU	R3214		Rodrigues	RO	Mont Lubin				
+MU	R3215		Rodrigues	RO	Mont Lubin				
+MU	R3217		Rodrigues	RO	Mont Lubin				
+MU	R3218		Rodrigues	RO	Mont Lubin				
+MU	R322		Rodrigues	RO	Mont Lubin				
+MU	R3220		Rodrigues	RO	Mont Lubin				
+MU	R3222		Rodrigues	RO	Mont Lubin				
+MU	R3224		Rodrigues	RO	Mont Lubin				
+MU	R3225		Rodrigues	RO	Mont Lubin				
+MU	R3226		Rodrigues	RO	Mont Lubin				
+MU	R3227		Rodrigues	RO	Mont Lubin				
+MU	R3228		Rodrigues	RO	Mont Lubin				
+MU	R3229		Rodrigues	RO	Mont Lubin				
+MU	R325		Rodrigues	RO	Mont Lubin				
+MU	R328		Rodrigues	RO	Mont Lubin				
+MU	R4216		Rodrigues	RO	Mont Lubin				
+MU	R4217		Rodrigues	RO	Mont Lubin				
+MU	R4226		Rodrigues	RO	Mont Lubin				
+MU	R5210		Rodrigues	RO	Mont Lubin				
+MU	R5212		Rodrigues	RO	Mont Lubin				
+MU	R5216		Rodrigues	RO	Mont Lubin				
+MU	R5218		Rodrigues	RO	Mont Lubin				
+MU	R5219		Rodrigues	RO	Mont Lubin				
+MU	R5221		Rodrigues	RO	Mont Lubin				
+MU	R5223		Rodrigues	RO	Mont Lubin				
+MU	R5230		Rodrigues	RO	Mont Lubin				
+MU	R5231		Rodrigues	RO	Mont Lubin				
+MU	R524		Rodrigues	RO	Mont Lubin				
+MU	R526		Rodrigues	RO	Mont Lubin				
+MU	R529		Rodrigues	RO	Mont Lubin				
+MU	R6219		Rodrigues	RO	Mont Lubin				
+MU	R6223		Rodrigues	RO	Mont Lubin				
+MU	R6231		Rodrigues	RO	Mont Lubin				
+MU	R627		Rodrigues	RO	Mont Lubin				
+MU	R4112		Rodrigues	RO	Port Mathurin				
+MU	R4115		Rodrigues	RO	Port Mathurin				
+MU	R4117		Rodrigues	RO	Port Mathurin				
+MU	R4118		Rodrigues	RO	Port Mathurin				
+MU	R4119		Rodrigues	RO	Port Mathurin				
+MU	R412		Rodrigues	RO	Port Mathurin				
+MU	R4120		Rodrigues	RO	Port Mathurin				
+MU	R4121		Rodrigues	RO	Port Mathurin				
+MU	R4123		Rodrigues	RO	Port Mathurin				
+MU	R4124		Rodrigues	RO	Port Mathurin				
+MU	R4125		Rodrigues	RO	Port Mathurin				
+MU	R4129		Rodrigues	RO	Port Mathurin				
+MU	R413		Rodrigues	RO	Port Mathurin				
+MU	R415		Rodrigues	RO	Port Mathurin				
+MU	R416		Rodrigues	RO	Port Mathurin				
+MU	R419		Rodrigues	RO	Port Mathurin				
+MU	R5110		Rodrigues	RO	Port Mathurin				
+MU	R5111		Rodrigues	RO	Port Mathurin				
+MU	R5113		Rodrigues	RO	Port Mathurin				
+MU	R5114		Rodrigues	RO	Port Mathurin				
+MU	R5116		Rodrigues	RO	Port Mathurin				
+MU	R5120		Rodrigues	RO	Port Mathurin				
+MU	R5122		Rodrigues	RO	Port Mathurin				
+MU	R5126		Rodrigues	RO	Port Mathurin				
+MU	R5127		Rodrigues	RO	Port Mathurin				
+MU	R5128		Rodrigues	RO	Port Mathurin				
+MU	R5129		Rodrigues	RO	Port Mathurin				
+MU	R5130		Rodrigues	RO	Port Mathurin				
+MU	R5131		Rodrigues	RO	Port Mathurin				
+MU	R514		Rodrigues	RO	Port Mathurin				
+MU	R517		Rodrigues	RO	Port Mathurin				
+MU	R518		Rodrigues	RO	Port Mathurin				
+MU	R519		Rodrigues	RO	Port Mathurin				
+MU	R618		Rodrigues	RO	Port Mathurin				
+MU	R1514		Rodrigues	RO	Rivière Cocos				
+MU	R1515		Rodrigues	RO	Rivière Cocos				
+MU	R1516		Rodrigues	RO	Rivière Cocos				
+MU	R152		Rodrigues	RO	Rivière Cocos				
+MU	R1520		Rodrigues	RO	Rivière Cocos				
+MU	R154		Rodrigues	RO	Rivière Cocos				
+MU	R155		Rodrigues	RO	Rivière Cocos				
+MU	R156		Rodrigues	RO	Rivière Cocos				
+MU	R157		Rodrigues	RO	Rivière Cocos				
+MU	R158		Rodrigues	RO	Rivière Cocos				
+MU	R159		Rodrigues	RO	Rivière Cocos				
+MU	R251		Rodrigues	RO	Rivière Cocos				
+MU	R2510		Rodrigues	RO	Rivière Cocos				
+MU	R2511		Rodrigues	RO	Rivière Cocos				
+MU	R2513		Rodrigues	RO	Rivière Cocos				
+MU	R2517		Rodrigues	RO	Rivière Cocos				
+MU	R2519		Rodrigues	RO	Rivière Cocos				
+MU	R253		Rodrigues	RO	Rivière Cocos				
+MU	R3512		Rodrigues	RO	Rivière Cocos				
+MU	R3518		Rodrigues	RO	Rivière Cocos				
+MU	60102		Savanne	SA	Baie du Cap				
+MU	61002		Savanne	SA	Bel Ombre				
+MU	61003		Savanne	SA	Bel Ombre				
+MU	61004		Savanne	SA	Bel Ombre				
+MU	61005		Savanne	SA	Bel Ombre				
+MU	61006		Savanne	SA	Bel Ombre				
+MU	61102		Savanne	SA	Bénarès				
+MU	61103		Savanne	SA	Bénarès				
+MU	60202		Savanne	SA	Bois Chéri				
+MU	60203		Savanne	SA	Bois Chéri				
+MU	60204		Savanne	SA	Bois Chéri				
+MU	60205		Savanne	SA	Bois Chéri				
+MU	60206		Savanne	SA	Bois Chéri				
+MU	60207		Savanne	SA	Bois Chéri				
+MU	60208		Savanne	SA	Bois Chéri				
+MU	60209		Savanne	SA	Bois Chéri				
+MU	60210		Savanne	SA	Bois Chéri				
+MU	60211		Savanne	SA	Bois Chéri				
+MU	60212		Savanne	SA	Bois Chéri				
+MU	60213		Savanne	SA	Bois Chéri				
+MU	60214		Savanne	SA	Bois Chéri				
+MU	61202		Savanne	SA	Britannia				
+MU	61203		Savanne	SA	Britannia				
+MU	61204		Savanne	SA	Britannia				
+MU	61205		Savanne	SA	Britannia				
+MU	61206		Savanne	SA	Britannia				
+MU	60302		Savanne	SA	Camp Diable				
+MU	60303		Savanne	SA	Camp Diable				
+MU	60304		Savanne	SA	Camp Diable				
+MU	60305		Savanne	SA	Camp Diable				
+MU	60306		Savanne	SA	Camp Diable				
+MU	61302		Savanne	SA	Chamouny				
+MU	61303		Savanne	SA	Chamouny				
+MU	60402		Savanne	SA	Chemin Grenier				
+MU	60403		Savanne	SA	Chemin Grenier				
+MU	60404		Savanne	SA	Chemin Grenier				
+MU	60405		Savanne	SA	Chemin Grenier				
+MU	60406		Savanne	SA	Chemin Grenier				
+MU	60407		Savanne	SA	Chemin Grenier				
+MU	60408		Savanne	SA	Chemin Grenier				
+MU	60409		Savanne	SA	Chemin Grenier				
+MU	60410		Savanne	SA	Chemin Grenier				
+MU	60411		Savanne	SA	Chemin Grenier				
+MU	60412		Savanne	SA	Chemin Grenier				
+MU	60413		Savanne	SA	Chemin Grenier				
+MU	60414		Savanne	SA	Chemin Grenier				
+MU	60415		Savanne	SA	Chemin Grenier				
+MU	60416		Savanne	SA	Chemin Grenier				
+MU	60417		Savanne	SA	Chemin Grenier				
+MU	60418		Savanne	SA	Chemin Grenier				
+MU	60419		Savanne	SA	Chemin Grenier				
+MU	60420		Savanne	SA	Chemin Grenier				
+MU	60421		Savanne	SA	Chemin Grenier				
+MU	60422		Savanne	SA	Chemin Grenier				
+MU	60423		Savanne	SA	Chemin Grenier				
+MU	60424		Savanne	SA	Chemin Grenier				
+MU	60510		Savanne	SA	Grand Bois				
+MU	60511		Savanne	SA	Grand Bois				
+MU	60512		Savanne	SA	Grand Bois				
+MU	60513		Savanne	SA	Grand Bois				
+MU	60514		Savanne	SA	Grand Bois				
+MU	61702		Savanne	SA	La Flora				
+MU	61703		Savanne	SA	La Flora				
+MU	61704		Savanne	SA	La Flora				
+MU	61705		Savanne	SA	La Flora				
+MU	61706		Savanne	SA	La Flora				
+MU	61707		Savanne	SA	La Flora				
+MU	61708		Savanne	SA	La Flora				
+MU	60602		Savanne	SA	Rivière des Anguilles				
+MU	60603		Savanne	SA	Rivière des Anguilles				
+MU	60604		Savanne	SA	Rivière des Anguilles				
+MU	60605		Savanne	SA	Rivière des Anguilles				
+MU	60606		Savanne	SA	Rivière des Anguilles				
+MU	60608		Savanne	SA	Rivière des Anguilles				
+MU	60609		Savanne	SA	Rivière des Anguilles				
+MU	60610		Savanne	SA	Rivière des Anguilles				
+MU	60611		Savanne	SA	Rivière des Anguilles				
+MU	61802		Savanne	SA	Rivière des Anguilles				
+MU	60702		Savanne	SA	Rivière du Poste				
+MU	60703		Savanne	SA	Rivière du Poste				
+MU	60704		Savanne	SA	Rivière du Poste				
+MU	60802		Savanne	SA	Souillac				
+MU	60803		Savanne	SA	Souillac				
+MU	60804		Savanne	SA	Souillac				
+MU	60805		Savanne	SA	Souillac				
+MU	60806		Savanne	SA	Souillac				
+MU	60807		Savanne	SA	Souillac				
+MU	60808		Savanne	SA	Souillac				
+MU	60809		Savanne	SA	Souillac				
+MU	60810		Savanne	SA	Souillac				
+MU	60811		Savanne	SA	Souillac				
+MU	60812		Savanne	SA	Souillac				
+MU	60813		Savanne	SA	Souillac				
+MU	60902		Savanne	SA	Surinam				
+MU	60903		Savanne	SA	Surinam				
+MU	60904		Savanne	SA	Surinam				
+MU	60905		Savanne	SA	Surinam				
+MU	60906		Savanne	SA	Surinam				
+MU	60907		Savanne	SA	Surinam				
+MU	60908		Savanne	SA	Surinam				
+MU	60909		Savanne	SA	Surinam				
+MU	60910		Savanne	SA	Surinam				
+MU	60911		Savanne	SA	Surinam				
+MU	60912		Savanne	SA	Surinam				
+MU	60913		Savanne	SA	Surinam				
+MU	60914		Savanne	SA	Surinam				
+MU	60915		Savanne	SA	Surinam				
+MU	60916		Savanne	SA	Surinam				
+MU	60917		Savanne	SA	Surinam				
+MU	60918		Savanne	SA	Surinam				
+MU	60919		Savanne	SA	Surinam				
+MU	61802		Savanne	SA	Tyack				
+MU	61803		Savanne	SA	Tyack				
+MU	61804		Savanne	SA	Tyack				
+MU	61805		Savanne	SA	Tyack				
+MU	61502		Savanne	SA	Union Ducray - Saint Aubin				
+MU	61503		Savanne	SA	Union Ducray - Saint Aubin				
+MU	61504		Savanne	SA	Union Ducray - Saint Aubin				

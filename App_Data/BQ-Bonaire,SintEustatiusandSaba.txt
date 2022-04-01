@@ -1,0 +1,60 @@
+BQ	00000 		Sint Eustatius	SE	Cottageweg						
+BQ	00000 		Sint Eustatius	SE	De Windtweg						
+BQ	00000 		Sint Eustatius	SE	Faeschweg						
+BQ	00000 		Sint Eustatius	SE	Heyligerweg						
+BQ	00000 		Sint Eustatius	SE	Kruisweg						
+BQ	00000 		Sint Eustatius	SE	Logeweg						
+BQ	00000 		Sint Eustatius	SE	Paramira weg						
+BQ	00000 		Sint Eustatius	SE	Rosemary Laan						
+BQ	00000 		Sint Eustatius	SE	Sadlerweg						
+BQ	00000 		Bonaire	BO	Andrea Drive						
+BQ	00000 		Bonaire	BO	Atlantis						
+BQ	00000 		Bonaire	BO	Bario Den Tera						
+BQ	00000 		Bonaire	BO	Bario Santa Rosa						
+BQ	00000 		Bonaire	BO	Blv Miguel A Pourier						
+BQ	00000 		Bonaire	BO	Bulevar Gob. N. Debrot						
+BQ	00000 		Bonaire	BO	Centrum Gebied						
+BQ	00000 		Bonaire	BO	Court						
+BQ	00000 		Bonaire	BO	Den Stashie						
+BQ	00000 		Bonaire	BO	Den Tuna						
+BQ	00000 		Bonaire	BO	Divi Flamingo Entrance						
+BQ	00000 		Bonaire	BO	Driving Trail						
+BQ	00000 		Bonaire	BO	EEG Boulevard						
+BQ	00000 		Bonaire	BO	Finca Verde						
+BQ	00000 		Bonaire	BO	Hanchi Amboina						
+BQ	00000 		Bonaire	BO	Hilltop						
+BQ	00000 		Bonaire	BO	Julio A. Abraham Boulevard						
+BQ	00000 		Bonaire	BO	Kaminda Di Karpata						
+BQ	00000 		Bonaire	BO	Kaminda Djabao						
+BQ	00000 		Bonaire	BO	Kaminda Goto						
+BQ	00000 		Bonaire	BO	Kaminda Gurumbu						
+BQ	00000 		Bonaire	BO	Kaminda Karpata						
+BQ	00000 		Bonaire	BO	Kaminda Lac						
+BQ	00000 		Bonaire	BO	Kaminda Lagun						
+BQ	00000 		Bonaire	BO	Kaminda La Union						
+BQ	00000 		Bonaire	BO	Kaminda Mexico						
+BQ	00000 		Bonaire	BO	Kaminda Nieuw Amsterdam						
+BQ	00000 		Bonaire	BO	Kaminda Onima						
+BQ	00000 		Bonaire	BO	Kaminda Sabana Piedra Krus						
+BQ	00000 		Bonaire	BO	Kaminda Santa Barbara						
+BQ	00000 		Bonaire	BO	Kaminda Sorobon						
+BQ	00000 		Bonaire	BO	Kaminda Tras Di Montana						
+BQ	00000 		Bonaire	BO	Kaminda Yato Baco						
+BQ	00000 		Bonaire	BO	Kata Andino						
+BQ	00000 		Bonaire	BO	Kata Oro						
+BQ	00000 		Bonaire	BO	Kaya Adela						
+BQ	00000 		Bonaire	BO	Kaya Adriana						
+BQ	00000 		Bonaire	BO	Kaya Agnes						
+BQ	00000 		Bonaire	BO	Kaya Agrado						
+BQ	00000 		Bonaire	BO	Kaya Akuario						
+BQ	00000 		Bonaire	BO	Kaya Akwamarin						
+BQ	00000 		Bonaire	BO	Kaya Alablanka						
+BQ	00000 		Bonaire	BO	Kaya Albert Engelhardt						
+BQ	00000 		Bonaire	BO	Kaya Aleksandrit						
+BQ	00000 		Bonaire	BO	Kaya Alkmaar						
+BQ	00000 		Bonaire	BO	Kaya Amalia						
+BQ	00000 		Bonaire	BO	Kaya Amatisia						
+BQ	00000 		Bonaire	BO	Kaya Amazona						
+BQ	00000 		Bonaire	BO	Kaya America						
+BQ	00000 		Bonaire	BO	Kaya Amistad						
+BQ	00000 		Saba	SB	The Road						

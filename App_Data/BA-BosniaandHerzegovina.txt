@@ -1,0 +1,663 @@
+BA	88406	Glavatičevo	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88422	Glogošnica	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88205	Guber	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88368	Hodovo	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88395	Hrasno	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88394	Hutovo	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88420	Jablanica(Hercegovačko-Neretvanski kanton)	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88400	Konjic	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88203	Kruševo	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88380	Ljubinje	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	74450	Bosanski Brod	Federacija Bosne i Hercegovine	BIH	Posavski kanton						
+BA	74459	Brusnica Velika	Federacija Bosne i Hercegovine	BIH	Posavski kanton						
+BA	74473	Donja Dubica	Federacija Bosne i Hercegovine	BIH	Posavski kanton						
+BA	76274	Donja Mahala	Federacija Bosne i Hercegovine	BIH	Posavski kanton						
+BA	74477	Donji Svilaj	Federacija Bosne i Hercegovine	BIH	Posavski kanton						
+BA	74454	Kolibe Gornje	Federacija Bosne i Hercegovine	BIH	Posavski kanton						
+BA	74456	Koraće	Federacija Bosne i Hercegovine	BIH	Posavski kanton						
+BA	76276	Kostrč	Federacija Bosne i Hercegovine	BIH	Posavski kanton						
+BA	74453	Liješće	Federacija Bosne i Hercegovine	BIH	Posavski kanton						
+BA	76278	Lončari	Federacija Bosne i Hercegovine	BIH	Posavski kanton						
+BA	76213	Begovača	Brčko Distrikt	BRC	Omerbegovača						
+BA	76204	Bijela	Brčko Distrikt	BRC	Bijela						
+BA	76216	Brezovo Polje	Brčko Distrikt	BRC	Brezovo Polje						
+BA	76206	Brka	Brčko Distrikt	BRC	Brka						
+BA	76217	Brod	Brčko Distrikt	BRC	Brod						
+BA	76203	Bukvik	Brčko Distrikt	BRC	Bukvik Donji, Bukvik Gornji						
+BA	76215	Cerik	Brčko Distrikt	BRC	Cerik						
+BA	76207	Gornji Rahić	Brčko Distrikt	BRC	Gornji Rahić						
+BA	76214	Gornji Zovik	Brčko Distrikt	BRC	Gornji Zovik						
+BA	76212	Krepšić	Brčko Distrikt	BRC	Krepšić						
+BA	76208	Maoča	Brčko Distrikt	BRC	Maoča						
+BA	76218	Ražljevo	Brčko Distrikt	BRC	Ražljevo						
+BA	76209	Šatorovići	Brčko Distrikt	BRC	Šatorovići						
+BA	76205	Seonjaci	Brčko Distrikt	BRC	Seonjaci						
+BA	76211	Ulice	Brčko Distrikt	BRC	Ulice						
+BA	73208	Ilovača	Federacija Bosne i Hercegovine	BIH	Bosansko-Podrinjski kanton						
+BA	73206	Mravinjac	Federacija Bosne i Hercegovine	BIH	Bosansko-Podrinjski kanton						
+BA	73202	Ustiprača	Federacija Bosne i Hercegovine	BIH	Bosansko-Podrinjski kanton						
+BA	73205	Vitkovići	Federacija Bosne i Hercegovine	BIH	Bosansko-Podrinjski kanton						
+BA	88363	Berkovići	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88268	Biletici Polje	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88407	Bjelimići	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88201	Blagaj(Hercegovačko-Neretvanski kanton)	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88263	Blatnica(Hercegovačko-Neretvanski kanton)	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88405	Boračko Jezero	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88365	Borojevići	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88408	Bradina	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88393	Brštanica	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88202	Buna	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88366	Burmazi	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88409	Buturović Polje	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88300	Čapljina	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88404	Čelebići(Hercegovačko-Neretvanski kanton)	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88265	Čerin	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88106	Cim	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88260	Čitluk	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88367	Crnići	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88305	Domanovići	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88215	Drežnica	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88306	Gabela	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	70224	Torlakovac	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	72283	Turbe	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	70240	Uskoplje	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	70234	Vesela	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	70202	Vinac	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	72250	Vitez	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	70246	Voljevac	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	70247	Voljice	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	75290	Banovići	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75322	Boljanić	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	76271	Matići	Federacija Bosne i Hercegovine	BIH	Posavski kanton						
+BA	74475	Novi Grad	Federacija Bosne i Hercegovine	BIH	Posavski kanton						
+BA	74457	Novo Selo	Federacija Bosne i Hercegovine	BIH	Posavski kanton						
+BA	74470	Odžak(Posavski kanton)	Federacija Bosne i Hercegovine	BIH	Posavski kanton						
+BA	76270	Orašje	Federacija Bosne i Hercegovine	BIH	Posavski kanton						
+BA	76279	Oštra Luka	Federacija Bosne i Hercegovine	BIH	Posavski kanton						
+BA	74458	Sijekovac	Federacija Bosne i Hercegovine	BIH	Posavski kanton						
+BA	76272	Tolisa	Federacija Bosne i Hercegovine	BIH	Posavski kanton						
+BA	76275	Vidovice	Federacija Bosne i Hercegovine	BIH	Posavski kanton						
+BA	74455	Vinska	Federacija Bosne i Hercegovine	BIH	Posavski kanton						
+BA	76273	Žabar Donji	Federacija Bosne i Hercegovine	BIH	Posavski kanton						
+BA	71215	Blažuj(Sarajevski kanton)	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71221	Dejčići	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71223	Delijaš	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71240	Hadžići	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71322	Hotonj	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71212	Hrasnica	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71210	Ilidža	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71213	Kasindo	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71222	Kijevo	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71323	Kobilja Glava	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	88266	Međugorje	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88390	Neum	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88423	Ostrožac(Hercegovačko-Neretvanski kanton)	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88403	Podorašac	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88206	Podvelež	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88402	Polje Bijela	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88208	Potoci	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88204	Prolog	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88440	Prozor-Rama	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88370	Ravno	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88213	Salakovac	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88446	Šćipe	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88445	Šćit	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88360	Stolac	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88307	Višići	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88113	Vrapčići	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88369	Žegulja	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88268	Žitomislići	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	76277	Bok	Federacija Bosne i Hercegovine	BIH	Posavski kanton						
+BA	75304	Prokosovići	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75305	Puračić	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75268	Rainci Gornji	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75275	Šerići	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75245	Šibošnica	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75207	Simin Han	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75353	Sladna	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75356	Špionica	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75350	Srebrenik	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	76258	Srnice	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	71243	Pazaric	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71217	Rakovica	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71321	Semizovac	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71218	Sokolović Kolonija	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71244	Tarčin	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71220	Trnovo	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71320	Vogošća	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	72286	Babanovac	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	72256	Bila	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	71255	Brestovsko	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	72295	Bučići	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	70230	Bugojno	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	72260	Busovača	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	70204	Divičani	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	72278	Dolac na Lašvi	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	70220	Donji Vakuf	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	70237	Drvetine	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	71270	Fojnica(Srednjobosanski kanton)	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	71275	Gojevići	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	70240	Gornji Vakuf	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	70233	Gračanica(Srednjobosanski kanton)	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	72277	Guča Gora	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	72281	Han Bila	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	70000	Jajce	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	70206	Jezero	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	72264	Kačuni	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	72265	Kaonik	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	70235	Karadže	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	72284	Karaula	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	71260	Kreševo	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	72253	Kruščica	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	72282	Mehurići	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	72276	Nova Bila	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	72290	Novi Travnik	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	70225	Oborci	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	72293	Opara	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	70243	Pajić Polje	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	72252	Počulica	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	70223	Prusac	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	72251	Stari Vitez	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	77228	Ostrožac(Unsko-Sanski kanton)	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77244	Otoka	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77273	Peći(Unsko-Sanski kanton)	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77227	Pećigrad	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77248	Pištaline	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77232	Podzvizd	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77209	Pokoj	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77215	Ripač	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	79285	Sanica Gornja	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	79260	Sanski Most	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	75325	Bosansko Petrovo Selo	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75203	Bukinje	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75246	Čelić	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75328	Doborovci	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75206	Dokanj	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	76257	Donja Međiđa	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75358	Duboki Potok	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75308	Duboštica	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75274	Dubrave Donje	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75273	Dubrave Gornje	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75309	Gnojnica	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75208	Gornja Tuzla	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75271	Gornje Živinice	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75320	Gračanica(Tuzlanski kanton)	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75276	Gračanica Selo	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	76250	Gradačac	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75244	Humci	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75216	Husino	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75260	Kalesija	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75211	Kiseljak(Tuzlanski kanton)	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75280	Kladanj	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75247	Koraj	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75213	Lipnica	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75214	Ljubače	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75240	Lopare	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75293	Lozna	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75300	Lukavac	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75301	Lukavac Mjesto	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75327	Lukavica	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75326	Malešići	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75267	Memići	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75269	Međeđa(Tuzlanski kanton)	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	76257	Međiđa Donja	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75329	Miričina	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75212	Mramor	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75323	Orahovica Donja	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	76256	Pelagićevo	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75355	Podorašje	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75303	Poljice(Tuzlanski kanton)	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75249	Priboj	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	80211	Čelebić(Federacija Bosne i Hercegovine)	Federacija Bosne i Hercegovine	BIH	Zapadnobosanski kanton (Kanton br. 10)						
+BA	80260	Drvar	Federacija Bosne i Hercegovine	BIH	Zapadnobosanski kanton (Kanton br. 10)						
+BA	80230	Glamoč	Federacija Bosne i Hercegovine	BIH	Zapadnobosanski kanton (Kanton br. 10)						
+BA	80212	Gubin	Federacija Bosne i Hercegovine	BIH	Zapadnobosanski kanton (Kanton br. 10)						
+BA	80246	Kazaginac	Federacija Bosne i Hercegovine	BIH	Zapadnobosanski kanton (Kanton br. 10)						
+BA	80244	Kongora	Federacija Bosne i Hercegovine	BIH	Zapadnobosanski kanton (Kanton br. 10)						
+BA	80320	Kupres	Federacija Bosne i Hercegovine	BIH	Zapadnobosanski kanton (Kanton br. 10)						
+BA	80204	Lištani	Federacija Bosne i Hercegovine	BIH	Zapadnobosanski kanton (Kanton br. 10)						
+BA	80101	Livno	Federacija Bosne i Hercegovine	BIH	Zapadnobosanski kanton (Kanton br. 10)						
+BA	80203	Lusnić	Federacija Bosne i Hercegovine	BIH	Zapadnobosanski kanton (Kanton br. 10)						
+BA	75324	Stjepan Polje	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75283	Stupari	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75357	Tinja	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75265	Tojšići	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	76255	Tramošnica	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	76253	Turić	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75306	Turija	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75307	Vasiljevci	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75248	Vražići	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	76254	Vučkovci	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	76259	Zelinja	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75270	Živinice	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75272	Ðurđevik	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	77246	Arapuša	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton City						
+BA	77240	Bosanska Krupa	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton City						
+BA	77250	Bosanski Petrovac	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton City						
+BA	77256	Bravsko	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton City						
+BA	77205	Brekovica	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	79269	Budimlić Japra	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77245	Bužim	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77220	Cazin	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77226	Ćoralići	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77242	Dobro Selo	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	79266	Donji Kamengrad	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	79289	Donji Vrbljani	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	79264	Fajtovci	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77222	Gornja Koprivna	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	79288	Gornji Ribnik	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77208	Izačić	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77247	Jasenica	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77241	Jezerski	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77204	Kamenica	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	79280	Ključ	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77249	Konjoder	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	79284	Krasulje	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77253	Krnjeuša	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77206	Kulen Vakuf	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	79267	Lušci Palanka	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77235	Mala Kladuša	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77258	Oštrelj	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	72224	Čardak	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	72246	Ćatići	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	71305	Donje Moštre	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	74258	Globarica	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	72225	Hajdarevići	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	72245	Haljinići	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	71254	Homoljska Cuprija	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	71380	Ilijaš	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	74256	Jablanica(Zeničko-Dobojski kanton)	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	72215	Janjići	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	79283	Sitnica	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	79268	Stari Majdan	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77224	Stijena	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77223	Šturlić	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77234	Šumatac	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77233	Todorovo	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	79265	Tomina	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77225	Tržačka Raštela	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77243	Varoška Rije	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77207	Velika Gata	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77230	Velika Kladuša	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77231	Vrnograč	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77203	Vrsta	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77254	Vrtoče	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77236	Zborište	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	88243	Bročanac	Federacija Bosne i Hercegovine	BIH	Zapadno-Hercegovački kanton City						
+BA	88343	Donji Mamići	Federacija Bosne i Hercegovine	BIH	Zapadno-Hercegovački kanton						
+BA	88344	Drinovci	Federacija Bosne i Hercegovine	BIH	Zapadno-Hercegovački kanton						
+BA	88342	Dužice	Federacija Bosne i Hercegovine	BIH	Zapadno-Hercegovački kanton						
+BA	88340	Grude	Federacija Bosne i Hercegovine	BIH	Zapadno-Hercegovački kanton						
+BA	88224	Jare	Federacija Bosne i Hercegovine	BIH	Zapadno-Hercegovački kanton						
+BA	88324	Klobuk	Federacija Bosne i Hercegovine	BIH	Zapadno-Hercegovački kanton						
+BA	88226	Kočerin	Federacija Bosne i Hercegovine	BIH	Zapadno-Hercegovački kanton						
+BA	88320	Ljubuški	Federacija Bosne i Hercegovine	BIH	Zapadno-Hercegovački kanton						
+BA	88223	Ljuti Dolac	Federacija Bosne i Hercegovine	BIH	Zapadno-Hercegovački kanton						
+BA	88240	Posušje	Federacija Bosne i Hercegovine	BIH	Zapadno-Hercegovački kanton						
+BA	88325	Radišići	Federacija Bosne i Hercegovine	BIH	Zapadno-Hercegovački kanton						
+BA	88245	Rakitno	Federacija Bosne i Hercegovine	BIH	Zapadno-Hercegovački kanton						
+BA	88347	Ružići	Federacija Bosne i Hercegovine	BIH	Zapadno-Hercegovački kanton						
+BA	88220	Široki Brijeg	Federacija Bosne i Hercegovine	BIH	Zapadno-Hercegovački kanton						
+BA	88345	Sokolac	Federacija Bosne i Hercegovine	BIH	Zapadno-Hercegovački kanton						
+BA	88345	Sovići	Federacija Bosne i Hercegovine	BIH	Zapadno-Hercegovački kanton						
+BA	88323	Studenci Ljub	Federacija Bosne i Hercegovine	BIH	Zapadno-Hercegovački kanton						
+BA	88348	Tihaljina	Federacija Bosne i Hercegovine	BIH	Zapadno-Hercegovački kanton						
+BA	88247	Vir	Federacija Bosne i Hercegovine	BIH	Zapadno-Hercegovački kanton						
+BA	88326	Vitina	Federacija Bosne i Hercegovine	BIH	Zapadno-Hercegovački kanton						
+BA	80329	Blagaj(Federacija Bosne i Hercegovine)	Federacija Bosne i Hercegovine	BIH	Zapadnobosanski kanton (Kanton br. 10)						
+BA	71271	Blažuj(Federacija Bosne i Hercegovine)	Federacija Bosne i Hercegovine	BIH	Zapadnobosanski kanton (Kanton br. 10)						
+BA	80275	Bosanski Crni Lukavac	Federacija Bosne i Hercegovine	BIH	Zapadnobosanski kanton (Kanton br. 10)						
+BA	80270	Bosansko Grahovo	Federacija Bosne i Hercegovine	BIH	Zapadnobosanski kanton (Kanton br. 10)						
+BA	78215	Dragočaj	Republika Srpska	SRP	Banja Luka						
+BA	78411	Dubrave	Republika Srpska	SRP	Banja Luka						
+BA	78203	Galeši	Republika Srpska	SRP	Banja Luka						
+BA	78405	Gornji Podgradci	Republika Srpska	SRP	Banja Luka						
+BA	78439	Gornji Štrpci	Republika Srpska	SRP	Banja Luka						
+BA	74272	Gornji Teslić	Republika Srpska	SRP	Banja Luka						
+BA	78227	Grabovica	Republika Srpska	SRP	Banja Luka						
+BA	78436	Hrvaćani	Republika Srpska	SRP	Banja Luka						
+BA	78234	Imljani	Republika Srpska	SRP	Banja Luka						
+BA	78216	Ivanjska	Republika Srpska	SRP	Banja Luka						
+BA	74264	Jelah	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton City						
+BA	72240	Kakanj	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	74268	Kalošević	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	71250	Kiseljak(Zeničko-Dobojski kanton)	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	74253	Kosova	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	72226	Kovači	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	72244	Kraljeva Sutjeska	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	72216	Lašva	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	71254	Lepenica	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	74250	Maglaj	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	72212	Nemila	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	71383	Nišići	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	74254	Novi Šeher	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	71334	Okruglica	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	71340	Olovo	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	80265	Martin Brod	Federacija Bosne i Hercegovine	BIH	Zapadnobosanski kanton (Kanton br. 10)						
+BA	80243	Mesihovina	Federacija Bosne i Hercegovine	BIH	Zapadnobosanski kanton (Kanton br. 10)						
+BA	80233	Odžak(Federacija Bosne i Hercegovine)	Federacija Bosne i Hercegovine	BIH	Zapadnobosanski kanton (Kanton br. 10)						
+BA	80206	Orguz	Federacija Bosne i Hercegovine	BIH	Zapadnobosanski kanton (Kanton br. 10)						
+BA	80273	Peći(Federacija Bosne i Hercegovine)	Federacija Bosne i Hercegovine	BIH	Zapadnobosanski kanton (Kanton br. 10)						
+BA	80209	Podhum	Federacija Bosne i Hercegovine	BIH	Zapadnobosanski kanton (Kanton br. 10)						
+BA	80201	Potočani(Federacija Bosne i Hercegovine)	Federacija Bosne i Hercegovine	BIH	Zapadnobosanski kanton (Kanton br. 10)						
+BA	80263	Prekaja	Federacija Bosne i Hercegovine	BIH	Zapadnobosanski kanton (Kanton br. 10)						
+BA	80274	Preodac	Federacija Bosne i Hercegovine	BIH	Zapadnobosanski kanton (Kanton br. 10)						
+BA	80202	Priluka	Federacija Bosne i Hercegovine	BIH	Zapadnobosanski kanton (Kanton br. 10)						
+BA	80245	Prisoje	Federacija Bosne i Hercegovine	BIH	Zapadnobosanski kanton (Kanton br. 10)						
+BA	80247	Raško Polje	Federacija Bosne i Hercegovine	BIH	Zapadnobosanski kanton (Kanton br. 10)						
+BA	80326	Rilić	Federacija Bosne i Hercegovine	BIH	Zapadnobosanski kanton (Kanton br. 10)						
+BA	80235	Rore	Federacija Bosne i Hercegovine	BIH	Zapadnobosanski kanton (Kanton br. 10)						
+BA	80237	Staro Selo	Federacija Bosne i Hercegovine	BIH	Zapadnobosanski kanton (Kanton br. 10)						
+BA	80249	Šuica	Federacija Bosne i Hercegovine	BIH	Zapadnobosanski kanton (Kanton br. 10)						
+BA	80240	Tomislavgrad	Federacija Bosne i Hercegovine	BIH	Zapadnobosanski kanton (Kanton br. 10)						
+BA	80267	Veliki Cvjetnić	Federacija Bosne i Hercegovine	BIH	Zapadnobosanski kanton (Kanton br. 10)						
+BA	80208	Vidoši	Federacija Bosne i Hercegovine	BIH	Zapadnobosanski kanton (Kanton br. 10)						
+BA	72207	Babino	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	72233	Begov Han	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	71253	Bilalovac	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	72248	Bilješevo	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	71370	Breza	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	72243	Brnjic	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	78422	Sitneši	Republika Srpska	SRP	Banja Luka						
+BA	78230	Skender Vakuf	Republika Srpska	SRP	Banja Luka						
+BA	74271	Slatina	Republika Srpska	SRP	Banja Luka						
+BA	78253	Slatina Ilidža	Republika Srpska	SRP	Banja Luka						
+BA	78420	Srbac	Republika Srpska	SRP	Banja Luka						
+BA	79249	Sreflije	Republika Srpska	SRP	Banja Luka						
+BA	78243	Stara Dubra	Republika Srpska	SRP	Banja Luka						
+BA	78208	Stričići	Republika Srpska	SRP	Banja Luka						
+BA	70273	Stroice	Republika Srpska	SRP	Banja Luka						
+BA	79229	Svodna	Republika Srpska	SRP	Banja Luka						
+BA	72238	Ozimica	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	74255	Paklenica	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	71387	Podlugovi	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	72207	Puhovac	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	71385	Srednje	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	72209	Stranjani	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	74260	Tešanj	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	74266	Tešanjka	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	72213	Topcic Polje	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	71330	Vareš	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	71333	Vareš Majdan	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	71300	Visoko	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	74265	Vitkovci Donji	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	72227	Vozuća	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	72220	Zavidovići	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	72236	Željezno Polje	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	72230	Žepce	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	71373	Župča	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	78000	Banja Luka	Republika Srpska	SRP	Banja Luka						
+BA	74273	Banja Vrućica	Republika Srpska	SRP	Banja Luka						
+BA	70267	Baraći	Republika Srpska	SRP	Banja Luka						
+BA	70262	Bjelajce	Republika Srpska	SRP	Banja Luka						
+BA	74275	Blatnica(Banja Luka)	Republika Srpska	SRP	Banja Luka						
+BA	79240	Bosanska Dubica	Republika Srpska	SRP	Banja Luka						
+BA	78400	Bosanska Gradiška	Republika Srpska	SRP	Banja Luka						
+BA	79224	Bosanska Kostajnica	Republika Srpska	SRP	Banja Luka						
+BA	78255	Bosanski Aleksandrovac	Republika Srpska	SRP	Banja Luka						
+BA	78423	Bosanski Kobaš	Republika Srpska	SRP	Banja Luka						
+BA	79220	Bosanski Novi	Republika Srpska	SRP	Banja Luka						
+BA	79208	Brezičani	Republika Srpska	SRP	Banja Luka						
+BA	78204	Bronzani Majdan	Republika Srpska	SRP	Banja Luka						
+BA	74277	Buletić	Republika Srpska	SRP	Banja Luka						
+BA	74274	Čečava	Republika Srpska	SRP	Banja Luka						
+BA	78240	Čelinac	Republika Srpska	SRP	Banja Luka						
+BA	78403	Cerovljani	Republika Srpska	SRP	Banja Luka						
+BA	79243	Demirovac	Republika Srpska	SRP	Banja Luka						
+BA	78236	Dobretići	Republika Srpska	SRP	Banja Luka						
+BA	79223	Dobrljin	Republika Srpska	SRP	Banja Luka						
+BA	79228	Donji Agići	Republika Srpska	SRP	Banja Luka						
+BA	78432	Donji Vijačani	Republika Srpska	SRP	Banja Luka						
+BA	76234	Grebnice	Republika Srpska	SRP	Doboj						
+BA	74214	Johovac	Republika Srpska	SRP	Doboj						
+BA	74413	Kalenderovci	Republika Srpska	SRP	Doboj						
+BA	74207	Klokotnica	Republika Srpska	SRP	Doboj						
+BA	74489	Koprivna	Republika Srpska	SRP	Doboj						
+BA	76236	Kornica	Republika Srpska	SRP	Doboj						
+BA	74222	Kostajnica	Republika Srpska	SRP	Doboj						
+BA	74215	Kotorsko	Republika Srpska	SRP	Doboj						
+BA	74415	Kulina	Republika Srpska	SRP	Doboj						
+BA	74411	Lupljanica	Republika Srpska	SRP	Doboj						
+BA	78233	Javorani	Republika Srpska	SRP	Banja Luka						
+BA	79244	Johova	Republika Srpska	SRP	Banja Luka						
+BA	79246	Knežica	Republika Srpska	SRP	Banja Luka						
+BA	78409	Kočićevo	Republika Srpska	SRP	Banja Luka						
+BA	78207	Kola	Republika Srpska	SRP	Banja Luka						
+BA	78220	Kotor Varoš	Republika Srpska	SRP	Banja Luka						
+BA	79202	Kozarac	Republika Srpska	SRP	Banja Luka						
+BA	78256	Kriškovci	Republika Srpska	SRP	Banja Luka						
+BA	78206	Krupa na Vrbasu	Republika Srpska	SRP	Banja Luka						
+BA	78226	Kruševo Brdo	Republika Srpska	SRP	Banja Luka						
+BA	78424	Kukulje	Republika Srpska	SRP	Banja Luka						
+BA	78443	Kulaši	Republika Srpska	SRP	Banja Luka						
+BA	78250	Laktaši	Republika Srpska	SRP	Banja Luka						
+BA	78407	Laminci-Sređani	Republika Srpska	SRP	Banja Luka						
+BA	78222	Liplje	Republika Srpska	SRP	Banja Luka						
+BA	78434	Lišnja	Republika Srpska	SRP	Banja Luka						
+BA	79206	Ljubija	Republika Srpska	SRP	Banja Luka						
+BA	78410	Mašići	Republika Srpska	SRP	Banja Luka						
+BA	78223	Maslovare	Republika Srpska	SRP	Banja Luka						
+BA	79247	Međuvođe	Republika Srpska	SRP	Banja Luka						
+BA	70260	Mrkonjić Grad	Republika Srpska	SRP	Banja Luka						
+BA	78418	Nova Topola	Republika Srpska	SRP	Banja Luka						
+BA	78428	Nožičko	Republika Srpska	SRP	Banja Luka						
+BA	79203	Omarska	Republika Srpska	SRP	Banja Luka						
+BA	78406	Orahova	Republika Srpska	SRP	Banja Luka						
+BA	78437	Palackovci	Republika Srpska	SRP	Banja Luka						
+BA	78217	Piskavica	Republika Srpska	SRP	Banja Luka						
+BA	70275	Pljeva	Republika Srpska	SRP	Banja Luka						
+BA	70266	Podrašnica	Republika Srpska	SRP	Banja Luka						
+BA	78435	Potočani(Banja Luka)	Republika Srpska	SRP	Banja Luka						
+BA	74276	Pribinić	Republika Srpska	SRP	Banja Luka						
+BA	79000	Prijedor	Republika Srpska	SRP	Banja Luka						
+BA	78430	Prnjavor	Republika Srpska	SRP	Banja Luka						
+BA	78242	Pupovac	Republika Srpska	SRP	Banja Luka						
+BA	78429	Razboj Lijevc	Republika Srpska	SRP	Banja Luka						
+BA	79226	Rudice	Republika Srpska	SRP	Banja Luka						
+BA	78202	Saračica	Republika Srpska	SRP	Banja Luka						
+BA	78433	Šibovska	Republika Srpska	SRP	Banja Luka						
+BA	70270	Šipovo	Republika Srpska	SRP	Banja Luka						
+BA	78224	Šiprage	Republika Srpska	SRP	Banja Luka						
+BA	73305	Zavoj	Republika Srpska	SRP	Foča						
+BA	73225	Borike	Republika Srpska	SRP	Sarajevo-Romanija						
+BA	71347	Careva Ćuprija	Republika Srpska	SRP	Sarajevo-Romanija						
+BA	71360	Han Pijesak	Republika Srpska	SRP	Sarajevo-Romanija						
+BA	73295	Hrenovica	Republika Srpska	SRP	Sarajevo-Romanija						
+BA	71423	Jahorina	Republika Srpska	SRP	Sarajevo-Romanija						
+BA	71355	Kaljina	Republika Srpska	SRP	Sarajevo-Romanija						
+BA	71356	Knežina	Republika Srpska	SRP	Sarajevo-Romanija						
+BA	73228	Mesići	Republika Srpska	SRP	Sarajevo-Romanija						
+BA	71428	Mokro	Republika Srpska	SRP	Sarajevo-Romanija						
+BA	74270	Teslić	Republika Srpska	SRP	Banja Luka						
+BA	78252	Trn	Republika Srpska	SRP	Banja Luka						
+BA	78404	Turjak	Republika Srpska	SRP	Banja Luka						
+BA	74278	Ugodnovići	Republika Srpska	SRP	Banja Luka						
+BA	78211	Vrbanja	Republika Srpska	SRP	Banja Luka						
+BA	78225	Vrbanjci	Republika Srpska	SRP	Banja Luka						
+BA	78408	Vrbaška	Republika Srpska	SRP	Banja Luka						
+BA	78214	Zalužani	Republika Srpska	SRP	Banja Luka						
+BA	76312	Batković	Republika Srpska	SRP	Bijeljina						
+BA	76300	Bijeljina	Republika Srpska	SRP	Bijeljina						
+BA	76321	Bijeljinsko suho Polje	Republika Srpska	SRP	Bijeljina						
+BA	76313	Brodac	Republika Srpska	SRP	Bijeljina						
+BA	76328	Crnjelovo	Republika Srpska	SRP	Bijeljina						
+BA	76323	Dragaljevac	Republika Srpska	SRP	Bijeljina						
+BA	76311	Dvorovi	Republika Srpska	SRP	Bijeljina						
+BA	76318	Glavičice	Republika Srpska	SRP	Bijeljina						
+BA	76316	Janja	Republika Srpska	SRP	Bijeljina						
+BA	76337	Teočak(Bijeljina)	Republika Srpska	SRP	Bijeljina						
+BA	76335	Trnava Donj	Republika Srpska	SRP	Bijeljina						
+BA	76310	Trnjaci	Republika Srpska	SRP	Bijeljina						
+BA	76330	Ugljevik	Republika Srpska	SRP	Bijeljina						
+BA	76329	Velika Obarska	Republika Srpska	SRP	Bijeljina						
+BA	76325	Vršani	Republika Srpska	SRP	Bijeljina						
+BA	76333	Zabrđe	Republika Srpska	SRP	Bijeljina						
+BA	74414	Bosanski Dubočac	Republika Srpska	SRP	Doboj City						
+BA	76230	Bosanski Šamac	Republika Srpska	SRP	Doboj City						
+BA	74221	Bosansko Suho Polje	Republika Srpska	SRP	Doboj City						
+BA	74206	Brijesnica	Republika Srpska	SRP	Doboj City						
+BA	74416	Bunar	Republika Srpska	SRP	Doboj City						
+BA	76239	Crkvina	Republika Srpska	SRP	Doboj City						
+BA	74400	Derventa(Doboj)	Republika Srpska	SRP	Doboj City						
+BA	74000	Doboj	Republika Srpska	SRP	Doboj						
+BA	76233	Domaljevac	Republika Srpska	SRP	Doboj						
+BA	76237	Donja Slatina	Republika Srpska	SRP	Doboj						
+BA	74209	Dragalovci	Republika Srpska	SRP	Doboj						
+BA	74483	Dugo Polje	Republika Srpska	SRP	Doboj						
+BA	74218	Foča(Doboj)	Republika Srpska	SRP	Doboj						
+BA	74484	Garevac	Republika Srpska	SRP	Doboj						
+BA	76238	Gornja Slatina	Republika Srpska	SRP	Doboj						
+BA	74223	Grapska	Republika Srpska	SRP	Doboj						
+BA	75444	Derventa(Vlasenica)	Republika Srpska	SRP	Vlasenica						
+BA	75410	Drinjača	Republika Srpska	SRP	Vlasenica						
+BA	75423	Fakovići	Republika Srpska	SRP	Vlasenica						
+BA	75404	Gušteri	Republika Srpska	SRP	Vlasenica						
+BA	75413	Kozluk	Republika Srpska	SRP	Vlasenica						
+BA	75422	Kravica	Republika Srpska	SRP	Vlasenica						
+BA	75446	Milići	Republika Srpska	SRP	Vlasenica						
+BA	75445	Nova Kasaba	Republika Srpska	SRP	Vlasenica						
+BA	75434	Osatica	Republika Srpska	SRP	Vlasenica						
+BA	75453	Paprača	Republika Srpska	SRP	Vlasenica						
+BA	74216	Majevac	Republika Srpska	SRP	Doboj						
+BA	74203	Matuzići	Republika Srpska	SRP	Doboj						
+BA	74485	Miloševac	Republika Srpska	SRP	Doboj						
+BA	74480	Modriča	Republika Srpska	SRP	Doboj						
+BA	76235	Obudovac	Republika Srpska	SRP	Doboj						
+BA	74412	Osinja	Republika Srpska	SRP	Doboj						
+BA	74225	Osječani	Republika Srpska	SRP	Doboj						
+BA	74217	Podnovlje	Republika Srpska	SRP	Doboj						
+BA	74212	Sjenina	Republika Srpska	SRP	Doboj						
+BA	74208	Stanari	Republika Srpska	SRP	Doboj						
+BA	74230	Usora	Republika Srpska	SRP	Doboj						
+BA	74213	Velika Bukovica	Republika Srpska	SRP	Doboj						
+BA	74487	Vranjak	Republika Srpska	SRP	Doboj						
+BA	73263	Bijelo Brdo	Republika Srpska	SRP	Foča City						
+BA	73309	Brod(Foča)	Republika Srpska	SRP	Foča City						
+BA	73280	Čajniče	Republika Srpska	SRP	Foča City						
+BA	73307	Čelebići(Foča)	Republika Srpska	SRP	Foča City						
+BA	71232	Dobro Polje	Republika Srpska	SRP	Foča City						
+BA	73247	Dobrun	Republika Srpska	SRP	Foča City						
+BA	73244	Drinsko	Republika Srpska	SRP	Foča City						
+BA	73300	Foča(Foča)	Republika Srpska	SRP	Foča City						
+BA	73303	Godjeno	Republika Srpska	SRP	Foča						
+BA	73255	Jabuka	Republika Srpska	SRP	Foča						
+BA	71230	Kalinovik	Republika Srpska	SRP	Foča						
+BA	73314	Kozja Luka	Republika Srpska	SRP	Foča						
+BA	73242	Međeđa(Foča)	Republika Srpska	SRP	Foča						
+BA	73285	Međurječje	Republika Srpska	SRP	Foča						
+BA	73283	Miljeno	Republika Srpska	SRP	Foča						
+BA	73313	Miljevina	Republika Srpska	SRP	Foča						
+BA	73245	Prelevo	Republika Srpska	SRP	Foča						
+BA	73260	Rudo	Republika Srpska	SRP	Foča						
+BA	73267	Srtgacina	Republika Srpska	SRP	Foča						
+BA	73311	Tjentište	Republika Srpska	SRP	Foča						
+BA	71233	Ulog	Republika Srpska	SRP	Foča						
+BA	73250	Ustikolina	Republika Srpska	SRP	Foča						
+BA	73265	Uvac	Republika Srpska	SRP	Foča						
+BA	73249	Vardište	Republika Srpska	SRP	Foča						
+BA	73240	Višegrad	Republika Srpska	SRP	Foča						
+BA	73287	Zaborak	Republika Srpska	SRP	Foča						
+BA	73305	Zavajt	Republika Srpska	SRP	Foča						
+BA	72000	Zenica	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	72001	Zenica	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	72101	Zenica	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	72102	Zenica	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	72104	Zenica	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	72105	Zenica	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	72106	Zenica	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	72108	Zenica	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	72109	Zenica	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	72112	Zenica	Federacija Bosne i Hercegovine	BIH	Zeničko-Dobojski kanton						
+BA	77000	Bihać	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77101	Bihać	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77103	Bihać	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77104	Bihać	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77105	Bihać	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	77106	Bihać	Federacija Bosne i Hercegovine	BIH	Unsko-Sanski kanton						
+BA	75000	Tuzla	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75101	Tuzla	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75103	Tuzla	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75104	Tuzla	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75105	Tuzla	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75106	Tuzla	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75107	Tuzla	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75108	Tuzla	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	75109	Tuzla	Federacija Bosne i Hercegovine	BIH	Tuzlanski kanton						
+BA	72270	Travnik	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	72273	Travnik	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	72274	Travnik	Federacija Bosne i Hercegovine	BIH	Srednjobosanski kanton						
+BA	71000	Sarajevo	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71101	Sarajevo	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71103	Sarajevo	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71104	Sarajevo	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71106	Sarajevo	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71107	Sarajevo	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71108	Sarajevo	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71120	Sarajevo	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71122	Sarajevo	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71123	Sarajevo	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71124	Sarajevo	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71125	Sarajevo	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71140	Sarajevo	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71141	Sarajevo	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71142	Sarajevo	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71160	Sarajevo	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71161	Sarajevo	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71162	Sarajevo	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71163	Sarajevo	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71166	Sarajevo	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71167	Sarajevo	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71211	Sarajevo	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	71219	Sarajevo	Federacija Bosne i Hercegovine	BIH	Sarajevski kanton						
+BA	88000	Mostar	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88103	Mostar	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88104	Mostar	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88108	Mostar	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88110	Mostar	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88443	Gračac	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	88392	Gračac	Federacija Bosne i Hercegovine	BIH	Hercegovačko-Neretvanski kanton						
+BA	73000	Goražde	Federacija Bosne i Hercegovine	BIH	Bosansko-Podrinjski kanton						
+BA	73101	Goražde	Federacija Bosne i Hercegovine	BIH	Bosansko-Podrinjski kanton						
+BA	76000	Brčko	Brčko Distrikt	BRC	Brčko						
+BA	76120	Brčko	Brčko Distrikt	BRC	Brčko						
+BA	75400	Zvornik	Republika Srpska	SRP	Vlasenica						
+BA	75412	Pilica	Republika Srpska	SRP	Vlasenica						
+BA	75433	Potočari	Republika Srpska	SRP	Vlasenica						
+BA	75411	Sapna	Republika Srpska	SRP	Vlasenica						
+BA	75450	Šekovići	Republika Srpska	SRP	Vlasenica						
+BA	75436	Skelani	Republika Srpska	SRP	Vlasenica						
+BA	75430	Srebrenica	Republika Srpska	SRP	Vlasenica						
+BA	75414	Teočak(Vlasenica)	Republika Srpska	SRP	Vlasenica						
+BA	75455	Tišča	Republika Srpska	SRP	Vlasenica						
+BA	75440	Vlasenica	Republika Srpska	SRP	Vlasenica						
+BA	71420	Pale	Republika Srpska	SRP	Sarajevo-Romanija						
+BA	71425	Podgrab	Republika Srpska	SRP	Sarajevo-Romanija						
+BA	73290	Prača	Republika Srpska	SRP	Sarajevo-Romanija						
+BA	73220	Rogatica	Republika Srpska	SRP	Sarajevo-Romanija						
+BA	73230	Šljedovići	Republika Srpska	SRP	Sarajevo-Romanija						
+BA	71357	Snrtici	Republika Srpska	SRP	Sarajevo-Romanija						
+BA	71357	Sokolovići	Republika Srpska	SRP	Sarajevo-Romanija						
+BA	73223	Stjenice	Republika Srpska	SRP	Sarajevo-Romanija						
+BA	73226	Žepa	Republika Srpska	SRP	Sarajevo-Romanija						
+BA	89245	Avtovac	Republika Srpska	SRP	Trebinje City						
+BA	89230	Bileća	Republika Srpska	SRP	Trebinje						
+BA	89243	Čemerno	Republika Srpska	SRP	Trebinje						
+BA	89233	Divin	Republika Srpska	SRP	Trebinje						
+BA	89202	Duži	Republika Srpska	SRP	Trebinje						
+BA	89247	Fojnica(Trebinje)	Republika Srpska	SRP	Trebinje						
+BA	89240	Gacko	Republika Srpska	SRP	Trebinje						
+BA	89201	Grab	Republika Srpska	SRP	Trebinje						
+BA	89203	Hum	Republika Srpska	SRP	Trebinje						
+BA	88283	Kifino Selo	Republika Srpska	SRP	Trebinje						
+BA	89208	Lastva	Republika Srpska	SRP	Trebinje						
+BA	89209	Ljubomir	Republika Srpska	SRP	Trebinje						
+BA	89204	Mosko	Republika Srpska	SRP	Trebinje						
+BA	89249	Nadinići	Republika Srpska	SRP	Trebinje						
+BA	88280	Nevesinje	Republika Srpska	SRP	Trebinje						
+BA	88285	Odžak(Trebinje)	Republika Srpska	SRP	Trebinje						
+BA	89235	Plana	Republika Srpska	SRP	Trebinje						
+BA	89206	Poljice(Trebinje)	Republika Srpska	SRP	Trebinje						
+BA	88288	Pridvorci	Republika Srpska	SRP	Trebinje						
+BA	89104	Trebinje	Republika Srpska	SRP	Trebinje						
+BA	88286	Zovi Do	Republika Srpska	SRP	Trebinje						
+BA	75420	Bratunac	Republika Srpska	SRP	Vlasenica City						

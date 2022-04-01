@@ -1,0 +1,431 @@
+JO	11183	Abdoun Al Janobi	Amman	AM	Amman Qasabah	AM		
+JO	11183	Abdoun Alshamali	Amman	AM	Amman Qasabah	AM		
+JO	11190	Al Abdali	Amman	AM	Amman Qasabah	AM		
+JO	11120	Al Hashmi Al Janoubi	Amman	AM	Amman Qasabah	AM		
+JO	11123	Al Hashmi Al Shamali	Amman	AM	Amman Qasabah	AM		
+JO	11195	Al Madinah Al Riyadiah	Amman	AM	Amman Qasabah	AM		
+JO	11181	Al Mohajrean	Amman	AM	Amman Qasabah	AM		
+JO	11115	Al Muhajireen	Amman	AM	Amman Qasabah	AM		
+JO	11100	AlQusur Al Malakiah	Amman	AM	Amman Qasabah	AM		
+JO	11591	Al Raqim	Amman	AM	Amman Qasabah	AM		
+JO	11732	Al Rewaq	Amman	AM	Amman Qasabah	AM		
+JO	11181	Al Rjoum	Amman	AM	Amman Qasabah	AM		
+JO	11152	Alwehdat	Amman	AM	Amman Qasabah	AM		
+JO	11151	Al Yarmouk	Amman	AM	Amman Qasabah	AM		
+JO	11110	Amman Central	Amman	AM	Amman Qasabah	AM		
+JO	11118	Amman City Center	Amman	AM	Amman Qasabah	AM		
+JO	11162	Azzuhour	Amman	AM	Amman Qasabah	AM		
+JO	11195	Dahyet Al-Hussein	Amman	AM	Amman Qasabah	AM		
+JO	11195	D. Al Amir Hasan	Amman	AM	Amman Qasabah	AM		
+JO	11162	Hai Al Sheailiyah	Amman	AM	Amman Qasabah	AM		
+JO	11171	Hai Nazzal	Amman	AM	Amman Qasabah	AM		
+JO	11180	Intercontinental Jordan	Amman	AM	Amman Qasabah	AM		
+JO	11171	Jabal Al Akhdar	Amman	AM	Amman Qasabah	AM		
+JO	11151	Jabal Al Ashrafiyeh	Amman	AM	Amman Qasabah	AM		
+JO	11121	Jabal AlHussein	Amman	AM	Amman Qasabah	AM		
+JO	11192	Jabal Al Hussein Al Gharbi	Amman	AM	Amman Qasabah	AM		
+JO	11161	Jabal Al Natheef	Amman	AM	Amman Qasabah	AM		
+JO	11118	Jabal Al Qalaa	Amman	AM	Amman Qasabah	AM		
+JO	11122	Jabal Al Qusur	Amman	AM	Amman Qasabah	AM		
+JO	11180	Jabal Amman	Amman	AM	Amman Qasabah	AM		
+JO	11191	Jabel Al Webdeh	Amman	AM	Amman Qasabah	AM		
+JO	11101	Parliament House	Amman	AM	Amman Qasabah	AM		
+JO	11131	Raghadan	Amman	AM	Amman Qasabah	AM		
+JO	11163	Ras Al-Ain	Amman	AM	Amman Qasabah	AM		
+JO	11194	Shmeisani	Amman	AM	Amman Qasabah	AM		
+JO	11122	Wadi Al Hidadah	Amman	AM	Amman Qasabah	AM		
+JO	11151	Wadi Al Suroor	Amman	AM	Amman Qasabah	AM		
+JO	11183	Zahran	Amman	AM	Amman Qasabah	AM		
+JO	16178	Al Dalelah	Amman	AM	Jizah	JI		
+JO	11622	Al Esra University	Amman	AM	Jizah	JI		
+JO	16010	Al Jizah	Amman	AM	Jizah	JI		
+JO	16197	Al qastal	Amman	AM	Jizah	JI		
+JO	16384	Al Qonaytrah	Amman	AM	Jizah	JI		
+JO	16010	Al Salahyah	Amman	AM	Jizah	JI		
+JO	16175	Al Zaafaran	Amman	AM	Jizah	JI		
+JO	16010	Arenbah Algharbyah	Amman	AM	Jizah	JI		
+JO	16010	Arenbah Alsharqyah	Amman	AM	Jizah	JI		
+JO	11652	At Tunayb	Amman	AM	Jizah	JI		
+JO	16186	Howarah	Amman	AM	Jizah	JI		
+JO	16187	Jalol	Amman	AM	Jizah	JI		
+JO	16010	Jiza	Amman	AM	Jizah	JI		
+JO	16188	Manja	Amman	AM	Jizah	JI		
+JO	16175	Netle	Amman	AM	Jizah	JI		
+JO	16384	Qasr al Mushatta	Amman	AM	Jizah	JI		
+JO	11104	Queen Alia Airport	Amman	AM	Jizah	JI		
+JO	17163	Sofa	Amman	AM	Jizah	JI		
+JO	16173	Um Alwalid	Amman	AM	Jizah	JI		
+JO	16197	Umm al Amad	Amman	AM	Jizah	JI		
+JO	16173	Umm Quseir	Amman	AM	Jizah	JI		
+JO	16194	Um Rummanah	Amman	AM	Jizah	JI		
+JO	16175	Zainab	Amman	AM	Jizah	JI		
+JO	16010	Zeezya	Amman	AM	Jizah	JI		
+JO	11946	Abu Alya	Amman	AM	Marka district	MK		
+JO	11134	Ain Ghazal	Amman	AM	Marka district	MK		
+JO	11131	Al Mahattah	Amman	AM	Marka district	MK		
+JO	11710	Al Shaheed Al Janobi	Amman	AM	Marka district	MK		
+JO	11710	Al Shaheed Al Shamali	Amman	AM	Marka district	MK		
+JO	11133	D. Al Ameerah Alia	Amman	AM	Marka district	MK		
+JO	11143	Hai Al Manara	Amman	AM	Marka district	MK		
+JO	11133	Hai Al Taqwa	Amman	AM	Marka district	MK		
+JO	11145	Jabal Al Jufah	Amman	AM	Marka district	MK		
+JO	11140	Jabal Al Naser	Amman	AM	Marka district	MK		
+JO	11141	Jabal Al Taj	Amman	AM	Marka district	MK		
+JO	11134	Marka Al Shamaliyah	Amman	AM	Marka district	MK		
+JO	11947	Tareq	Amman	AM	Marka district	MK		
+JO	16383	Alktaifah	Amman	AM	Muaqqar	MO		
+JO	11652	Al Lubban	Amman	AM	Muaqqar	MO		
+JO	16310	Al Matabah	Amman	AM	Muaqqar	MO		
+JO	16310	Al Mowaqar	Amman	AM	Muaqqar	MO		
+JO	16310	Al Muwaqqar	Amman	AM	Muaqqar	MO		
+JO	16665	Al Ram	Amman	AM	Muaqqar	MO		
+JO	16310	Ma'in El Muwaqqar	Amman	AM	Muaqqar	MO		
+JO	11562	Rajem Al Shami	Amman	AM	Muaqqar	MO		
+JO	16610	Um Al Rasas	Amman	AM	Muaqqar	MO		
+JO	16310	Zomlet Al Olya	Amman	AM	Muaqqar	MO		
+JO	17129	Al Mansourah	Amman	AM	Naoor	NA		
+JO	17198	Al Mushaqqar	Amman	AM	Naoor	NA		
+JO	17129	Al Rawdah	Amman	AM	Naoor	NA		
+JO	17127	Hisban	Amman	AM	Naoor	NA		
+JO	11710	Naour	Amman	AM	Naoor	NA		
+JO	11891	Sail Hesban	Amman	AM	Naoor	NA		
+JO	17127	Alal	Amman	AM	Naoor	NA		
+JO	17621	Al Alyeh	Amman	AM	Naoor	NA		
+JO	17710	Al Aridh	Amman	AM	Naoor	NA		
+JO	17196	Al Faisaliyah	Amman	AM	Naoor	NA		
+JO	17141	Al Hai Al Sharqi	Amman	AM	Naoor	NA		
+JO	17682	Al Shqeiq	Amman	AM	Naoor	NA		
+JO	17610	Dhiban	Amman	AM	Naoor	NA		
+JO	17125	Jureineh	Amman	AM	Naoor	NA		
+JO	17699	Lub	Amman	AM	Naoor	NA		
+JO	17110	Ma’daba	Amman	AM	Naoor	NA		
+JO	17117	Madaba Camp	Amman	AM	Naoor	NA		
+JO	17173	Main	Amman	AM	Naoor	NA		
+JO	17126	Mazraet Alsamek	Amman	AM	Naoor	NA		
+JO	17629	Mlaih	Amman	AM	Naoor	NA		
+JO	17126	Um Albasateen	Amman	AM	Naoor	NA		
+JO	17138	Um El Basatin	Amman	AM	Naoor	NA		
+JO	11592	Abu Alanda	Amman	AM	Quaismeh	QM		
+JO	11623	Albnyat Aljanobi	Amman	AM	Quaismeh	QM		
+JO	11623	Al Bnyat Al Shamali	Amman	AM	Quaismeh	QM		
+JO	11623	Alforqan	Amman	AM	Quaismeh	QM		
+JO	11623	Al Horreyya	Amman	AM	Quaismeh	QM		
+JO	11623	Al Husnyah	Amman	AM	Quaismeh	QM		
+JO	11592	Al Ouroubah	Amman	AM	Quaismeh	QM		
+JO	11592	Al Qweismeh	Amman	AM	Quaismeh	QM		
+JO	11636	Al Tajamouat Industrial City	Amman	AM	Quaismeh	QM		
+JO	11610	Al Yadudah	Amman	AM	Quaismeh	QM		
+JO	11623	Alyasmeen	Amman	AM	Quaismeh	QM		
+JO	11610	Ghamdan	Amman	AM	Quaismeh	QM		
+JO	11142	Hai Hamlan	Amman	AM	Quaismeh	QM		
+JO	11592	Jweideh	Amman	AM	Quaismeh	QM		
+JO	11621	Khirbet As Soq	Amman	AM	Quaismeh	QM		
+JO	11732	Marj Al Hamam	Amman	AM	Quaismeh	QM		
+JO	11623	Mqabalain	Amman	AM	Quaismeh	QM		
+JO	11592	Raqim	Amman	AM	Quaismeh	QM		
+JO	11593	Um Al Hiran	Amman	AM	Quaismeh	QM		
+JO	11623	Um al Kundum	Amman	AM	Quaismeh	QM		
+JO	16197	Umm al Amad	Amman	AM	Quaismeh	QM		
+JO	11152	Um Nowarah	Amman	AM	Quaismeh	QM		
+JO	11511	Sahab	Amman	AM	Sahab	SH		
+JO	11512	Sahab Industrial City	Amman	AM	Sahab	SH		
+JO	11185	Aldeyar	Amman	AM	Wadi Essier	WE		
+JO	11855	Al Hussein Medical City	Amman	AM	Wadi Essier	WE		
+JO	11731	Alia Housing	Amman	AM	Wadi Essier	WE		
+JO	11817	Al Jandweal	Amman	AM	Wadi Essier	WE		
+JO	11817	Al Kursi	Amman	AM	Wadi Essier	WE		
+JO	11810	Al Rabaheya	Amman	AM	Wadi Essier	WE		
+JO	11185	Al Rawabi	Amman	AM	Wadi Essier	WE		
+JO	11817	Al Rawnaq	Amman	AM	Wadi Essier	WE		
+JO	11891	Bader Al Jadidah	Amman	AM	Wadi Essier	WE		
+JO	11814	Bayader Wadi Al Seer	Amman	AM	Wadi Essier	WE		
+JO	11810	Belal	Amman	AM	Wadi Essier	WE		
+JO	11874	Iraq al Amir	Amman	AM	Wadi Essier	WE		
+JO	11185	Sweifiyeh	Amman	AM	Wadi Essier	WE		
+JO	19154	Um Al Usud	Amman	AM	Wadi Essier	WE		
+JO	11185	Um Uthaynah Algharbi	Amman	AM	Wadi Essier	WE		
+JO	11185	Um Uthaynah Alsharqi	Amman	AM	Wadi Essier	WE		
+JO	11810	Wadi as Sir	Amman	AM	Wadi Essier	WE		
+JO	19328	Al-Ahliyya Amman University	Balqa	BA	Dair Alla	DA		
+JO	11910	Al Hay Al Sharqi	Balqa	BA	Dair Alla	DA		
+JO	19392	Philadelphia University	Balqa	BA	Dair Alla	DA		
+JO	19378	Safut	Balqa	BA	Dair Alla	DA		
+JO	19210	As Subayhi	Balqa	BA	Fuhais Mahes	MF		
+JO	19173	Yarqa	Balqa	BA	Salt Qasabah	ST		
+JO	19384	Er Rumeimin	Balqa	BA	Salt Qasabah	ST		
+JO	19385	Salhoob	Balqa	BA	Salt Qasabah	ST		
+JO	19484	Ain El Basha	Balqa	BA	Salt Qasabah	ST		
+JO	19381	Al Baqa'a	Balqa	BA	Salt Qasabah	ST		
+JO	19252	Allan	Balqa	BA	Salt Qasabah	ST		
+JO	19110	Al Salt	Balqa	BA	Salt Qasabah	ST		
+JO	19110	Al Salt (Wasat)	Balqa	BA	Salt Qasabah	ST		
+JO	19628	Amman University	Balqa	BA	Salt Qasabah	ST		
+JO	19117	Balqa Applied University	Balqa	BA	Salt Qasabah	ST		
+JO	19152	Fuheis	Balqa	BA	Salt Qasabah	ST		
+JO	19154	Mahes	Balqa	BA	Salt Qasabah	ST		
+JO	18323	Abu Obeideh & Balawna	Balqa	BA	Shoonah Janoobiyah	SJ		
+JO	19153	Al Alali	Balqa	BA	Shoonah Janoobiyah	SJ		
+JO	19143	Al Mudari	Balqa	BA	Shoonah Janoobiyah	SJ		
+JO	18186	Al Rawdha	Balqa	BA	Shoonah Janoobiyah	SJ		
+JO	18210	Deir Alla	Balqa	BA	Shoonah Janoobiyah	SJ		
+JO	18322	Khazmah	Balqa	BA	Shoonah Janoobiyah	SJ		
+JO	18261	Mu'adi	Balqa	BA	Shoonah Janoobiyah	SJ		
+JO	19255	Um Jozeh	Balqa	BA	Shoonah Janoobiyah	SJ		
+JO	21662	Irhaba	Irbid	IR	Bani Kenanah	BK		
+JO	21663	Zubya	Irbid	IR	Bani Kenanah	BK		
+JO	21310	At Turrah	Irbid	IR	Bani Obeid	BE		
+JO	21243	Hubras	Irbid	IR	Bani Obeid	BE		
+JO	21166	Aidun	Irbid	IR	Irbid Qasabah	IR		
+JO	26813	Ain Janna	Irbid	IR	Irbid Qasabah	IR		
+JO	26816	Ajloun Community College	Irbid	IR	Irbid Qasabah	IR		
+JO	26810	Ajlun Al Markazi	Irbid	IR	Irbid Qasabah	IR		
+JO	21753	Al Ashrafiyyah	Irbid	IR	Irbid Qasabah	IR		
+JO	21191	Al Bariha	Irbid	IR	Irbid Qasabah	IR		
+JO	25910	Al Bwaidah	Irbid	IR	Irbid Qasabah	IR		
+JO	21122	Al Hai Al Shamali	Irbid	IR	Irbid Qasabah	IR		
+JO	21141	Al Hai Al Sharqi	Irbid	IR	Irbid Qasabah	IR		
+JO	26894	Al Hashimiyah	Irbid	IR	Irbid Qasabah	IR		
+JO	21987	Al Himmah Al Urduniyah	Irbid	IR	Irbid Qasabah	IR		
+JO	26751	Al Keteh	Irbid	IR	Irbid Qasabah	IR		
+JO	26110	Al Kufer	Irbid	IR	Irbid Qasabah	IR		
+JO	28162	Al Manshiya	Irbid	IR	Irbid Qasabah	IR		
+JO	28172	Al Masharea	Irbid	IR	Irbid Qasabah	IR		
+JO	26160	Al Mastabah	Irbid	IR	Irbid Qasabah	IR		
+JO	21610	Al Mazar	Irbid	IR	Irbid Qasabah	IR		
+JO	21135	Al Mughaiyer	Irbid	IR	Irbid Qasabah	IR		
+JO	21988	Al Mukheiba Et Tahta	Irbid	IR	Irbid Qasabah	IR		
+JO	26138	Al Mushairifah	Irbid	IR	Irbid Qasabah	IR		
+JO	26111	Al Qairawan	Irbid	IR	Irbid Qasabah	IR		
+JO	21382	Al Shajara	Irbid	IR	Irbid Qasabah	IR		
+JO	28110	Al Shunah Al Shamaliyah	Irbid	IR	Irbid Qasabah	IR		
+JO	18281	Al Twal Al Janubi	Irbid	IR	Irbid Qasabah	IR		
+JO	26887	Al Wahadneh	Irbid	IR	Irbid Qasabah	IR		
+JO	21392	Amrawah	Irbid	IR	Irbid Qasabah	IR		
+JO	26861	Anjara	Irbid	IR	Irbid Qasabah	IR		
+JO	21233	Aqraba	Irbid	IR	Irbid Qasabah	IR		
+JO	21810	Attaybeh	Irbid	IR	Irbid Qasabah	IR		
+JO	21124	Bait Ras	Irbid	IR	Irbid Qasabah	IR		
+JO	21176	Bait Yafa	Irbid	IR	Irbid Qasabah	IR		
+JO	26126	Balela	Irbid	IR	Irbid Qasabah	IR		
+JO	26867	Ballas	Irbid	IR	Irbid Qasabah	IR		
+JO	26824	Bau'n	Irbid	IR	Irbid Qasabah	IR		
+JO	26767	Burma	Irbid	IR	Irbid Qasabah	IR		
+JO	21144	Bushra	Irbid	IR	Irbid Qasabah	IR		
+JO	21710	Deir Abu Sa'id	Irbid	IR	Irbid Qasabah	IR		
+JO	21833	Douqara	Irbid	IR	Irbid Qasabah	IR		
+JO	26821	Eshtafeina	Irbid	IR	Irbid Qasabah	IR		
+JO	21836	Fua'ra	Irbid	IR	Irbid Qasabah	IR		
+JO	21181	Hai Al Muwajeh	Irbid	IR	Irbid Qasabah	IR		
+JO	21132	Hakma	Irbid	IR	Irbid Qasabah	IR		
+JO	26895	Halawah	Irbid	IR	Irbid Qasabah	IR		
+JO	21127	Harima	Irbid	IR	Irbid Qasabah	IR		
+JO	21944	Hartha	Irbid	IR	Irbid Qasabah	IR		
+JO	21961	Hatem	Irbid	IR	Irbid Qasabah	IR		
+JO	21146	Hawwara	Irbid	IR	Irbid Qasabah	IR		
+JO	21821	Hufa Al Wisttiyyah	Irbid	IR	Irbid Qasabah	IR		
+JO	26833	Ibbeen	Irbid	IR	Irbid Qasabah	IR		
+JO	21682	Inbeh	Irbid	IR	Irbid Qasabah	IR		
+JO	21131	Industrial Center	Irbid	IR	Irbid Qasabah	IR		
+JO	21121	Irbid Camp	Irbid	IR	Irbid Qasabah	IR		
+JO	21110	Irbid Central	Irbid	IR	Irbid Qasabah	IR		
+JO	26110	Jarash Central	Irbid	IR	Irbid Qasabah	IR		
+JO	26150	Jarash University	Irbid	IR	Irbid Qasabah	IR		
+JO	21767	Jdaitta	Irbid	IR	Irbid Qasabah	IR		
+JO	21731	Jenin El Safa	Irbid	IR	Irbid Qasabah	IR		
+JO	26173	Jerash Camp	Irbid	IR	Irbid Qasabah	IR		
+JO	26119	Jerash Guests Center	Irbid	IR	Irbid Qasabah	IR		
+JO	28170	Jordan Vally Crossing	Irbid	IR	Irbid Qasabah	IR		
+JO	21622	Juhfiyah	Irbid	IR	Irbid Qasabah	IR		
+JO	21386	Kharja	Irbid	IR	Irbid Qasabah	IR		
+JO	28610	Krayymeh	Irbid	IR	Irbid Qasabah	IR		
+JO	21766	Kufr Abeel	Irbid	IR	Irbid Qasabah	IR		
+JO	21823	Kufr Asad	Irbid	IR	Irbid Qasabah	IR		
+JO	21764	Kufr Awan	Irbid	IR	Irbid Qasabah	IR		
+JO	21125	Kufr Jayez	Irbid	IR	Irbid Qasabah	IR		
+JO	26125	Kufr Khual	Irbid	IR	Irbid Qasabah	IR		
+JO	21762	Kufr Rakeb	Irbid	IR	Irbid Qasabah	IR		
+JO	26873	Kufrranja	Irbid	IR	Irbid Qasabah	IR		
+JO	21941	Kufr Saum	Irbid	IR	Irbid Qasabah	IR		
+JO	21182	Kufr Yuba	Irbid	IR	Irbid Qasabah	IR		
+JO	21981	Malka	Irbid	IR	Irbid Qasabah	IR		
+JO	26166	Mursa'	Irbid	IR	Irbid Qasabah	IR		
+JO	21129	Muthalath Sama Al Russan	Irbid	IR	Irbid Qasabah	IR		
+JO	26136	Qafqafa	Irbid	IR	Irbid Qasabah	IR		
+JO	26811	Qal'at Ajloun	Irbid	IR	Irbid Qasabah	IR		
+JO	21831	Qmaim	Irbid	IR	Irbid Qasabah	IR		
+JO	26879	Rajeb	Irbid	IR	Irbid Qasabah	IR		
+JO	26827	Ras Munif	Irbid	IR	Irbid Qasabah	IR		
+JO	26826	Rasun	Irbid	IR	Irbid Qasabah	IR		
+JO	26714	Reimoun	Irbid	IR	Irbid Qasabah	IR		
+JO	21921	Sahm	Irbid	IR	Irbid Qasabah	IR		
+JO	26836	Sakhra	Irbid	IR	Irbid Qasabah	IR		
+JO	26710	Sakib	Irbid	IR	Irbid Qasabah	IR		
+JO	21145	Sal	Irbid	IR	Irbid Qasabah	IR		
+JO	21910	Samar	Irbid	IR	Irbid Qasabah	IR		
+JO	21892	Samma	Irbid	IR	Irbid Qasabah	IR		
+JO	21733	Sammou	Irbid	IR	Irbid Qasabah	IR		
+JO	26194	Suf	Irbid	IR	Irbid Qasabah	IR		
+JO	26193	Suf Camp	Irbid	IR	Irbid Qasabah	IR		
+JO	21195	Sum	Irbid	IR	Irbid Qasabah	IR		
+JO	21752	Tubneh	Irbid	IR	Irbid Qasabah	IR		
+JO	21986	Umm Qais	Irbid	IR	Irbid Qasabah	IR		
+JO	22110	University of Science and Technology	Irbid	IR	Irbid Qasabah	IR		
+JO	26825	Urjan	Irbid	IR	Irbid Qasabah	IR		
+JO	28178	Wadi Ar - Rayyan	Irbid	IR	Irbid Qasabah	IR		
+JO	28164	Waqqas	Irbid	IR	Irbid Qasabah	IR		
+JO	21942	Yobla	Irbid	IR	Irbid Qasabah	IR		
+JO	21186	Zahar	Irbid	IR	Irbid Qasabah	IR		
+JO	21732	Zimal	Irbid	IR	Irbid Qasabah	IR		
+JO	21162	Al Hai Al Janubi	Irbid	IR	Ramtha	RA		
+JO	21510	Al Husun	Irbid	IR	Ramtha	RA		
+JO	21555	Al N'aimeh	Irbid	IR	Ramtha	RA		
+JO	21156	Al Sarih	Irbid	IR	Ramtha	RA		
+JO	21553	Ketem	Irbid	IR	Ramtha	RA		
+JO	21541	Martyr Azmi Mufti's Camp	Irbid	IR	Ramtha	RA		
+JO	21163	Yarmouk University	Irbid	IR	Ramtha	RA		
+JO	61142	Adar	Karak	KA	Karak district	KA		
+JO	61166	Al Adnaniyah	Karak	KA	Karak district	KA		
+JO	61110	Al Baraka	Karak	KA	Karak district	KA		
+JO	61110	Al Burj Ash Sharqi	Karak	KA	Karak district	KA		
+JO	61153	Al Ghuwayr	Karak	KA	Karak district	KA		
+JO	61256	Al Jedaiyedah	Karak	KA	Karak district	KA		
+JO	61101	Al Karak	Karak	KA	Karak district	KA		
+JO	61154	Al Ma'muniyah Ash Shamaliyah	Karak	KA	Karak district	KA		
+JO	61141	Al Manshiyyah	Karak	KA	Karak district	KA		
+JO	61110	Al Masjed Al Umari	Karak	KA	Karak district	KA		
+JO	61155	Al Mushayrifah	Karak	KA	Karak district	KA		
+JO	61110	Alsalihyyah	Karak	KA	Karak district	KA		
+JO	61151	Al Thaniyyah	Karak	KA	Karak district	KA		
+JO	61111	Ath Thallaja	Karak	KA	Karak district	KA		
+JO	61126	Batir	Karak	KA	Karak district	KA		
+JO	61192	Bazan	Karak	KA	Karak district	KA		
+JO	61111	Dahiyat Al Marj	Karak	KA	Karak district	KA		
+JO	61110	Dayr Ar Rahibat	Karak	KA	Karak district	KA		
+JO	61110	Dayr Ar Rum	Karak	KA	Karak district	KA		
+JO	61112	Hai Al Marj	Karak	KA	Karak district	KA		
+JO	61110	Hay Al Ma'aytah	Karak	KA	Karak district	KA		
+JO	61156	Midiyan	Karak	KA	Karak district	KA		
+JO	61633	Mirwad	Karak	KA	Karak district	KA		
+JO	61194	Momiya'	Karak	KA	Karak district	KA		
+JO	61122	Rakin	Karak	KA	Karak district	KA		
+JO	61183	Samra'	Karak	KA	Karak district	KA		
+JO	61176	Aiy	Maan	MN	Huseiniya	HU		
+JO	21419	Al Hai Al Gharbi-Ramtha	Maan	MN	Huseiniya	HU		
+JO	21467	Al Hasan Industrial City	Maan	MN	Huseiniya	HU		
+JO	61664	Al Hashamiyyeh Al Janoubiyyah	Maan	MN	Huseiniya	HU		
+JO	61518	Al Hussainiyyah	Maan	MN	Huseiniya	HU		
+JO	61693	Al Iraq	Maan	MN	Huseiniya	HU		
+JO	21763	Al Karama	Maan	MN	Huseiniya	HU		
+JO	25110	Al Mafraq	Maan	MN	Huseiniya	HU		
+JO	61610	Al Mazar	Maan	MN	Huseiniya	HU		
+JO	75610	Al Mdawarah	Maan	MN	Huseiniya	HU		
+JO	71921	Al Muqarieyah	Maan	MN	Huseiniya	HU		
+JO	61210	Alqasr	Maan	MN	Huseiniya	HU		
+JO	64210	Al Qatrana	Maan	MN	Huseiniya	HU		
+JO	71875	Al Rajef	Maan	MN	Huseiniya	HU		
+JO	21410	Al Ramtha	Maan	MN	Huseiniya	HU		
+JO	71974	Al Shammakh	Maan	MN	Huseiniya	HU		
+JO	61173	Al Shihabiyyah	Maan	MN	Huseiniya	HU		
+JO	61686	Al Taiyiba	Maan	MN	Huseiniya	HU		
+JO	61271	Al Yarut	Maan	MN	Huseiniya	HU		
+JO	61263	Ar Rabbah	Maan	MN	Huseiniya	HU		
+JO	61245	As'smakiyyah	Maan	MN	Huseiniya	HU		
+JO	71968	Ber Al Dabbaghat	Maan	MN	Huseiniya	HU		
+JO	25848	El Dejniyyah	Maan	MN	Huseiniya	HU		
+JO	58110	El Jafer	Maan	MN	Huseiniya	HU		
+JO	61295	Faqou	Maan	MN	Huseiniya	HU		
+JO	61294	Imra	Maan	MN	Huseiniya	HU		
+JO	61258	Industrial City	Maan	MN	Huseiniya	HU		
+JO	66126	Irhab Al Gharbiyeh	Maan	MN	Huseiniya	HU		
+JO	66117	Irwiem	Maan	MN	Huseiniya	HU		
+JO	61555	Madina Al Sinaeya	Maan	MN	Huseiniya	HU		
+JO	61665	Majra	Maan	MN	Huseiniya	HU		
+JO	61510	Mua'b	Maan	MN	Huseiniya	HU		
+JO	61621	Mutah	Maan	MN	Huseiniya	HU		
+JO	61710	Mutah University	Maan	MN	Huseiniya	HU		
+JO	71882	Petra	Maan	MN	Huseiniya	HU		
+JO	21433	Ramtha Boundary	Maan	MN	Huseiniya	HU		
+JO	25763	Rawdat Al Ameer Mohammad	Maan	MN	Huseiniya	HU		
+JO	71846	Rawdat Al Amir Rashed	Maan	MN	Huseiniya	HU		
+JO	64269	Sad Al Sultani	Maan	MN	Huseiniya	HU		
+JO	61642	Sul	Maan	MN	Huseiniya	HU		
+JO	61234	Talal	Maan	MN	Huseiniya	HU		
+JO	61562	Thatras	Maan	MN	Huseiniya	HU		
+JO	61192	Wadi Al Karak	Maan	MN	Huseiniya	HU		
+JO	71869	Al Muraigah	Maan	MN	Maan district	MN		
+JO	71857	Ail	Maan	MN	Maan district	MN		
+JO	71856	Bastah	Maan	MN	Maan district	MN		
+JO	71855	Ber Abu Danneh	Maan	MN	Maan district	MN		
+JO	71111	Al Hussein Bin Talal University	Maan	MN	Maan district	MN		
+JO	71839	Al Jarba	Maan	MN	Maan district	MN		
+JO	78621	Al Risheh	Maan	MN	Maan district	MN		
+JO	71110	Ma'an	Maan	MN	Maan district	MN		
+JO	71849	Udhruh	Maan	MN	Maan district	MN		
+JO	71910	Shobak	Maan	MN	Petra district	PE		
+JO	71873	At Taibah	Maan	MN	Shobak Qasabah	SB		
+JO	71878	Dilaghah	Maan	MN	Shobak Qasabah	SB		
+JO	71810	Wadi Musa	Maan	MN	Shobak Qasabah	SB		
+JO	25399	Jaber	Mafraq	MA	Badiah Gharbiyah	BG		
+JO	25383	Mughair Alsarhan	Mafraq	MA	Badiah Gharbiyah	BG		
+JO	25310	Sama Alsarhan	Mafraq	MA	Badiah Gharbiyah	BG		
+JO	43110	Al Safawi	Mafraq	MA	Badiah Shamaliyah	BS		
+JO	25454	Naifeh	Mafraq	MA	Badiah Shamaliyah	BS		
+JO	25443	Dafyaneh	Mafraq	MA	Badiah Shamaliyah	BS		
+JO	25410	Sabha-Subhiyeh	Mafraq	MA	Badiah Shamaliyah	BS		
+JO	25448	Um El-Quttain	Mafraq	MA	Badiah Shamaliyah	BS		
+JO	25488	Umm El-Jimal	Mafraq	MA	Badiah Shamaliyah	BS		
+JO	25710	Bala'ma	Mafraq	MA	Mafraq Qasabah	MD		
+JO	25764	Eznayeh	Mafraq	MA	Mafraq Qasabah	MD		
+JO	25732	Manshiet Al waibed	Mafraq	MA	Mafraq Qasabah	MD		
+JO	25883	Hamamet El Imush	Mafraq	MA	Mafraq Qasabah	MD		
+JO	25810	Rihab	Mafraq	MA	Mafraq Qasabah	MD		
+JO	25958	Al Hamra	Mafraq	MA	Mafraq Qasabah	MD		
+JO	25962	Al Harsh	Mafraq	MA	Mafraq Qasabah	MD		
+JO	25953	Husha	Mafraq	MA	Mafraq Qasabah	MD		
+JO	25173	Aidun Bani Hasan	Mafraq	MA	Mafraq Qasabah	MD		
+JO	25113	Al Al-Bayt University	Mafraq	MA	Mafraq Qasabah	MD		
+JO	25148	Al Baij	Mafraq	MA	Mafraq Qasabah	MD		
+JO	25610	Al Khalidiyyah	Mafraq	MA	Mafraq Qasabah	MD		
+JO	25823	Al Manshiyya	Mafraq	MA	Mafraq Qasabah	MD		
+JO	25197	Al Mansoura	Mafraq	MA	Mafraq Qasabah	MD		
+JO	25529	Amra Omairah	Mafraq	MA	Mafraq Qasabah	MD		
+JO	25527	Rawdat Al Amira Basma	Mafraq	MA	Mafraq Qasabah	MD		
+JO	25698	Thughret El-Jub	Mafraq	MA	Mafraq Qasabah	MD		
+JO	41111	Al Azraq Al Alshamali	Mafraq	MA	Rwaished	ER		
+JO	43984	Al-Refa'eyyat	Mafraq	MA	Rwaished	ER		
+JO	31110	Ruwaished	Mafraq	MA	Rwaished	ER		
+JO	66666	Al Qadisiyyeh	Tafiela	AT	Bsaira	BS		
+JO	66610	Basira	Tafiela	AT	Bsaira	BS		
+JO	64610	Al Hasa	Tafiela	AT	Hasa	HE		
+JO	64710	Jurf Ad Darawesh	Tafiela	AT	Hasa	HE		
+JO	64611	Phosphate Co. Housing	Tafiela	AT	Hasa	HE		
+JO	66165	Ain Al Baida	Tafiela	AT	Tafiela district	AT		
+JO	66141	Al Ies	Tafiela	AT	Tafiela district	AT		
+JO	66110	At Tafileh	Tafiela	AT	Tafiela district	AT		
+JO	66645	Gharandal	Tafiela	AT	Tafiela district	AT		
+JO	68210	Gour Al Mazra'ah	Tafiela	AT	Tafiela district	AT		
+JO	68110	Gour Al Safi	Tafiela	AT	Tafiela district	AT		
+JO	66122	Imah	Tafiela	AT	Tafiela district	AT		
+JO	13136	Adhleil	Zarqa	AZ	Russeifa	RS		
+JO	13111	Al Hai Al Tihari	Zarqa	AZ	Russeifa	RS		
+JO	13125	Al Hashmiyah	Zarqa	AZ	Russeifa	RS		
+JO	13163	Al Jabal Al Abyadh	Zarqa	AZ	Russeifa	RS		
+JO	13713	Al Mashairfah	Zarqa	AZ	Russeifa	RS		
+JO	13710	Al Rusaifah	Zarqa	AZ	Russeifa	RS		
+JO	13198	Al Sokhneh	Zarqa	AZ	Russeifa	RS		
+JO	13112	Al Zarka Al Jadidah	Zarqa	AZ	Russeifa	RS		
+JO	13116	Al Zarka Camp	Zarqa	AZ	Russeifa	RS		
+JO	13162	Awajan	Zarqa	AZ	Russeifa	RS		
+JO	13810	Beerein	Zarqa	AZ	Russeifa	RS		
+JO	13181	Dhaiyat Al Amirah Haya	Zarqa	AZ	Russeifa	RS		
+JO	13118	Hai Al Hussien	Zarqa	AZ	Russeifa	RS		
+JO	13781	Hitin Camp	Zarqa	AZ	Russeifa	RS		
+JO	13712	Ohud	Zarqa	AZ	Russeifa	RS		
+JO	13133	The Hashemide University	Zarqa	AZ	Russeifa	RS		
+JO	13115	Zarka Center	Zarqa	AZ	Russeifa	RS		
+JO	13110	Zarka Central	Zarqa	AZ	Russeifa	RS		
+JO	13134	Zarka free Zone	Zarqa	AZ	Russeifa	RS		
+JO	11196	Al Madinah Al Riyadiah	Amman	AM	Amman Qasabah	AM		
+JO	26156	Al Kufer	Irbid	IR	Irbid Qasabah	IR		
+JO	21933	Aqraba	Irbid	IR	Irbid Qasabah	IR		
+JO	71228	Al Hussainiyyah	Maan	MN	Huseiniya	HU		

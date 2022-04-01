@@ -1,0 +1,2011 @@
+DO	00000	Arenoso	Duarte	DU	Arenoso		Arenoso DM
+DO	00000	Los Platanitos	Duarte	DU	Arenoso		Arenoso DM
+DO	00000	Ciénaga Vieja	Duarte	DU	Arenoso		El Aguacate
+DO	00000	El Aguacate	Duarte	DU	Arenoso		El Aguacate
+DO	00000	Los Haitiles	Duarte	DU	Arenoso		El Aguacate
+DO	00000	Yabacao	Duarte	DU	Arenoso		El Aguacate
+DO	00000	La Garza	Duarte	DU	Arenoso		Las Coles
+DO	00000	La Jagua	Duarte	DU	Arenoso		Las Coles
+DO	00000	Las Carreras	Duarte	DU	Arenoso		Las Coles
+DO	00000	Las Coles	Duarte	DU	Arenoso		Las Coles
+DO	00000	Castillo	Duarte	DU	Castillo		Castillo DM
+DO	00000	Jina Clara	Duarte	DU	Castillo		Castillo DM
+DO	00000	Juana Díaz	Duarte	DU	Castillo		Castillo DM
+DO	00000	Los Cachones	Duarte	DU	Castillo		Castillo DM
+DO	00000	Los Lanos	Duarte	DU	Castillo		Castillo DM
+DO	00000	Rincón Hondo	Duarte	DU	Castillo		Castillo DM
+DO	00000	Yaiba Abajo	Duarte	DU	Castillo		Castillo DM
+DO	00000	Acicate	Duarte	DU	Eugenio Maria de Hostos		Eugenio Maria de Hostos DM
+DO	00000	Cerrejón	Duarte	DU	Eugenio Maria de Hostos		Eugenio Maria de Hostos DM
+DO	00000	Eugenio María de Hostos	Duarte	DU	Eugenio Maria de Hostos		Eugenio Maria de Hostos DM
+DO	00000	La Isleta	Duarte	DU	Eugenio Maria de Hostos		Eugenio Maria de Hostos DM
+DO	00000	Culata Abajo	Duarte	DU	Eugenio Maria de Hostos		Sabana Grande DM
+DO	00000	La Culata	Duarte	DU	Eugenio Maria de Hostos		Sabana Grande DM
+DO	00000	María Fernández	Duarte	DU	Eugenio Maria de Hostos		Sabana Grande DM
+DO	00000	Sabana Grande	Duarte	DU	Eugenio Maria de Hostos		Sabana Grande DM
+DO	00000	El Hato	Duarte	DU	Las Guaranas		Las Guaranas DM
+DO	00000	La Enea	Duarte	DU	Las Guaranas		Las Guaranas DM
+DO	00000	Las Guáranas	Duarte	DU	Las Guaranas		Las Guaranas DM
+DO	00000	Los Rivera	Duarte	DU	Las Guaranas		Las Guaranas DM
+DO	00000	Rincón de Los Genao	Duarte	DU	Las Guaranas		Las Guaranas DM
+DO	00000	Buena Vista	Duarte	DU	Pimentel Duarte		Pimentel
+DO	00000	Caobete	Duarte	DU	Pimentel Duarte		Pimentel
+DO	00000	Cuaba Abajo	Duarte	DU	Pimentel Duarte		Pimentel
+DO	00000	Pimentel	Duarte	DU	Pimentel Duarte		Pimentel
+DO	00000	San Felipe Arriba	Duarte	DU	Pimentel Duarte		Pimentel
+DO	00000	Bomba de Cenoví	Duarte	DU	San Francisco de Macoris		Cenovi
+DO	00000	Cenoví	Duarte	DU	San Francisco de Macoris		Cenovi
+DO	00000	Colón	Duarte	DU	San Francisco de Macoris		Cenovi
+DO	00000	Cruz de Cenoví	Duarte	DU	San Francisco de Macoris		Cenovi
+DO	00000	El Caimito	Duarte	DU	San Francisco de Macoris		Cenovi
+DO	00000	Los Indios	Duarte	DU	San Francisco de Macoris		Cenovi
+DO	00000	Porquero	Duarte	DU	San Francisco de Macoris		Cenovi
+DO	00000	Hoyo de Jaya	Duarte	DU	San Francisco de Macoris		Jaya
+DO	00000	Hoyo Jaya	Duarte	DU	San Francisco de Macoris		Jaya
+DO	00000	Jaya	Duarte	DU	San Francisco de Macoris		Jaya
+DO	00000	La Piña	Duarte	DU	San Francisco de Macoris		Jaya
+DO	00000	Loma de Jaya	Duarte	DU	San Francisco de Macoris		Jaya
+DO	00000	Los Bacilios	Duarte	DU	San Francisco de Macoris		Jaya
+DO	00000	Naranjo Dulce	Duarte	DU	San Francisco de Macoris		Jaya
+DO	00000	Demajagual	Duarte	DU	San Francisco de Macoris		La Pena DM
+DO	00000	Dichoso	Duarte	DU	San Francisco de Macoris		La Pena DM
+DO	00000	La Bajada	Duarte	DU	San Francisco de Macoris		La Pena DM
+DO	00000	Laguna de Coto	Duarte	DU	San Francisco de Macoris		La Pena DM
+DO	00000	La Mesa	Duarte	DU	San Francisco de Macoris		La Pena DM
+DO	00000	La Peña	Duarte	DU	San Francisco de Macoris		La Pena DM
+DO	00000	Patao	Duarte	DU	San Francisco de Macoris		La Pena DM
+DO	00000	Pontón	Duarte	DU	San Francisco de Macoris		La Pena DM
+DO	00000	Ramonal	Duarte	DU	San Francisco de Macoris		La Pena DM
+DO	00000	Génimo	Duarte	DU	San Francisco de Macoris		Pres Don Antonio Guzman Fernandez
+DO	00000	La Guama	Duarte	DU	San Francisco de Macoris		Pres Don Antonio Guzman Fernandez
+DO	00000	Presidente Don Antonio Guzmán Fernández	Duarte	DU	San Francisco de Macoris		Pres Don Antonio Guzman Fernandez
+DO	00000	Colón	Duarte	DU	San Francisco de Macoris		San Francisco de Macoris DM
+DO	00000	Güiza	Duarte	DU	San Francisco de Macoris		San Francisco de Macoris DM
+DO	00000	La Joya	Duarte	DU	San Francisco de Macoris		San Francisco de Macoris DM
+DO	00000	La Malena	Duarte	DU	San Francisco de Macoris		San Francisco de Macoris DM
+DO	00000	Las Guázumas	Duarte	DU	San Francisco de Macoris		San Francisco de Macoris DM
+DO	00000	Los Bejucos	Duarte	DU	San Francisco de Macoris		San Francisco de Macoris DM
+DO	00000	San Francisco de Macorís	Duarte	DU	San Francisco de Macoris		San Francisco de Macoris DM
+DO	00000	Agua Santa del Yuna	Duarte	DU	Villa Riva		Agua Santa del Yuna
+DO	00000	Callejón de Tilo	Duarte	DU	Villa Riva		Agua Santa del Yuna
+DO	00000	La Reforma	Duarte	DU	Villa Riva		Agua Santa del Yuna
+DO	00000	Paraguay	Duarte	DU	Villa Riva		Agua Santa del Yuna
+DO	00000	Barraquito	Duarte	DU	Villa Riva		Barraquito
+DO	00000	El Venao	Duarte	DU	Villa Riva		Barraquito
+DO	00000	La Pista	Duarte	DU	Villa Riva		Barraquito
+DO	00000	Cristo Rey de Guaraguao	Duarte	DU	Villa Riva		Cristo Rey de Guaraguao
+DO	00000	Guaraguao	Duarte	DU	Villa Riva		Cristo Rey de Guaraguao
+DO	00000	Los Peynado	Duarte	DU	Villa Riva		Cristo Rey de Guaraguao
+DO	00000	Bomba de Yaiba	Duarte	DU	Villa Riva		Las Taranas
+DO	00000	El Abanico	Duarte	DU	Villa Riva		Las Taranas
+DO	00000	Jobobán	Duarte	DU	Villa Riva		Las Taranas
+DO	00000	Las Taranas	Duarte	DU	Villa Riva		Las Taranas
+DO	00000	Ceiba de Los Pájaros	Duarte	DU	Villa Riva		Villa Riva DM
+DO	00000	Chiringo	Duarte	DU	Villa Riva		Villa Riva DM
+DO	00000	Villa Riva	Duarte	DU	Villa Riva		Villa Riva DM
+DO	00000	Jamao Adentro	Hermanas Mirabal	SC	Salcedo Hermanas Mirabal		Jamao Afuera
+DO	00000	Jamao Afuera	Hermanas Mirabal	SC	Salcedo Hermanas Mirabal		Jamao Afuera
+DO	00000	Montellano	Hermanas Mirabal	SC	Salcedo Hermanas Mirabal		Jamao Afuera
+DO	00000	Jayabo Afuera	Hermanas Mirabal	SC	Salcedo Hermanas Mirabal		Salcedo
+DO	00000	Los Cacaos	Hermanas Mirabal	SC	Salcedo Hermanas Mirabal		Salcedo
+DO	00000	Palmarito	Hermanas Mirabal	SC	Salcedo Hermanas Mirabal		Salcedo
+DO	00000	Salcedo	Hermanas Mirabal	SC	Salcedo Hermanas Mirabal		Salcedo
+DO	00000	Blanco	Hermanas Mirabal	SC	Tenares		Blanco DM
+DO	00000	Blanco Arriba	Hermanas Mirabal	SC	Tenares		Blanco DM
+DO	00000	Boba Arriba	Hermanas Mirabal	SC	Tenares		Tenares DM
+DO	00000	Canete	Hermanas Mirabal	SC	Tenares		Tenares DM
+DO	00000	El Placer	Hermanas Mirabal	SC	Tenares		Tenares DM
+DO	00000	Gran Parada	Hermanas Mirabal	SC	Tenares		Tenares DM
+DO	00000	Paso Hondo	Hermanas Mirabal	SC	Tenares		Tenares DM
+DO	00000	Tenares	Hermanas Mirabal	SC	Tenares		Tenares DM
+DO	00000	La Ceiba	Hermanas Mirabal	SC	Villa Tapia		Villa Tapia DM
+DO	00000	Los Limones	Hermanas Mirabal	SC	Villa Tapia		Villa Tapia DM
+DO	00000	San José	Hermanas Mirabal	SC	Villa Tapia		Villa Tapia DM
+DO	00000	Santa Ana	Hermanas Mirabal	SC	Villa Tapia		Villa Tapia DM
+DO	00000	Villa Tapia	Hermanas Mirabal	SC	Villa Tapia		Villa Tapia DM
+DO	00000	Arroyo Salado	Maria Trinidad Sanchez	MT	Cabrera Maria Trinidad Sanchez		Arroyo Salado
+DO	00000	Baoba del Piñal	Maria Trinidad Sanchez	MT	Cabrera Maria Trinidad Sanchez		Arroyo Salado
+DO	00000	Payita	Maria Trinidad Sanchez	MT	Cabrera Maria Trinidad Sanchez		Arroyo Salado
+DO	00000	San Isidro	Maria Trinidad Sanchez	MT	Cabrera Maria Trinidad Sanchez		Arroyo Salado
+DO	00000	San Rafael	Maria Trinidad Sanchez	MT	Cabrera Maria Trinidad Sanchez		Arroyo Salado
+DO	00000	Abreu	Maria Trinidad Sanchez	MT	Cabrera Maria Trinidad Sanchez		Cabrera
+DO	00000	Cabrera	Maria Trinidad Sanchez	MT	Cabrera Maria Trinidad Sanchez		Cabrera
+DO	00000	El Jamo	Maria Trinidad Sanchez	MT	Cabrera Maria Trinidad Sanchez		Cabrera
+DO	00000	La Jagüita	Maria Trinidad Sanchez	MT	Cabrera Maria Trinidad Sanchez		Cabrera
+DO	00000	Caño Azul Colorado	Maria Trinidad Sanchez	MT	Cabrera Maria Trinidad Sanchez		La Entrada
+DO	00000	La Capilla	Maria Trinidad Sanchez	MT	Cabrera Maria Trinidad Sanchez		La Entrada
+DO	00000	La Entrada	Maria Trinidad Sanchez	MT	Cabrera Maria Trinidad Sanchez		La Entrada
+DO	00000	El Factor	Maria Trinidad Sanchez	MT	El Factor		El Factor DM
+DO	00000	El Papayo	Maria Trinidad Sanchez	MT	El Factor		El Factor DM
+DO	00000	Los Indios	Maria Trinidad Sanchez	MT	El Factor		El Factor DM
+DO	00000	Los Pajones	Maria Trinidad Sanchez	MT	El Factor		El Factor DM
+DO	00000	Telanza	Maria Trinidad Sanchez	MT	El Factor		El Factor DM
+DO	00000	El Pozo	Maria Trinidad Sanchez	MT	El Factor		El Pozo
+DO	00000	Los Limones	Maria Trinidad Sanchez	MT	El Factor		El Pozo
+DO	00000	Madre Vieja	Maria Trinidad Sanchez	MT	El Factor		El Pozo
+DO	00000	Arroyo Al Medio	Maria Trinidad Sanchez	MT	Nagua		Arroyo Al Medio
+DO	00000	El Guayabo	Maria Trinidad Sanchez	MT	Nagua		Arroyo Al Medio
+DO	00000	El Yayal	Maria Trinidad Sanchez	MT	Nagua		Arroyo Al Medio
+DO	00000	Las Córcobas	Maria Trinidad Sanchez	MT	Nagua		Arroyo Al Medio
+DO	00000	Río Jagua	Maria Trinidad Sanchez	MT	Nagua		Arroyo Al Medio
+DO	00000	Boba	Maria Trinidad Sanchez	MT	Nagua		Las Gordas
+DO	00000	Caño de Los Naranjos	Maria Trinidad Sanchez	MT	Nagua		Las Gordas
+DO	00000	Las Gordas	Maria Trinidad Sanchez	MT	Nagua		Las Gordas
+DO	00000	Los Jengibres	Maria Trinidad Sanchez	MT	Nagua		Las Gordas
+DO	00000	Mata Bonita	Maria Trinidad Sanchez	MT	Nagua		Las Gordas
+DO	00000	Nagua	Maria Trinidad Sanchez	MT	Nagua		Nagua DM
+DO	00000	Nagua Rural	Maria Trinidad Sanchez	MT	Nagua		Nagua DM
+DO	00000	Ceja del Jobo	Maria Trinidad Sanchez	MT	Nagua		San Jose de Matanzas
+DO	00000	Cruce de Rincón	Maria Trinidad Sanchez	MT	Nagua		San Jose de Matanzas
+DO	00000	Los Yayales	Maria Trinidad Sanchez	MT	Nagua		San Jose de Matanzas
+DO	00000	San José de Matanzas	Maria Trinidad Sanchez	MT	Nagua		San Jose de Matanzas
+DO	00000	Los Cacaos	Maria Trinidad Sanchez	MT	Rio San Juan Maria Trinidad Sanchez		Rio San Juan DM
+DO	00000	Mata Puerco	Maria Trinidad Sanchez	MT	Rio San Juan Maria Trinidad Sanchez		Rio San Juan DM
+DO	00000	Río San Juan	Maria Trinidad Sanchez	MT	Rio San Juan Maria Trinidad Sanchez		Rio San Juan DM
+DO	00000	El Cosón	Samana	SM	Las Terrenas		Las Terrenas DM
+DO	00000	El Jamito	Samana	SM	Las Terrenas		Las Terrenas DM
+DO	00000	El Naranjito	Samana	SM	Las Terrenas		Las Terrenas DM
+DO	00000	La Barbacoa	Samana	SM	Las Terrenas		Las Terrenas DM
+DO	00000	Las Terrenas	Samana	SM	Las Terrenas		Las Terrenas DM
+DO	00000	Arroyo Barril	Samana	SM	Samana Samana		Arroyo Barril
+DO	00000	El Botao	Samana	SM	Samana Samana		Arroyo Barril
+DO	00000	La Pascuala	Samana	SM	Samana Samana		Arroyo Barril
+DO	00000	Agua Sabrosa	Samana	SM	Samana Samana		El Limon Samana DM
+DO	00000	El Limón	Samana	SM	Samana Samana		El Limon Samana DM
+DO	00000	La Barbacoa	Samana	SM	Samana Samana		El Limon Samana DM
+DO	00000	Morón	Samana	SM	Samana Samana		El Limon Samana DM
+DO	00000	La Guásuma	Samana	SM	Samana Samana		Las Galeras
+DO	00000	Las Galeras	Samana	SM	Samana Samana		Las Galeras
+DO	00000	Los Tocones	Samana	SM	Samana Samana		Las Galeras
+DO	00000	Rincón	Samana	SM	Samana Samana		Las Galeras
+DO	00000	Acosta	Samana	SM	Samana Samana		Samana DM
+DO	00000	Honduras	Samana	SM	Samana Samana		Samana DM
+DO	00000	Juana Vicenta	Samana	SM	Samana Samana		Samana DM
+DO	00000	Los Cacaos	Samana	SM	Samana Samana		Samana DM
+DO	00000	Santa Bárbara de Samaná	Samana	SM	Samana Samana		Samana DM
+DO	00000	Agua Santa del Yuna	Samana	SM	Sanchez Samana		Sanchez DM
+DO	00000	El Catey	Samana	SM	Sanchez Samana		Sanchez DM
+DO	00000	La Majagua	Samana	SM	Sanchez Samana		Sanchez DM
+DO	00000	Las Garitas	Samana	SM	Sanchez Samana		Sanchez DM
+DO	00000	Majagual	Samana	SM	Sanchez Samana		Sanchez DM
+DO	00000	Sánchez	Samana	SM	Sanchez Samana		Sanchez DM
+DO	00000	Cañongo	Dajabon	DA	Dajabon Dajabon		Canongo
+DO	00000	La Vigía	Dajabon	DA	Dajabon Dajabon		Canongo
+DO	00000	Cayuco	Dajabon	DA	Dajabon Dajabon		Dajabon DM
+DO	00000	Chacuey	Dajabon	DA	Dajabon Dajabon		Dajabon DM
+DO	00000	Clavellina	Dajabon	DA	Dajabon Dajabon		Dajabon DM
+DO	00000	Dajabón	Dajabon	DA	Dajabon Dajabon		Dajabon DM
+DO	00000	Sabana Larga	Dajabon	DA	Dajabon Dajabon		Dajabon DM
+DO	00000	El Pino	Dajabon	DA	El Pino		El Pino DM
+DO	00000	El Rodeo	Dajabon	DA	El Pino		El Pino DM
+DO	00000	Plan I	Dajabon	DA	El Pino		El Pino DM
+DO	00000	La Jagua Abajo	Dajabon	DA	El Pino		Manuel Bueno
+DO	00000	La Luisa	Dajabon	DA	El Pino		Manuel Bueno
+DO	00000	Manuel Bueno	Dajabon	DA	El Pino		Manuel Bueno
+DO	00000	Capotillo	Dajabon	DA	Loma de Cabrera		Capotillo
+DO	00000	Hipólito Billini	Dajabon	DA	Loma de Cabrera		Capotillo
+DO	00000	La Peñita Abajo	Dajabon	DA	Loma de Cabrera		Capotillo
+DO	00000	El Aguacate	Dajabon	DA	Loma de Cabrera		Loma de Cabrera DM
+DO	00000	El Cajuil	Dajabon	DA	Loma de Cabrera		Loma de Cabrera DM
+DO	00000	La Ceiba	Dajabon	DA	Loma de Cabrera		Loma de Cabrera DM
+DO	00000	Loma de Cabrera	Dajabon	DA	Loma de Cabrera		Loma de Cabrera DM
+DO	00000	Monte Grande	Dajabon	DA	Loma de Cabrera		Loma de Cabrera DM
+DO	00000	El Plan	Dajabon	DA	Loma de Cabrera		Santiago de La Cruz
+DO	00000	La Piña	Dajabon	DA	Loma de Cabrera		Santiago de La Cruz
+DO	00000	Pinar Claro	Dajabon	DA	Loma de Cabrera		Santiago de La Cruz
+DO	00000	Santiago de La Cruz	Dajabon	DA	Loma de Cabrera		Santiago de La Cruz
+DO	00000	La Gorra	Dajabon	DA	Partido		Partido DM
+DO	00000	Partido	Dajabon	DA	Partido		Partido DM
+DO	00000	Partido Arriba	Dajabon	DA	Partido		Partido DM
+DO	00000	Vaca Gorda	Dajabon	DA	Partido		Partido DM
+DO	00000	Cruz de Cabrera	Dajabon	DA	Restauracion		Restauracion DM
+DO	00000	El Carrizal	Dajabon	DA	Restauracion		Restauracion DM
+DO	00000	La Pocilga	Dajabon	DA	Restauracion		Restauracion DM
+DO	00000	Los Cerezos	Dajabon	DA	Restauracion		Restauracion DM
+DO	00000	Restauración	Dajabon	DA	Restauracion		Restauracion DM
+DO	00000	Castañuelas	Monte Cristi	MC	Castanuelas		Castanuelas DM
+DO	00000	Castañuelas (Lozano)	Monte Cristi	MC	Castanuelas		Castanuelas DM
+DO	00000	El Ahogado	Monte Cristi	MC	Castanuelas		Castanuelas DM
+DO	00000	Loma de Castañuelas	Monte Cristi	MC	Castanuelas		Castanuelas DM
+DO	00000	El Vigiador	Monte Cristi	MC	Castanuelas		Palo Verde
+DO	00000	Hato Viejo	Monte Cristi	MC	Castanuelas		Palo Verde
+DO	00000	Magdalena	Monte Cristi	MC	Castanuelas		Palo Verde
+DO	00000	Palo Verde	Monte Cristi	MC	Castanuelas		Palo Verde
+DO	00000	Cana Chapetón	Monte Cristi	MC	Guayubin		Cana Chapeton
+DO	00000	Cerro Gordo	Monte Cristi	MC	Guayubin		Cana Chapeton
+DO	00000	La Caída	Monte Cristi	MC	Guayubin		Cana Chapeton
+DO	00000	Piloto	Monte Cristi	MC	Guayubin		Cana Chapeton
+DO	00000	Guayubín	Monte Cristi	MC	Guayubin		Guayubin DM
+DO	00000	Juan Gómez	Monte Cristi	MC	Guayubin		Guayubin DM
+DO	00000	Martín García	Monte Cristi	MC	Guayubin		Guayubin DM
+DO	00000	Sabana Cruz	Monte Cristi	MC	Guayubin		Guayubin DM
+DO	00000	Doña Antonia	Monte Cristi	MC	Guayubin		Hatillo Palma
+DO	00000	Hatillo Palma	Monte Cristi	MC	Guayubin		Hatillo Palma
+DO	00000	Los Derramaderos	Monte Cristi	MC	Guayubin		Hatillo Palma
+DO	00000	El Copey	Monte Cristi	MC	Guayubin		Villa Elisa
+DO	00000	El Papayo	Monte Cristi	MC	Guayubin		Villa Elisa
+DO	00000	Hato del Medio Arriba	Monte Cristi	MC	Guayubin		Villa Elisa
+DO	00000	La Guajaca	Monte Cristi	MC	Guayubin		Villa Elisa
+DO	00000	Villa Elisa	Monte Cristi	MC	Guayubin		Villa Elisa
+DO	00000	La Horca	Monte Cristi	MC	Las Matas de Santa Cruz		Las Matas de Santa Cruz DM
+DO	00000	Las Matas de Santa Cruz	Monte Cristi	MC	Las Matas de Santa Cruz		Las Matas de Santa Cruz DM
+DO	00000	Los Amaceyes	Monte Cristi	MC	Las Matas de Santa Cruz		Las Matas de Santa Cruz DM
+DO	00000	Santa Cruz	Monte Cristi	MC	Las Matas de Santa Cruz		Las Matas de Santa Cruz DM
+DO	00000	Baitoal	Monte Cristi	MC	Monte Cristi Monte Cristi		Monte Cristi DM
+DO	00000	El Duro	Monte Cristi	MC	Monte Cristi Monte Cristi		Monte Cristi DM
+DO	00000	El Rincón	Monte Cristi	MC	Monte Cristi Monte Cristi		Monte Cristi DM
+DO	00000	Las Aguas	Monte Cristi	MC	Monte Cristi Monte Cristi		Monte Cristi DM
+DO	00000	Las Peñas	Monte Cristi	MC	Monte Cristi Monte Cristi		Monte Cristi DM
+DO	00000	San Fernando de Monte Cristi	Monte Cristi	MC	Monte Cristi Monte Cristi		Monte Cristi DM
+DO	00000	Carbonera	Monte Cristi	MC	Pepillo Salcedo		Pepillo Salcedo Manzanillo
+DO	00000	Copey	Monte Cristi	MC	Pepillo Salcedo		Pepillo Salcedo Manzanillo
+DO	00000	Pepillo Salcedo (Manzanillo)	Monte Cristi	MC	Pepillo Salcedo		Pepillo Salcedo Manzanillo
+DO	00000	Santa María	Monte Cristi	MC	Pepillo Salcedo		Pepillo Salcedo Manzanillo
+DO	00000	Botoncillo	Monte Cristi	MC	Villa Vazquez		Villa Vasquez
+DO	00000	Los Conucos	Monte Cristi	MC	Villa Vazquez		Villa Vasquez
+DO	00000	Villa García	Monte Cristi	MC	Villa Vazquez		Villa Vasquez
+DO	00000	Villa Vásquez	Monte Cristi	MC	Villa Vazquez		Villa Vasquez
+DO	00000	El Mamoncito	Santiago Rodriguez	SR	Moncion		Moncion DM
+DO	00000	Gurabo	Santiago Rodriguez	SR	Moncion		Moncion DM
+DO	00000	La Cacique	Santiago Rodriguez	SR	Moncion		Moncion DM
+DO	00000	Monción	Santiago Rodriguez	SR	Moncion		Moncion DM
+DO	00000	Rodeo	Santiago Rodriguez	SR	Moncion		Moncion DM
+DO	00000	Arroyo Blanco	Santiago Rodriguez	SR	San Ignacio de Sabaneta		San Ignacio de Sabaneta DM
+DO	00000	Clavijo	Santiago Rodriguez	SR	San Ignacio de Sabaneta		San Ignacio de Sabaneta DM
+DO	00000	Coqui	Santiago Rodriguez	SR	San Ignacio de Sabaneta		San Ignacio de Sabaneta DM
+DO	00000	Estancia Vieja	Santiago Rodriguez	SR	San Ignacio de Sabaneta		San Ignacio de Sabaneta DM
+DO	00000	Las Caobas	Santiago Rodriguez	SR	San Ignacio de Sabaneta		San Ignacio de Sabaneta DM
+DO	00000	Los Cercadillos	Santiago Rodriguez	SR	San Ignacio de Sabaneta		San Ignacio de Sabaneta DM
+DO	00000	Mata de Jobo	Santiago Rodriguez	SR	San Ignacio de Sabaneta		San Ignacio de Sabaneta DM
+DO	00000	Palmarejo	Santiago Rodriguez	SR	San Ignacio de Sabaneta		San Ignacio de Sabaneta DM
+DO	00000	San Ignacio de Sabaneta	Santiago Rodriguez	SR	San Ignacio de Sabaneta		San Ignacio de Sabaneta DM
+DO	00000	San José	Santiago Rodriguez	SR	San Ignacio de Sabaneta		San Ignacio de Sabaneta DM
+DO	00000	Toma	Santiago Rodriguez	SR	San Ignacio de Sabaneta		San Ignacio de Sabaneta DM
+DO	00000	Ceiba de Bonet	Santiago Rodriguez	SR	Villa Los Almacigos		Villa Los Almacigos DM
+DO	00000	El Dajao	Santiago Rodriguez	SR	Villa Los Almacigos		Villa Los Almacigos DM
+DO	00000	El Fundo	Santiago Rodriguez	SR	Villa Los Almacigos		Villa Los Almacigos DM
+DO	00000	Inaje	Santiago Rodriguez	SR	Villa Los Almacigos		Villa Los Almacigos DM
+DO	00000	La Ginita	Santiago Rodriguez	SR	Villa Los Almacigos		Villa Los Almacigos DM
+DO	00000	La Lana	Santiago Rodriguez	SR	Villa Los Almacigos		Villa Los Almacigos DM
+DO	00000	Villa Los Almácigos	Santiago Rodriguez	SR	Villa Los Almacigos		Villa Los Almacigos DM
+DO	00000	Boca de Mao	Valverde	VA	Esperanza Valverde		Boca de Mao
+DO	00000	Esperanza	Valverde	VA	Esperanza Valverde		Esperanza
+DO	00000	Peñuela	Valverde	VA	Esperanza Valverde		Esperanza
+DO	00000	Pontón (Villa Henequén)	Valverde	VA	Esperanza Valverde		Esperanza
+DO	00000	Jicomé	Valverde	VA	Esperanza Valverde		Jicome
+DO	00000	Kilómetro 7	Valverde	VA	Esperanza Valverde		Jicome
+DO	00000	Damajagua	Valverde	VA	Esperanza Valverde		Maizal
+DO	00000	Línea A	Valverde	VA	Esperanza Valverde		Maizal
+DO	00000	Loma de Maimón	Valverde	VA	Esperanza Valverde		Maizal
+DO	00000	Loma de Palma Picada	Valverde	VA	Esperanza Valverde		Maizal
+DO	00000	Maimón	Valverde	VA	Esperanza Valverde		Maizal
+DO	00000	Maizal	Valverde	VA	Esperanza Valverde		Maizal
+DO	00000	La Cabirma	Valverde	VA	Esperanza Valverde		Paradero
+DO	00000	La Cayota	Valverde	VA	Esperanza Valverde		Paradero
+DO	00000	Loma de Aguacate	Valverde	VA	Esperanza Valverde		Paradero
+DO	00000	Paradero	Valverde	VA	Esperanza Valverde		Paradero
+DO	00000	Cruce de Guayacanes	Valverde	VA	Laguna Salada		Cruce de Guayacanes
+DO	00000	Guayacanes Adentro	Valverde	VA	Laguna Salada		Cruce de Guayacanes
+DO	00000	Loma de Guayacanes	Valverde	VA	Laguna Salada		Cruce de Guayacanes
+DO	00000	Ojo de Agua	Valverde	VA	Laguna Salada		Cruce de Guayacanes
+DO	00000	Entrada de Pozo Prieto	Valverde	VA	Laguna Salada		Jaibon
+DO	00000	Jaibón	Valverde	VA	Laguna Salada		Jaibon
+DO	00000	San Roque	Valverde	VA	Laguna Salada		Jaibon
+DO	00000	Laguna Salada	Valverde	VA	Laguna Salada		Laguna Salada DM
+DO	00000	Ranchete	Valverde	VA	Laguna Salada		Laguna Salada DM
+DO	00000	La Caya	Valverde	VA	Laguna Salada		La Caya
+DO	00000	Palo Amarillo	Valverde	VA	Laguna Salada		La Caya
+DO	00000	Pozo Prieto	Valverde	VA	Laguna Salada		La Caya
+DO	00000	Amina	Valverde	VA	Mao Valverde		Amina
+DO	00000	Entrada de Mao	Valverde	VA	Mao Valverde		Amina
+DO	00000	Boruco	Valverde	VA	Mao Valverde		Guatapanal
+DO	00000	Guatapanal	Valverde	VA	Mao Valverde		Guatapanal
+DO	00000	Jinamagao	Valverde	VA	Mao Valverde		Guatapanal
+DO	00000	Potrero	Valverde	VA	Mao Valverde		Guatapanal
+DO	00000	Gurabo Afuera	Valverde	VA	Mao Valverde		Jaibon Pueblo Nuevo
+DO	00000	Jaibón (Pueblo Nuevo)	Valverde	VA	Mao Valverde		Jaibon Pueblo Nuevo
+DO	00000	Prestiles	Valverde	VA	Mao Valverde		Jaibon Pueblo Nuevo
+DO	00000	Pueblo Nuevo	Valverde	VA	Mao Valverde		Jaibon Pueblo Nuevo
+DO	00000	Los Quemados	Valverde	VA	Mao Valverde		Mao
+DO	00000	Mao	Valverde	VA	Mao Valverde		Mao
+DO	00000	Cayetano Germosén (Guanábano)	Espaillat	ES	Cayetano Germosen		Cayetano Germosen DM
+DO	00000	Hato Viejo	Espaillat	ES	Cayetano Germosen		Cayetano Germosen DM
+DO	00000	La Guama (De Guanábano)	Espaillat	ES	Cayetano Germosen		Cayetano Germosen DM
+DO	00000	Bejuco Blanco	Espaillat	ES	Gaspar Hernandez		Gaspar Hernandez DM
+DO	00000	El Jobo	Espaillat	ES	Gaspar Hernandez		Gaspar Hernandez DM
+DO	00000	Gaspar Hernández	Espaillat	ES	Gaspar Hernandez		Gaspar Hernandez DM
+DO	00000	Ojo de Agua	Espaillat	ES	Gaspar Hernandez		Gaspar Hernandez DM
+DO	00000	El Higuero	Espaillat	ES	Gaspar Hernandez		Joba Arriba
+DO	00000	Jagua Clara	Espaillat	ES	Gaspar Hernandez		Joba Arriba
+DO	00000	Joba Arriba	Espaillat	ES	Gaspar Hernandez		Joba Arriba
+DO	00000	La Piragua	Espaillat	ES	Gaspar Hernandez		Joba Arriba
+DO	00000	Batey Ginebra	Espaillat	ES	Gaspar Hernandez		Veragua
+DO	00000	Caño Dulce	Espaillat	ES	Gaspar Hernandez		Veragua
+DO	00000	Rincón de Veragua	Espaillat	ES	Gaspar Hernandez		Veragua
+DO	00000	Veragua	Espaillat	ES	Gaspar Hernandez		Veragua
+DO	00000	La Cantera	Espaillat	ES	Gaspar Hernandez		Villa Magante
+DO	00000	Las Tres Ceibas	Espaillat	ES	Gaspar Hernandez		Villa Magante
+DO	00000	Magante	Espaillat	ES	Gaspar Hernandez		Villa Magante
+DO	00000	Vereda Al Medio	Espaillat	ES	Gaspar Hernandez		Villa Magante
+DO	00000	Villa Magante	Espaillat	ES	Gaspar Hernandez		Villa Magante
+DO	00000	Jamao Al Norte	Espaillat	ES	Jamao al Norte		Jamao Al Norte DM
+DO	00000	Jamao Al Sur	Espaillat	ES	Jamao al Norte		Jamao Al Norte DM
+DO	00000	La Filipina	Espaillat	ES	Jamao al Norte		Jamao Al Norte DM
+DO	00000	Las Caobas	Espaillat	ES	Jamao al Norte		Jamao Al Norte DM
+DO	00000	Los Brazos	Espaillat	ES	Jamao al Norte		Jamao Al Norte DM
+DO	00000	Canca La Reyna	Espaillat	ES	Moca Espaillat		Canca La Reyna
+DO	00000	Canca Reparación	Espaillat	ES	Moca Espaillat		Canca La Reyna
+DO	00000	San Francisco Abajo	Espaillat	ES	Moca Espaillat		Canca La Reyna
+DO	00000	San José (Antiguo Licey Al Medio)	Espaillat	ES	Moca Espaillat		Canca La Reyna
+DO	00000	Bonagua Arriba	Espaillat	ES	Moca Espaillat		El Higuerito
+DO	00000	El Higüerito	Espaillat	ES	Moca Espaillat		El Higuerito
+DO	00000	Las Guázumas	Espaillat	ES	Moca Espaillat		El Higuerito
+DO	00000	Reparadero	Espaillat	ES	Moca Espaillat		El Higuerito
+DO	00000	Camarones	Espaillat	ES	Moca Espaillat		Jose Contreras
+DO	00000	José Contreras	Espaillat	ES	Moca Espaillat		Jose Contreras
+DO	00000	Palma Herrada	Espaillat	ES	Moca Espaillat		Jose Contreras
+DO	00000	Rancho de Los Plátanos	Espaillat	ES	Moca Espaillat		Jose Contreras
+DO	00000	El Salitre	Espaillat	ES	Moca Espaillat		Juan Lopez
+DO	00000	Juan Lopéz	Espaillat	ES	Moca Espaillat		Juan Lopez
+DO	00000	Juan López Abajo	Espaillat	ES	Moca Espaillat		Juan Lopez
+DO	00000	Juan López Arriba	Espaillat	ES	Moca Espaillat		Juan Lopez
+DO	00000	Los Robles	Espaillat	ES	Moca Espaillat		Juan Lopez
+DO	00000	Boca Férrea Abajo	Espaillat	ES	Moca Espaillat		Las Lagunas Moca DM
+DO	00000	El Aguacate Arriba	Espaillat	ES	Moca Espaillat		Las Lagunas Moca DM
+DO	00000	Las Lagunas	Espaillat	ES	Moca Espaillat		Las Lagunas Moca DM
+DO	00000	Las Lagunas Abajo	Espaillat	ES	Moca Espaillat		Las Lagunas Moca DM
+DO	00000	La Gran Canaria	Espaillat	ES	Moca Espaillat		La Ortega
+DO	00000	La Ortega	Espaillat	ES	Moca Espaillat		La Ortega
+DO	00000	Santa Cruz de Tenerife	Espaillat	ES	Moca Espaillat		La Ortega
+DO	00000	El Algarrobo	Espaillat	ES	Moca Espaillat		Moca DM
+DO	00000	Llenas	Espaillat	ES	Moca Espaillat		Moca DM
+DO	00000	Moca	Espaillat	ES	Moca Espaillat		Moca DM
+DO	00000	Paso de Moca	Espaillat	ES	Moca Espaillat		Moca DM
+DO	00000	San Luis	Espaillat	ES	Moca Espaillat		Moca DM
+DO	00000	Santa Rosa	Espaillat	ES	Moca Espaillat		Moca DM
+DO	00000	Zafarraya	Espaillat	ES	Moca Espaillat		Moca DM
+DO	00000	El Pico	Espaillat	ES	Moca Espaillat		Monte de La Jagua
+DO	00000	Los Vargas	Espaillat	ES	Moca Espaillat		Monte de La Jagua
+DO	00000	Monte de La Jagua	Espaillat	ES	Moca Espaillat		Monte de La Jagua
+DO	00000	Sarambamba	Espaillat	ES	Moca Espaillat		Monte de La Jagua
+DO	00000	La Ceiba de Madera	Espaillat	ES	Moca Espaillat		San Victor
+DO	00000	Los Amaceyes Arriba	Espaillat	ES	Moca Espaillat		San Victor
+DO	00000	Puerto Grande(Puesto Grande)	Espaillat	ES	Moca Espaillat		San Victor
+DO	00000	San Víctor	Espaillat	ES	Moca Espaillat		San Victor
+DO	00000	San Víctor Abajo	Espaillat	ES	Moca Espaillat		San Victor
+DO	00000	Altamira	Puerto Plata	PP	Altamira Puerto Plata		Altamira
+DO	00000	El Mamey	Puerto Plata	PP	Altamira Puerto Plata		Altamira
+DO	00000	Escalera	Puerto Plata	PP	Altamira Puerto Plata		Altamira
+DO	00000	Higüero	Puerto Plata	PP	Altamira Puerto Plata		Altamira
+DO	00000	Los Llanos	Puerto Plata	PP	Altamira Puerto Plata		Altamira
+DO	00000	Palmar Grande	Puerto Plata	PP	Altamira Puerto Plata		Altamira
+DO	00000	Quebrada Honda	Puerto Plata	PP	Altamira Puerto Plata		Altamira
+DO	00000	Pescado Bobo Arriba	Puerto Plata	PP	Altamira Puerto Plata		Rio Grande DM
+DO	00000	Rancho Arriba	Puerto Plata	PP	Altamira Puerto Plata		Rio Grande DM
+DO	00000	Río Grande	Puerto Plata	PP	Altamira Puerto Plata		Rio Grande DM
+DO	00000	Río Grande Abajo	Puerto Plata	PP	Altamira Puerto Plata		Rio Grande DM
+DO	00000	Río Grande Al Medio	Puerto Plata	PP	Altamira Puerto Plata		Rio Grande DM
+DO	00000	Río Grande Arriba	Puerto Plata	PP	Altamira Puerto Plata		Rio Grande DM
+DO	00000	Fundación	Puerto Plata	PP	Guananico		Guananico DM
+DO	00000	Guananico	Puerto Plata	PP	Guananico		Guananico DM
+DO	00000	Hoya Grande	Puerto Plata	PP	Guananico		Guananico DM
+DO	00000	La Altagracia	Puerto Plata	PP	Guananico		Guananico DM
+DO	00000	La Cabirma	Puerto Plata	PP	Guananico		Guananico DM
+DO	00000	Paradero	Puerto Plata	PP	Guananico		Guananico DM
+DO	00000	Rancho Viejo	Puerto Plata	PP	Guananico		Guananico DM
+DO	00000	Cabia	Puerto Plata	PP	Imbert		Imbert DM
+DO	00000	Caonao	Puerto Plata	PP	Imbert		Imbert DM
+DO	00000	Imbert	Puerto Plata	PP	Imbert		Imbert DM
+DO	00000	Las Canas	Puerto Plata	PP	Imbert		Imbert DM
+DO	00000	Pérez	Puerto Plata	PP	Imbert		Imbert DM
+DO	00000	Saballo	Puerto Plata	PP	Imbert		Imbert DM
+DO	00000	El Mamey	Puerto Plata	PP	Los Hidalgos		Los Hidalgos DM
+DO	00000	Los Hidalgos	Puerto Plata	PP	Los Hidalgos		Los Hidalgos DM
+DO	00000	Marmolejos	Puerto Plata	PP	Los Hidalgos		Los Hidalgos DM
+DO	00000	Unijica	Puerto Plata	PP	Los Hidalgos		Los Hidalgos DM
+DO	00000	Navas	Puerto Plata	PP	Los Hidalgos		Navas DM
+DO	00000	Vista Alegre	Puerto Plata	PP	Los Hidalgos		Navas DM
+DO	00000	Belloso	Puerto Plata	PP	Luperon		Belloso
+DO	00000	Cerro de Navas	Puerto Plata	PP	Luperon		Belloso
+DO	00000	Arroyo Amargo	Puerto Plata	PP	Luperon		El Estrecho de Luperon Omar Bross
+DO	00000	El Estrecho Abajo	Puerto Plata	PP	Luperon		El Estrecho de Luperon Omar Bross
+DO	00000	El Estrecho de Luperón Omar Bross	Puerto Plata	PP	Luperon		El Estrecho de Luperon Omar Bross
+DO	00000	Martín Alonzo	Puerto Plata	PP	Luperon		El Estrecho de Luperon Omar Bross
+DO	00000	Candelón	Puerto Plata	PP	Luperon		La Isabela
+DO	00000	La Isabela	Puerto Plata	PP	Luperon		La Isabela
+DO	00000	Barrancón	Puerto Plata	PP	Luperon		Luperon DM
+DO	00000	Cambiaso	Puerto Plata	PP	Luperon		Luperon DM
+DO	00000	El Higo	Puerto Plata	PP	Luperon		Luperon DM
+DO	00000	La Sabana	Puerto Plata	PP	Luperon		Luperon DM
+DO	00000	Luperón	Puerto Plata	PP	Luperon		Luperon DM
+DO	00000	Ranchito de Los Vargas	Puerto Plata	PP	Luperon		Luperon DM
+DO	00000	Don Gregorio	Puerto Plata	PP	Puerto Plata Puerto Plata		Maimon Puerto Plata DM
+DO	00000	Guzmancito	Puerto Plata	PP	Puerto Plata Puerto Plata		Maimon Puerto Plata DM
+DO	00000	Las Avispas	Puerto Plata	PP	Puerto Plata Puerto Plata		Maimon Puerto Plata DM
+DO	00000	Los Tejada	Puerto Plata	PP	Puerto Plata Puerto Plata		Maimon Puerto Plata DM
+DO	00000	Maggiolo	Puerto Plata	PP	Puerto Plata Puerto Plata		Maimon Puerto Plata DM
+DO	00000	Maimón	Puerto Plata	PP	Puerto Plata Puerto Plata		Maimon Puerto Plata DM
+DO	00000	El Cupey	Puerto Plata	PP	Puerto Plata Puerto Plata		Puerto Plata DM
+DO	00000	Los Mameyes	Puerto Plata	PP	Puerto Plata Puerto Plata		Puerto Plata DM
+DO	00000	Sabana Grande	Puerto Plata	PP	Puerto Plata Puerto Plata		Puerto Plata DM
+DO	00000	San Felipe de Puerto Plata	Puerto Plata	PP	Puerto Plata Puerto Plata		Puerto Plata DM
+DO	00000	Tubagua	Puerto Plata	PP	Puerto Plata Puerto Plata		Puerto Plata DM
+DO	00000	Gurabito de Yaroa	Puerto Plata	PP	Puerto Plata Puerto Plata		Yasica Arriba
+DO	00000	Villa General Benito Martínez	Puerto Plata	PP	Puerto Plata Puerto Plata		Yasica Arriba
+DO	00000	Yásica Abajo	Puerto Plata	PP	Puerto Plata Puerto Plata		Yasica Arriba
+DO	00000	Yásica Arriba	Puerto Plata	PP	Puerto Plata Puerto Plata		Yasica Arriba
+DO	00000	Cabarete	Puerto Plata	PP	Sosua distrito		Cabarete
+DO	00000	La Catalina	Puerto Plata	PP	Sosua distrito		Cabarete
+DO	00000	La Goleta	Puerto Plata	PP	Sosua distrito		Cabarete
+DO	00000	Los Cantabillos	Puerto Plata	PP	Sosua distrito		Sabaneta de Yasica
+DO	00000	Sabaneta de Yásica	Puerto Plata	PP	Sosua distrito		Sabaneta de Yasica
+DO	00000	Madre Vieja	Puerto Plata	PP	Sosua distrito		Sosua
+DO	00000	Sabaneta de Cangrejos	Puerto Plata	PP	Sosua distrito		Sosua
+DO	00000	Sosúa	Puerto Plata	PP	Sosua distrito		Sosua
+DO	00000	Estero Hondo	Puerto Plata	PP	Villa Isabela		Estero Hondo
+DO	00000	Los Pilones	Puerto Plata	PP	Villa Isabela		Estero Hondo
+DO	00000	Rancho Manuel	Puerto Plata	PP	Villa Isabela		Estero Hondo
+DO	00000	Gualete	Puerto Plata	PP	Villa Isabela		Gualete
+DO	00000	La Jaiba	Puerto Plata	PP	Villa Isabela		La Jaiba
+DO	00000	La Balsa	Puerto Plata	PP	Villa Isabela		Villa Isabela DM
+DO	00000	Laguna Grande	Puerto Plata	PP	Villa Isabela		Villa Isabela DM
+DO	00000	Villa Isabela	Puerto Plata	PP	Villa Isabela		Villa Isabela DM
+DO	00000	Arroyo de Leche	Puerto Plata	PP	Villa Montellano		Villa Montellano DM
+DO	00000	Boca Nueva	Puerto Plata	PP	Villa Montellano		Villa Montellano DM
+DO	00000	Cangrejo	Puerto Plata	PP	Villa Montellano		Villa Montellano DM
+DO	00000	Caraballo	Puerto Plata	PP	Villa Montellano		Villa Montellano DM
+DO	00000	Los Ciruelos	Puerto Plata	PP	Villa Montellano		Villa Montellano DM
+DO	00000	Mozaví	Puerto Plata	PP	Villa Montellano		Villa Montellano DM
+DO	00000	Villa Montellano	Puerto Plata	PP	Villa Montellano		Villa Montellano DM
+DO	00000	Bisonó	Santiago Provincia	ST	Bisono		Villa Bisono
+DO	00000	Cañada Bonita	Santiago Provincia	ST	Bisono		Villa Bisono
+DO	00000	Estancia del Yaque	Santiago Provincia	ST	Bisono		Villa Bisono
+DO	00000	La Lomota	Santiago Provincia	ST	Bisono		Villa Bisono
+DO	00000	La Villa Nueva	Santiago Provincia	ST	Bisono		Villa Bisono
+DO	00000	Mejía de Navarrete	Santiago Provincia	ST	Bisono		Villa Bisono
+DO	00000	Pontoncito	Santiago Provincia	ST	Bisono		Villa Bisono
+DO	00000	Vuelta Larga	Santiago Provincia	ST	Bisono		Villa Bisono
+DO	00000	El Caimito	Santiago Provincia	ST	Janico		El Caimito
+DO	00000	La Guama	Santiago Provincia	ST	Janico		El Caimito
+DO	00000	Los Pilones	Santiago Provincia	ST	Janico		El Caimito
+DO	00000	Pinalito	Santiago Provincia	ST	Janico		El Caimito
+DO	00000	Yaque Abajo	Santiago Provincia	ST	Janico		El Caimito
+DO	00000	Cagüeyes	Santiago Provincia	ST	Janico		Janico DM
+DO	00000	Cebú	Santiago Provincia	ST	Janico		Janico DM
+DO	00000	Dicayagua Abajo	Santiago Provincia	ST	Janico		Janico DM
+DO	00000	Jagua Abajo	Santiago Provincia	ST	Janico		Janico DM
+DO	00000	Jánico	Santiago Provincia	ST	Janico		Janico DM
+DO	00000	Loma del Corral	Santiago Provincia	ST	Janico		Janico DM
+DO	00000	Mesetas	Santiago Provincia	ST	Janico		Janico DM
+DO	00000	Franco Bidó	Santiago Provincia	ST	Janico		Juncalito
+DO	00000	Janey	Santiago Provincia	ST	Janico		Juncalito
+DO	00000	Juncalito	Santiago Provincia	ST	Janico		Juncalito
+DO	00000	Juncalito Abajo	Santiago Provincia	ST	Janico		Juncalito
+DO	00000	Rincón Largo	Santiago Provincia	ST	Janico		Juncalito
+DO	00000	Rincón Llano	Santiago Provincia	ST	Janico		Juncalito
+DO	00000	Las Palomas	Santiago Provincia	ST	Licey al Medio		Las Palomas
+DO	00000	Las Palomas Arriba	Santiago Provincia	ST	Licey al Medio		Las Palomas
+DO	00000	Cruz de Isalguez	Santiago Provincia	ST	Licey al Medio		Licey Al Medio DM
+DO	00000	La Cruz de María Francisca	Santiago Provincia	ST	Licey al Medio		Licey Al Medio DM
+DO	00000	Licey Abajo	Santiago Provincia	ST	Licey al Medio		Licey Al Medio DM
+DO	00000	Licey Al Medio	Santiago Provincia	ST	Licey al Medio		Licey Al Medio DM
+DO	00000	Licey Arriba	Santiago Provincia	ST	Licey al Medio		Licey Al Medio DM
+DO	00000	Canabacoa	Santiago Provincia	ST	Punal		Canabacoa
+DO	00000	Colorado	Santiago Provincia	ST	Punal		Canabacoa
+DO	00000	Estancia Nueva	Santiago Provincia	ST	Punal		Guayabal Punal DM
+DO	00000	Guayabal	Santiago Provincia	ST	Punal		Guayabal Punal DM
+DO	00000	Palo Amarillo	Santiago Provincia	ST	Punal		Guayabal Punal DM
+DO	00000	Arenoso	Santiago Provincia	ST	Punal		Punal DM
+DO	00000	Laguna Prieta	Santiago Provincia	ST	Punal		Punal DM
+DO	00000	La Jabilla	Santiago Provincia	ST	Punal		Punal DM
+DO	00000	Matanzas	Santiago Provincia	ST	Punal		Punal DM
+DO	00000	Puñal	Santiago Provincia	ST	Punal		Punal DM
+DO	00000	La Zanja	Santiago Provincia	ST	Sabana Iglesia		Sabana Iglesia DM
+DO	00000	Los Ranchos	Santiago Provincia	ST	Sabana Iglesia		Sabana Iglesia DM
+DO	00000	Sabana Iglesia	Santiago Provincia	ST	Sabana Iglesia		Sabana Iglesia DM
+DO	00000	Baitoa	Santiago Provincia	ST	Santiago Santiago		Baitoa
+DO	00000	López	Santiago Provincia	ST	Santiago Santiago		Baitoa
+DO	00000	San José Adentro	Santiago Provincia	ST	Santiago Santiago		Baitoa
+DO	00000	San José Afuera	Santiago Provincia	ST	Santiago Santiago		Baitoa
+DO	00000	El Flúmer	Santiago Provincia	ST	Santiago Santiago		Hato del Yaque
+DO	00000	Guayacanal	Santiago Provincia	ST	Santiago Santiago		Hato del Yaque
+DO	00000	Hato del Yaque	Santiago Provincia	ST	Santiago Santiago		Hato del Yaque
+DO	00000	Villa Bao	Santiago Provincia	ST	Santiago Santiago		Hato del Yaque
+DO	00000	Hatillo San Lorenzo	Santiago Provincia	ST	Santiago Santiago		La Canela
+DO	00000	La Canela	Santiago Provincia	ST	Santiago Santiago		La Canela
+DO	00000	Sabana Grande de Batey I	Santiago Provincia	ST	Santiago Santiago		La Canela
+DO	00000	La Auyama	Santiago Provincia	ST	Santiago Santiago		Pedro Garcia
+DO	00000	Pedro García	Santiago Provincia	ST	Santiago Santiago		Pedro Garcia
+DO	00000	El Ingenio Abajo	Santiago Provincia	ST	Santiago Santiago		Santiago DM
+DO	00000	El Papayo	Santiago Provincia	ST	Santiago Santiago		Santiago DM
+DO	00000	Gurabo Abajo	Santiago Provincia	ST	Santiago Santiago		Santiago DM
+DO	00000	La Herradura	Santiago Provincia	ST	Santiago Santiago		Santiago DM
+DO	00000	Las Charcas	Santiago Provincia	ST	Santiago Santiago		Santiago DM
+DO	00000	Monte Adentro Abajo	Santiago Provincia	ST	Santiago Santiago		Santiago DM
+DO	00000	Palo Quemado	Santiago Provincia	ST	Santiago Santiago		Santiago DM
+DO	00000	Pontezuela Al Medio	Santiago Provincia	ST	Santiago Santiago		Santiago DM
+DO	00000	Santiago de Los Caballeros	Santiago Provincia	ST	Santiago Santiago		Santiago DM
+DO	00000	El Aguacate	Santiago Provincia	ST	Santiago Santiago		San Francisco de Jacagua
+DO	00000	El Ranchito Piche	Santiago Provincia	ST	Santiago Santiago		San Francisco de Jacagua
+DO	00000	Jacagua Adentro	Santiago Provincia	ST	Santiago Santiago		San Francisco de Jacagua
+DO	00000	Jacagua Al Medio	Santiago Provincia	ST	Santiago Santiago		San Francisco de Jacagua
+DO	00000	La Ciénaga	Santiago Provincia	ST	Santiago Santiago		San Francisco de Jacagua
+DO	00000	La Delgada	Santiago Provincia	ST	Santiago Santiago		San Francisco de Jacagua
+DO	00000	Las Tres Cruces	Santiago Provincia	ST	Santiago Santiago		San Francisco de Jacagua
+DO	00000	Los Guineos	Santiago Provincia	ST	Santiago Santiago		San Francisco de Jacagua
+DO	00000	Palo Alto	Santiago Provincia	ST	Santiago Santiago		San Francisco de Jacagua
+DO	00000	Salamanca	Santiago Provincia	ST	Santiago Santiago		San Francisco de Jacagua
+DO	00000	San Francisco de Jacagua	Santiago Provincia	ST	Santiago Santiago		San Francisco de Jacagua
+DO	00000	Cañafístol	Santiago Provincia	ST	San Jose de Las Matas		El Rubio DM
+DO	00000	Celestina	Santiago Provincia	ST	San Jose de Las Matas		El Rubio DM
+DO	00000	Corocito	Santiago Provincia	ST	San Jose de Las Matas		El Rubio DM
+DO	00000	Diferencia	Santiago Provincia	ST	San Jose de Las Matas		El Rubio DM
+DO	00000	El Rubio	Santiago Provincia	ST	San Jose de Las Matas		El Rubio DM
+DO	00000	Jicomé	Santiago Provincia	ST	San Jose de Las Matas		El Rubio DM
+DO	00000	Maguá	Santiago Provincia	ST	San Jose de Las Matas		El Rubio DM
+DO	00000	Manacla	Santiago Provincia	ST	San Jose de Las Matas		El Rubio DM
+DO	00000	Mata del Dajao	Santiago Provincia	ST	San Jose de Las Matas		El Rubio DM
+DO	00000	Naranjo Bojón	Santiago Provincia	ST	San Jose de Las Matas		El Rubio DM
+DO	00000	Pananao	Santiago Provincia	ST	San Jose de Las Matas		El Rubio DM
+DO	00000	Damajagua	Santiago Provincia	ST	San Jose de Las Matas		Las Placetas
+DO	00000	Jamamú	Santiago Provincia	ST	San Jose de Las Matas		Las Placetas
+DO	00000	Las Lagunas	Santiago Provincia	ST	San Jose de Las Matas		Las Placetas
+DO	00000	Las Placetas	Santiago Provincia	ST	San Jose de Las Matas		Las Placetas
+DO	00000	Los Limones	Santiago Provincia	ST	San Jose de Las Matas		Las Placetas
+DO	00000	Cuesta Abajo	Santiago Provincia	ST	San Jose de Las Matas		La Cuesta
+DO	00000	Eugenio Perdomo	Santiago Provincia	ST	San Jose de Las Matas		La Cuesta
+DO	00000	Guama	Santiago Provincia	ST	San Jose de Las Matas		La Cuesta
+DO	00000	Jaiqui Picado	Santiago Provincia	ST	San Jose de Las Matas		La Cuesta
+DO	00000	La Cuesta	Santiago Provincia	ST	San Jose de Las Matas		La Cuesta
+DO	00000	Loma de Los Palos	Santiago Provincia	ST	San Jose de Las Matas		La Cuesta
+DO	00000	Loma Quemada	Santiago Provincia	ST	San Jose de Las Matas		La Cuesta
+DO	00000	Eugenio Perdomo	Santiago Provincia	ST	San Jose de Las Matas		San Jose de Las Matas DM
+DO	00000	Inoa	Santiago Provincia	ST	San Jose de Las Matas		San Jose de Las Matas DM
+DO	00000	Las Piedras	Santiago Provincia	ST	San Jose de Las Matas		San Jose de Las Matas DM
+DO	00000	Los Montones Abajo	Santiago Provincia	ST	San Jose de Las Matas		San Jose de Las Matas DM
+DO	00000	Mata Grande	Santiago Provincia	ST	San Jose de Las Matas		San Jose de Las Matas DM
+DO	00000	Pedregal	Santiago Provincia	ST	San Jose de Las Matas		San Jose de Las Matas DM
+DO	00000	San José de Las Matas	Santiago Provincia	ST	San Jose de Las Matas		San Jose de Las Matas DM
+DO	00000	Yerba Buena	Santiago Provincia	ST	San Jose de Las Matas		San Jose de Las Matas DM
+DO	00000	Canca Abajo	Santiago Provincia	ST	Tamboril Santiago		Canca La Piedra
+DO	00000	Canca La Piedra	Santiago Provincia	ST	Tamboril Santiago		Canca La Piedra
+DO	00000	Canca Las Aromas	Santiago Provincia	ST	Tamboril Santiago		Canca La Piedra
+DO	00000	Carlos Díaz	Santiago Provincia	ST	Tamboril Santiago		Canca La Piedra
+DO	00000	Los Amaceyes Arriba	Santiago Provincia	ST	Tamboril Santiago		Canca La Piedra
+DO	00000	Boca de Maizal	Santiago Provincia	ST	Tamboril Santiago		Tamboril DM
+DO	00000	Guazumal Arriba	Santiago Provincia	ST	Tamboril Santiago		Tamboril DM
+DO	00000	Las Bocas del Licey	Santiago Provincia	ST	Tamboril Santiago		Tamboril DM
+DO	00000	Licey Al Medio	Santiago Provincia	ST	Tamboril Santiago		Tamboril DM
+DO	00000	Pontezuela	Santiago Provincia	ST	Tamboril Santiago		Tamboril DM
+DO	00000	Tamboril	Santiago Provincia	ST	Tamboril Santiago		Tamboril DM
+DO	00000	El Aguacate	Santiago Provincia	ST	Villa Gonzalez		El Limon Villa Gonzalez DM
+DO	00000	El Limón	Santiago Provincia	ST	Villa Gonzalez		El Limon Villa Gonzalez DM
+DO	00000	Los Jardines del Limón	Santiago Provincia	ST	Villa Gonzalez		El Limon Villa Gonzalez DM
+DO	00000	Macorís del Limón	Santiago Provincia	ST	Villa Gonzalez		El Limon Villa Gonzalez DM
+DO	00000	Palmar Arriba	Santiago Provincia	ST	Villa Gonzalez		Palmar Arriba
+DO	00000	Las Lavas	Santiago Provincia	ST	Villa Gonzalez		Villa Gonzalez DM
+DO	00000	Palmar Abajo	Santiago Provincia	ST	Villa Gonzalez		Villa Gonzalez DM
+DO	00000	Quinigua	Santiago Provincia	ST	Villa Gonzalez		Villa Gonzalez DM
+DO	00000	Villa González	Santiago Provincia	ST	Villa Gonzalez		Villa Gonzalez DM
+DO	00000	Constanza	La Vega	VE	Constanza		Constanza DM
+DO	00000	Maldonado	La Vega	VE	Constanza		Constanza DM
+DO	00000	Palero	La Vega	VE	Constanza		Constanza DM
+DO	00000	El Convento	La Vega	VE	Constanza		La Sabina
+DO	00000	La Sabina	La Vega	VE	Constanza		La Sabina
+DO	00000	Los Cerros	La Vega	VE	Constanza		La Sabina
+DO	00000	Palero	La Vega	VE	Constanza		La Sabina
+DO	00000	Villa Sabina	La Vega	VE	Constanza		La Sabina
+DO	00000	Arroyo Frío	La Vega	VE	Constanza		Tireo
+DO	00000	El Río	La Vega	VE	Constanza		Tireo
+DO	00000	La Altagracia	La Vega	VE	Constanza		Tireo
+DO	00000	La Descubierta	La Vega	VE	Constanza		Tireo
+DO	00000	Las Palomas	La Vega	VE	Constanza		Tireo
+DO	00000	Tireo	La Vega	VE	Constanza		Tireo
+DO	00000	Tireo Abajo	La Vega	VE	Constanza		Tireo
+DO	00000	Buena Vista	La Vega	VE	Jarabacoa		Buena Vista DM
+DO	00000	Hatillo	La Vega	VE	Jarabacoa		Buena Vista DM
+DO	00000	Hato Viejo	La Vega	VE	Jarabacoa		Buena Vista DM
+DO	00000	Piedra Blanca	La Vega	VE	Jarabacoa		Buena Vista DM
+DO	00000	Piedra Blanca del Salto	La Vega	VE	Jarabacoa		Buena Vista DM
+DO	00000	Corocito	La Vega	VE	Jarabacoa		Jarabacoa DM
+DO	00000	Estancita	La Vega	VE	Jarabacoa		Jarabacoa DM
+DO	00000	Jarabacoa	La Vega	VE	Jarabacoa		Jarabacoa DM
+DO	00000	Jumunuco	La Vega	VE	Jarabacoa		Jarabacoa DM
+DO	00000	Los Corozos	La Vega	VE	Jarabacoa		Jarabacoa DM
+DO	00000	Paso Bajito	La Vega	VE	Jarabacoa		Jarabacoa DM
+DO	00000	Pedregal	La Vega	VE	Jarabacoa		Jarabacoa DM
+DO	00000	Pinar Quemado	La Vega	VE	Jarabacoa		Jarabacoa DM
+DO	00000	La Ciénaga	La Vega	VE	Jarabacoa		Manabao
+DO	00000	Los Dajaos	La Vega	VE	Jarabacoa		Manabao
+DO	00000	Manabao	La Vega	VE	Jarabacoa		Manabao
+DO	00000	Jima Abajo	La Vega	VE	Jima Abajo		Jima Abajo DM
+DO	00000	Jima Arriba	La Vega	VE	Jima Abajo		Jima Abajo DM
+DO	00000	La Frontera	La Vega	VE	Jima Abajo		Jima Abajo DM
+DO	00000	San Bartolo	La Vega	VE	Jima Abajo		Jima Abajo DM
+DO	00000	Junumucú	La Vega	VE	Jima Abajo		Rincon DM
+DO	00000	La Ceibita	La Vega	VE	Jima Abajo		Rincon DM
+DO	00000	Rincón	La Vega	VE	Jima Abajo		Rincon DM
+DO	00000	El Badén	La Vega	VE	La Vega La Vega		El Ranchito
+DO	00000	El Ranchito	La Vega	VE	La Vega La Vega		El Ranchito
+DO	00000	La Rosa	La Vega	VE	La Vega La Vega		El Ranchito
+DO	00000	Sabana Rey	La Vega	VE	La Vega La Vega		El Ranchito
+DO	00000	Bacuí Arriba	La Vega	VE	La Vega La Vega		La Vega DM
+DO	00000	Barranca	La Vega	VE	La Vega La Vega		La Vega DM
+DO	00000	Bayacanes	La Vega	VE	La Vega La Vega		La Vega DM
+DO	00000	Burende	La Vega	VE	La Vega La Vega		La Vega DM
+DO	00000	Concepción de La Vega	La Vega	VE	La Vega La Vega		La Vega DM
+DO	00000	Guarey	La Vega	VE	La Vega La Vega		La Vega DM
+DO	00000	Jamo	La Vega	VE	La Vega La Vega		La Vega DM
+DO	00000	La Cabirmota	La Vega	VE	La Vega La Vega		La Vega DM
+DO	00000	La Penda	La Vega	VE	La Vega La Vega		La Vega DM
+DO	00000	Las Cabuyas	La Vega	VE	La Vega La Vega		La Vega DM
+DO	00000	Las Canas	La Vega	VE	La Vega La Vega		La Vega DM
+DO	00000	Licey	La Vega	VE	La Vega La Vega		La Vega DM
+DO	00000	Pontón	La Vega	VE	La Vega La Vega		La Vega DM
+DO	00000	Sabaneta	La Vega	VE	La Vega La Vega		La Vega DM
+DO	00000	Arroyo Hondo Arriba	La Vega	VE	La Vega La Vega		Rio Verde Arriba
+DO	00000	Bonagua	La Vega	VE	La Vega La Vega		Rio Verde Arriba
+DO	00000	El Naranjal	La Vega	VE	La Vega La Vega		Rio Verde Arriba
+DO	00000	Mirador	La Vega	VE	La Vega La Vega		Rio Verde Arriba
+DO	00000	Pueblo Viejo	La Vega	VE	La Vega La Vega		Rio Verde Arriba
+DO	00000	Río Verde Abajo	La Vega	VE	La Vega La Vega		Rio Verde Arriba
+DO	00000	Río Verde Arriba	La Vega	VE	La Vega La Vega		Rio Verde Arriba
+DO	00000	El Mamey	La Vega	VE	La Vega La Vega		Tavera
+DO	00000	Jagua Gorda	La Vega	VE	La Vega La Vega		Tavera
+DO	00000	La Jina Hueca	La Vega	VE	La Vega La Vega		Tavera
+DO	00000	La Llanada	La Vega	VE	La Vega La Vega		Tavera
+DO	00000	Arroyo Toro - Masipedro	Monsenor Nouel	MN	Bonao		Arroyo Toro Masipedro
+DO	00000	El Coco	Monsenor Nouel	MN	Bonao		Arroyo Toro Masipedro
+DO	00000	El Cruce	Monsenor Nouel	MN	Bonao		Arroyo Toro Masipedro
+DO	00000	Los Bleos	Monsenor Nouel	MN	Bonao		Arroyo Toro Masipedro
+DO	00000	Bonao	Monsenor Nouel	MN	Bonao		Bonao DM
+DO	00000	El Verde	Monsenor Nouel	MN	Bonao		Bonao DM
+DO	00000	Los Arroces	Monsenor Nouel	MN	Bonao		Bonao DM
+DO	00000	Jayaco	Monsenor Nouel	MN	Bonao		Jayaco
+DO	00000	Jayaco Abajo	Monsenor Nouel	MN	Bonao		Jayaco
+DO	00000	La Ceiba	Monsenor Nouel	MN	Bonao		Jayaco
+DO	00000	Boca de Juma	Monsenor Nouel	MN	Bonao		Juma Bejucal
+DO	00000	El Ocho	Monsenor Nouel	MN	Bonao		Juma Bejucal
+DO	00000	Juma Bejucal	Monsenor Nouel	MN	Bonao		Juma Bejucal
+DO	00000	San Isidro	Monsenor Nouel	MN	Bonao		Juma Bejucal
+DO	00000	Cruce de Blanco	Monsenor Nouel	MN	Bonao		La Salvia Los Quemados
+DO	00000	La Cueva	Monsenor Nouel	MN	Bonao		La Salvia Los Quemados
+DO	00000	Los Quemados	Monsenor Nouel	MN	Bonao		La Salvia Los Quemados
+DO	00000	Jima	Monsenor Nouel	MN	Bonao		Sabana del Puerto
+DO	00000	Palero	Monsenor Nouel	MN	Bonao		Sabana del Puerto
+DO	00000	Sabana del Puerto	Monsenor Nouel	MN	Bonao		Sabana del Puerto
+DO	00000	Hato Viejo	Monsenor Nouel	MN	Maimon		Maimon Altamira DM
+DO	00000	Los Martínez	Monsenor Nouel	MN	Maimon		Maimon Altamira DM
+DO	00000	Maimón	Monsenor Nouel	MN	Maimon		Maimon Altamira DM
+DO	00000	El Zumbador	Monsenor Nouel	MN	Piedra Blanca		Juan Adrian
+DO	00000	Juan Adrián	Monsenor Nouel	MN	Piedra Blanca		Juan Adrian
+DO	00000	La Yautía	Monsenor Nouel	MN	Piedra Blanca		Juan Adrian
+DO	00000	Los Plátanos	Monsenor Nouel	MN	Piedra Blanca		Juan Adrian
+DO	00000	Arroyo Vuelta	Monsenor Nouel	MN	Piedra Blanca		Piedra Blanca DM
+DO	00000	El 77	Monsenor Nouel	MN	Piedra Blanca		Piedra Blanca DM
+DO	00000	Piedra Blanca	Monsenor Nouel	MN	Piedra Blanca		Piedra Blanca DM
+DO	00000	Rincón de Yuboa	Monsenor Nouel	MN	Piedra Blanca		Piedra Blanca DM
+DO	00000	La Colonia	Monsenor Nouel	MN	Piedra Blanca		Villa de Sonador
+DO	00000	La Minita	Monsenor Nouel	MN	Piedra Blanca		Villa de Sonador
+DO	00000	Villa de Sonador	Monsenor Nouel	MN	Piedra Blanca		Villa de Sonador
+DO	00000	Abadesa	Sanchez Ramirez	SZ	Cevicos		Cevicos DM
+DO	00000	Batero	Sanchez Ramirez	SZ	Cevicos		Cevicos DM
+DO	00000	Cevicos	Sanchez Ramirez	SZ	Cevicos		Cevicos DM
+DO	00000	La Cueva	Sanchez Ramirez	SZ	Cevicos		La Cueva
+DO	00000	Sabana Grande	Sanchez Ramirez	SZ	Cevicos		La Cueva
+DO	00000	Atalaya	Sanchez Ramirez	SZ	Cotui		Caballero DM
+DO	00000	Caballero	Sanchez Ramirez	SZ	Cotui		Caballero DM
+DO	00000	Los Palmaritos	Sanchez Ramirez	SZ	Cotui		Caballero DM
+DO	00000	Sabana de Caballero	Sanchez Ramirez	SZ	Cotui		Caballero DM
+DO	00000	Comedero	Sanchez Ramirez	SZ	Cotui		Comedero Arriba
+DO	00000	Los Barraquitos	Sanchez Ramirez	SZ	Cotui		Comedero Arriba
+DO	00000	Los Caboríes	Sanchez Ramirez	SZ	Cotui		Comedero Arriba
+DO	00000	Los Pinos	Sanchez Ramirez	SZ	Cotui		Comedero Arriba
+DO	00000	Chacuey Maldonado	Sanchez Ramirez	SZ	Cotui		Cotui DM
+DO	00000	Cotuí	Sanchez Ramirez	SZ	Cotui		Cotui DM
+DO	00000	Hatillo	Sanchez Ramirez	SZ	Cotui		Cotui DM
+DO	00000	Las Lagunas	Sanchez Ramirez	SZ	Cotui		Cotui DM
+DO	00000	Los Cerros	Sanchez Ramirez	SZ	Cotui		Cotui DM
+DO	00000	Sabana Grande Abajo	Sanchez Ramirez	SZ	Cotui		Cotui DM
+DO	00000	Zambrana Abajo	Sanchez Ramirez	SZ	Cotui		Cotui DM
+DO	00000	Alto de Casiano	Sanchez Ramirez	SZ	Cotui		Platanal
+DO	00000	Babarí	Sanchez Ramirez	SZ	Cotui		Platanal
+DO	00000	Chacuey	Sanchez Ramirez	SZ	Cotui		Platanal
+DO	00000	Platanal	Sanchez Ramirez	SZ	Cotui		Platanal
+DO	00000	La Estancia	Sanchez Ramirez	SZ	Cotui		Quita Sueno
+DO	00000	Las Cruces	Sanchez Ramirez	SZ	Cotui		Quita Sueno
+DO	00000	Los Transformadores	Sanchez Ramirez	SZ	Cotui		Quita Sueno
+DO	00000	Quita Sueño	Sanchez Ramirez	SZ	Cotui		Quita Sueno
+DO	00000	Fantino	Sanchez Ramirez	SZ	Fantino		Fantino DM
+DO	00000	San Miguel	Sanchez Ramirez	SZ	Fantino		Fantino DM
+DO	00000	Sierra Prieta	Sanchez Ramirez	SZ	Fantino		Fantino DM
+DO	00000	Angelina	Sanchez Ramirez	SZ	La Mata Sanchez Ramirez		Angelina DM
+DO	00000	Cruce de Angelina	Sanchez Ramirez	SZ	La Mata Sanchez Ramirez		Angelina DM
+DO	00000	El Limoncito	Sanchez Ramirez	SZ	La Mata Sanchez Ramirez		Angelina DM
+DO	00000	La Cruz de Angelina	Sanchez Ramirez	SZ	La Mata Sanchez Ramirez		Angelina DM
+DO	00000	Padre Fantino	Sanchez Ramirez	SZ	La Mata Sanchez Ramirez		Angelina DM
+DO	00000	Hernando Alonzo	Sanchez Ramirez	SZ	La Mata Sanchez Ramirez		Hernando Alonso
+DO	00000	La Cana	Sanchez Ramirez	SZ	La Mata Sanchez Ramirez		Hernando Alonso
+DO	00000	La Guamita	Sanchez Ramirez	SZ	La Mata Sanchez Ramirez		Hernando Alonso
+DO	00000	El Canal Mayor	Sanchez Ramirez	SZ	La Mata Sanchez Ramirez		La Bija
+DO	00000	La Bija	Sanchez Ramirez	SZ	La Mata Sanchez Ramirez		La Bija
+DO	00000	La Piedra	Sanchez Ramirez	SZ	La Mata Sanchez Ramirez		La Bija
+DO	00000	La Soledad	Sanchez Ramirez	SZ	La Mata Sanchez Ramirez		La Bija
+DO	00000	La Mata	Sanchez Ramirez	SZ	La Mata Sanchez Ramirez		La Mata DM
+DO	00000	Los Corozos	Sanchez Ramirez	SZ	La Mata Sanchez Ramirez		La Mata DM
+DO	00000	Bánica	Elias Pina	EP	Banica		Banica DM
+DO	00000	Las Cañitas	Elias Pina	EP	Banica		Banica DM
+DO	00000	Tabacal	Elias Pina	EP	Banica		Banica DM
+DO	00000	El Fondo	Elias Pina	EP	Banica		Sabana Cruz
+DO	00000	Guaroa	Elias Pina	EP	Banica		Sabana Cruz
+DO	00000	Guayabal	Elias Pina	EP	Banica		Sabana Cruz
+DO	00000	Rastrillo	Elias Pina	EP	Banica		Sabana Cruz
+DO	00000	Sabana Cruz	Elias Pina	EP	Banica		Sabana Cruz
+DO	00000	Cabeza de La Sabana	Elias Pina	EP	Banica		Sabana Higuero
+DO	00000	El Cantón	Elias Pina	EP	Banica		Sabana Higuero
+DO	00000	Higüerito	Elias Pina	EP	Banica		Sabana Higuero
+DO	00000	Los Yareyes	Elias Pina	EP	Banica		Sabana Higuero
+DO	00000	Sabana Higüero	Elias Pina	EP	Banica		Sabana Higuero
+DO	00000	Comendador	Elias Pina	EP	Comendador		Comendador DM
+DO	00000	El Pino	Elias Pina	EP	Comendador		Comendador DM
+DO	00000	Juan Felipe	Elias Pina	EP	Comendador		Comendador DM
+DO	00000	La Jagua	Elias Pina	EP	Comendador		Comendador DM
+DO	00000	Las Patillas	Elias Pina	EP	Comendador		Comendador DM
+DO	00000	Los Rinconcitos	Elias Pina	EP	Comendador		Comendador DM
+DO	00000	Macasía	Elias Pina	EP	Comendador		Comendador DM
+DO	00000	Pinzón	Elias Pina	EP	Comendador		Comendador DM
+DO	00000	Puello	Elias Pina	EP	Comendador		Comendador DM
+DO	00000	Guayabo	Elias Pina	EP	Comendador		Guayabo DM
+DO	00000	Guazumal	Elias Pina	EP	Comendador		Guayabo DM
+DO	00000	Isidro Martínez	Elias Pina	EP	Comendador		Guayabo DM
+DO	00000	La Meseta	Elias Pina	EP	Comendador		Guayabo DM
+DO	00000	Angostura	Elias Pina	EP	Comendador		Sabana Larga Comendador DM
+DO	00000	Hato Viejo	Elias Pina	EP	Comendador		Sabana Larga Comendador DM
+DO	00000	Potro Blanco	Elias Pina	EP	Comendador		Sabana Larga Comendador DM
+DO	00000	Potroso	Elias Pina	EP	Comendador		Sabana Larga Comendador DM
+DO	00000	Sabana Larga	Elias Pina	EP	Comendador		Sabana Larga Comendador DM
+DO	00000	El Llano	Elias Pina	EP	El Llano Elias Pina		El Llano DM
+DO	00000	Reboso	Elias Pina	EP	El Llano Elias Pina		El Llano DM
+DO	00000	Blanco	Elias Pina	EP	El Llano Elias Pina		Guanito
+DO	00000	Guanito	Elias Pina	EP	El Llano Elias Pina		Guanito
+DO	00000	Las Lagunas	Elias Pina	EP	El Llano Elias Pina		Guanito
+DO	00000	Aniceto Martínez	Elias Pina	EP	Hondo Valle		Hondo Valle DM
+DO	00000	Hondo Valle	Elias Pina	EP	Hondo Valle		Hondo Valle DM
+DO	00000	Rancho de Pedro	Elias Pina	EP	Hondo Valle		Hondo Valle DM
+DO	00000	La Sahonada	Elias Pina	EP	Hondo Valle		Rancho de La Guardia
+DO	00000	Los Guineos	Elias Pina	EP	Hondo Valle		Rancho de La Guardia
+DO	00000	Rancho de La Guardia	Elias Pina	EP	Hondo Valle		Rancho de La Guardia
+DO	00000	Juan de La Cruz	Elias Pina	EP	Juan Santiago		Juan Santiago DM
+DO	00000	Juan Santiago	Elias Pina	EP	Juan Santiago		Juan Santiago DM
+DO	00000	Monte Mayor	Elias Pina	EP	Juan Santiago		Juan Santiago DM
+DO	00000	Sabana de La Loma	Elias Pina	EP	Juan Santiago		Juan Santiago DM
+DO	00000	El Hoyo	Elias Pina	EP	Pedro Santana		Pedro Santana DM
+DO	00000	Guayajayuco	Elias Pina	EP	Pedro Santana		Pedro Santana DM
+DO	00000	La Palma	Elias Pina	EP	Pedro Santana		Pedro Santana DM
+DO	00000	Nicolás (Joca)	Elias Pina	EP	Pedro Santana		Pedro Santana DM
+DO	00000	Pedro Santana	Elias Pina	EP	Pedro Santana		Pedro Santana DM
+DO	00000	Billiguín	Elias Pina	EP	Pedro Santana		Rio Limpio
+DO	00000	La Sierrecita	Elias Pina	EP	Pedro Santana		Rio Limpio
+DO	00000	Río Limpio	Elias Pina	EP	Pedro Santana		Rio Limpio
+DO	00000	Arroyo Cano	San Juan Dominican Republic	JU	Bohechio		Arroyo Cano
+DO	00000	Los Montasitos	San Juan Dominican Republic	JU	Bohechio		Arroyo Cano
+DO	00000	Bohechío	San Juan Dominican Republic	JU	Bohechio		Bohechio DM
+DO	00000	Buena Vista	San Juan Dominican Republic	JU	Bohechio		Yaque
+DO	00000	El Palmar	San Juan Dominican Republic	JU	Bohechio		Yaque
+DO	00000	La Guama	San Juan Dominican Republic	JU	Bohechio		Yaque
+DO	00000	La Loma	San Juan Dominican Republic	JU	Bohechio		Yaque
+DO	00000	Abras Las Yayas	San Juan Dominican Republic	JU	El Cercado		Batista
+DO	00000	Batista	San Juan Dominican Republic	JU	El Cercado		Batista
+DO	00000	Pinar de La Cana	San Juan Dominican Republic	JU	El Cercado		Batista
+DO	00000	Damián	San Juan Dominican Republic	JU	El Cercado		Derrumbadero
+DO	00000	Derrumbadero	San Juan Dominican Republic	JU	El Cercado		Derrumbadero
+DO	00000	El Centro	San Juan Dominican Republic	JU	El Cercado		Derrumbadero
+DO	00000	Gajo de Pedro	San Juan Dominican Republic	JU	El Cercado		Derrumbadero
+DO	00000	Vallecito	San Juan Dominican Republic	JU	El Cercado		Derrumbadero
+DO	00000	El Cercado	San Juan Dominican Republic	JU	El Cercado		El Cercado DM
+DO	00000	El Pinar	San Juan Dominican Republic	JU	El Cercado		El Cercado DM
+DO	00000	La Ciénaga	San Juan Dominican Republic	JU	El Cercado		El Cercado DM
+DO	00000	Corbanal	San Juan Dominican Republic	JU	Juan de Herrera		Jinova
+DO	00000	Jaquimeyes	San Juan Dominican Republic	JU	Juan de Herrera		Jinova
+DO	00000	Jínova	San Juan Dominican Republic	JU	Juan de Herrera		Jinova
+DO	00000	Sosa	San Juan Dominican Republic	JU	Juan de Herrera		Jinova
+DO	00000	Juan de Herrera	San Juan Dominican Republic	JU	Juan de Herrera		Juan de Herrera DM
+DO	00000	Los Montones	San Juan Dominican Republic	JU	Juan de Herrera		Juan de Herrera DM
+DO	00000	Caña Segura	San Juan Dominican Republic	JU	Las Matas de Farfan		Carrera de Yeguas
+DO	00000	Carrera de Yeguas	San Juan Dominican Republic	JU	Las Matas de Farfan		Carrera de Yeguas
+DO	00000	Escondido	San Juan Dominican Republic	JU	Las Matas de Farfan		Carrera de Yeguas
+DO	00000	Pozo Hondo	San Juan Dominican Republic	JU	Las Matas de Farfan		Carrera de Yeguas
+DO	00000	Ranchito	San Juan Dominican Republic	JU	Las Matas de Farfan		Carrera de Yeguas
+DO	00000	Yacahueque	San Juan Dominican Republic	JU	Las Matas de Farfan		Carrera de Yeguas
+DO	00000	La Estancia	San Juan Dominican Republic	JU	Las Matas de Farfan		Las Matas de Farfan DM
+DO	00000	Las Carreras	San Juan Dominican Republic	JU	Las Matas de Farfan		Las Matas de Farfan DM
+DO	00000	Las Matas de Farfán	San Juan Dominican Republic	JU	Las Matas de Farfan		Las Matas de Farfan DM
+DO	00000	Yabonico	San Juan Dominican Republic	JU	Las Matas de Farfan		Las Matas de Farfan DM
+DO	00000	Cocinera	San Juan Dominican Republic	JU	Las Matas de Farfan		Matayaya
+DO	00000	Las Carreras	San Juan Dominican Republic	JU	Las Matas de Farfan		Matayaya
+DO	00000	Los Jobos	San Juan Dominican Republic	JU	Las Matas de Farfan		Matayaya
+DO	00000	Matayaya	San Juan Dominican Republic	JU	Las Matas de Farfan		Matayaya
+DO	00000	Olivero	San Juan Dominican Republic	JU	Las Matas de Farfan		Matayaya
+DO	00000	Cardón	San Juan Dominican Republic	JU	San Juan de la Maguana		El Rosario Maguana DM
+DO	00000	El Capá	San Juan Dominican Republic	JU	San Juan de la Maguana		El Rosario Maguana DM
+DO	00000	El Rosario	San Juan Dominican Republic	JU	San Juan de la Maguana		El Rosario Maguana DM
+DO	00000	Pueblo Nuevo	San Juan Dominican Republic	JU	San Juan de la Maguana		El Rosario Maguana DM
+DO	00000	Guanito	San Juan Dominican Republic	JU	San Juan de la Maguana		Guanito Maguana DM
+DO	00000	Los Bancos	San Juan Dominican Republic	JU	San Juan de la Maguana		Guanito Maguana DM
+DO	00000	Arroyo Loro	San Juan Dominican Republic	JU	San Juan de la Maguana		Hato del Padre
+DO	00000	El Cajuil	San Juan Dominican Republic	JU	San Juan de la Maguana		Hato del Padre
+DO	00000	Hato del Padre	San Juan Dominican Republic	JU	San Juan de la Maguana		Hato del Padre
+DO	00000	La Higuera	San Juan Dominican Republic	JU	San Juan de la Maguana		Hato del Padre
+DO	00000	Babor Abajo	San Juan Dominican Republic	JU	San Juan de la Maguana		Las Charcas de Maria Nova
+DO	00000	Las Charcas de María Nova	San Juan Dominican Republic	JU	San Juan de la Maguana		Las Charcas de Maria Nova
+DO	00000	Las Charcas Viejas	San Juan Dominican Republic	JU	San Juan de la Maguana		Las Charcas de Maria Nova
+DO	00000	Loma de Babor	San Juan Dominican Republic	JU	San Juan de la Maguana		Las Charcas de Maria Nova
+DO	00000	Dormidero	San Juan Dominican Republic	JU	San Juan de la Maguana		Las Maguanas Hato Nuevo
+DO	00000	Hato Nuevo	San Juan Dominican Republic	JU	San Juan de la Maguana		Las Maguanas Hato Nuevo
+DO	00000	Higüerito	San Juan Dominican Republic	JU	San Juan de la Maguana		Las Maguanas Hato Nuevo
+DO	00000	Las Maguanas-Hato Nuevo	San Juan Dominican Republic	JU	San Juan de la Maguana		Las Maguanas Hato Nuevo
+DO	00000	Pasatiempo	San Juan Dominican Republic	JU	San Juan de la Maguana		Las Maguanas Hato Nuevo
+DO	00000	El Batey	San Juan Dominican Republic	JU	San Juan de la Maguana		Las Zanjas
+DO	00000	El Cacheo	San Juan Dominican Republic	JU	San Juan de la Maguana		Las Zanjas
+DO	00000	El Kilómetro 9	San Juan Dominican Republic	JU	San Juan de la Maguana		Las Zanjas
+DO	00000	La Florida	San Juan Dominican Republic	JU	San Juan de la Maguana		Las Zanjas
+DO	00000	Las Charcas de Garabito	San Juan Dominican Republic	JU	San Juan de la Maguana		Las Zanjas
+DO	00000	Las Zanjas	San Juan Dominican Republic	JU	San Juan de la Maguana		Las Zanjas
+DO	00000	El Cerrito	San Juan Dominican Republic	JU	San Juan de la Maguana		La Jagua
+DO	00000	El Hatico	San Juan Dominican Republic	JU	San Juan de la Maguana		La Jagua
+DO	00000	Guayabal	San Juan Dominican Republic	JU	San Juan de la Maguana		La Jagua
+DO	00000	La Jagua	San Juan Dominican Republic	JU	San Juan de la Maguana		La Jagua
+DO	00000	La Ceiba	San Juan Dominican Republic	JU	San Juan de la Maguana		Pedro Corto
+DO	00000	Mabrigida	San Juan Dominican Republic	JU	San Juan de la Maguana		Pedro Corto
+DO	00000	Pedro Corto	San Juan Dominican Republic	JU	San Juan de la Maguana		Pedro Corto
+DO	00000	Punta Caña	San Juan Dominican Republic	JU	San Juan de la Maguana		Pedro Corto
+DO	00000	Juan Álvarez	San Juan Dominican Republic	JU	San Juan de la Maguana		Sabana Alta
+DO	00000	Los Vallaondito (Los Bayahondito)	San Juan Dominican Republic	JU	San Juan de la Maguana		Sabana Alta
+DO	00000	Sabana Alta	San Juan Dominican Republic	JU	San Juan de la Maguana		Sabana Alta
+DO	00000	Carpintero	San Juan Dominican Republic	JU	San Juan de la Maguana		Sabaneta
+DO	00000	La Ciénaga	San Juan Dominican Republic	JU	San Juan de la Maguana		Sabaneta
+DO	00000	La Lometa	San Juan Dominican Republic	JU	San Juan de la Maguana		Sabaneta
+DO	00000	Los Arroyos	San Juan Dominican Republic	JU	San Juan de la Maguana		Sabaneta
+DO	00000	Los Gajitos	San Juan Dominican Republic	JU	San Juan de la Maguana		Sabaneta
+DO	00000	Río Arriba del Norte	San Juan Dominican Republic	JU	San Juan de la Maguana		Sabaneta
+DO	00000	Sabaneta	San Juan Dominican Republic	JU	San Juan de la Maguana		Sabaneta
+DO	00000	Cañafístol	San Juan Dominican Republic	JU	San Juan de la Maguana		San Juan
+DO	00000	Chalona	San Juan Dominican Republic	JU	San Juan de la Maguana		San Juan
+DO	00000	Guazumal	San Juan Dominican Republic	JU	San Juan de la Maguana		San Juan
+DO	00000	Mogollón	San Juan Dominican Republic	JU	San Juan de la Maguana		San Juan
+DO	00000	San Juan de La Maguana	San Juan Dominican Republic	JU	San Juan de la Maguana		San Juan
+DO	00000	Cañada del Café	San Juan Dominican Republic	JU	Vallejuelo		Jorjillo
+DO	00000	Carrera de Puerta	San Juan Dominican Republic	JU	Vallejuelo		Jorjillo
+DO	00000	Jorjillo	San Juan Dominican Republic	JU	Vallejuelo		Jorjillo
+DO	00000	Río Arriba del Sur	San Juan Dominican Republic	JU	Vallejuelo		Vallejuelo DM
+DO	00000	Vallejuelo	San Juan Dominican Republic	JU	Vallejuelo		Vallejuelo DM
+DO	00000	El Salado	Bahoruco	BR	Galvan		El Salado
+DO	00000	Tamarindo	Bahoruco	BR	Galvan		El Salado
+DO	00000	El Mamón	Bahoruco	BR	Galvan		Galvan DM
+DO	00000	El Rodeo (Majagual)	Bahoruco	BR	Galvan		Galvan DM
+DO	00000	Galván	Bahoruco	BR	Galvan		Galvan DM
+DO	00000	Las Tejas	Bahoruco	BR	Galvan		Galvan DM
+DO	00000	Arroyo Salado	Bahoruco	BR	Los Rios		Las Clavellinas
+DO	00000	Cañada Vieja	Bahoruco	BR	Los Rios		Las Clavellinas
+DO	00000	Las Clavellinas	Bahoruco	BR	Los Rios		Las Clavellinas
+DO	00000	Higo de La Cruz	Bahoruco	BR	Los Rios		Los Rios DM
+DO	00000	Los Mosquitos	Bahoruco	BR	Los Rios		Los Rios DM
+DO	00000	Los Ríos	Bahoruco	BR	Los Rios		Los Rios DM
+DO	00000	Batey 4	Bahoruco	BR	Neiba		El Palmar DM
+DO	00000	Batey 5	Bahoruco	BR	Neiba		El Palmar DM
+DO	00000	Batey I	Bahoruco	BR	Neiba		El Palmar DM
+DO	00000	Batey Isabela	Bahoruco	BR	Neiba		El Palmar DM
+DO	00000	El Palmar	Bahoruco	BR	Neiba		El Palmar DM
+DO	00000	Apolinar Perdomo	Bahoruco	BR	Neiba		Neiba DM
+DO	00000	Copey	Bahoruco	BR	Neiba		Neiba DM
+DO	00000	El Aguacate	Bahoruco	BR	Neiba		Neiba DM
+DO	00000	El Estero	Bahoruco	BR	Neiba		Neiba DM
+DO	00000	El Manguito	Bahoruco	BR	Neiba		Neiba DM
+DO	00000	Las Petacas	Bahoruco	BR	Neiba		Neiba DM
+DO	00000	Los Guineos	Bahoruco	BR	Neiba		Neiba DM
+DO	00000	Los Roas	Bahoruco	BR	Neiba		Neiba DM
+DO	00000	Neiba	Bahoruco	BR	Neiba		Neiba DM
+DO	00000	Cabeza de Toro	Bahoruco	BR	Tamayo		Cabeza de Toro
+DO	00000	El Granado	Bahoruco	BR	Tamayo		Cabeza de Toro
+DO	00000	Guanarate	Bahoruco	BR	Tamayo		Cabeza de Toro
+DO	00000	Los Blocks de Mena	Bahoruco	BR	Tamayo		Mena
+DO	00000	Mena	Bahoruco	BR	Tamayo		Mena
+DO	00000	Monserrate (Montserrat)	Bahoruco	BR	Tamayo		Monserrat DM
+DO	00000	Santa María	Bahoruco	BR	Tamayo		Monserrat DM
+DO	00000	Valle Encantado	Bahoruco	BR	Tamayo		Monserrat DM
+DO	00000	Bayahonda	Bahoruco	BR	Tamayo		Santana Tamayo DM
+DO	00000	Santana	Bahoruco	BR	Tamayo		Santana Tamayo DM
+DO	00000	La Casita	Bahoruco	BR	Tamayo		Santa Barbara DM
+DO	00000	Los Robles	Bahoruco	BR	Tamayo		Santa Barbara DM
+DO	00000	Santa Bárbara El 6	Bahoruco	BR	Tamayo		Santa Barbara DM
+DO	00000	Barranca	Bahoruco	BR	Tamayo		Tamayo DM
+DO	00000	Tamayo	Bahoruco	BR	Tamayo		Tamayo DM
+DO	00000	El Jobo	Bahoruco	BR	Tamayo		Uvilla
+DO	00000	Uvilla	Bahoruco	BR	Tamayo		Uvilla
+DO	00000	El Barro	Bahoruco	BR	Villa Jaragua		Villa Jaragua DM
+DO	00000	Las Cañitas	Bahoruco	BR	Villa Jaragua		Villa Jaragua DM
+DO	00000	Mata de Naranja	Bahoruco	BR	Villa Jaragua		Villa Jaragua DM
+DO	00000	Pie de Loma	Bahoruco	BR	Villa Jaragua		Villa Jaragua DM
+DO	00000	Villa Jaragua	Bahoruco	BR	Villa Jaragua		Villa Jaragua DM
+DO	00000	Manuel Díaz	Barahona	BH	Barahona Barahona		Barahona DM
+DO	00000	Payaso	Barahona	BH	Barahona Barahona		Barahona DM
+DO	00000	Santa Cruz de Barahona	Barahona	BH	Barahona Barahona		Barahona DM
+DO	00000	El Cachón	Barahona	BH	Barahona Barahona		El Cachon
+DO	00000	Los Callejones	Barahona	BH	Barahona Barahona		El Cachon
+DO	00000	La Guázara	Barahona	BH	Barahona Barahona		La Guazara
+DO	00000	Villa Central	Barahona	BH	Barahona Barahona		Villa Central
+DO	00000	Cabral	Barahona	BH	Cabral Barahona		Cabral DM
+DO	00000	Tierra Blanca	Barahona	BH	Cabral Barahona		Cabral DM
+DO	00000	El Peñón	Barahona	BH	El Penon Barahona		El Penon
+DO	00000	Peñón Arriba	Barahona	BH	El Penon Barahona		El Penon
+DO	00000	Arroyo Dulce	Barahona	BH	Enriquillo		Arroyo Dulce
+DO	00000	El Higüero	Barahona	BH	Enriquillo		Arroyo Dulce
+DO	00000	El Naranjal	Barahona	BH	Enriquillo		Arroyo Dulce
+DO	00000	El Pino	Barahona	BH	Enriquillo		Arroyo Dulce
+DO	00000	Buena Vista	Barahona	BH	Enriquillo		Enriquillo DM
+DO	00000	Caletón	Barahona	BH	Enriquillo		Enriquillo DM
+DO	00000	El Pino	Barahona	BH	Enriquillo		Enriquillo DM
+DO	00000	Enriquillo	Barahona	BH	Enriquillo		Enriquillo DM
+DO	00000	Fundación	Barahona	BH	Fundacion Barahona		Fundacion DM
+DO	00000	La Altagracia	Barahona	BH	Fundacion Barahona		Fundacion DM
+DO	00000	La Hoya	Barahona	BH	Fundacion Barahona		Fundacion DM
+DO	00000	Habanero	Barahona	BH	Fundacion Barahona		Pescaderia
+DO	00000	Hato Viejo	Barahona	BH	Fundacion Barahona		Pescaderia
+DO	00000	La Hoya	Barahona	BH	Fundacion Barahona		Pescaderia
+DO	00000	Pescadería	Barahona	BH	Fundacion Barahona		Pescaderia
+DO	00000	Jaquimeyes	Barahona	BH	Jaquimeyes		Jaquimeyes DM
+DO	00000	Las Palmas	Barahona	BH	Jaquimeyes		Palo Alto DM
+DO	00000	Palo Alto	Barahona	BH	Jaquimeyes		Palo Alto DM
+DO	00000	La Cu	Barahona	BH	Las Salinas		Las Salinas DM
+DO	00000	Las Salinas	Barahona	BH	Las Salinas		Las Salinas DM
+DO	00000	Lemba	Barahona	BH	Las Salinas		Las Salinas DM
+DO	00000	Los Saladillos	Barahona	BH	Las Salinas		Las Salinas DM
+DO	00000	Baoruco	Barahona	BH	La Cienaga Barahona		Bahoruco DM
+DO	00000	El Arroyo	Barahona	BH	La Cienaga Barahona		Bahoruco DM
+DO	00000	Juan Esteban	Barahona	BH	La Cienaga Barahona		Bahoruco DM
+DO	00000	La Filipina	Barahona	BH	La Cienaga Barahona		Bahoruco DM
+DO	00000	Guayuyal	Barahona	BH	La Cienaga Barahona		La Cienaga DM
+DO	00000	La Ciénaga	Barahona	BH	La Cienaga Barahona		La Cienaga DM
+DO	00000	El Maniel	Barahona	BH	Paraiso Barahona		Los Patos
+DO	00000	Los Patos	Barahona	BH	Paraiso Barahona		Los Patos
+DO	00000	Ojeda	Barahona	BH	Paraiso Barahona		Los Patos
+DO	00000	El Platón	Barahona	BH	Paraiso Barahona		Paraiso
+DO	00000	La Lanza Arriba	Barahona	BH	Paraiso Barahona		Paraiso
+DO	00000	Leonardo	Barahona	BH	Paraiso Barahona		Paraiso
+DO	00000	Paraíso	Barahona	BH	Paraiso Barahona		Paraiso
+DO	00000	San Rafael	Barahona	BH	Paraiso Barahona		Paraiso
+DO	00000	Fondo de Agustín	Barahona	BH	Polo Barahona		Polo
+DO	00000	Las Auyamas	Barahona	BH	Polo Barahona		Polo
+DO	00000	Los Arroyos	Barahona	BH	Polo Barahona		Polo
+DO	00000	Los Charquitos	Barahona	BH	Polo Barahona		Polo
+DO	00000	Polo	Barahona	BH	Polo Barahona		Polo
+DO	00000	Bombita	Barahona	BH	Vicente Noble		Canoa
+DO	00000	Canoa	Barahona	BH	Vicente Noble		Canoa
+DO	00000	Arroyo Grande	Barahona	BH	Vicente Noble		Fondo Negro
+DO	00000	Fondo Negro	Barahona	BH	Vicente Noble		Fondo Negro
+DO	00000	La Cu	Barahona	BH	Vicente Noble		Fondo Negro
+DO	00000	El Higuito	Barahona	BH	Vicente Noble		Quita Coraza
+DO	00000	Las Minas	Barahona	BH	Vicente Noble		Quita Coraza
+DO	00000	Quita Coraza	Barahona	BH	Vicente Noble		Quita Coraza
+DO	00000	Vicente Noble	Barahona	BH	Vicente Noble		Vicente Noble DM
+DO	00000	Batey 10	Independencia	IN	Cristobal Independencia		Batey 8
+DO	00000	Batey 7	Independencia	IN	Cristobal Independencia		Batey 8
+DO	00000	Batey 8	Independencia	IN	Cristobal Independencia		Batey 8
+DO	00000	Batey 9	Independencia	IN	Cristobal Independencia		Batey 8
+DO	00000	Cristóbal	Independencia	IN	Cristobal Independencia		Cristobal DM
+DO	00000	Duvergé	Independencia	IN	Duverge		Duverge DM
+DO	00000	Puerto Escondido	Independencia	IN	Duverge		Duverge DM
+DO	00000	Las Baitoas	Independencia	IN	Duverge		Vengan a Ver
+DO	00000	Vengan A Ver	Independencia	IN	Duverge		Vengan a Ver
+DO	00000	Boca de Cachón	Independencia	IN	Jimani		Boca de Cachon
+DO	00000	Tierra Nueva	Independencia	IN	Jimani		Boca de Cachon
+DO	00000	El Limón	Independencia	IN	Jimani		El Limon Jimani DM
+DO	00000	La Florida	Independencia	IN	Jimani		El Limon Jimani DM
+DO	00000	Mortero	Independencia	IN	Jimani		El Limon Jimani DM
+DO	00000	Arroyo Blanco	Independencia	IN	Jimani		Jimani DM
+DO	00000	Jimaní	Independencia	IN	Jimani		Jimani DM
+DO	00000	Ángel Félix	Independencia	IN	La Descubierta		La Descubierta DM
+DO	00000	Bartolomé	Independencia	IN	La Descubierta		La Descubierta DM
+DO	00000	La Descubierta	Independencia	IN	La Descubierta		La Descubierta DM
+DO	00000	Los Pinos	Independencia	IN	La Descubierta		La Descubierta DM
+DO	00000	Colonia Japón	Independencia	IN	Mella Independencia		La Colonia
+DO	00000	La Colonia	Independencia	IN	Mella Independencia		La Colonia
+DO	00000	Angostura	Independencia	IN	Mella Independencia		Mella DM
+DO	00000	Mella	Independencia	IN	Mella Independencia		Mella DM
+DO	00000	Cabeza de Río	Independencia	IN	Postrer Rio		Guayabal Postrer Rio DM
+DO	00000	El Maniel	Independencia	IN	Postrer Rio		Guayabal Postrer Rio DM
+DO	00000	Guayabal	Independencia	IN	Postrer Rio		Guayabal Postrer Rio DM
+DO	00000	Raíz Picada	Independencia	IN	Postrer Rio		Guayabal Postrer Rio DM
+DO	00000	Los Bolos	Independencia	IN	Postrer Rio		Postrer Rio DM
+DO	00000	Postrer Río	Independencia	IN	Postrer Rio		Postrer Rio DM
+DO	00000	Juancho	Pedernales	PN	Oviedo Pedernales		Juancho
+DO	00000	La Colonia Villa Esperanza	Pedernales	PN	Oviedo Pedernales		Juancho
+DO	00000	Los Tres Charcos	Pedernales	PN	Oviedo Pedernales		Oviedo DM
+DO	00000	Oviedo	Pedernales	PN	Oviedo Pedernales		Oviedo DM
+DO	00000	Aguas Negras	Pedernales	PN	Pedernales Pedernales		Jose Francisco Pena Gomez
+DO	00000	Altagracia	Pedernales	PN	Pedernales Pedernales		Jose Francisco Pena Gomez
+DO	00000	Ávila	Pedernales	PN	Pedernales Pedernales		Jose Francisco Pena Gomez
+DO	00000	La Altagracia	Pedernales	PN	Pedernales Pedernales		Jose Francisco Pena Gomez
+DO	00000	Los Arroyos	Pedernales	PN	Pedernales Pedernales		Jose Francisco Pena Gomez
+DO	00000	Mencía	Pedernales	PN	Pedernales Pedernales		Jose Francisco Pena Gomez
+DO	00000	Cabo Rojo	Pedernales	PN	Pedernales Pedernales		Pedernales DM
+DO	00000	Las Mercedes	Pedernales	PN	Pedernales Pedernales		Pedernales DM
+DO	00000	Pedernales	Pedernales	PN	Pedernales Pedernales		Pedernales DM
+DO	00000	Arenitas	Hato Mayor	HM	El Valle Hato Mayor		El Valle DM
+DO	00000	El Valle	Hato Mayor	HM	El Valle Hato Mayor		El Valle DM
+DO	00000	Rincón Fogón	Hato Mayor	HM	El Valle Hato Mayor		El Valle DM
+DO	00000	San Rafael	Hato Mayor	HM	El Valle Hato Mayor		El Valle DM
+DO	00000	Guayabo Dulce	Hato Mayor	HM	Hato Mayor Hato Mayor		Guayabo Dulce
+DO	00000	Jalonga	Hato Mayor	HM	Hato Mayor Hato Mayor		Guayabo Dulce
+DO	00000	Las Espinas	Hato Mayor	HM	Hato Mayor Hato Mayor		Guayabo Dulce
+DO	00000	Paso Cibao	Hato Mayor	HM	Hato Mayor Hato Mayor		Guayabo Dulce
+DO	00000	Don López	Hato Mayor	HM	Hato Mayor Hato Mayor		Hato Mayor DM
+DO	00000	Hato Mayor de Rey	Hato Mayor	HM	Hato Mayor Hato Mayor		Hato Mayor DM
+DO	00000	Manchado	Hato Mayor	HM	Hato Mayor Hato Mayor		Hato Mayor DM
+DO	00000	Higuamo	Hato Mayor	HM	Hato Mayor Hato Mayor		Mata Palacio
+DO	00000	Maguá	Hato Mayor	HM	Hato Mayor Hato Mayor		Mata Palacio
+DO	00000	Mata Palacio	Hato Mayor	HM	Hato Mayor Hato Mayor		Mata Palacio
+DO	00000	El Mamón	Hato Mayor	HM	Hato Mayor Hato Mayor		Yerba Buena DM
+DO	00000	Las Claras	Hato Mayor	HM	Hato Mayor Hato Mayor		Yerba Buena DM
+DO	00000	Yerba Buena	Hato Mayor	HM	Hato Mayor Hato Mayor		Yerba Buena DM
+DO	00000	Elupina Cordero de Las Cañitas	Hato Mayor	HM	Sabana de La Mar		Elupina Cordero de Las Canitas
+DO	00000	Maguá	Hato Mayor	HM	Sabana de La Mar		Elupina Cordero de Las Canitas
+DO	00000	El Centro	Hato Mayor	HM	Sabana de La Mar		Sabana de La Mar DM
+DO	00000	Sabana de La Mar	Hato Mayor	HM	Sabana de La Mar		Sabana de La Mar DM
+DO	00000	Antón Sánchez	Monte Plata	MP	Bayaguana		Bayaguana DM
+DO	00000	Bayaguana	Monte Plata	MP	Bayaguana		Bayaguana DM
+DO	00000	Cojobal	Monte Plata	MP	Bayaguana		Bayaguana DM
+DO	00000	Comatillo	Monte Plata	MP	Bayaguana		Bayaguana DM
+DO	00000	Hidalgo	Monte Plata	MP	Bayaguana		Bayaguana DM
+DO	00000	Trinidad	Monte Plata	MP	Bayaguana		Bayaguana DM
+DO	00000	Yuvina	Monte Plata	MP	Bayaguana		Bayaguana DM
+DO	00000	Boyá	Monte Plata	MP	Monte Plata Monte Plata		Boya
+DO	00000	Cruz Morillo	Monte Plata	MP	Monte Plata Monte Plata		Boya
+DO	00000	El Cacique	Monte Plata	MP	Monte Plata Monte Plata		Boya
+DO	00000	El Mamey	Monte Plata	MP	Monte Plata Monte Plata		Boya
+DO	00000	Chirino	Monte Plata	MP	Monte Plata Monte Plata		Chirino
+DO	00000	San Francisco	Monte Plata	MP	Monte Plata Monte Plata		Chirino
+DO	00000	San Juan de Buena Vista	Monte Plata	MP	Monte Plata Monte Plata		Chirino
+DO	00000	Yabacao	Monte Plata	MP	Monte Plata Monte Plata		Chirino
+DO	00000	Don Juan	Monte Plata	MP	Monte Plata Monte Plata		Don Juan
+DO	00000	El Bosque	Monte Plata	MP	Monte Plata Monte Plata		Don Juan
+DO	00000	Frías	Monte Plata	MP	Monte Plata Monte Plata		Don Juan
+DO	00000	La Jagua	Monte Plata	MP	Monte Plata Monte Plata		Don Juan
+DO	00000	Sabana de Payabo	Monte Plata	MP	Monte Plata Monte Plata		Don Juan
+DO	00000	El Dián	Monte Plata	MP	Monte Plata Monte Plata		Monte Plata DM
+DO	00000	Hato Arriba	Monte Plata	MP	Monte Plata Monte Plata		Monte Plata DM
+DO	00000	La Luisa	Monte Plata	MP	Monte Plata Monte Plata		Monte Plata DM
+DO	00000	Monte Plata	Monte Plata	MP	Monte Plata Monte Plata		Monte Plata DM
+DO	00000	Río Boyá	Monte Plata	MP	Monte Plata Monte Plata		Monte Plata DM
+DO	00000	Centro Penzo	Monte Plata	MP	Peralvillo		Peralvillo DM
+DO	00000	Cuaba	Monte Plata	MP	Peralvillo		Peralvillo DM
+DO	00000	Guázuma	Monte Plata	MP	Peralvillo		Peralvillo DM
+DO	00000	La Placeta	Monte Plata	MP	Peralvillo		Peralvillo DM
+DO	00000	Peralvillo	Monte Plata	MP	Peralvillo		Peralvillo DM
+DO	00000	Batey La Tarana	Monte Plata	MP	Sabana Grande de Boya		Gonzalo
+DO	00000	Batey Sabana Larga	Monte Plata	MP	Sabana Grande de Boya		Gonzalo
+DO	00000	Gonzalo	Monte Plata	MP	Sabana Grande de Boya		Gonzalo
+DO	00000	Los Limones	Monte Plata	MP	Sabana Grande de Boya		Gonzalo
+DO	00000	Francisquito	Monte Plata	MP	Sabana Grande de Boya		Majagual DM
+DO	00000	La China	Monte Plata	MP	Sabana Grande de Boya		Majagual DM
+DO	00000	Los Mapolos	Monte Plata	MP	Sabana Grande de Boya		Majagual DM
+DO	00000	Majagual	Monte Plata	MP	Sabana Grande de Boya		Majagual DM
+DO	00000	Cabeza de Toro	Monte Plata	MP	Sabana Grande de Boya		Sabana Grande de Boya DM
+DO	00000	Juan Sánchez	Monte Plata	MP	Sabana Grande de Boya		Sabana Grande de Boya DM
+DO	00000	Payabo	Monte Plata	MP	Sabana Grande de Boya		Sabana Grande de Boya DM
+DO	00000	Sabana Grande de Boyá	Monte Plata	MP	Sabana Grande de Boya		Sabana Grande de Boya DM
+DO	00000	Camarón	Monte Plata	MP	Yamasa		Los Botados
+DO	00000	La Cola	Monte Plata	MP	Yamasa		Los Botados
+DO	00000	La Maya	Monte Plata	MP	Yamasa		Los Botados
+DO	00000	La Yautía	Monte Plata	MP	Yamasa		Los Botados
+DO	00000	Los Botados	Monte Plata	MP	Yamasa		Los Botados
+DO	00000	Reparadero	Monte Plata	MP	Yamasa		Los Botados
+DO	00000	Consuelo	Monte Plata	MP	Yamasa		Mama Tingo
+DO	00000	El Ranchito	Monte Plata	MP	Yamasa		Mama Tingo
+DO	00000	Hato Viejo	Monte Plata	MP	Yamasa		Mama Tingo
+DO	00000	La Estancia	Monte Plata	MP	Yamasa		Mama Tingo
+DO	00000	Río Arriba	Monte Plata	MP	Yamasa		Mama Tingo
+DO	00000	Sabana Grande	Monte Plata	MP	Yamasa		Mama Tingo
+DO	00000	La Jina	Monte Plata	MP	Yamasa		Yamasa DM
+DO	00000	Los Jobillos	Monte Plata	MP	Yamasa		Yamasa DM
+DO	00000	Pantoa	Monte Plata	MP	Yamasa		Yamasa DM
+DO	00000	San Antonio	Monte Plata	MP	Yamasa		Yamasa DM
+DO	00000	Yamasá	Monte Plata	MP	Yamasa		Yamasa DM
+DO	00000	Alejandro Bass	San Pedro de Macoris	PM	Consuelo		Consuelo DM
+DO	00000	Consuelo.	San Pedro de Macoris	PM	Consuelo		Consuelo DM
+DO	00000	Las Callas	San Pedro de Macoris	PM	Consuelo		Consuelo DM
+DO	00000	El Conuco	San Pedro de Macoris	PM	Guayacanes		Guayacanes DM
+DO	00000	Guayacanes	San Pedro de Macoris	PM	Guayacanes		Guayacanes DM
+DO	00000	La Punta	San Pedro de Macoris	PM	Guayacanes		Guayacanes DM
+DO	00000	El Puerto	San Pedro de Macoris	PM	Los Llanos		El Puerto DM
+DO	00000	Plumita	San Pedro de Macoris	PM	Los Llanos		El Puerto DM
+DO	00000	Gautier	San Pedro de Macoris	PM	Los Llanos		Gautier
+DO	00000	San José	San Pedro de Macoris	PM	Los Llanos		Gautier
+DO	00000	Cayacoa	San Pedro de Macoris	PM	Los Llanos		Los Llanos DM
+DO	00000	El Guayabal	San Pedro de Macoris	PM	Los Llanos		Los Llanos DM
+DO	00000	Los Jíbaros	San Pedro de Macoris	PM	Los Llanos		Los Llanos DM
+DO	00000	San José de Los Llanos	San Pedro de Macoris	PM	Los Llanos		Los Llanos DM
+DO	00000	Caonabo (Batey Siria)	San Pedro de Macoris	PM	Quisqueya		Quisqueya DM
+DO	00000	Los Montes	San Pedro de Macoris	PM	Quisqueya		Quisqueya DM
+DO	00000	Los Montones	San Pedro de Macoris	PM	Quisqueya		Quisqueya DM
+DO	00000	Malulani	San Pedro de Macoris	PM	Quisqueya		Quisqueya DM
+DO	00000	Pajarito	San Pedro de Macoris	PM	Quisqueya		Quisqueya DM
+DO	00000	Quisqueya	San Pedro de Macoris	PM	Quisqueya		Quisqueya DM
+DO	00000	Zorra Buena	San Pedro de Macoris	PM	Quisqueya		Quisqueya DM
+DO	00000	Jagual	San Pedro de Macoris	PM	Ramon Santana		Ramon Santana DM
+DO	00000	Los Lerenes	San Pedro de Macoris	PM	Ramon Santana		Ramon Santana DM
+DO	00000	Magarín	San Pedro de Macoris	PM	Ramon Santana		Ramon Santana DM
+DO	00000	Ramón Santana	San Pedro de Macoris	PM	Ramon Santana		Ramon Santana DM
+DO	00000	Boca del Soco	San Pedro de Macoris	PM	San Pedro de Macoris San Pedro de Macoris		San Pedro de Macoris DM
+DO	00000	San Pedro de Macorís	San Pedro de Macoris	PM	San Pedro de Macoris San Pedro de Macoris		San Pedro de Macoris DM
+DO	00000	24 de Abril	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	27 de Febrero	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	30 de Mayo	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Agua Dulce	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Altos de Arroyo Hondo I	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Altos de Arroyo Hondo II	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Altos de Arroyo Hondo III	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Antillas	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Arboleda (Naco)	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Arroyo Manzano	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Atala	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Barrio Obrero	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Bella Vista	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Borojol	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Buena Vista	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Cachiman	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Capotillo	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Carmelita	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Carmen Amelia	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Castellana	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Centro de Los Heroes	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Centro Olimpico	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Cerros de Arroyo Hondo	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Cerros de Arroyo Hondo III	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Ciudad Gandera	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Ciudad Moderna	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Ciudad Nueva	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Ciudad Universitaria	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Colinas de Arroyo Hondo	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Colinas del Seminario	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Constelacion	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Costa Brava	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Cristo Rey	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Cuesta Brava	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Cuesta Hermosa	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Cuesta Hermosa III	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Domingo Savio	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Don Bosco	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Don Honorio	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	El Cacique	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	El Caliche	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	El Condado	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	El Embajador	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	El Ensanchito	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	El Manguito	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	El Millon	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	El Pino	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	El Portal	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	El Vergel	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Encarnacion	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Ensanche Espaillat	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Ensanche Independencia	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Ensanche Kennedy	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Ensanche La Fe	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Ensanche La Paz	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Ensanche Lugo	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Ensanche Luperon	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Ensanche Quisqueya	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Esperilla	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Estela Marina (Los Millones)	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Evaristo Morales	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Fundacion	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Gazcue	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Gazcue (Plaza de la Cultura)	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Guachupita	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Gualey	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Hoduras	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Isabel Villas	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Julieta Morales	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	La Agustina	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	La Agustinita	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	La Aldaba	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	La Caridad	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	La Ceiba	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	La Cementera	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	La Cienaga	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	La Cuarenta	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	La Esperanza	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	La Fe	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	La Fuente	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	La Isabela	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	La Julia	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	La Meseta	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Lanna Gautier	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	La Primavera	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	La Puya	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Las Colinas	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Las Flores	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Las Villas	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	La Yuca	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	La Zurza	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Lomas de Arroyo Hondo	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Lopez de Vega	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Los Arrecifes	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Los Arroyos	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Los Caminos	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Los Guandules	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Los Guayabos	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Los Jardines del Norte	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Los Millones	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Los Pinos	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Los Praditos	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Los Prados	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Los Proceres	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Los Restauradores	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Los Rios	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Los Robles	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Manganagua	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Manzano	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Maria Auxiliadora	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Mata Hambre	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Mejoramiento Social	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Mirador Norte	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Miraflores	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Naco	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Paraiso	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Parque Isabela	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Piantini	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Pista de Motocros La Yuca	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Pradera Hermosa	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Reparto Aguedita (Gazcue)	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Residencial La Yuca	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Residencial Rosmil	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Rocamar	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	San Carlos	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	San Geronimo	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	San Lazaro	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	San Martin de Porres	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	San Miguel	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Santa Rosa	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Santo Domingo de Guzmán	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Sarasota	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Simon Bolivar	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Trueva	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Urbanización Fernandez	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Urbanización Las Praderas	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Urbanización Puerta de Hierro	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Viejo Arroyo Hondo	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Villa Claudia	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Villa Consuelo	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Villa Elena	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Villa Francisca	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Villa Juana	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Villa Maria	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Villa Marina	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Villas Agricolas	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Yaquito	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Zona Colonial	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Zona Universitaria	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Boca Chica	Santo Domingo	SD	Boca Chica		Boca Chica DM
+DO	00000	Cruce de Boca Chica	Santo Domingo	SD	Boca Chica		Boca Chica DM
+DO	00000	La Malena	Santo Domingo	SD	Boca Chica		Boca Chica DM
+DO	00000	Campo Lindo	Santo Domingo	SD	Boca Chica		La Caleta
+DO	00000	El Valiente	Santo Domingo	SD	Boca Chica		La Caleta
+DO	00000	La Caleta	Santo Domingo	SD	Boca Chica		La Caleta
+DO	00000	Los Alcarrizos	Santo Domingo	SD	Los Alcarrizos		Los Alcarrizos DM
+DO	00000	Santa Rosa	Santo Domingo	SD	Los Alcarrizos		Los Alcarrizos DM
+DO	00000	Palmarejito	Santo Domingo	SD	Los Alcarrizos		Palmarejo Villa Linda
+DO	00000	Palmarejo Villa Linda	Santo Domingo	SD	Los Alcarrizos		Palmarejo Villa Linda
+DO	00000	Santa Bárbara	Santo Domingo	SD	Los Alcarrizos		Palmarejo Villa Linda
+DO	00000	Villa Linda	Santo Domingo	SD	Los Alcarrizos		Palmarejo Villa Linda
+DO	00000	Pantoja	Santo Domingo	SD	Los Alcarrizos		Pantoja DM
+DO	00000	El Limón	Santo Domingo	SD	Pedro Brand		La Cuaba
+DO	00000	La Cuaba	Santo Domingo	SD	Pedro Brand		La Cuaba
+DO	00000	La Estancia	Santo Domingo	SD	Pedro Brand		La Cuaba
+DO	00000	Los Aguacates	Santo Domingo	SD	Pedro Brand		La Cuaba
+DO	00000	El Pedregal	Santo Domingo	SD	Pedro Brand		La Guayiga
+DO	00000	La Guáyiga	Santo Domingo	SD	Pedro Brand		La Guayiga
+DO	00000	Los García	Santo Domingo	SD	Pedro Brand		La Guayiga
+DO	00000	Yacó	Santo Domingo	SD	Pedro Brand		La Guayiga
+DO	00000	Frasquito Gómez	Santo Domingo	SD	Pedro Brand		Pedro Brand DM
+DO	00000	La Polonia	Santo Domingo	SD	Pedro Brand		Pedro Brand DM
+DO	00000	Los Corozos	Santo Domingo	SD	Pedro Brand		Pedro Brand DM
+DO	00000	Pedro Brand	Santo Domingo	SD	Pedro Brand		Pedro Brand DM
+DO	00000	Piedra Gorda	Santo Domingo	SD	Pedro Brand		Pedro Brand DM
+DO	00000	San Miguel	Santo Domingo	SD	Pedro Brand		Pedro Brand DM
+DO	00000	Santa Cruz	Santo Domingo	SD	Pedro Brand		Pedro Brand DM
+DO	00000	Alma Rosa II	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Alpes I	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Altos de Cancino	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Amarilis III	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Ana Virginia	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Arismar	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Barrio Brisa de Charles	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Barrio John F. Kennedy	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Barrio Paraiso	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Batey La Balsa	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Batey Piragua	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Bello Campo	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Brisa del Eden	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Buena Ventura II	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Cabirma del Este I	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Cabirma del Este II	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Calero	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Cancino	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Cancino Adentro	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Cancino I	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Cancino II	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Carolina	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Cerros del Ozama	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Ciudad del Almirante I	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Ciudad del Almirante II	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Ciudad de Los Trabajadores	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Colinas del Este	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Corales del Sur	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Duarte	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	El Brisal	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	El Cachon	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	El Cachon de La Rubia	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	El Rosal	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	El Tamarindo	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Ensanche Alma Rosa (lado Este)	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Ensanche Alma Rosa (lado Oeste)	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Ensanche Ozama	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Eugenio María de Hostos	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Faro A Colon	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Felicidad	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Francisco del Rosario Sánchez	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Franconia	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Hainamosa	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Hamarap	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Invi Cea	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Invimosa	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Invivienda	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Isabel	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Issfapol	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Ivette	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Jardines de Alma Rosa	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Katanga	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	La Esperanza	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	La Francia	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	La Milagrosa	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Las Americas	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Las Enfermeras	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Las Frutas	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Las Palmas	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Los 3 Brazos	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Los Frailes	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Los Frailes II	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Los Mina Norte	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Los Mina Sur	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Los Mina Viejo	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Los Molinos	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Los Pinos	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Los Restauradores	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Los Rosales	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Los Tres Ojos	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Los Trinitarios	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Los Trinitarios II	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Loteria	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Lotificacion del Este	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Lucerna	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Mandinga	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Maquiteria	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Marbella III	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Mendoza	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Mi Hogar	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Mil Flores	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Mirador Este	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Mi Sueño	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Molinuevo	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Narcisa	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Nuevo Amanecer	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Nuevo Renacer	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Paraiso Oriental	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Parque del Este I	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Parque Industrial Nueva Isabela	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Parque Mirador Este	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Pidoca	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Prados del Cachon	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Pueblo Nuevo	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Puerto Rico	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Ralma	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Reparto Alma Rosa	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Reparto Caribe	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Reparto Villa Carmen	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Residencial Amapola	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Residencial Clarimar	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Residencial del Este	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Residencial Don Oscar	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Residencial Fernandez Oriental	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Residencial Idalia A.I.	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Residencial Lomisa	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Residencial Mirador del Este	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Residencial Oriente	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Residencial Parque del Este	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Residencial Teresa	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Rosario Sanchez	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Sabaneta	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	San Antonio	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	San Bartolo	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	San Jose de Mendoza	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	San Pablo II	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	San Souci	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Savica	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Simonico	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Sol Naciente	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Trabajadores	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Tropical del Este	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Urbanización Amanda	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Urbanización Ana Teresa Balaguer	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Urbanización Italia	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Vecinos Unidos	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Vietnan	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Villa Adela	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Villa Carmen	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Villa Duarte	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Villa Eloisa	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Villa Esfuerzo	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Villa Faro	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Villa Olimpica	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Vista Hermosa	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Zona Franca Industrial de Herrera	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	El Naranjo	Santo Domingo	SD	Santo Domingo Este		San Luis DM
+DO	00000	San Isidro	Santo Domingo	SD	Santo Domingo Este		San Luis DM
+DO	00000	San Luis	Santo Domingo	SD	Santo Domingo Este		San Luis DM
+DO	00000	Guanuma	Santo Domingo	SD	Santo Domingo Norte		La Victoria DM
+DO	00000	Hacienda Estrella	Santo Domingo	SD	Santo Domingo Norte		La Victoria DM
+DO	00000	La Bomba	Santo Domingo	SD	Santo Domingo Norte		La Victoria DM
+DO	00000	La Ceiba	Santo Domingo	SD	Santo Domingo Norte		La Victoria DM
+DO	00000	La Victoria	Santo Domingo	SD	Santo Domingo Norte		La Victoria DM
+DO	00000	La Virgen	Santo Domingo	SD	Santo Domingo Norte		La Victoria DM
+DO	00000	Mal Nombre	Santo Domingo	SD	Santo Domingo Norte		La Victoria DM
+DO	00000	Mata Mamón	Santo Domingo	SD	Santo Domingo Norte		La Victoria DM
+DO	00000	12 de Haina	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	16 de Agosto	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	2 de Enero	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Aesa	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Altos de Chavon	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Altos del Parque	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Altos de Sabana Perdida	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Atlantida	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Barrio Buenos Aires	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Barrio Enriquillo	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Barrio Hermanas Mirabal	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Barrio Holguin	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Barrio Invi	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Barrio Josue	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Barrio Libertador	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Barrio Norte	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Barrio Nuevo	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Barrio Paraiso	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Buenos Aires Del	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Campechito II	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Carlos Alvarez	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Cerros de Buena Vista I	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Cerros de Buena Vista II	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Cerros de La Yuca	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Cerros de Sabana Perdida	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Ceuta	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Colinas de Canaan	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Colinas del Ozama	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Colonia de Los Doctores	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Costa Azul	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Costa Caribe	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Costa Verde	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Cruz Grande	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	De Villa Mella	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Dominicanos Ausentes	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Duarte	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Duquesa	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	El Café	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	El Eden	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	El Fundo	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	El Majagual	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	El Mamey	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	El Milloncito	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	El Pedregal	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	El Torito	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Enrriquillo	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Ensanche Altagracia	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Ensanche Cristal	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Ensanche Paraiso	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Gacela	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Galaxia	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Guaricanos	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Haras Nacionales	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Herrera	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Higüero	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Isabela	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Jacagua	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Jardines de Genovena	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Jardines del Sur	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Juan Pablo Duarte	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	La Antena	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	La Barquita	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	La Jagua	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	La Javilla	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	La Mina	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	La Placeta	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	La Rosa	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Las Acacias	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Las Palmas	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Las Palmeras	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Libertad	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Licey	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Los Cacicazgos	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Los Casabes	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Los Conucos	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Los Coordinadores	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Los Maestros	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Los Palmares	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Loteria	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Lotes y Servicios	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Luz Consuelo	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Luz Divina	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Manresa	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Marañon	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Marañon II	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Mar Azul	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Maria Isabela	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Mata Los Indios	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Mirador	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Mirador Sur	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Miramar	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Modelo	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Nordesa III	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Nueva Isabela	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Ponce	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Progreso	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Proyecto BNV	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Proyecto Ciudad	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Puerto de Haina	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Radiante	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Renacimiento	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Reparto Rudima	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Reparto Villa Maria	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Residencial Canaan	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Residencial El Dorado	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Residencial Enriquillo	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Residencial Jose Contreras	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Residencial Noelia	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Residencial Santo Domingo	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Residencial Sol de Luz	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Sabana Centro	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Sabana Perdida	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Salome Ureña	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Sandra	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Sandra I	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	San Francisco	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	San Jose	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	San Miguel	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Santa Cruz	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Sierra Prieta	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Suriel	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Tropicana	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Urbanización Charles de Gaulle	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Urbanización El Remanso	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Urbanización El Rosal	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Urbanización Maximo Gomez	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Urbanización Primavera	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Urbanización Real	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Urbanización Santa Cruz	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Urbanización Sarah Gabriela	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Valle Verde	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Villa Blanca	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Villa Carmela	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Villa Esperanza	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Villa Mella	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Villa Nueva	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Villa Satelite	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Villas del Café	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Vista Bella	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Zona Industrial de Herrera	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Zona Industrial de La Isabela	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Zona Industrial de Villa Mella	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	24 de Abril	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Alameda	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Altos del Oeste	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Barrio Antillano	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Barrio Arenoso	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Barrio Chavon	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Barrio Gran Poder de Dios	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Barrio La Esperanza	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Barrio La Fe	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Barrio Landia	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Barrio La Piña	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Barrio Las Mercedes	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Barrio La Torre	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Barrio La Unión	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Barrio Paraiso	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Barrio Progreso	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Batey Bienvenido	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Batey Palmarejo	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Bayona	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Bella Colina	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Buenas Noches	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Cerros de Palmarejo	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Ciudad Agraria	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Ciudad Codiana	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Colinas del Norte	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	El Abanico de Herrera	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	El Caliche	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	El Catorce	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	El Chucho	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	El Palmar	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	El Tamarindo	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Engombe	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Ensanche Ivan Guzman Klan	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Hato Nuevo	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Invi	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	La Cienaga	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	La Compuerta	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	La Concordia	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	La Isabela	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	La Piñita	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	La Redencion	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Las Caobas	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Las Caobitas	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Las Crorias	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	La Venta	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Lebron	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Los Alcarrizos	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Los Alcarrizos III	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Los Americanos	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Los Angeles	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Los Girasoles	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Los Libertadores	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Los Peralejos	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Lotificacion Engombe	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Lotificacion Vista Verde	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Manoguayabo	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Nuevo Amanecer	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Nuevo Horizonte	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Obras Publicas	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Palma Real	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Palmarejito	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Pantoja	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Paraiso del Caribe	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Pueblo Nuevo	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Puerto Rico	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Reparto Miguelina	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Reparto Samaria	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Residencial Alameda	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Residencial Almendra	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Residencial Loyola	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Rivera del Haina	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Rosa Maria	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	San Miguel	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Santo Domingo Oeste	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Savica	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Urbanización Brisa del Norte	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Urbanización Las Mercedes	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Urbanización Las Palmas	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Urbanización Olimpo	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Urbanización Palma Real	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Urbanización San Rafael	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Valle Encantado	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Varia	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Villa Aura	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Villa Nazaret	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Villa Peravia	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Villa San Felipe	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Villas Naco	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Zona Franca de Los Alcarrizos	Santo Domingo	SD	Santo Domingo Oeste		Santo Domingo Oeste DM
+DO	00000	Batey II	Santo Domingo	SD	San Antonio de Guerra		Hato Viejo
+DO	00000	Estorga	Santo Domingo	SD	San Antonio de Guerra		Hato Viejo
+DO	00000	Kilómetro 36b	Santo Domingo	SD	San Antonio de Guerra		Hato Viejo
+DO	00000	Bella Vista	Santo Domingo	SD	San Antonio de Guerra		San Antonio de Guerra DM
+DO	00000	El Toro	Santo Domingo	SD	San Antonio de Guerra		San Antonio de Guerra DM
+DO	00000	Enjuagador	Santo Domingo	SD	San Antonio de Guerra		San Antonio de Guerra DM
+DO	00000	La Joya	Santo Domingo	SD	San Antonio de Guerra		San Antonio de Guerra DM
+DO	00000	Mata de Palma	Santo Domingo	SD	San Antonio de Guerra		San Antonio de Guerra DM
+DO	00000	San Antonio de Guerra	Santo Domingo	SD	San Antonio de Guerra		San Antonio de Guerra DM
+DO	00000	Azua de Compostela	Azua	AZ	Azua Azua		Azua DM
+DO	00000	Barreras	Azua	AZ	Azua Azua		Barreras
+DO	00000	Mordán	Azua	AZ	Azua Azua		Barreras
+DO	00000	Barro Arriba	Azua	AZ	Azua Azua		Barro Arriba
+DO	00000	Barro En Medio	Azua	AZ	Azua Azua		Barro Arriba
+DO	00000	El Puerto	Azua	AZ	Azua Azua		Barro Arriba
+DO	00000	Villa Corazón de Jesús	Azua	AZ	Azua Azua		Barro Arriba
+DO	00000	Las Clavellina	Azua	AZ	Azua Azua		Clavellina
+DO	00000	Los Barrancones	Azua	AZ	Azua Azua		Clavellina
+DO	00000	Los Tramojos	Azua	AZ	Azua Azua		Clavellina
+DO	00000	Doña Emma Balaguer Viuda Vallejo	Azua	AZ	Azua Azua		Dona Emma Balaguer Viuda Vallejo
+DO	00000	Monte Río	Azua	AZ	Azua Azua		Dona Emma Balaguer Viuda Vallejo
+DO	00000	La Ceiba Nueva	Azua	AZ	Azua Azua		Las Barias La Estancia
+DO	00000	La Ceiba Vieja	Azua	AZ	Azua Azua		Las Barias La Estancia
+DO	00000	Las Barías-La Estancia	Azua	AZ	Azua Azua		Las Barias La Estancia
+DO	00000	La Cabuyita	Azua	AZ	Azua Azua		Las Lomas DM
+DO	00000	Las Lomas	Azua	AZ	Azua Azua		Las Lomas DM
+DO	00000	Kilómetro 7	Azua	AZ	Azua Azua		Los Jovillos
+DO	00000	La Altagracia	Azua	AZ	Azua Azua		Los Jovillos
+DO	00000	Los Jovillos	Azua	AZ	Azua Azua		Los Jovillos
+DO	00000	Puerto Viejo	Azua	AZ	Azua Azua		Puerto Viejo DM
+DO	00000	Ranchería	Azua	AZ	Azua Azua		Puerto Viejo DM
+DO	00000	Arroyo Colorado	Azua	AZ	Estebania		Estebania DM
+DO	00000	El Cruce	Azua	AZ	Estebania		Estebania DM
+DO	00000	El Francés	Azua	AZ	Estebania		Estebania DM
+DO	00000	El Limón	Azua	AZ	Estebania		Estebania DM
+DO	00000	El Memiso	Azua	AZ	Estebania		Estebania DM
+DO	00000	Estebanía	Azua	AZ	Estebania		Estebania DM
+DO	00000	Kilómetro 8	Azua	AZ	Estebania		Estebania DM
+DO	00000	La China	Azua	AZ	Estebania		Estebania DM
+DO	00000	Los Quemados	Azua	AZ	Estebania		Estebania DM
+DO	00000	Rancho del Pino	Azua	AZ	Estebania		Estebania DM
+DO	00000	Río Grande	Azua	AZ	Estebania		Estebania DM
+DO	00000	Sabana de Miguel Martín	Azua	AZ	Estebania		Estebania DM
+DO	00000	Arroyo Corozo	Azua	AZ	Guayabal Azua		Guayabal DM
+DO	00000	El Naranjito	Azua	AZ	Guayabal Azua		Guayabal DM
+DO	00000	Guayabal	Azua	AZ	Guayabal Azua		Guayabal DM
+DO	00000	Boquerón	Azua	AZ	Las Charcas		Las Charcas DM
+DO	00000	Cañada Cimarrona	Azua	AZ	Las Charcas		Las Charcas DM
+DO	00000	Caracoles	Azua	AZ	Las Charcas		Las Charcas DM
+DO	00000	Hatillo	Azua	AZ	Las Charcas		Las Charcas DM
+DO	00000	Las Charcas	Azua	AZ	Las Charcas		Las Charcas DM
+DO	00000	Duvergé	Azua	AZ	Las Charcas		Palmar de Ocoa
+DO	00000	Palmar de Ocoa	Azua	AZ	Las Charcas		Palmar de Ocoa
+DO	00000	El Cruce de Las Yayas	Azua	AZ	Las Yayas de Viajama		Hato Nuevo de Cortes
+DO	00000	Hato Nuevo Cortés	Azua	AZ	Las Yayas de Viajama		Hato Nuevo de Cortes
+DO	00000	Magueyal	Azua	AZ	Las Yayas de Viajama		Hato Nuevo de Cortes
+DO	00000	Orégano Grande	Azua	AZ	Las Yayas de Viajama		Hato Nuevo de Cortes
+DO	00000	Las Yayas de Viajama	Azua	AZ	Las Yayas de Viajama		Las Yayas de Viajama DM
+DO	00000	Viajama	Azua	AZ	Las Yayas de Viajama		Las Yayas de Viajama DM
+DO	00000	Arroyo Salado	Azua	AZ	Las Yayas de Viajama		Villarpando
+DO	00000	Bastidas	Azua	AZ	Las Yayas de Viajama		Villarpando
+DO	00000	Canoa	Azua	AZ	Las Yayas de Viajama		Villarpando
+DO	00000	Villarpando	Azua	AZ	Las Yayas de Viajama		Villarpando
+DO	00000	Caña Castillo	Azua	AZ	Padre Las Casas Azua		Las Lagunas Las Casas DM
+DO	00000	Las Cañitas	Azua	AZ	Padre Las Casas Azua		Las Lagunas Las Casas DM
+DO	00000	Las Lagunas	Azua	AZ	Padre Las Casas Azua		Las Lagunas Las Casas DM
+DO	00000	La Siembra	Azua	AZ	Padre Las Casas Azua		La Siembra
+DO	00000	Los Naranjos	Azua	AZ	Padre Las Casas Azua		La Siembra
+DO	00000	Periquito	Azua	AZ	Padre Las Casas Azua		La Siembra
+DO	00000	El Montazo	Azua	AZ	Padre Las Casas Azua		Los Frios
+DO	00000	La Cucarita	Azua	AZ	Padre Las Casas Azua		Los Frios
+DO	00000	Los Fríos	Azua	AZ	Padre Las Casas Azua		Los Frios
+DO	00000	Los Guayuyos	Azua	AZ	Padre Las Casas Azua		Los Frios
+DO	00000	El Córbano (El Córvano)	Azua	AZ	Padre Las Casas Azua		Monte Bonito
+DO	00000	La Cabuya	Azua	AZ	Padre Las Casas Azua		Monte Bonito
+DO	00000	Monte Bonito	Azua	AZ	Padre Las Casas Azua		Monte Bonito
+DO	00000	Padre Las Casas	Azua	AZ	Padre Las Casas Azua		Padre Las Casas DM
+DO	00000	Viejo Sabana Yegua	Azua	AZ	Padre Las Casas Azua		Padre Las Casas DM
+DO	00000	El Carrizal	Azua	AZ	Peralta Azua		Peralta DM
+DO	00000	El Majagual	Azua	AZ	Peralta Azua		Peralta DM
+DO	00000	Peralta	Azua	AZ	Peralta Azua		Peralta DM
+DO	00000	Puerto	Azua	AZ	Peralta Azua		Peralta DM
+DO	00000	El Nuevo Curro	Azua	AZ	Pueblo Viejo Azua		El Rosario Pueblo Viejo DM
+DO	00000	El Rosario	Azua	AZ	Pueblo Viejo Azua		El Rosario Pueblo Viejo DM
+DO	00000	La Ciénaga	Azua	AZ	Pueblo Viejo Azua		El Rosario Pueblo Viejo DM
+DO	00000	Guayacanal	Azua	AZ	Pueblo Viejo Azua		Pueblo Viejo
+DO	00000	Las Terreras	Azua	AZ	Pueblo Viejo Azua		Pueblo Viejo
+DO	00000	Pueblo Viejo	Azua	AZ	Pueblo Viejo Azua		Pueblo Viejo
+DO	00000	Ganadero	Azua	AZ	Sabana Yegua		Ganadero
+DO	00000	Proyecto D-1 Ganadero	Azua	AZ	Sabana Yegua		Ganadero
+DO	00000	Proyecto 2-C	Azua	AZ	Sabana Yegua		Proyecto 2C
+DO	00000	Proyecto 4	Azua	AZ	Sabana Yegua		Proyecto 4
+DO	00000	Sabana Yegua	Azua	AZ	Sabana Yegua		Sabana Yegua DM
+DO	00000	Amiama Gómez	Azua	AZ	Tabara Arriba		Amiama Gomez
+DO	00000	Las Guanábanas	Azua	AZ	Tabara Arriba		Los Toros
+DO	00000	Los Toros	Azua	AZ	Tabara Arriba		Los Toros
+DO	00000	Sajanoa	Azua	AZ	Tabara Arriba		Los Toros
+DO	00000	Kilómetro 15	Azua	AZ	Tabara Arriba		Tabara Abajo
+DO	00000	Orégano Chiquito	Azua	AZ	Tabara Arriba		Tabara Abajo
+DO	00000	Tábara Abajo	Azua	AZ	Tabara Arriba		Tabara Abajo
+DO	00000	Tábara Arriba	Azua	AZ	Tabara Arriba		Tabara Arriba DM
+DO	00000	Baní	Peravia	PV	Bani Peravia		Bani DM
+DO	00000	Boca Canasta	Peravia	PV	Bani Peravia		Bani DM
+DO	00000	El Cañafístol	Peravia	PV	Bani Peravia		Bani DM
+DO	00000	El Llano	Peravia	PV	Bani Peravia		Bani DM
+DO	00000	El Recodo	Peravia	PV	Bani Peravia		Bani DM
+DO	00000	Fundación de Peravia	Peravia	PV	Bani Peravia		Bani DM
+DO	00000	Honduras	Peravia	PV	Bani Peravia		Bani DM
+DO	00000	La Montería	Peravia	PV	Bani Peravia		Bani DM
+DO	00000	Las Calderas	Peravia	PV	Bani Peravia		Bani DM
+DO	00000	Los Cateyes	Peravia	PV	Bani Peravia		Bani DM
+DO	00000	Monte Llano	Peravia	PV	Bani Peravia		Bani DM
+DO	00000	Río Arriba	Peravia	PV	Bani Peravia		Bani DM
+DO	00000	Valdesia	Peravia	PV	Bani Peravia		Bani DM
+DO	00000	Villa Güera	Peravia	PV	Bani Peravia		Bani DM
+DO	00000	Catalina	Peravia	PV	Bani Peravia		Catalina DM
+DO	00000	El Carretón	Peravia	PV	Bani Peravia		El Carreton
+DO	00000	Arroyo Salado	Peravia	PV	Bani Peravia		El Limonal
+DO	00000	El Limonal	Peravia	PV	Bani Peravia		El Limonal
+DO	00000	La Cabria	Peravia	PV	Bani Peravia		El Limonal
+DO	00000	La Iguana	Peravia	PV	Bani Peravia		El Limonal
+DO	00000	Los Jobitos	Peravia	PV	Bani Peravia		El Limonal
+DO	00000	El Roblegar	Peravia	PV	Bani Peravia		Las Barias
+DO	00000	Las Barías	Peravia	PV	Bani Peravia		Las Barias
+DO	00000	Arroyo Hondo	Peravia	PV	Bani Peravia		Matanzas DM
+DO	00000	Galión (Galeón)	Peravia	PV	Bani Peravia		Matanzas DM
+DO	00000	Las Tablas	Peravia	PV	Bani Peravia		Matanzas DM
+DO	00000	Los Tumbaos	Peravia	PV	Bani Peravia		Matanzas DM
+DO	00000	Matanzas	Peravia	PV	Bani Peravia		Matanzas DM
+DO	00000	Quijá Quieta	Peravia	PV	Bani Peravia		Matanzas DM
+DO	00000	San José	Peravia	PV	Bani Peravia		Matanzas DM
+DO	00000	Escondido	Peravia	PV	Bani Peravia		Paya DM
+DO	00000	Mata Gorda	Peravia	PV	Bani Peravia		Paya DM
+DO	00000	Paya	Peravia	PV	Bani Peravia		Paya DM
+DO	00000	Paya Rural	Peravia	PV	Bani Peravia		Paya DM
+DO	00000	El Palmarito	Peravia	PV	Bani Peravia		Sabana Buey
+DO	00000	Sabana Buey	Peravia	PV	Bani Peravia		Sabana Buey
+DO	00000	Las Carreras	Peravia	PV	Bani Peravia		Villa Fundacion
+DO	00000	Los Ranchitos	Peravia	PV	Bani Peravia		Villa Fundacion
+DO	00000	Villa Fundación	Peravia	PV	Bani Peravia		Villa Fundacion
+DO	00000	Villa Sombrero	Peravia	PV	Bani Peravia		Villa Sombrero
+DO	00000	Villa Sombrero Rural	Peravia	PV	Bani Peravia		Villa Sombrero
+DO	00000	Don Gregorio	Peravia	PV	Nizao		Nizao DM
+DO	00000	Nizao	Peravia	PV	Nizao		Nizao DM
+DO	00000	Gualey	Peravia	PV	Nizao		Pizarrete
+DO	00000	Pizarrete	Peravia	PV	Nizao		Pizarrete
+DO	00000	Lucas Díaz	Peravia	PV	Nizao		Santana Nizao DM
+DO	00000	Santana	Peravia	PV	Nizao		Santana Nizao DM
+DO	00000	Yiyo Gómez	Peravia	PV	Nizao		Santana Nizao DM
+DO	00000	Bajos de Haina	San Cristobal	CR	Bajos de Haina		Bajos de Haina DM
+DO	00000	Haina	San Cristobal	CR	Bajos de Haina		Bajos de Haina DM
+DO	00000	El Cajuilito	San Cristobal	CR	Bajos de Haina		El Carril
+DO	00000	El Carril	San Cristobal	CR	Bajos de Haina		El Carril
+DO	00000	La Pared	San Cristobal	CR	Bajos de Haina		El Carril
+DO	00000	Quita Sueño	San Cristobal	CR	Bajos de Haina		El Carril
+DO	00000	Cambita El Pueblecito	San Cristobal	CR	Cambita Garabitos		Cambita El Pueblecito
+DO	00000	El Toro	San Cristobal	CR	Cambita Garabitos		Cambita El Pueblecito
+DO	00000	Llanada Grande	San Cristobal	CR	Cambita Garabitos		Cambita El Pueblecito
+DO	00000	Pueblo Nuevo	San Cristobal	CR	Cambita Garabitos		Cambita El Pueblecito
+DO	00000	Cambita Garabitos	San Cristobal	CR	Cambita Garabitos		Cambita Garabitos DM
+DO	00000	El Tablazo	San Cristobal	CR	Cambita Garabitos		Cambita Garabitos DM
+DO	00000	Humachón	San Cristobal	CR	Cambita Garabitos		Cambita Garabitos DM
+DO	00000	La Colonia	San Cristobal	CR	Cambita Garabitos		Cambita Garabitos DM
+DO	00000	Los Manantiales	San Cristobal	CR	Cambita Garabitos		Cambita Garabitos DM
+DO	00000	Calderón	San Cristobal	CR	Los Cacaos		Los Cacaos DM
+DO	00000	El Guineo	San Cristobal	CR	Los Cacaos		Los Cacaos DM
+DO	00000	Los Cacaos	San Cristobal	CR	Los Cacaos		Los Cacaos DM
+DO	00000	Los Naranjos	San Cristobal	CR	Los Cacaos		Los Cacaos DM
+DO	00000	Juan Barón	San Cristobal	CR	Sabana Grande de Palenque		Sabana Grande de Palenque DM
+DO	00000	Sabana Crande de Palenque	San Cristobal	CR	Sabana Grande de Palenque		Sabana Grande de Palenque DM
+DO	00000	Sabana Palenque	San Cristobal	CR	Sabana Grande de Palenque		Sabana Grande de Palenque DM
+DO	00000	Dasa	San Cristobal	CR	San Cristobal San Cristobal		Hato Damas
+DO	00000	Hato Damas	San Cristobal	CR	San Cristobal San Cristobal		Hato Damas
+DO	00000	Jamey	San Cristobal	CR	San Cristobal San Cristobal		Hato Damas
+DO	00000	Los Montones	San Cristobal	CR	San Cristobal San Cristobal		Hato Damas
+DO	00000	San Francisco	San Cristobal	CR	San Cristobal San Cristobal		Hato Damas
+DO	00000	Borbón	San Cristobal	CR	San Cristobal San Cristobal		San Cristobal DM
+DO	00000	Cambita Sterling	San Cristobal	CR	San Cristobal San Cristobal		San Cristobal DM
+DO	00000	Hatillo	San Cristobal	CR	San Cristobal San Cristobal		San Cristobal DM
+DO	00000	Ingenio Nuevo	San Cristobal	CR	San Cristobal San Cristobal		San Cristobal DM
+DO	00000	Najayo Arriba	San Cristobal	CR	San Cristobal San Cristobal		San Cristobal DM
+DO	00000	Sainaguá	San Cristobal	CR	San Cristobal San Cristobal		San Cristobal DM
+DO	00000	San Cristóbal	San Cristobal	CR	San Cristobal San Cristobal		San Cristobal DM
+DO	00000	Santa María	San Cristobal	CR	San Cristobal San Cristobal		San Cristobal DM
+DO	00000	Boca de Nigua	San Cristobal	CR	San Gregorio de Nigua		San Gregorio de Nigua DM
+DO	00000	Malpáez	San Cristobal	CR	San Gregorio de Nigua		San Gregorio de Nigua DM
+DO	00000	Najayo Abajo	San Cristobal	CR	San Gregorio de Nigua		San Gregorio de Nigua DM
+DO	00000	San Gregorio de Nigua	San Cristobal	CR	San Gregorio de Nigua		San Gregorio de Nigua DM
+DO	00000	El Aguacero	San Cristobal	CR	Villa Altagracia		La Cuchilla
+DO	00000	El Caobal	San Cristobal	CR	Villa Altagracia		La Cuchilla
+DO	00000	El Cidral	San Cristobal	CR	Villa Altagracia		La Cuchilla
+DO	00000	El Cidral (La Represa)	San Cristobal	CR	Villa Altagracia		La Cuchilla
+DO	00000	La Cuchilla	San Cristobal	CR	Villa Altagracia		La Cuchilla
+DO	00000	Castaño	San Cristobal	CR	Villa Altagracia		Medina
+DO	00000	El Pedrero	San Cristobal	CR	Villa Altagracia		Medina
+DO	00000	Loma Verde	San Cristobal	CR	Villa Altagracia		Medina
+DO	00000	Medina	San Cristobal	CR	Villa Altagracia		Medina
+DO	00000	Básima	San Cristobal	CR	Villa Altagracia		San Jose del Puerto
+DO	00000	Los Mogotes	San Cristobal	CR	Villa Altagracia		San Jose del Puerto
+DO	00000	Pino Herrado	San Cristobal	CR	Villa Altagracia		San Jose del Puerto
+DO	00000	San José del Puerto	San Cristobal	CR	Villa Altagracia		San Jose del Puerto
+DO	00000	Catarey	San Cristobal	CR	Villa Altagracia		Villa Altagracia DM
+DO	00000	Maná de Haina	San Cristobal	CR	Villa Altagracia		Villa Altagracia DM
+DO	00000	Villa Altagracia	San Cristobal	CR	Villa Altagracia		Villa Altagracia DM
+DO	00000	Las Gallardas	San Cristobal	CR	Yaguate		Yaguate DM
+DO	00000	Maná de Yaguate	San Cristobal	CR	Yaguate		Yaguate DM
+DO	00000	Najayo En Medio	San Cristobal	CR	Yaguate		Yaguate DM
+DO	00000	Yaguate	San Cristobal	CR	Yaguate		Yaguate DM
+DO	00000	Arroyo Caña	San Jose de Ocoa	JO	Rancho Arriba		Rancho Arriba DM
+DO	00000	Mahoma	San Jose de Ocoa	JO	Rancho Arriba		Rancho Arriba DM
+DO	00000	Quita Sueño	San Jose de Ocoa	JO	Rancho Arriba		Rancho Arriba DM
+DO	00000	Villa de Rancho Arriba	San Jose de Ocoa	JO	Rancho Arriba		Rancho Arriba DM
+DO	00000	La Horma	San Jose de Ocoa	JO	Sabana Larga		Sabana Larga DM
+DO	00000	Sabana Larga	San Jose de Ocoa	JO	Sabana Larga		Sabana Larga DM
+DO	00000	El Naranjal	San Jose de Ocoa	JO	San Jose de Ocoa San Jose de Ocoa		El Naranjal
+DO	00000	El Cercado	San Jose de Ocoa	JO	San Jose de Ocoa San Jose de Ocoa		El Pinar DM
+DO	00000	El Pinar	San Jose de Ocoa	JO	San Jose de Ocoa San Jose de Ocoa		El Pinar DM
+DO	00000	Los Corozos	San Jose de Ocoa	JO	San Jose de Ocoa San Jose de Ocoa		El Pinar DM
+DO	00000	Los Tramojos	San Jose de Ocoa	JO	San Jose de Ocoa San Jose de Ocoa		El Pinar DM
+DO	00000	El Rosalito	San Jose de Ocoa	JO	San Jose de Ocoa San Jose de Ocoa		La Cienaga SJ Ocoa DM
+DO	00000	La Ciénaga	San Jose de Ocoa	JO	San Jose de Ocoa San Jose de Ocoa		La Cienaga SJ Ocoa DM
+DO	00000	Los Anones	San Jose de Ocoa	JO	San Jose de Ocoa San Jose de Ocoa		La Cienaga SJ Ocoa DM
+DO	00000	El Higuito	San Jose de Ocoa	JO	San Jose de Ocoa San Jose de Ocoa		Nizao Las Auyamas
+DO	00000	Las Auyamas Arriba	San Jose de Ocoa	JO	San Jose de Ocoa San Jose de Ocoa		Nizao Las Auyamas
+DO	00000	Las Cumbres	San Jose de Ocoa	JO	San Jose de Ocoa San Jose de Ocoa		Nizao Las Auyamas
+DO	00000	Nizao	San Jose de Ocoa	JO	San Jose de Ocoa San Jose de Ocoa		Nizao Las Auyamas
+DO	00000	Los Ranchitos	San Jose de Ocoa	JO	San Jose de Ocoa San Jose de Ocoa		San Jose de Ocoa DM
+DO	00000	San José de Ocoa	San Jose de Ocoa	JO	San Jose de Ocoa San Jose de Ocoa		San Jose de Ocoa DM
+DO	00000	Anamá	El Seibo	SE	El Seibo El Seibo		El Seibo DM
+DO	00000	Arroyo Grande	El Seibo	SE	El Seibo El Seibo		El Seibo DM
+DO	00000	Campiña	El Seibo	SE	El Seibo El Seibo		El Seibo DM
+DO	00000	Candelaria	El Seibo	SE	El Seibo El Seibo		El Seibo DM
+DO	00000	El Cuey	El Seibo	SE	El Seibo El Seibo		El Seibo DM
+DO	00000	Las Cuchillas	El Seibo	SE	El Seibo El Seibo		El Seibo DM
+DO	00000	Magarín	El Seibo	SE	El Seibo El Seibo		El Seibo DM
+DO	00000	Mata de Palma	El Seibo	SE	El Seibo El Seibo		El Seibo DM
+DO	00000	Santa Cruz de El Seibo	El Seibo	SE	El Seibo El Seibo		El Seibo DM
+DO	00000	Isabelita	El Seibo	SE	El Seibo El Seibo		Pedro Sanchez
+DO	00000	Pedro Sánchez	El Seibo	SE	El Seibo El Seibo		Pedro Sanchez
+DO	00000	El Pintado	El Seibo	SE	El Seibo El Seibo		Santa Lucia DM
+DO	00000	La Higuera	El Seibo	SE	El Seibo El Seibo		Santa Lucia DM
+DO	00000	Santa Lucía	El Seibo	SE	El Seibo El Seibo		Santa Lucia DM
+DO	00000	El Cercado	El Seibo	SE	El Seibo El Seibo		San Francisco Vicentillo
+DO	00000	Vicentillo	El Seibo	SE	El Seibo El Seibo		San Francisco Vicentillo
+DO	00000	Yabón	El Seibo	SE	El Seibo El Seibo		San Francisco Vicentillo
+DO	00000	El Cedro	El Seibo	SE	Miches		El Cedro
+DO	00000	Guaraguao	El Seibo	SE	Miches		El Cedro
+DO	00000	Las Lisas	El Seibo	SE	Miches		El Cedro
+DO	00000	La Culebra	El Seibo	SE	Miches		La Gina
+DO	00000	La Gina	El Seibo	SE	Miches		La Gina
+DO	00000	El Morro	El Seibo	SE	Miches		Miches DM
+DO	00000	Miches	El Seibo	SE	Miches		Miches DM
+DO	00000	Bejucal	La Altagracia	AL	Higuey		Higuey DM
+DO	00000	Jina Jaragua	La Altagracia	AL	Higuey		Higuey DM
+DO	00000	Los Ríos	La Altagracia	AL	Higuey		Higuey DM
+DO	00000	Mata Chalupe	La Altagracia	AL	Higuey		Higuey DM
+DO	00000	Salvaleón de Higüey	La Altagracia	AL	Higuey		Higuey DM
+DO	00000	Santana	La Altagracia	AL	Higuey		Higuey DM
+DO	00000	Cañada Honda	La Altagracia	AL	Higuey		Las Lagunas de Nisibon
+DO	00000	El Barrero	La Altagracia	AL	Higuey		Las Lagunas de Nisibon
+DO	00000	Las Guamas	La Altagracia	AL	Higuey		Las Lagunas de Nisibon
+DO	00000	Las Lagunas de Nisibón	La Altagracia	AL	Higuey		Las Lagunas de Nisibon
+DO	00000	Cruz de Isleño	La Altagracia	AL	Higuey		La Otra Banda
+DO	00000	Duyey	La Altagracia	AL	Higuey		La Otra Banda
+DO	00000	El Bonao	La Altagracia	AL	Higuey		La Otra Banda
+DO	00000	La Otra Banda	La Altagracia	AL	Higuey		La Otra Banda
+DO	00000	El Salado	La Altagracia	AL	Higuey		Veron Punta Cana
+DO	00000	Juanillo	La Altagracia	AL	Higuey		Veron Punta Cana
+DO	00000	Verón	La Altagracia	AL	Higuey		Veron Punta Cana
+DO	00000	Bayahíbe	La Altagracia	AL	San Rafael del Yuma		Bayahibe
+DO	00000	Boca de Yuma	La Altagracia	AL	San Rafael del Yuma		Boca de Yuma
+DO	00000	Gato	La Altagracia	AL	San Rafael del Yuma		San Rafael del Yuma DM
+DO	00000	La Piñita	La Altagracia	AL	San Rafael del Yuma		San Rafael del Yuma DM
+DO	00000	San Rafael del Yuma	La Altagracia	AL	San Rafael del Yuma		San Rafael del Yuma DM
+DO	00000	Guaymate	La Romana	RO	Guaymate		Guaymate DM
+DO	00000	Higüeral	La Romana	RO	Guaymate		Guaymate DM
+DO	00000	Sabana	La Romana	RO	Guaymate		Guaymate DM
+DO	00000	Caleta	La Romana	RO	La Romana La Romana		Caleta
+DO	00000	Aletón	La Romana	RO	La Romana La Romana		La Romana DM
+DO	00000	Isla Saona	La Romana	RO	La Romana La Romana		La Romana DM
+DO	00000	La Romana	La Romana	RO	La Romana La Romana		La Romana DM
+DO	00000	Cumayasa	La Romana	RO	Villa Hermosa		Cumayasa
+DO	00000	Villa Hermosa	La Romana	RO	Villa Hermosa		Villa Hermosa DM
+DO	00000	Bella Vista	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Don Bosco	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Ensanche Luperon	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Ensanche Quisqueya	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Esperilla	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	La Fe	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Los Millones	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Los Millones	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Los Millones	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Los Millones	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Los Pinos	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Los Prados	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Maria Auxiliadora	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Mejoramiento Social	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Naco	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Naco	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Naco	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Piantini	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Piantini	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	San Carlos	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	San Geronimo	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Villa Consuelo	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Villa Francisca	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Villa Juana	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Villas Agricolas	Distrito Nacional	NC	Santo Domingo de Guzman		Santo Domingo de Guzman DM
+DO	00000	Los Molinos	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Residencial Don Oscar	Santo Domingo	SD	Santo Domingo Este		Santo Domingo Este DM
+DO	00000	Barrio Nuevo	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Barrio Nuevo	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Ensanche Paraiso	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Loteria	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Renacimiento	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM
+DO	00000	Zona Industrial de Herrera	Santo Domingo	SD	Santo Domingo Norte		Santo Domingo Norte DM

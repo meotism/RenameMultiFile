@@ -1,0 +1,1186 @@
+VE	7101	Acanaña	Amazonas Venezuela	AM	Alto Orinoco	AO	Huachamacare
+VE	7101	Toky-Shamanaña	Amazonas Venezuela	AM	Alto Orinoco	AO	Marawaka
+VE	7101	Mavaca	Amazonas Venezuela	AM	Alto Orinoco	AO	Mavaca
+VE	7101	Parimabé	Amazonas Venezuela	AM	Alto Orinoco	AO	Sierra Parima
+VE	7101	Guarinuma	Amazonas Venezuela	AM	Atabapo	AB	Caname
+VE	7101	Laja Lisa	Amazonas Venezuela	AM	Atabapo	AB	Ucata
+VE	7101	Macuruco	Amazonas Venezuela	AM	Atabapo	AB	Yapacana
+VE	7101	Puerto Ayacucho	Amazonas Venezuela	AM	Atures	AR	Fernando Giron Tovar
+VE	7101	Puerto Ayacucho	Amazonas Venezuela	AM	Atures	AR	Luis Alberto Gomez
+VE	7101	Limón de Parhueña	Amazonas Venezuela	AM	Atures	AR	Parhuena
+VE	7101	Platanillal	Amazonas Venezuela	AM	Atures	AR	Platanillal
+VE	7101	San Pedro del Orinoco	Amazonas Venezuela	AM	Autana	AN	Guayapo
+VE	7101	Munduapo	Amazonas Venezuela	AM	Autana	AN	Munduapo
+VE	7101	Samariapo	Amazonas Venezuela	AM	Autana	AN	Samariapo
+VE	7101	Pendare	Amazonas Venezuela	AM	Autana	AN	Sipapo
+VE	7101	Cacurí	Amazonas Venezuela	AM	Manapiare	MP	Alto Ventuari
+VE	7101	Marueta	Amazonas Venezuela	AM	Manapiare	MP	Bajo Ventuari
+VE	7101	Camani	Amazonas Venezuela	AM	Manapiare	MP	Medio Ventuari
+VE	7101	Victorino	Amazonas Venezuela	AM	Maroa	MR	Victorino
+VE	7101	Curimacare	Amazonas Venezuela	AM	Rio Negro Municipio	RN	Casiquiare
+VE	7101	Santa Lucía	Amazonas Venezuela	AM	Rio Negro Municipio	RN	Cocuy
+VE	7101	Solano	Amazonas Venezuela	AM	Rio Negro Municipio	RN	Solano Amazonas
+VE	6003	Anaco	Anzoategui	AN	Anaco Anzoategui	AN	Capital Anaco
+VE	6003	San Joaquín	Anzoategui	AN	Anaco Anzoategui	AN	San Joaquin Anzoategui
+VE	6002	Cachipo	Anzoategui	AN	Aragua Anzoategui	AR	Cachipo Anzoategui
+VE	6002	Aragua de Barcelona	Anzoategui	AN	Aragua Anzoategui	AR	Capital Aragua
+VE	6016	Lecherías	Anzoategui	AN	Diego Bautista Urbaneja	DU	Capital Diego Bautista Urbaneja
+VE	6016	Lecherías	Anzoategui	AN	Diego Bautista Urbaneja	DU	El Morro Anzoategui
+VE	6022	Puerto Píritu	Anzoategui	AN	Fernando de Penalver	FP	Capital Fernando de Penalver
+VE	6022	San Miguel	Anzoategui	AN	Fernando de Penalver	FP	San Miguel Anzoategui
+VE	6022	El Hatillo	Anzoategui	AN	Fernando de Penalver	FP	Sucre Anzoategui
+VE	6032	Valle de Guanape	Anzoategui	AN	Francisco del Carmen Carvajal	FC	Capital Francisco del Carmen Carvajal
+VE	6032	Santa Bárbara	Anzoategui	AN	Francisco del Carmen Carvajal	FC	Santa Barbara Anzoategui
+VE	6052	Atapirire	Anzoategui	AN	Francisco de Miranda Anzoategui	FM	Atapirire
+VE	6052	Boca del Pao	Anzoategui	AN	Francisco de Miranda Anzoategui	FM	Boca del Pao
+VE	6052	Pariaguán	Anzoategui	AN	Francisco de Miranda Anzoategui	FM	Capital Francisco de Miranda
+VE	6052	El Pao de Barcelona	Anzoategui	AN	Francisco de Miranda Anzoategui	FM	El Pao de Barcelona
+VE	6014	Guanta	Anzoategui	AN	Guanta	GU	Capital Guanta
+VE	6014	Pertigalete	Anzoategui	AN	Guanta	GU	Chorreron
+VE	8013	Soledad	Anzoategui	AN	Independencia Anzoategui	IN	Capital Independencia
+VE	8013	Carapa	Anzoategui	AN	Independencia Anzoategui	IN	Mamo
+VE	6057	Mapire	Anzoategui	AN	Jose Gregorio Monagas	JM	Capital Jose Gregorio Monagas
+VE	6057	Santa Cruz de Orinoco	Anzoategui	AN	Jose Gregorio Monagas	JM	Piar
+VE	6057	Santa Clara	Anzoategui	AN	Jose Gregorio Monagas	JM	Santa Clara Anzoategui
+VE	6057	San Diego de Cabrutica	Anzoategui	AN	Jose Gregorio Monagas	JM	San Diego de Cabrutica
+VE	6057	Uverito	Anzoategui	AN	Jose Gregorio Monagas	JM	Uverito Anzoategui
+VE	6057	Zuata	Anzoategui	AN	Jose Gregorio Monagas	JM	Zuata Anzoategui
+VE	6023	Puerto la Cruz	Anzoategui	AN	Juan Antonio Sotillo	JS	Capital Puerto La Cruz
+VE	6032	Guanape	Anzoategui	AN	Juan Antonio Sotillo	JS	Guanape Parroquia
+VE	6023	Pozuelos	Anzoategui	AN	Juan Antonio Sotillo	JS	Pozuelos
+VE	6020	Onoto	Anzoategui	AN	Juan Manuel Cajigal	JC	Capital Juan Manuel Cajigal
+VE	6020	San Pablo	Anzoategui	AN	Juan Manuel Cajigal	JC	San Pablo Anzoategui
+VE	6048	San Mateo	Anzoategui	AN	Libertad Anzoategui	LI	Capital Libertad
+VE	6048	El Carito	Anzoategui	AN	Libertad Anzoategui	LI	El Carito
+VE	6048	Santa Inés	Anzoategui	AN	Libertad Anzoategui	LI	Santa Ines Anzoategui
+VE	6008	Clarines	Anzoategui	AN	Manuel Ezequiel Bruzual	MB	Capital Manuel Ezequiel Bruzual
+VE	6005	Clarines	Anzoategui	AN	Manuel Ezequiel Bruzual	MB	Sabana de Uchire
+VE	6007	Cantaura	Anzoategui	AN	Pedro Maria Freites	PF	Capital Pedro Maria Freites
+VE	6007	Santa Rosa	Anzoategui	AN	Pedro Maria Freites	PF	Santa Rosa Anzoategui
+VE	6007	Urica	Anzoategui	AN	Pedro Maria Freites	PF	UrIca
+VE	6022	Píritu	Anzoategui	AN	Piritu Anzoategui	PI	Capital Piritu
+VE	6022	San Francisco	Anzoategui	AN	Piritu Anzoategui	PI	San Francisco Anzoategui
+VE	6027	Santa Ana	Anzoategui	AN	Santa Ana Anzoategui	SA	Capital Santa Ana
+VE	6027	Pueblo Nuevo	Anzoategui	AN	Santa Ana Anzoategui	SA	Pueblo Nuevo Anzoategui
+VE	6054	San José de Guanipa (El Tigrito)	Anzoategui	AN	San Jose de Guanipa	SG	San Jose de Guanipa Parroquia
+VE	6005	Boca de Chávez	Anzoategui	AN	San Juan de Capistrano	SC	San Juan Capistrano
+VE	6001	Bergantín	Anzoategui	AN	Simon Bolivar Anzoategui	SB	Bergantin
+VE	6001	Caigua	Anzoategui	AN	Simon Bolivar Anzoategui	SB	Caigua
+VE	6001	Barcelona	Anzoategui	AN	Simon Bolivar Anzoategui	SB	El Carmen Anzoategui
+VE	6001	El Pilar	Anzoategui	AN	Simon Bolivar Anzoategui	SB	El Pilar Anzoategui
+VE	6001	Naricual	Anzoategui	AN	Simon Bolivar Anzoategui	SB	Naricual
+VE	6001	Barcelona	Anzoategui	AN	Simon Bolivar Anzoategui	SB	San Cristobal Anzoategui
+VE	6050	El Tigre	Anzoategui	AN	Simon Rodriguez Anzoategui	SR	Edmundo Barrios
+VE	6050	El Tigre	Anzoategui	AN	Simon Rodriguez Anzoategui	SR	Miguel Otero Silva
+VE	2350	El Chaparro	Anzoategui	AN	Sir Artur McGregor	AM	Capital Sir Arthur Mc Gregor
+VE	2350	José Gregorio Monagas	Anzoategui	AN	Sir Artur McGregor	AM	Tomas Alfaro Calatrava
+VE	7002	El Yagual	Apure	AP	Achaguas	AC	El Yagual
+VE	7002	Guachara	Apure	AP	Achaguas	AC	Guachara
+VE	7003	El Samán de Apure	Apure	AP	Achaguas	AC	Mucuritas
+VE	7002	Guasimal	Apure	AP	Achaguas	AC	Queseras del Medio
+VE	7002	Achaguas	Apure	AP	Achaguas	AC	Urbana Achaguas
+VE	7007	Biruaca	Apure	AP	Biruaca	BI	Urbana Biruaca
+VE	7010	Mantecal	Apure	AP	Munoz Apure	MU	Mantecal
+VE	7005	Quintero	Apure	AP	Munoz Apure	MU	Quintero Apure
+VE	7005	La Estacada	Apure	AP	Munoz Apure	MU	Rincon Hondo
+VE	7010	San Vicente	Apure	AP	Munoz Apure	MU	San Vicente Apure
+VE	7005	Bruzual	Apure	AP	Munoz Apure	MU	Urbana Bruzual
+VE	5063	Palmarito	Apure	AP	Paez Apure	PA	Aramendi
+VE	5062	El Amparo	Apure	AP	Paez Apure	PA	El Amparo
+VE	5032	El Nula	Apure	AP	Paez Apure	PA	San Camilo
+VE	5063	Guasdualito	Apure	AP	Paez Apure	PA	Urbana Guasdualito
+VE	5063	La Victoria	Apure	AP	Paez Apure	PA	Urdaneta Paez
+VE	7004	Puerto Páez	Apure	AP	Pedro Camejo	PC	Codazzi
+VE	7004	San Miguel de Cunaviche	Apure	AP	Pedro Camejo	PC	Cunaviche
+VE	7004	San Juan de Payara	Apure	AP	Pedro Camejo	PC	Urbana San Juan de Payara
+VE	7011	La Trinidad de Orichuna	Apure	AP	Romulo Gallegos Apure	RG	La Trinidad Apure
+VE	7011	Elorza	Apure	AP	Romulo Gallegos Apure	RG	Urbana Elorza
+VE	7001	El Recreo	Apure	AP	San Fernando Apure	SF	El Recreo Apure
+VE	7001	Arichuna	Apure	AP	San Fernando Apure	SF	Penalver Apure
+VE	7001	San Rafael de Atamaica	Apure	AP	San Fernando Apure	SF	San Rafael de Atamaica
+VE	7001	San Fernando de Apure	Apure	AP	San Fernando Apure	SF	Urbana San Fernando
+VE	2120	San Mateo	Aragua	AR	Bolivar Aragua	BO	Bolivar San Mateo
+VE	2335	Camatagua	Aragua	AR	Camatagua Aragua	CA	Camatagua
+VE	2335	Carmen de Cura	Aragua	AR	Camatagua Aragua	CA	Carmen de Cura
+VE	2106	Francisco Miranda	Aragua	AR	Francisco Linares Alcantara	FA	Francisco de Miranda
+VE	2106	Santa Rita	Aragua	AR	Francisco Linares Alcantara	FA	Francisco Linares Alcantara parroquia
+VE	2103	Paraparal	Aragua	AR	Francisco Linares Alcantara	FA	Monsenor Feliciano Gonzalez
+VE	2110	Choroní	Aragua	AR	Girardot Aragua	GI	Choroni
+VE	2103	Maracay	Aragua	AR	Girardot Aragua	GI	Jose Casanova Godoy
+VE	2101	Maracay	Aragua	AR	Girardot Aragua	GI	Madre Maria de San Jose
+VE	2103	Maracay	Aragua	AR	Girardot Aragua	GI	Urbana Andres Eloy Blanco
+VE	2103	Maracay	Aragua	AR	Girardot Aragua	GI	Urbana Joaquin Crespo
+VE	2101	Maracay	Aragua	AR	Girardot Aragua	GI	Urbana Las Delicias
+VE	2103	Maracay	Aragua	AR	Girardot Aragua	GI	Urbana Los Tacariguas
+VE	2103	Maracay	Aragua	AR	Girardot Aragua	GI	Urbana Pedro Jose Ovalles
+VE	2123	Santa Cruz	Aragua	AR	Jose Angel Lamas	JL	Jose Angel Lamas Parroquia
+VE	2121	Las Mercedes	Aragua	AR	Jose Felix Ribas Aragua	JF	Castor Nieves Rios
+VE	2121	Las Guacamayas	Aragua	AR	Jose Felix Ribas Aragua	JF	Las Guacamayas
+VE	2121	Pao de Zárate	Aragua	AR	Jose Felix Ribas Aragua	JF	Pao de Zarate
+VE	2121	La Victoria	Aragua	AR	Jose Felix Ribas Aragua	JF	Urbana Juan Vicente Bolivar
+VE	2121	Zuata	Aragua	AR	Jose Felix Ribas Aragua	JF	Zuata Aragua2
+VE	2118	El Consejo	Aragua	AR	Jose Rafael Revenga	JR	Jose Rafael Revenga Parroquia
+VE	2117	Palo Negro	Aragua	AR	Libertador Aragua	LI	Libertador Aragua parroquia
+VE	2117	La Pica	Aragua	AR	Libertador Aragua	LI	San Martin de Porres Aragua
+VE	2105	Caña de Azúcar	Aragua	AR	Mario Briceno Iragorry	MI	Cana de Azucar
+VE	2105	El Limón	Aragua	AR	Mario Briceno Iragorry	MI	Mario Briceno Iragorry parroquia
+VE	2112	Ocumare de la Costa	Aragua	AR	Ocumare de la Costa de Oro	OC	Ocumare de la Costa
+VE	2115	San Joaquín	Aragua	AR	Santiago Marino	SM	Alfredo Pacheco Miranda
+VE	2115	Rosario de Paya	Aragua	AR	Santiago Marino	SM	Arevalo Aponte
+VE	2115	Chuao	Aragua	AR	Santiago Marino	SM	Chuao
+VE	2107	19 de Abril	Aragua	AR	Santiago Marino	SM	Saman de Guere2
+VE	2115	Turmero	Aragua	AR	Santiago Marino	SM	Santiago Marino parroquia
+VE	2119	Las Tejerías	Aragua	AR	Santos Michelena	SA	Santos Michelena parroquia
+VE	2119	Tiara	Aragua	AR	Santos Michelena	SA	Tiara
+VE	2338	Güiripa	Aragua	AR	San Casimiro Aragua	SC	Guiripa
+VE	2338	Ollas de Caramacate	Aragua	AR	San Casimiro Aragua	SC	Ollas de Caramacate
+VE	2338	San Casimiro	Aragua	AR	San Casimiro Aragua	SC	San Casimiro
+VE	2338	Valle Morín	Aragua	AR	San Casimiro Aragua	SC	Valle Morin
+VE	2340	San Sebastián	Aragua	AR	San Sebastian Aragua	SS	Valle Morin San Sebastian
+VE	2122	Bella Vista	Aragua	AR	Sucre Aragua	SU	Bella Vista
+VE	2122	Cagua	Aragua	AR	Sucre Aragua	SU	Sucre Aragua parroquia
+VE	1030	La Colonia Tovar	Aragua	AR	Tovar Aragua	TO	Tovar Parroquia
+VE	2334	Las Peñitas	Aragua	AR	Urdaneta Aragua	UR	Las Penitas
+VE	2334	San Francisco de Cara	Aragua	AR	Urdaneta Aragua	UR	San Francisco de Cara
+VE	2334	Taguay	Aragua	AR	Urdaneta Aragua	UR	Taguay
+VE	2301	Barbacoas	Aragua	AR	Urdaneta Aragua	UR	Urdaneta parroquia
+VE	2126	Tocorón	Aragua	AR	Zamora Aragua	ZA	Augusto Mijares
+VE	2128	Magdaleno	Aragua	AR	Zamora Aragua	ZA	Magdaleno
+VE	2126	San Francisco de Asís	Aragua	AR	Zamora Aragua	ZA	San Francisco de Asis Aragua
+VE	2126	Los Bagres	Aragua	AR	Zamora Aragua	ZA	Valles de Tucutunemo
+VE	2126	Villa de Cura	Aragua	AR	Zamora Aragua	ZA	Zamora parroquia
+VE	5224	Veguitas	Barinas	BA	Alberto Arvelo Torrealba	AT	Rodriguez Dominguez
+VE	5224	Sabaneta	Barinas	BA	Alberto Arvelo Torrealba	AT	Sabaneta Barinas
+VE	5201	El Cantón	Barinas	BA	Andres Eloy Blanco Barinas	AB	El Canton Andres Eloy Blanco
+VE	5201	Puerto Vivas	Barinas	BA	Andres Eloy Blanco Barinas	AB	Puerto Vivas
+VE	5201	Santa Cruz de Guacas	Barinas	BA	Andres Eloy Blanco Barinas	AB	Santa Cruz de Guacas
+VE	5216	Bum-Bum	Barinas	BA	Antonio Jose de Sucre Barinas	AS	Andres Bello Barinas
+VE	5216	Chameta	Barinas	BA	Antonio Jose de Sucre Barinas	AS	Nicolas Pulido
+VE	5216	Socopó	Barinas	BA	Antonio Jose de Sucre Barinas	AS	Ticoporo
+VE	5201	Arismendi	Barinas	BA	Arismendi Barinas	AR	Arismendi
+VE	5201	Guadarrama	Barinas	BA	Arismendi Barinas	AR	Guadarrama Barinas
+VE	5201	La Unión	Barinas	BA	Arismendi Barinas	AR	La Union Barinas
+VE	5201	San Antonio	Barinas	BA	Arismendi Barinas	AR	San Antonio Barinas
+VE	5201	Quebrada Seca	Barinas	BA	Barinas Barinas	BA	Alfredo Arvelo Larriva
+VE	5201	Barinas	Barinas	BA	Barinas Barinas	BA	Alto Barinas
+VE	5201	Barinas	Barinas	BA	Barinas Barinas	BA	Barinas parroquia
+VE	5201	Barinas	Barinas	BA	Barinas Barinas	BA	Corazon de Jesus
+VE	5201	La Mula	Barinas	BA	Barinas Barinas	BA	Dominga Ortiz de Paez
+VE	5201	Barinas	Barinas	BA	Barinas Barinas	BA	El Carmen Barinas
+VE	5201	El Corozo	Barinas	BA	Barinas Barinas	BA	Juan Antonio Rodriguez Dominguez
+VE	5201	La Caramuca	Barinas	BA	Barinas Barinas	BA	Manuel Palacio Fajardo
+VE	5201	Barinas	Barinas	BA	Barinas Barinas	BA	Ramon Ignacio Mendez Barinas
+VE	5201	Barinas	Barinas	BA	Barinas Barinas	BA	Romulo Betancourt Barinas
+VE	5202	Santa Inés	Barinas	BA	Barinas Barinas	BA	Santa Ines Barinas
+VE	5204	Santa Lucía	Barinas	BA	Barinas Barinas	BA	Santa Lucia Barinas
+VE	5203	San Silvestre	Barinas	BA	Barinas Barinas	BA	San Silvestre
+VE	5205	Torunos	Barinas	BA	Barinas Barinas	BA	Torunos
+VE	5208	Altamira	Barinas	BA	Bolivar Barinas	BO	Altamira Barinas
+VE	5206	Barinitas	Barinas	BA	Bolivar Barinas	BO	Barinitas
+VE	5207	Calderas	Barinas	BA	Bolivar Barinas	BO	Calderas
+VE	5211	Barrancas	Barinas	BA	Cruz Paredes	CP	Barrancas Barinas
+VE	5211	La Yuca	Barinas	BA	Cruz Paredes	CP	El Socorro Barinas
+VE	5211	Masparrito	Barinas	BA	Cruz Paredes	CP	Masparrito
+VE	5210	Pedraza la Vieja	Barinas	BA	Ezequiel Zamora Barinas	EZ	Jose Ignacio del Pumar
+VE	5210	Capitanejo	Barinas	BA	Ezequiel Zamora Barinas	EZ	Pedro Briceno Mendez
+VE	5210	Punta de Piedra	Barinas	BA	Ezequiel Zamora Barinas	EZ	Ramon Ignacio Mendez Ezequiel Zamora
+VE	5210	Santa Bárbara	Barinas	BA	Ezequiel Zamora Barinas	EZ	Santa Barbara Barinas
+VE	5213	El Real	Barinas	BA	Obispos	OB	El Real
+VE	5212	La Luz	Barinas	BA	Obispos	OB	La Luz
+VE	5213	Los Guasimitos	Barinas	BA	Obispos	OB	Los Guasimitos
+VE	5213	Obispos	Barinas	BA	Obispos	OB	Obispos parroquia
+VE	5214	Ciudad Bolivia	Barinas	BA	Pedraza Barinas	PE	Ciudad Bolivia
+VE	5214	Maporal	Barinas	BA	Pedraza Barinas	PE	Ignacio Briceno
+VE	5214	Curbatí	Barinas	BA	Pedraza Barinas	PE	Jose Felix Ribas
+VE	5214	San Rafael de Canagua	Barinas	BA	Pedraza Barinas	PE	Paez Barinas
+VE	5217	Dolores	Barinas	BA	Rojas Barinas	RO	Dolores Barinas
+VE	5220	Libertad	Barinas	BA	Rojas Barinas	RO	Libertad Barinas
+VE	5218	Mijagual	Barinas	BA	Rojas Barinas	RO	Palacio Fajardo
+VE	5219	Santa Rosa	Barinas	BA	Rojas Barinas	RO	Santa Rosa Barinas
+VE	5221	Ciudad de Nutrias	Barinas	BA	Sosa Barinas	SO	Ciudad de Nutrias
+VE	5221	El Regalo	Barinas	BA	Sosa Barinas	SO	El Regalo
+VE	5222	Puerto de Nutrias	Barinas	BA	Sosa Barinas	SO	Puerto de Nutrias
+VE	5223	Santa Catalina	Barinas	BA	Sosa Barinas	SO	Santa Catalina Barinas
+VE	8050	Ciudad Guayana	Bolivar Estado	BO	Caroni	CA	Cachamay
+VE	8051	Ciudad Guayana	Bolivar Estado	BO	Caroni	CA	Chirica
+VE	8051	Ciudad Guayana	Bolivar Estado	BO	Caroni	CA	Dalla Costa Caroni
+VE	8051	Ciudad Guayana	Bolivar Estado	BO	Caroni	CA	Once de Abril
+VE	8051	Pozo Verde	Bolivar Estado	BO	Caroni	CA	Pozo Verde
+VE	8051	Ciudad Guayana	Bolivar Estado	BO	Caroni	CA	Simon Bolivar Bolivar
+VE	8050	Ciudad Guayana	Bolivar Estado	BO	Caroni	CA	Unare
+VE	8050	Ciudad Guayana	Bolivar Estado	BO	Caroni	CA	Universidad
+VE	8051	Ciudad Guayana	Bolivar Estado	BO	Caroni	CA	Vista al Sol
+VE	8051	El Rosario	Bolivar Estado	BO	Caroni	CA	Yocoima
+VE	8007	Las Bonitas	Bolivar Estado	BO	Cedeno Bolivar	CE	Altagracia Bolivar
+VE	8007	Santa Rosalía	Bolivar Estado	BO	Cedeno Bolivar	CE	Ascension Farreras
+VE	8007	El Milagro	Bolivar Estado	BO	Cedeno Bolivar	CE	Guaniamo
+VE	8007	La Urbana	Bolivar Estado	BO	Cedeno Bolivar	CE	La Urbana
+VE	8007	Morichalito	Bolivar Estado	BO	Cedeno Bolivar	CE	Pijiguaos
+VE	8007	Santa Bárbara de Centurión	Bolivar Estado	BO	Cedeno Bolivar	CE	Santa Barbara Cedeno
+VE	8007	Caicara del Orinoco	Bolivar Estado	BO	Cedeno Bolivar	CE	Seccion Capital Cedeno
+VE	8056	El Callao	Bolivar Estado	BO	El Callao	EC	El Callao par
+VE	8011	Ikabarú	Bolivar Estado	BO	Gran Sabana	GS	Ikabaru1
+VE	8011	Santa Elena de Uairén	Bolivar Estado	BO	Gran Sabana	GS	Seccion Capital Gran Sabana
+VE	8001	Ciudad Bolívar	Bolivar Estado	BO	Heres	HE	Agua Salada
+VE	8001	Ciudad Bolívar	Bolivar Estado	BO	Heres	HE	Catedral Bolivar
+VE	8001	Ciudad Bolívar	Bolivar Estado	BO	Heres	HE	Jose Antonio Paez Bolivar
+VE	8001	Ciudad Bolívar	Bolivar Estado	BO	Heres	HE	La Sabanita
+VE	8001	Ciudad Bolívar	Bolivar Estado	BO	Heres	HE	Marhuanta
+VE	8001	Almacén	Bolivar Estado	BO	Heres	HE	Orinoco
+VE	8001	San José de Bongo	Bolivar Estado	BO	Heres	HE	Panapana
+VE	8001	Ciudad Bolívar	Bolivar Estado	BO	Heres	HE	Vista Hermosa Bolivar
+VE	8001	La Carolina	Bolivar Estado	BO	Heres	HE	Zea
+VE	8050	El Palmar	Bolivar Estado	BO	Padre Pedro Chien	PC	Padre Pedro Chien Parroquia
+VE	8052	El Manteco	Bolivar Estado	BO	Piar Bolivar	PI	Pedro Cova
+VE	8052	Upata	Bolivar Estado	BO	Piar Bolivar	PI	Seccion Capital Piar
+VE	8003	La Paragua	Bolivar Estado	BO	Raul Leoni Angostura	RL	Barceloneta Bolivar
+VE	8003	Ciudad Piar	Bolivar Estado	BO	Raul Leoni Angostura	RL	Raul Leoni Parroquia
+VE	8003	Santa Bárbara de Centurión	Bolivar Estado	BO	Raul Leoni Angostura	RL	Santa Barbara Bolivar
+VE	8003	San Francisco	Bolivar Estado	BO	Raul Leoni Angostura	RL	San Francisco Bolivar
+VE	8055	El Miamo	Bolivar Estado	BO	Roscio	RO	Salom Bolivar
+VE	8055	Guasipati	Bolivar Estado	BO	Roscio	RO	Seccion Capital Roscio
+VE	8057	El Dorado	Bolivar Estado	BO	Sifontes	SI	Dalla Costa Sifontes
+VE	8057	Las Claritas	Bolivar Estado	BO	Sifontes	SI	San Isidro Bolivar
+VE	8057	Tumeremo	Bolivar Estado	BO	Sifontes	SI	Seccion Capital Sifontes
+VE	8001	Aripao	Bolivar Estado	BO	Sucre Bolivar	SU	Aripao
+VE	8001	Guarataro	Bolivar Estado	BO	Sucre Bolivar	SU	Guarataro
+VE	8001	Las Majadas	Bolivar Estado	BO	Sucre Bolivar	SU	Las Majadas Bolivar
+VE	8001	Moitaco	Bolivar Estado	BO	Sucre Bolivar	SU	Moitaco
+VE	8001	Maripa	Bolivar Estado	BO	Sucre Bolivar	SU	Seccion Capital Sucre
+VE	2040	Canoabo	Carabobo	CA	Bejuma	BE	Canoabo
+VE	2044	Chirgua	Carabobo	CA	Bejuma	BE	Simon Bolivar Carabobo
+VE	2040	Urbana Bejuma	Carabobo	CA	Bejuma	BE	Urbana Bejuma
+VE	2038	Belén	Carabobo	CA	Carlos Arvelo	CA	Belen Carabobo
+VE	2003	Central de Tacarigua	Carabobo	CA	Carlos Arvelo	CA	Tacarigua Carabobo
+VE	2010	Urbana Güigüe	Carabobo	CA	Carlos Arvelo	CA	Urbana Guigue
+VE	2017	Urbana Mariara	Carabobo	CA	Diego Ibarra	DI	Urbana Aguas Calientes2
+VE	2017	Urbana Mariara	Carabobo	CA	Diego Ibarra	DI	Urbana Mariara
+VE	2015	Urbana Mariara	Carabobo	CA	Guacara	GU	Aguas Calientes Guacara
+VE	2016	Guacara	Carabobo	CA	Guacara	GU	Urbana Ciudad Alianza
+VE	2015	Urbana Guacara	Carabobo	CA	Guacara	GU	Urbana Guacara
+VE	2015	Yagua	Carabobo	CA	Guacara	GU	Yagua
+VE	2051	Urbana Morón	Carabobo	CA	Juan Jose Mora	JM	Morin Parroquia
+VE	2051	Urama	Carabobo	CA	Juan Jose Mora	JM	Urama
+VE	2035	Urbana Tocuyito	Carabobo	CA	Libertador Carabobo	LI	Urbana Independencia
+VE	2035	Urbana Tocuyito	Carabobo	CA	Libertador Carabobo	LI	Urbana Tocuyito
+VE	2011	Urbana Los Guayos	Carabobo	CA	Los Guayos	LG	Urbana Los Guayos
+VE	2041	Urbana Miranda	Carabobo	CA	Miranda Carabobo	MI	Urbana Miranda
+VE	2042	Urbana Montalbán	Carabobo	CA	Montalban Carabobo	MO	Urbana Montalban
+VE	2005	Urbana Naguanagua	Carabobo	CA	Naguanagua	NA	Urbana Naguanagua
+VE	2050	Borburata	Carabobo	CA	Puerto Cabello	PC	Borburata
+VE	2050	Urbana Puerto Cabello	Carabobo	CA	Puerto Cabello	PC	Goaigoaza
+VE	2050	Urbana Puerto Cabello	Carabobo	CA	Puerto Cabello	PC	Juan Jose Flores
+VE	2050	Patanemo	Carabobo	CA	Puerto Cabello	PC	Patanemo
+VE	2050	Urbana Puerto Cabello	Carabobo	CA	Puerto Cabello	PC	Urbana Bartolome Salom
+VE	2050	Urbana Puerto Cabello	Carabobo	CA	Puerto Cabello	PC	Urbana Democracia
+VE	2050	Urbana Puerto Cabello	Carabobo	CA	Puerto Cabello	PC	Urbana Fraternidad
+VE	2050	Urbana Puerto Cabello	Carabobo	CA	Puerto Cabello	PC	Urbana Union
+VE	2006	Urbana San Diego	Carabobo	CA	San Diego Carabobo	SD	Urbana San Diego
+VE	2018	Urbana San Joaquín	Carabobo	CA	San Joaquin Carabobo	SJ	Urbana San Joaquin
+VE	2001	Urbana Valencia	Carabobo	CA	Valencia Carabobo	VA	El Socorro Carabobo
+VE	2003	Los Naranjos	Carabobo	CA	Valencia Carabobo	VA	Negro Primero1
+VE	2001	Urbana Valencia	Carabobo	CA	Valencia Carabobo	VA	Urbana Candelaria
+VE	2001	Urbana Valencia	Carabobo	CA	Valencia Carabobo	VA	Urbana Catedral
+VE	2001	Urbana Valencia	Carabobo	CA	Valencia Carabobo	VA	Urbana Miguel Pena
+VE	2003	Urbana Valencia	Carabobo	CA	Valencia Carabobo	VA	Urbana Rafael Urdaneta
+VE	2001	Urbana Valencia	Carabobo	CA	Valencia Carabobo	VA	Urbana Santa Rosa
+VE	2001	Urbana Valencia	Carabobo	CA	Valencia Carabobo	VA	Urbana San Blas
+VE	2001	Urbana Valencia	Carabobo	CA	Valencia Carabobo	VA	Urbana San Jose
+VE	1030	Caracas	Caracas	DF	Libertador Caracas	LI	23 de Enero
+VE	1010	Caracas	Caracas	DF	Libertador Caracas	LI	Altagracia Caracas
+VE	1000	Caracas	Caracas	DF	Libertador Caracas	LI	Antimano
+VE	1000	Caracas	Caracas	DF	Libertador Caracas	LI	Caricuao
+VE	1012	Caracas	Caracas	DF	Libertador Caracas	LI	Catedral Caracas
+VE	1090	Caracas	Caracas	DF	Libertador Caracas	LI	Coche
+VE	1030	Caracas	Caracas	DF	Libertador Caracas	LI	El Junquito
+VE	1020	Caracas	Caracas	DF	Libertador Caracas	LI	El Paraiso Caracas
+VE	1053	Caracas	Caracas	DF	Libertador Caracas	LI	El Recreo Caracas
+VE	1090	Caracas	Caracas	DF	Libertador Caracas	LI	El Valle Caracas
+VE	1011	Caracas	Caracas	DF	Libertador Caracas	LI	La Candelaria Caracas
+VE	1010	Caracas	Caracas	DF	Libertador Caracas	LI	La Pastora Caracas
+VE	1020	Caracas	Caracas	DF	Libertador Caracas	LI	La Vega Caracas
+VE	1000	Caracas	Caracas	DF	Libertador Caracas	LI	Macarao
+VE	1040	Caracas	Caracas	DF	Libertador Caracas	LI	Santa Rosalia Caracas
+VE	1014	Caracas	Caracas	DF	Libertador Caracas	LI	Santa Teresa Caracas
+VE	1015	Caracas	Caracas	DF	Libertador Caracas	LI	San Agustin Caracas
+VE	1011	Caracas	Caracas	DF	Libertador Caracas	LI	San Bernardino Caracas
+VE	1011	Caracas	Caracas	DF	Libertador Caracas	LI	San Jose Caracas
+VE	1020	Caracas	Caracas	DF	Libertador Caracas	LI	San Juan Caracas
+VE	1041	Caracas	Caracas	DF	Libertador Caracas	LI	San Pedro Caracas
+VE	1030	Caracas	Caracas	DF	Libertador Caracas	LI	Sucre Caracas
+VE	2202	Cojedes	Cojedes	CO	Anzoategui Cojedes	AN	Cojedes Cojedes
+VE	2202	Apartaderos	Cojedes	CO	Anzoategui Cojedes	AN	Juan de Mata Suarez
+VE	2202	Cojedes	Cojedes	CO	Anzoategui Cojedes	AN	Negro Primero
+VE	2209	Tinaquillo	Cojedes	CO	Falcon Cojedes	FA	Tinaquillo
+VE	2213	El Baúl	Cojedes	CO	Girardot Cojedes	GI	El Baul
+VE	2212	Sucre	Cojedes	CO	Girardot Cojedes	GI	Sucre Cojedes
+VE	2208	La Aguadita	Cojedes	CO	Lima Blanco	LB	La Aguadita
+VE	2207	Macapo	Cojedes	CO	Lima Blanco	LB	Macapo
+VE	2214	El Pao	Cojedes	CO	Pao de San Juan Bautista	EP	El Pao Bautista
+VE	2216	El Amparo	Cojedes	CO	Ricaurte Cojedes	RI	El Amparo Cojedes
+VE	2216	Libertad	Cojedes	CO	Ricaurte Cojedes	RI	El Pao Ricaurte
+VE	2216	Libertad	Cojedes	CO	Ricaurte Cojedes	RI	Libertad de Cojedes
+VE	2204	Las Vegas	Cojedes	CO	Romulo Gallegos Cojedes	RG	Romulo Gallegos2
+VE	2205	La Sierra	Cojedes	CO	San Carlos Cojedes	SC	Juan Angel Bravo
+VE	2203	Manrique	Cojedes	CO	San Carlos Cojedes	SC	Manuel Manrique1
+VE	2201	San Carlos	Cojedes	CO	San Carlos Cojedes	SC	Romulo Gallegos
+VE	2201	San Carlos	Cojedes	CO	San Carlos Cojedes	SC	San Carlos de Austria
+VE	2206	Tinaco	Cojedes	CO	Tinaco	TI	General en Jefe Jose Laurencio Silva
+VE	2206	Tinaco	Cojedes	CO	Tinaco	TI	Manuel Manrique Tinaco
+VE	6401	Manoa	Delta Amacuro	DA	Antonio Diaz Delta Amacuro	AD	Almirante Luis Brion
+VE	6401	Curiapo	Delta Amacuro	DA	Antonio Diaz Delta Amacuro	AD	Curiapo
+VE	6401	Boca de Cuyubini	Delta Amacuro	DA	Antonio Diaz Delta Amacuro	AD	Francisco Aniceto Lugo
+VE	6401	Araguabisi	Delta Amacuro	DA	Antonio Diaz Delta Amacuro	AD	Manuel Renaud
+VE	6401	San Francisco de Guayo	Delta Amacuro	DA	Antonio Diaz Delta Amacuro	AD	Padre Barral
+VE	6401	Araguaimujo	Delta Amacuro	DA	Antonio Diaz Delta Amacuro	AD	Santos de Abelgas
+VE	6401	Moruca	Delta Amacuro	DA	Casacoima	CA	Cinco de Julio
+VE	6401	Sierra Imataca	Delta Amacuro	DA	Casacoima	CA	Imataca
+VE	6401	Piacoa	Delta Amacuro	DA	Casacoima	CA	Juan Bautista Arismendi
+VE	6401	El Triunfo	Delta Amacuro	DA	Casacoima	CA	Manuel Piar
+VE	6401	Santa Catalina	Delta Amacuro	DA	Casacoima	CA	Romulo Gallegos Delta Amacuro
+VE	6401	Capure	Delta Amacuro	DA	Pedernales Delta Amacuro	PE	Luis Beltran Prieto Figueroa
+VE	6401	Perdenales	Delta Amacuro	DA	Pedernales Delta Amacuro	PE	Pedernales parroquia
+VE	6401	Hacienda del Medio	Delta Amacuro	DA	Tucupita Delta Amacuro	TU	Jose Vidal Marcano
+VE	6401	Carapal de Guara	Delta Amacuro	DA	Tucupita Delta Amacuro	TU	Juan Millan
+VE	6401	Urbanización Leonardo Ruiz Pineda	Delta Amacuro	DA	Tucupita Delta Amacuro	TU	Leonardo Ruiz Pineda
+VE	6401	Paloma	Delta Amacuro	DA	Tucupita Delta Amacuro	TU	Mariscal Antonio Jose de Sucre
+VE	6401	Urbanización Delfín Mendoza	Delta Amacuro	DA	Tucupita Delta Amacuro	TU	Monsenor Argimiro Garcia
+VE	6401	Tucupita	Delta Amacuro	DA	Tucupita Delta Amacuro	TU	San Jose parroquia
+VE	6401	San Rafael	Delta Amacuro	DA	Tucupita Delta Amacuro	TU	San Rafael Delta Amacuro
+VE	6401	La Horqueta	Delta Amacuro	DA	Tucupita Delta Amacuro	TU	Virgen del Valle
+VE	4106	Capadare	Falcon	FA	Acosta Falcon	AC	Capadare
+VE	4108	La Pastora	Falcon	FA	Acosta Falcon	AC	La Pastora Falcon
+VE	4112	El Mene de San Lorenzo	Falcon	FA	Acosta Falcon	AC	Libertador Falcon
+VE	4111	San Juan de Los Cayos	Falcon	FA	Acosta Falcon	AC	San Juan de los Cayos Acosta
+VE	4113	Aracua	Falcon	FA	Bolivar Falcon	BO	Aracua
+VE	4114	La Peña	Falcon	FA	Bolivar Falcon	BO	La Pena Falcon
+VE	4116	San Luis	Falcon	FA	Bolivar Falcon	BO	San Luis Falcon
+VE	4117	Bariro	Falcon	FA	Buchivacoa	BU	Bariro
+VE	4121	Borojó	Falcon	FA	Buchivacoa	BU	Borojo
+VE	4117	Capatárida	Falcon	FA	Buchivacoa	BU	Capatarida Buchivacoa
+VE	4117	Guajiro	Falcon	FA	Buchivacoa	BU	Guajiro
+VE	4119	San José de Seque	Falcon	FA	Buchivacoa	BU	Seque
+VE	4120	Zazárida	Falcon	FA	Buchivacoa	BU	Zazarida Buchivacoa
+VE	4110	Yaracal	Falcon	FA	Cacique Manaure	CM	Cacique Manaure Parroquia
+VE	4102	Punto Fijo	Falcon	FA	Carirubana	CR	Carirubana parroquia
+VE	4122	Punto Fijo	Falcon	FA	Carirubana	CR	Norte
+VE	4125	Punta Cardón	Falcon	FA	Carirubana	CR	Punta Cardon
+VE	4126	Santa Ana	Falcon	FA	Carirubana	CR	Santa Ana Carirubana
+VE	4130	Acurigua	Falcon	FA	Colina Falcon	CL	Acurigua
+VE	4134	Guaibacoa	Falcon	FA	Colina Falcon	CL	Guaibacoa
+VE	4132	Las Calderas	Falcon	FA	Colina Falcon	CL	Las Calderas
+VE	4132	La Vela de Coro	Falcon	FA	Colina Falcon	CL	La Vela de Coro
+VE	4133	El Moyepo	Falcon	FA	Colina Falcon	CL	Macoruca
+VE	4118	Dabajuro	Falcon	FA	Dabajuro	DA	Zazarida
+VE	4135	El Manantial (Agua Clara)	Falcon	FA	Democracia Falcon	DE	Agua Clara Falcon
+VE	4137	Tupure	Falcon	FA	Democracia Falcon	DE	Avaria
+VE	4137	Pedregal	Falcon	FA	Democracia Falcon	DE	Pedregal
+VE	4136	Piedra Grande	Falcon	FA	Democracia Falcon	DE	Piedra Grande
+VE	4137	Purureche	Falcon	FA	Democracia Falcon	DE	Purureche
+VE	4150	Adaure	Falcon	FA	Falcon Falcon	FA	Adaure
+VE	4142	Adícora	Falcon	FA	Falcon Falcon	FA	Adicora
+VE	4144	Baraived	Falcon	FA	Falcon Falcon	FA	Baraived
+VE	4145	Buena Vista	Falcon	FA	Falcon Falcon	FA	Buena Vista Falcon
+VE	4150	El Hato	Falcon	FA	Falcon Falcon	FA	El Hato
+VE	4146	El Vínculo	Falcon	FA	Falcon Falcon	FA	El Vinculo
+VE	4151	Jadacaquiva	Falcon	FA	Falcon Falcon	FA	Jadacaquiva
+VE	4149	Moruy	Falcon	FA	Falcon Falcon	FA	Moruy
+VE	4150	Pueblo Nuevo	Falcon	FA	Falcon Falcon	FA	Pueblo Nuevo Falcon
+VE	4136	Agua Larga	Falcon	FA	Federacion Falcon	FE	Agua Larga
+VE	4152	Churuguara	Falcon	FA	Federacion Falcon	FE	Churuguara
+VE	4152	El Paují	Falcon	FA	Federacion Falcon	FE	El Pauji
+VE	4152	El Tupí	Falcon	FA	Federacion Falcon	FE	Independencia Falcon
+VE	4153	Mapararí	Falcon	FA	Federacion Falcon	FE	Maparari
+VE	4103	Agua Linda	Falcon	FA	Jacura	JA	Agua Linda
+VE	4107	Araurima	Falcon	FA	Jacura	JA	Araurima
+VE	4107	Jacura	Falcon	FA	Jacura	JA	Jacura parroquia
+VE	4147	Judibana	Falcon	FA	Los Taques	LT	Judibana
+VE	4148	Santa Cruz de Los Taques	Falcon	FA	Los Taques	LT	Los Taques1
+VE	4155	Casigua	Falcon	FA	Mauroa	MU	Casigua
+VE	4157	Mene de Mauroa	Falcon	FA	Mauroa	MU	Mene de Mauroa
+VE	4158	San Félix	Falcon	FA	Mauroa	MU	San Felix Falcon
+VE	4159	La Negrita	Falcon	FA	Miranda Falcon	MD	Guzman Guillermo
+VE	4160	Mitare	Falcon	FA	Miranda Falcon	MD	Mitare
+VE	4160	Río Seco	Falcon	FA	Miranda Falcon	MD	Rio Seco
+VE	4161	Sabaneta	Falcon	FA	Miranda Falcon	MD	Sabaneta Falcon
+VE	4101	Santa Ana de Coro	Falcon	FA	Miranda Falcon	MD	Santa Ana Miranda
+VE	4101	Santa Ana de Coro	Falcon	FA	Miranda Falcon	MD	San Antonio Falcon
+VE	4101	Santa Ana de Coro	Falcon	FA	Miranda Falcon	MD	San Gabriel Falcon
+VE	2048	Boca de Tocuyo	Falcon	FA	Monsenor Iturriza	MI	Boca de Tocuyo
+VE	2061	Chichiriviche	Falcon	FA	Monsenor Iturriza	MI	Chichiriviche
+VE	2050	Tocuyo de la Costa	Falcon	FA	Monsenor Iturriza	MI	Tocuyo de la Costa2
+VE	2052	Palmasola	Falcon	FA	Palmasola	PA	Araurima3
+VE	4163	Cabure	Falcon	FA	Petit	PE	Cabure
+VE	4164	Pueblo Nuevo de la Sierra	Falcon	FA	Petit	PE	Colina Petit
+VE	4162	Curimagua	Falcon	FA	Petit	PE	Curimagua
+VE	4165	Píritu	Falcon	FA	Piritu Falcon	PI	Piritu Piritu
+VE	4168	San José de la Costa	Falcon	FA	Piritu Falcon	PI	San Jose de la Costa2
+VE	4110	Tocuyo de la Costa	Falcon	FA	San Francisco Falcon	SF	San Francisco Parroquia
+VE	2047	Boca de Aroa	Falcon	FA	Silva Falcon	SI	Boca de Aroa
+VE	2055	Tucacas	Falcon	FA	Silva Falcon	SI	Tucacas
+VE	4115	Pecaya	Falcon	FA	Sucre Falcon	SU	Pecaya
+VE	4114	La Cruz de Taratara	Falcon	FA	Sucre Falcon	SU	Sucre Falcon parroquia
+VE	4169	Tocópero	Falcon	FA	Tocopero	TO	San Jose de la Costa1
+VE	4154	El Charal	Falcon	FA	Union Falcon	UN	El Charal
+VE	4154	Las Vegas del Tuy	Falcon	FA	Union Falcon	UN	Las Vegas del Tuy
+VE	4154	Santa Cruz de Bucaral	Falcon	FA	Union Falcon	UN	Santa Cruz de Bucaral
+VE	4141	San José de Bruzual	Falcon	FA	Urumaco	UR	Bruzual Falcon
+VE	4141	Urumaco	Falcon	FA	Urumaco	UR	Urumaco parroquia
+VE	4167	La Ciénaga	Falcon	FA	Zamora Falcon	ZA	La Cienaga
+VE	4167	La Soledad	Falcon	FA	Zamora Falcon	ZA	La Soledad
+VE	4166	Pueblo Cumarebo	Falcon	FA	Zamora Falcon	ZA	Pueblo Cumarebo
+VE	4167	Puerto Cumarebo	Falcon	FA	Zamora Falcon	ZA	Puerto Cumarebo
+VE	4167	Zazárida	Falcon	FA	Zamora Falcon	ZA	Zazarida Zamora
+VE	2313	Camaguán	Guarico	GU	Camaguan	CA	Capital Camaguan
+VE	2335	Puerto Miranda	Guarico	GU	Camaguan	CA	Puerto Miranda
+VE	2335	Uverito	Guarico	GU	Camaguan	CA	Uverito Guarico
+VE	2358	Chaguaramas	Guarico	GU	Chaguaramas Guarico	CH	Chaguaramas parroquia
+VE	2355	El Socorro	Guarico	GU	El Socorro Guarico	ES	El Socorro
+VE	2312	Calabozo	Guarico	GU	Francisco de Miranda Guarico	FM	Calabozo
+VE	2314	El Calvario	Guarico	GU	Francisco de Miranda Guarico	FM	El Calvario Guarico
+VE	2315	El Rastro	Guarico	GU	Francisco de Miranda Guarico	FM	El Rastro
+VE	2316	Guardatinajas	Guarico	GU	Francisco de Miranda Guarico	FM	Guardatinajas
+VE	2306	San Rafael de Laya	Guarico	GU	Jose Felix Ribas Guarico	JF	San Rafael de Laya
+VE	2330	Tucupido	Guarico	GU	Jose Felix Ribas Guarico	JF	Tucupido Jose Felix Ribas
+VE	2320	Altagracia de Orituco	Guarico	GU	Jose Tadeo Monagas	JT	Capital Altagracia de Orituco
+VE	2328	Lezama	Guarico	GU	Jose Tadeo Monagas	JT	Lezama Guarico
+VE	2326	Libertad de Orituco	Guarico	GU	Jose Tadeo Monagas	JT	Libertad de Orituco
+VE	2325	Paso Real de Macaira	Guarico	GU	Jose Tadeo Monagas	JT	Paso Real de Macaira
+VE	2324	San Francisco de Macaira	Guarico	GU	Jose Tadeo Monagas	JT	San Francisco de Macaira
+VE	2322	San Rafael de Orituco	Guarico	GU	Jose Tadeo Monagas	JT	San Rafael de Orituco
+VE	2321	Sabana Grande de Orituco	Guarico	GU	Jose Tadeo Monagas	JT	Soublette
+VE	2301	Cantagallo	Guarico	GU	Juan German Roscio Guarico	JR	Cantagallo Guarico
+VE	2301	San Juan de Los Morros	Guarico	GU	Juan German Roscio Guarico	JR	Capital San Juan de Los Morros
+VE	2303	Parapara	Guarico	GU	Juan German Roscio Guarico	JR	Parapara
+VE	2319	El Sombrero	Guarico	GU	Julian Mellado	JM	Capital El Sombrero
+VE	2319	Sosa	Guarico	GU	Julian Mellado	JM	Sosa Guarico
+VE	2356	Cabruta	Guarico	GU	Las Mercedes Guarico	LM	Cabruta
+VE	2356	Las Mercedes	Guarico	GU	Las Mercedes Guarico	LM	Capital Las Mercedes
+VE	2356	Santa Rita	Guarico	GU	Las Mercedes Guarico	LM	Santa Rita de Manapire
+VE	2311	Espino	Guarico	GU	Leonardo Infante	LI	Espino
+VE	2350	Valle de la Pascua	Guarico	GU	Leonardo Infante	LI	Valle de La Pascua
+VE	2302	Ortíz	Guarico	GU	Ortiz	OR	Capital Ortiz
+VE	2304	San Francisco de Tiznado	Guarico	GU	Ortiz	OR	San Francisco de Tiznado
+VE	2305	San José de Tiznado	Guarico	GU	Ortiz	OR	San Jose de Tiznado
+VE	2302	La Unión de Canuto	Guarico	GU	Ortiz	OR	San Lorenzo de Tiznado
+VE	2332	Zaraza	Guarico	GU	Pedro Zaraza	PZ	Capital Zaraza
+VE	2332	San José de Unare	Guarico	GU	Pedro Zaraza	PZ	San Jose de Unare
+VE	2354	Altamira	Guarico	GU	Santa Maria de Ipire	SM	Altamira Guarico
+VE	2354	Santa María de Ipire	Guarico	GU	Santa Maria de Ipire	SM	Santa Maria de Ipire parroquia
+VE	2327	Cazorla	Guarico	GU	San Geronimo de Guayabal	SG	Cazorla Guarico
+VE	2317	Guayabal	Guarico	GU	San Geronimo de Guayabal	SG	San Geronimo de Guayabal parroquia
+VE	2323	San José de Guaribe	Guarico	GU	San Jose de Guaribe	SJ	San Jose de Guaribe parroquia
+VE	3028	Sanare	Lara	LA	Andres Eloy Blanco Lara	AB	Andres Eloy Blanco Parroquia
+VE	3028	Sanare	Lara	LA	Andres Eloy Blanco Lara	AB	Pio Tamayo
+VE	3028	La Bucarita	Lara	LA	Andres Eloy Blanco Lara	AB	Quebrada Honde de Guache
+VE	3032	La Escalera	Lara	LA	Andres Eloy Blanco Lara	AB	Yacambu
+VE	3025	Agua Viva	Lara	LA	Crespo	CR	Agua Viva Crespo
+VE	3025	Crespo	Lara	LA	Crespo	CR	Duaca Crespo
+VE	3025	Duaca	Lara	LA	Crespo	CR	Freitez
+VE	3028	El Eneal	Lara	LA	Crespo	CR	Jose Maria Blanco
+VE	3044	Bobare	Lara	LA	Iribarren	IR	Aguedo Felipe Alvarado
+VE	3016	Buena Vista	Lara	LA	Iribarren	IR	Buena Vista Lara
+VE	3001	Barquisimeto	Lara	LA	Iribarren	IR	Catedral Lara
+VE	3001	Barquisimeto	Lara	LA	Iribarren	IR	Concepcion Lara
+VE	3001	Barquisimeto	Lara	LA	Iribarren	IR	El Cuji
+VE	3001	Barquisimeto	Lara	LA	Iribarren	IR	Juan de Villegas
+VE	3015	Río Claro	Lara	LA	Iribarren	IR	Juarez Iribarren
+VE	3001	Barquisimeto	Lara	LA	Iribarren	IR	Santa Rosa Lara
+VE	3001	Barquisimeto	Lara	LA	Iribarren	IR	Tamaca
+VE	3004	Barquisimeto	Lara	LA	Iribarren	IR	Union Lara
+VE	3061	Quíbor	Lara	LA	Jimenez Lara	JI	Altagracia
+VE	3061	La Ceiba	Lara	LA	Jimenez Lara	JI	Coronel Mariano Peraza
+VE	3061	Quibor	Lara	LA	Jimenez Lara	JI	Cuara
+VE	3063	Cubiro	Lara	LA	Jimenez Lara	JI	Diego de Lozada
+VE	3061	El Hato	Lara	LA	Jimenez Lara	JI	Jose Bernardo Dorante
+VE	3061	Quibor	Lara	LA	Jimenez Lara	JI	Juan Bautista Rodriguez
+VE	3061	Agua Negra	Lara	LA	Jimenez Lara	JI	Paraiso de San Jose
+VE	3061	San Miguel	Lara	LA	Jimenez Lara	JI	San Miguel Jimenez
+VE	3061	Tintorero	Lara	LA	Jimenez Lara	JI	Tintorero
+VE	3022	Azoátegui	Lara	LA	Moran Lara	MO	Anzoategui Lara
+VE	3018	El Tocuyo	Lara	LA	Moran Lara	MO	Bolivar Lara
+VE	3058	Guárico	Lara	LA	Moran Lara	MO	Capital Bolivar
+VE	3018	La Miel	Lara	LA	Moran Lara	MO	Gustavo Vegas Leon
+VE	3057	Villanueva	Lara	LA	Moran Lara	MO	Hilario Luna y Luna
+VE	3058	Humocaro Alto	Lara	LA	Moran Lara	MO	Humocaro Alto
+VE	3058	Humocaro Bajo	Lara	LA	Moran Lara	MO	Humocaro Bajo
+VE	3018	Guaitó	Lara	LA	Moran Lara	MO	La Candelaria Lara
+VE	3018	Barbacoas	Lara	LA	Moran Lara	MO	Moran
+VE	3025	Agua Viva	Lara	LA	Palavecino	PA	Agua Viva
+VE	3023	Cabudare	Lara	LA	Palavecino	PA	Capital Cabudare
+VE	3023	Los Rastrojos	Lara	LA	Palavecino	PA	Jose Gregorio Bastidas
+VE	3015	Manzanita	Lara	LA	Simon Planas	SP	Buria
+VE	3015	Sarare	Lara	LA	Simon Planas	SP	Capital Sarare
+VE	3018	La Miel	Lara	LA	Simon Planas	SP	Gustavo Vegas Leon1
+VE	3015	Río Claro	Lara	LA	Simon Planas	SP	Juarez Parroquia
+VE	3061	Altagracia	Lara	LA	Torres Lara	TO	Altagracia Lara
+VE	3050	Curarigua	Lara	LA	Torres Lara	TO	Antonio Diaz
+VE	3050	Río Tucuyo	Lara	LA	Torres Lara	TO	Camacaro
+VE	3052	Atarigua	Lara	LA	Torres Lara	TO	Castaneda Lara
+VE	3052	La Pastora	Lara	LA	Torres Lara	TO	Cecilio Zubillaga
+VE	3052	Aregue	Lara	LA	Torres Lara	TO	Chiquinquira Lara
+VE	3050	Quebrada Arriba	Lara	LA	Torres Lara	TO	El Blanco
+VE	3050	Arenales	Lara	LA	Torres Lara	TO	Espinoza de Los Monteros
+VE	3050	San Pedro	Lara	LA	Torres Lara	TO	Lara Lara
+VE	3052	Burere	Lara	LA	Torres Lara	TO	Las Mercedes Lara
+VE	3052	El Empedrado	Lara	LA	Torres Lara	TO	Manuel Morillo
+VE	3055	Palmarito	Lara	LA	Torres Lara	TO	Montana Verde
+VE	3055	San Francisco	Lara	LA	Torres Lara	TO	Montes de Oca Lara
+VE	3052	Parapara	Lara	LA	Torres Lara	TO	Reyes Vargas
+VE	3052	El Jabón	Lara	LA	Torres Lara	TO	Torres Parroquia
+VE	3050	Carora	Lara	LA	Torres Lara	TO	Trinidad Samuel
+VE	3031	Santa Inés	Lara	LA	Urdaneta Lara	UR	Moroturo
+VE	3031	Aguada Grande	Lara	LA	Urdaneta Lara	UR	San Miguel Urdaneta
+VE	3031	Siquisique	Lara	LA	Urdaneta Lara	UR	Siquisique
+VE	3050	Baragua	Lara	LA	Urdaneta Lara	UR	Xaquas
+VE	5145	La Palmita	Merida	ME	Alberto Adriani Merida	AA	Gabriel Picon Gonzalez
+VE	5145	Mucujepe	Merida	ME	Alberto Adriani Merida	AA	Hector Amable Mora
+VE	5145	Los Naranjos	Merida	ME	Alberto Adriani Merida	AA	Jose Nucete Sardi
+VE	5145	El Vígia	Merida	ME	Alberto Adriani Merida	AA	Los Nevados
+VE	5145	El Vigía	Merida	ME	Alberto Adriani Merida	AA	Presidente Betancourt
+VE	5145	El Vigía	Merida	ME	Alberto Adriani Merida	AA	Presidente Paez
+VE	5145	El Vigía	Merida	ME	Alberto Adriani Merida	AA	Presidente Romulo Gallegos
+VE	5145	La Blanca (12 de Octubre)	Merida	ME	Alberto Adriani Merida	AA	Pulido Mendez4
+VE	5102	La Azulita	Merida	ME	Andres Bello Merida	AB	Andres Bello Azulita
+VE	5142	Santa Cruz de Mora	Merida	ME	Antonio Pinto Salinas	AS	Capital Antonio Pinto Salinas
+VE	5141	Mesa Bolívar	Merida	ME	Antonio Pinto Salinas	AS	Mesa Bolivar
+VE	5142	Mesa de Las Palmas	Merida	ME	Antonio Pinto Salinas	AS	Mesa de Las Palmas
+VE	5119	Aricagua	Merida	ME	Aricagua Merida	AR	Capital Aricagua
+VE	5119	Campo Elías	Merida	ME	Aricagua Merida	AR	San Antonio Merida
+VE	5103	Canaguá	Merida	ME	Arzobispo Chacon	AC	Capital Arzobispo Chacon
+VE	5103	Capurí	Merida	ME	Arzobispo Chacon	AC	Capuri
+VE	5103	Chacantá	Merida	ME	Arzobispo Chacon	AC	Chacanta
+VE	5103	El Molino	Merida	ME	Arzobispo Chacon	AC	El Molino Merida
+VE	5103	Guaimaral	Merida	ME	Arzobispo Chacon	AC	Guaimaral
+VE	5105	Mucuchachí	Merida	ME	Arzobispo Chacon	AC	Mucuchachi
+VE	5106	Mucutuy	Merida	ME	Arzobispo Chacon	AC	Mucutuy
+VE	5110	Acequias	Merida	ME	Campo Elias Merida	CE	Acequias
+VE	5111	Ejido	Merida	ME	Campo Elias Merida	CE	Fernandez Pena
+VE	5107	Jají	Merida	ME	Campo Elias Merida	CE	Jaji
+VE	5111	La Mesa	Merida	ME	Campo Elias Merida	CE	La Mesa Merida
+VE	5111	Ejido	Merida	ME	Campo Elias Merida	CE	Matriz Merida
+VE	5111	Ejido	Merida	ME	Campo Elias Merida	CE	Montalban Merida
+VE	5111	San José	Merida	ME	Campo Elias Merida	CE	San Jose del Sur
+VE	5146	Tucaní	Merida	ME	Caracciolo Parra Olmedo	CO	Capital Caracciolo Parra Olmedo
+VE	5146	El Pinar	Merida	ME	Caracciolo Parra Olmedo	CO	Florencio Ramirez
+VE	5131	Santo Domingo	Merida	ME	Cardenal Quintero	CQ	Capital Cardenal Quintero
+VE	5131	Las Piedras	Merida	ME	Cardenal Quintero	CQ	Las Piedras Merida
+VE	5134	Mesa de Quintero	Merida	ME	Guaraque	GU	Mesa de Quintero
+VE	5134	Río Negro	Merida	ME	Guaraque	GU	Rio Negro Merida
+VE	3164	Arapuey	Merida	ME	Julio Cesar Salas	JS	Capital Julio Cesar Salas
+VE	3164	San José de Palmira	Merida	ME	Julio Cesar Salas	JS	Palmira Merida
+VE	3158	Torondoy	Merida	ME	Justo Briceno	JB	Capital Justo Briceno
+VE	3158	San José de Palmira	Merida	ME	Justo Briceno	JB	Palmira
+VE	5101	Mérida	Merida	ME	Libertador Merida	LI	Antonio Spinetti Dini
+VE	5101	Mérida	Merida	ME	Libertador Merida	LI	Arias
+VE	5101	Mérida	Merida	ME	Libertador Merida	LI	Caracciolo Parra Perez Merida
+VE	5101	Mérida	Merida	ME	Libertador Merida	LI	Domingo Pena
+VE	5101	Mérida	Merida	ME	Libertador Merida	LI	El Llano Libertador
+VE	5101	El Morro	Merida	ME	Libertador Merida	LI	El Morro Merida
+VE	5101	Mérida	Merida	ME	Libertador Merida	LI	Gonzalo Picon Febres
+VE	5101	Mérida	Merida	ME	Libertador Merida	LI	Jacinto Plaza
+VE	5115	Mérida	Merida	ME	Libertador Merida	LI	Juan Rodriguez Suarez
+VE	5101	Mérida	Merida	ME	Libertador Merida	LI	Lasso de La Vega
+VE	5101	Los Nevados	Merida	ME	Libertador Merida	LI	Los Nevados1
+VE	5101	Mérida	Merida	ME	Libertador Merida	LI	Mariano Picon Salas
+VE	5101	Mérida	Merida	ME	Libertador Merida	LI	Milla
+VE	5115	Mérida	Merida	ME	Libertador Merida	LI	Osuna Rodriguez
+VE	5101	Mérida	Merida	ME	Libertador Merida	LI	Sagrario
+VE	3112	Chachopo	Merida	ME	Miranda Merida	MI	Andres Eloy Blanco Merida
+VE	3112	Timotes	Merida	ME	Miranda Merida	MI	Capital de Miranda
+VE	3112	La Venta	Merida	ME	Miranda Merida	MI	La Venta
+VE	5114	Piñango	Merida	ME	Miranda Merida	MI	Pinango
+VE	5146	Guayabones	Merida	ME	Obispo Ramos de Lora	OL	Eloy Paredes
+VE	5146	Santa Elena de Arenales	Merida	ME	Obispo Ramos de Lora	OL	Obispo Ramos de Lora parroquia
+VE	5146	San Rafael de Alcázar	Merida	ME	Obispo Ramos de Lora	OL	San Rafael de Alcazar
+VE	5002	Santa María de Caparo	Merida	ME	Padre Noguera	PN	Padre Noguera Parroquia
+VE	5124	Pueblo Llano	Merida	ME	Pueblo Llano	PL	Pulido Mendez1
+VE	5129	Cacute	Merida	ME	Rangel Merida	RA	Cacute
+VE	5130	Mucuchíes	Merida	ME	Rangel Merida	RA	Capital Rangel
+VE	5130	La Toma	Merida	ME	Rangel Merida	RA	La Toma
+VE	5129	Macurubá	Merida	ME	Rangel Merida	RA	Macuruba
+VE	5130	San Rafael	Merida	ME	Rangel Merida	RA	San Rafael Merida
+VE	5133	Bailadores	Merida	ME	Rivas Davila	RD	Capital Rivas Davila
+VE	5135	La Playa	Merida	ME	Rivas Davila	RD	Geronimo Maldonado1
+VE	5116	Tabay	Merida	ME	Santos Marquina	SM	Santos Marquina Parroquia
+VE	5138	Lagunillas	Merida	ME	Sucre Merida	SU	Capital Sucre2
+VE	5136	Chiguará	Merida	ME	Sucre Merida	SU	Chiguara
+VE	5136	Estánquez	Merida	ME	Sucre Merida	SU	Estanquez
+VE	5138	La Trampa	Merida	ME	Sucre Merida	SU	La Trampa
+VE	5138	Pueblo Nuevo del Sur	Merida	ME	Sucre Merida	SU	Pueblo Nuevo del Sur
+VE	5139	San Juan	Merida	ME	Sucre Merida	SU	San Juan Merida
+VE	5143	Tovar	Merida	ME	Tovar Merida	TO	El Amparo Merida
+VE	5143	Tovar	Merida	ME	Tovar Merida	TO	El Llano Tovar
+VE	5143	Tovar	Merida	ME	Tovar Merida	TO	San Francisco Merida
+VE	5143	Tovar	Merida	ME	Tovar Merida	TO	Tovar
+VE	3158	Palmarito	Merida	ME	Tulio Febres Cordero	TC	Independencia Merida
+VE	3158	Las Virtudes	Merida	ME	Tulio Febres Cordero	TC	Maria de la Concepcion Palacios Blanco
+VE	3158	Nueva Bolivia	Merida	ME	Tulio Febres Cordero	TC	Tulio Febres Cordero parroquia
+VE	5144	Caño El Tigre	Merida	ME	Zea Merida	ZE	Cano El Tigre
+VE	5144	Capital Zea	Merida	ME	Zea Merida	ZE	Capital Zea
+VE	1223	Aragüita	Miranda	MI	Acevedo Miranda	AC	Araguita
+VE	1241	El Clavo	Miranda	MI	Acevedo Miranda	AC	Arevalo Gonzalez
+VE	1225	Capaya	Miranda	MI	Acevedo Miranda	AC	Capaya Miranda
+VE	1246	Caucagua	Miranda	MI	Acevedo Miranda	AC	Caucagua
+VE	1225	El Café	Miranda	MI	Acevedo Miranda	AC	El Cafe
+VE	1246	Marizapa	Miranda	MI	Acevedo Miranda	AC	Marizapa
+VE	1226	Panaquire	Miranda	MI	Acevedo Miranda	AC	Panaquire
+VE	1224	Tapipa	Miranda	MI	Acevedo Miranda	AC	Ribas Miranda
+VE	1236	Cumbo	Miranda	MI	Andres Bello Miranda	AB	Cumbo
+VE	1235	San José de Barlovento	Miranda	MI	Andres Bello Miranda	AB	San Jose de Barlovento
+VE	1080	Nuestra Señora del Rosario de Baruta	Miranda	MI	Baruta	BA	Baruta parroquia
+VE	1086	Las Minas de Baruta	Miranda	MI	Baruta	BA	Las Minas de Baruta
+VE	1232	Curiepe	Miranda	MI	Brion Miranda	BR	Curiepe
+VE	1231	Higuerote	Miranda	MI	Brion Miranda	BR	Higuerote
+VE	1228	Tacarigua de Mamporal	Miranda	MI	Brion Miranda	BR	Tacarigua Miranda
+VE	1228	Mamporal	Miranda	MI	Buroz	BU	Buroz Mamporal
+VE	1203	Carrizal	Miranda	MI	Carrizal Miranda	CA	Carrizal parroquia
+VE	1203	San Diego	Miranda	MI	Carrizal Miranda	CA	Cecilio Acosta Parroquia
+VE	1064	Chacao	Miranda	MI	Chacao	CH	Chacao parroquia
+VE	1210	Charallave	Miranda	MI	Cristobal Rojas	CR	Charallave
+VE	1210	Las Brisas	Miranda	MI	Cristobal Rojas	CR	Las Brisas
+VE	1083	El Hatillo	Miranda	MI	El Hatillo	EH	El Hatillo parroquia
+VE	1083	La Dolorita	Miranda	MI	El Hatillo	EH	La Dolorita parroquia
+VE	1211	Altagracia	Miranda	MI	Guaicaipuro	GU	Altagracia de La Montana
+VE	1201	El Jarillo	Miranda	MI	Guaicaipuro	GU	El Jarillo
+VE	1201	Los Teques	Miranda	MI	Guaicaipuro	GU	Los Teques2
+VE	1201	Paracotos	Miranda	MI	Guaicaipuro	GU	Paracotos
+VE	1201	San Pedro	Miranda	MI	Guaicaipuro	GU	San Pedro Miranda
+VE	1211	Tácata	Miranda	MI	Guaicaipuro	GU	Tacata
+VE	1215	El Cartanal	Miranda	MI	Independencia Miranda	IN	El Cartanal
+VE	1215	Santa Teresa del Tuy	Miranda	MI	Independencia Miranda	IN	Santa Teresa del Tuy
+VE	1209	La Democracia	Miranda	MI	Lander	LA	La Democracia
+VE	1209	Ocumare del Tuy	Miranda	MI	Lander	LA	Ocumare del Tuy
+VE	1209	Santa Bárbara	Miranda	MI	Lander	LA	Santa Barbara Miranda
+VE	1204	San Antonio de Los Altos	Miranda	MI	Los Salias	LS	San Antonio de Los Altos
+VE	1243	El Guapo	Miranda	MI	Paez Miranda	PA	El Guapo
+VE	1236	Paparo	Miranda	MI	Paez Miranda	PA	Paparo
+VE	1236	Río Chico	Miranda	MI	Paez Miranda	PA	Rio Chico
+VE	1243	San Fernando	Miranda	MI	Paez Miranda	PA	San Fernando del Guapo
+VE	1236	Tacarigua de la Laguna	Miranda	MI	Paez Miranda	PA	Tacarigua de La Laguna
+VE	1214	Santa Lucía	Miranda	MI	Paz Castillo	PC	Santa Lucia Castillo
+VE	1238	Cúpira	Miranda	MI	Pedro Gual	PG	Cupira parroquia
+VE	1220	Guarenas	Miranda	MI	Plaza	PL	Guarenas
+VE	1212	San Antonio de Yare	Miranda	MI	Simon Bolivar Miranda	SB	San Antonio de Yare
+VE	1212	San Francisco de Yare	Miranda	MI	Simon Bolivar Miranda	SB	San Francisco de Yare
+VE	1073	Caucaguita	Miranda	MI	Sucre Miranda	SU	Caucaguita
+VE	1073	Fila de Mariches	Miranda	MI	Sucre Miranda	SU	Fila de Mariches
+VE	1073	La Dolorita	Miranda	MI	Sucre Miranda	SU	La Dolorita
+VE	1071	Los Dos Caminos	Miranda	MI	Sucre Miranda	SU	Leoncio Martinez
+VE	1073	Petare	Miranda	MI	Sucre Miranda	SU	Petare
+VE	1211	Cúa	Miranda	MI	Urdaneta Miranda	UR	Cua
+VE	1211	Nueva Cúa	Miranda	MI	Urdaneta Miranda	UR	Nueva Cua
+VE	1221	Araira	Miranda	MI	Zamora Miranda	ZA	Bolivar Miranda
+VE	1221	Guatire	Miranda	MI	Zamora Miranda	ZA	Guatire
+VE	6219	San Antonio	Monagas	MO	Acosta Monagas	AC	Capital Acosta
+VE	6219	San Francisco	Monagas	MO	Acosta Monagas	AC	San Francisco Monagas
+VE	6205	Aguasay	Monagas	MO	Aguasay	AG	Aguasay par
+VE	6211	Caripito	Monagas	MO	Bolivar Monagas	BO	Bolivar Caripito
+VE	6210	Caripe	Monagas	MO	Caripe	CA	Capital Caripe
+VE	6210	El Guácharo	Monagas	MO	Caripe	CA	El Guacharo
+VE	6210	La Guanota	Monagas	MO	Caripe	CA	La Guanota
+VE	6210	Sabana de Piedra	Monagas	MO	Caripe	CA	Sabana de Piedra
+VE	6210	San Agustín	Monagas	MO	Caripe	CA	San Agustin Monagas
+VE	6224	Teresén	Monagas	MO	Caripe	CA	Teresen
+VE	6209	Areo	Monagas	MO	Cedeno Monagas	CE	Areo
+VE	6209	Caicara	Monagas	MO	Cedeno Monagas	CE	Cedeno
+VE	6209	San Félix	Monagas	MO	Cedeno Monagas	CE	San Felix Monagas
+VE	6209	Viento Fresco	Monagas	MO	Cedeno Monagas	CE	Viento Fresco
+VE	6213	El Tejero	Monagas	MO	Ezequiel Zamora Monagas	EZ	El Tejero
+VE	6217	Punta de Mata	Monagas	MO	Ezequiel Zamora Monagas	EZ	Ezequiel Zamora
+VE	6223	Temblador	Monagas	MO	Libertador Monagas	LI	Capital Libertador
+VE	6223	Chaguaramas	Monagas	MO	Libertador Monagas	LI	Chaguaramas Libertador
+VE	6223	Las Alhuacas	Monagas	MO	Libertador Monagas	LI	Las Alhuacas
+VE	6223	Tabasca	Monagas	MO	Libertador Monagas	LI	Tabasca
+VE	6201	Maturín	Monagas	MO	Maturin	MA	Alto de los Godos
+VE	6201	Maturín	Monagas	MO	Maturin	MA	Boqueron Monagas
+VE	6201	Maturín	Monagas	MO	Maturin	MA	Capital Maturin
+VE	6201	El Corozo	Monagas	MO	Maturin	MA	El Corozo
+VE	6201	El Furrial	Monagas	MO	Maturin	MA	El Furrial
+VE	6201	Jusepín	Monagas	MO	Maturin	MA	Jusepin
+VE	6201	Maturín	Monagas	MO	Maturin	MA	Las Cocuizas
+VE	6201	La Pica	Monagas	MO	Maturin	MA	La Pica
+VE	6201	Maturín	Monagas	MO	Maturin	MA	Santa Cruz Monagas
+VE	6201	Maturín	Monagas	MO	Maturin	MA	San Simon Monagas
+VE	6201	San Vicente	Monagas	MO	Maturin	MA	San Vicente Monagas
+VE	6206	Aparicio	Monagas	MO	Piar Monagas	PI	Aparicio
+VE	6206	Aragua	Monagas	MO	Piar Monagas	PI	Capital Piar
+VE	6206	Chaguaramal	Monagas	MO	Piar Monagas	PI	Chaguaramal
+VE	6206	El Pinto	Monagas	MO	Piar Monagas	PI	El Pinto
+VE	6206	Guanaguana	Monagas	MO	Piar Monagas	PI	Guanaguana
+VE	6206	La Toscana	Monagas	MO	Piar Monagas	PI	La Toscana
+VE	6206	Taguaya	Monagas	MO	Piar Monagas	PI	Taguaya
+VE	6216	Cachipo	Monagas	MO	Punceres	PU	Cachipo
+VE	6218	Quiriquire	Monagas	MO	Punceres	PU	Capital Punceres
+VE	6221	Santa Bárbara	Monagas	MO	Santa Barbara Monagas	SB	Santa Barbara par
+VE	6208	Barrancas	Monagas	MO	Sotillo Monagas	SO	Capital Sotillo
+VE	6208	Los Barrancos de Fajardo	Monagas	MO	Sotillo Monagas	SO	Los Barrancos de Fajardo
+VE	6223	Uracoa	Monagas	MO	Uracoa	UR	Uracoa par
+VE	6324	La Plaza de Paraguachí	Nueva Esparta	NE	Antolin del Campo	AC	Antolin del Campo Parroquia
+VE	6311	La Asunción	Nueva Esparta	NE	Arismendi Nueva Esparta	AR	Arismendi Parroquia
+VE	6320	San Juan Bautista	Nueva Esparta	NE	Diaz	DI	Capital Diaz
+VE	6312	La Guardia	Nueva Esparta	NE	Diaz	DI	Zabala Nueva Esparta
+VE	6308	El Valle del Espíritu Santo	Nueva Esparta	NE	Garcia Nueva Esparta	GA	Capital Garcia
+VE	6301	Villa Rosa	Nueva Esparta	NE	Garcia Nueva Esparta	GA	Francisco Fajardo1
+VE	6314	El Maco	Nueva Esparta	NE	Gomez	GO	Bolivar Nueva Esparta
+VE	6322	Santa Ana	Nueva Esparta	NE	Gomez	GO	Capital Gomez
+VE	6323	Tacarigua	Nueva Esparta	NE	Gomez	GO	Guevara
+VE	6310	Pedro González	Nueva Esparta	NE	Gomez	GO	Matasiete
+VE	6302	Altagracia	Nueva Esparta	NE	Gomez	GO	Sucre Nueva Esparta
+VE	6316	El Pilar (Los Robles)	Nueva Esparta	NE	Maneiro	MN	Aguirre
+VE	6316	Pampatar	Nueva Esparta	NE	Maneiro	MN	Capital Maneiro
+VE	6315	Los Millanes	Nueva Esparta	NE	Marcano	MC	Adrian
+VE	6309	Juangriego	Nueva Esparta	NE	Marcano	MC	Capital Marcano
+VE	6301	Porlamar	Nueva Esparta	NE	Marino Nueva Esparta	MA	Marino Parroquia
+VE	6304	Boca del Río	Nueva Esparta	NE	Peninsula de Macanao	PM	Capital Peninsula de Macanao
+VE	6303	Boca del Pozo	Nueva Esparta	NE	Peninsula de Macanao	PM	San Francisco Nueva Esparta
+VE	6327	Punta de Piedras	Nueva Esparta	NE	Tubores	TU	Capital Tubores
+VE	6318	El Guamache	Nueva Esparta	NE	Tubores	TU	Los Barales
+VE	6321	San Pedro de Coche	Nueva Esparta	NE	Villalba Nueva Esparta	VI	Capital Villalba
+VE	6321	Güinima	Nueva Esparta	NE	Villalba Nueva Esparta	VI	Vicente Fuentes
+VE	3302	Agua Blanca	Portuguesa	PO	Agua Blanca Portuguesa	AB	Agua Blanca par
+VE	3303	Araure	Portuguesa	PO	Araure Portuguesa	AR	Capital Araure
+VE	3303	Río Acarigua	Portuguesa	PO	Araure Portuguesa	AR	Rio Acarigua
+VE	3305	Píritu	Portuguesa	PO	Esteller	ES	Capital Esteller
+VE	3305	Uveral	Portuguesa	PO	Esteller	ES	Uveral
+VE	3350	Guanare	Portuguesa	PO	Guanare	GE	Capital Guanare
+VE	3350	Córdoba	Portuguesa	PO	Guanare	GE	Cordoba Portuguesa
+VE	3357	San José de la Montaña	Portuguesa	PO	Guanare	GE	San Jose de la Montana Portuguesa
+VE	3350	Mesa de Cavacas	Portuguesa	PO	Guanare	GE	San Juan de Guanaguanare
+VE	3350	Quebrada de la Virgen	Portuguesa	PO	Guanare	GE	Virgen de la Coromoto
+VE	3354	Guanarito	Portuguesa	PO	Guanarito	GT	Capital Guanarito
+VE	3354	Morrones	Portuguesa	PO	Guanarito	GT	Divina Pastora Portuguesa
+VE	3354	Trinidad de la Capilla	Portuguesa	PO	Guanarito	GT	Trinidad de la Capilla
+VE	3357	Paraíso de Chabasquén	Portuguesa	PO	Monsenor Jose Vicente de Unda	MU	Monsenor Jose Vicente de Unda par
+VE	3357	Peña Blanca	Portuguesa	PO	Monsenor Jose Vicente de Unda	MU	Pena Blanca
+VE	3352	La Aparición	Portuguesa	PO	Ospino Portuguesa	OS	Aparicion
+VE	3352	Ospino	Portuguesa	PO	Ospino Portuguesa	OS	Capital Ospino
+VE	3352	La Estación	Portuguesa	PO	Ospino Portuguesa	OS	La Estacion
+VE	3301	Acarigua	Portuguesa	PO	Paez Portuguesa	PZ	Capital Paez
+VE	3301	Payara	Portuguesa	PO	Paez Portuguesa	PZ	Payara
+VE	3304	Pimpinela	Portuguesa	PO	Paez Portuguesa	PZ	Pimpinela
+VE	3301	Mijagüito	Portuguesa	PO	Paez Portuguesa	PZ	Ramon Peraza
+VE	3355	Caño Delgadito	Portuguesa	PO	Papelon Portuguesa	PP	Cano Delgadito
+VE	3353	Papelón	Portuguesa	PO	Papelon Portuguesa	PP	Capital Papelon
+VE	3307	El Playón	Portuguesa	PO	Santa Rosalia Portuguesa	SR	Capital Santa Rosalia
+VE	3307	Nueva Florida	Portuguesa	PO	Santa Rosalia Portuguesa	SR	Florida Portuguesa
+VE	3355	San Nicolás	Portuguesa	PO	San Genaro de Boconoito Portuguesa	SG	Antolin Tovar
+VE	3355	Boconoito	Portuguesa	PO	San Genaro de Boconoito Portuguesa	SG	San Genaro de Boconoito
+VE	3306	Santa Fe	Portuguesa	PO	San Rafael de Onoto Portuguesa	SO	Santa Fe Portuguesa
+VE	3306	San Rafael de Onoto	Portuguesa	PO	San Rafael de Onoto Portuguesa	SO	San Rafael de Onoto
+VE	3306	El Algarrobito	Portuguesa	PO	San Rafael de Onoto Portuguesa	SO	Thermo Morles
+VE	3351	Biscucuy	Portuguesa	PO	Sucre Portuguesa	SU	Capital Sucre1
+VE	3351	La Concepción	Portuguesa	PO	Sucre Portuguesa	SU	Concepcion Portuguesa
+VE	3351	San Jose de Saguaz	Portuguesa	PO	Sucre Portuguesa	SU	San Jose de Saguaz
+VE	3351	San Rafael de Palo Alzado	Portuguesa	PO	Sucre Portuguesa	SU	San Rafael de Palo Alzado
+VE	3351	Las Cruces	Portuguesa	PO	Sucre Portuguesa	SU	Uvencio Antonio Velasquez
+VE	3351	Villa Rosa	Portuguesa	PO	Sucre Portuguesa	SU	Villa Rosa
+VE	3309	La Misión	Portuguesa	PO	Turen Municipio	TU	Canelones Portuguesa
+VE	3309	Villa Bruzual	Portuguesa	PO	Turen Municipio	TU	Capital Turen
+VE	3309	Santa Cruz	Portuguesa	PO	Turen Municipio	TU	Santa Cruz Portuguesa
+VE	3317	Colonia Turén	Portuguesa	PO	Turen Municipio	TU	San Isidro Labrador1
+VE	6168	Casanay	Sucre Venezuela	SU	Andres Eloy Blanco Sucre	AB	Marino Andres Eloy Blanco
+VE	6168	San Vicente	Sucre Venezuela	SU	Andres Eloy Blanco Sucre	AB	Romulo Gallegos Sucre
+VE	6167	San José de Aerocuar	Sucre Venezuela	SU	Andres Mata	AM	San Jose de Aerocuar
+VE	6167	Río Casanay	Sucre Venezuela	SU	Andres Mata	AM	Tavera Acosta
+VE	6164	San Juan de Unare	Sucre Venezuela	SU	Arismendi Sucre	AR	Antonio Jose de Sucre
+VE	6163	El Morro de Puerto Santo	Sucre Venezuela	SU	Arismendi Sucre	AR	El Morro de Puerto Santo
+VE	6164	Puerto Santo	Sucre Venezuela	SU	Arismendi Sucre	AR	Puerto Santo
+VE	6164	Río Caribe	Sucre Venezuela	SU	Arismendi Sucre	AR	Rio Caribe
+VE	6164	San Juan de Las Galdonas	Sucre Venezuela	SU	Arismendi Sucre	AR	San Juan de Las Galdonas
+VE	6152	El Pilar	Sucre Venezuela	SU	Benitez	BN	El Pilar Sucre
+VE	6152	El Rincón	Sucre Venezuela	SU	Benitez	BN	El Rincon
+VE	6152	Los Arroyos	Sucre Venezuela	SU	Benitez	BN	General Francisco Antonio Vasquez
+VE	6152	Guaraúnos	Sucre Venezuela	SU	Benitez	BN	Guaraunos
+VE	6152	Tunapuicito	Sucre Venezuela	SU	Benitez	BN	Tunapuicito
+VE	6152	Guariquén	Sucre Venezuela	SU	Benitez	BN	Union Sucre
+VE	6150	Playa Grande	Sucre Venezuela	SU	Bermudez	BR	Bolivar Bermudez
+VE	6150	Carúpano	Sucre Venezuela	SU	Bermudez	BR	Macarapana
+VE	6150	Carúpano	Sucre Venezuela	SU	Bermudez	BR	Santa Catalina Sucre
+VE	6150	Carúpano	Sucre Venezuela	SU	Bermudez	BR	Santa Rosa Sucre
+VE	6150	Carúpano	Sucre Venezuela	SU	Bermudez	BR	Santa Teresa Sucre
+VE	6107	Marigüitar	Sucre Venezuela	SU	Bolivar Sucre	BO	Bolivar Mariguitar
+VE	6155	El Paujil	Sucre Venezuela	SU	Cajigal	CJ	El Paujil Sucre
+VE	6155	Río Seco	Sucre Venezuela	SU	Cajigal	CJ	Libertad Sucre
+VE	6155	Yaguaraparo	Sucre Venezuela	SU	Cajigal	CJ	Yaguaraparo
+VE	6102	Araya	Sucre Venezuela	SU	Cruz Salmeron Acosta	CA	Araya
+VE	6102	Chacopata	Sucre Venezuela	SU	Cruz Salmeron Acosta	CA	Chacopata
+VE	6102	Manicuare	Sucre Venezuela	SU	Cruz Salmeron Acosta	CA	Manicuare
+VE	6154	Guayana	Sucre Venezuela	SU	Libertador Sucre	LI	Campo Elias
+VE	6154	Tunapuy	Sucre Venezuela	SU	Libertador Sucre	LI	Tunapuy
+VE	6156	Campo Claro	Sucre Venezuela	SU	Marino Sucre	MA	Campo Claro
+VE	6156	Irapa	Sucre Venezuela	SU	Marino Sucre	MA	Irapa
+VE	6156	Marabal	Sucre Venezuela	SU	Marino Sucre	MA	Marabal
+VE	6156	San Antonio de Irapa	Sucre Venezuela	SU	Marino Sucre	MA	San Antonio de Irapa
+VE	6156	Soro	Sucre Venezuela	SU	Marino Sucre	MA	Soro Sucre
+VE	6110	San Antonio de Golfo	Sucre Venezuela	SU	Mejia Sucre	ME	Mejia Parroquia
+VE	6106	Arenas	Sucre Venezuela	SU	Montes Sucre	MO	Arenas Sucre
+VE	6106	Acarigua	Sucre Venezuela	SU	Montes Sucre	MO	Aricagua
+VE	6106	Las Piedras	Sucre Venezuela	SU	Montes Sucre	MO	Cocollar
+VE	6106	Cumanacoa	Sucre Venezuela	SU	Montes Sucre	MO	Cumanacoa
+VE	6106	Villarroel (Quebrada Seca)	Sucre Venezuela	SU	Montes Sucre	MO	San Fernando Sucre
+VE	6106	San Lorenzo	Sucre Venezuela	SU	Montes Sucre	MO	San Lorenzo Sucre
+VE	6126	Cariaco	Sucre Venezuela	SU	Ribero	RI	Cariaco
+VE	6126	Catuaro	Sucre Venezuela	SU	Ribero	RI	Catuaro
+VE	6126	Muelle de Cariaco	Sucre Venezuela	SU	Ribero	RI	Rendon
+VE	6126	Santa Cruz	Sucre Venezuela	SU	Ribero	RI	Santa Cruz Sucre
+VE	6126	Santa María	Sucre Venezuela	SU	Ribero	RI	Santa Maria Sucre
+VE	6101	Cumaná	Sucre Venezuela	SU	Sucre Sucre	SU	Altagracia Sucre
+VE	6101	Cumaná	Sucre Venezuela	SU	Sucre Sucre	SU	Ayacucho Sucre
+VE	6101	Los Altos de Sucre	Sucre Venezuela	SU	Sucre Sucre	SU	Gran Mariscal
+VE	6101	Los Puertos de Santa Fe	Sucre Venezuela	SU	Sucre Sucre	SU	Raul Leoni Sucre
+VE	6101	Cumaná	Sucre Venezuela	SU	Sucre Sucre	SU	Santa Ines Sucre
+VE	6101	San Juan	Sucre Venezuela	SU	Sucre Sucre	SU	San Juan Sucre
+VE	6101	Caigüire	Sucre Venezuela	SU	Sucre Sucre	SU	Valentin Valiente
+VE	6161	Río Salado	Sucre Venezuela	SU	Valdez	VA	Bideau
+VE	6161	Macuro	Sucre Venezuela	SU	Valdez	VA	Cristobal Colon
+VE	6161	Güiria	Sucre Venezuela	SU	Valdez	VA	Guiria
+VE	6161	Yoco	Sucre Venezuela	SU	Valdez	VA	Punta de Piedras
+VE	5012	Cordero	Tachira	TA	Andres Bello Tachira	AB	Andres Bello Parroquia
+VE	5020	Las Mesas	Tachira	TA	Antonio Romulo Costa	AC	Antonio Romulo Costa Parroquia
+VE	5003	Colón	Tachira	TA	Ayacucho Tachira	AY	Ayacucho parroquia
+VE	5003	San Félix	Tachira	TA	Ayacucho Tachira	AY	Rivas Berti
+VE	5005	San Pedro del Río	Tachira	TA	Ayacucho Tachira	AY	San Pedro del Rio
+VE	5007	San Antonio del Táchira	Tachira	TA	Bolivar Tachira	BO	Bolivar Tachira parroquia
+VE	5007	Las Dantas	Tachira	TA	Bolivar Tachira	BO	Isaias Medina Angarita
+VE	5007	El Recreo	Tachira	TA	Bolivar Tachira	BO	Juan Vicente Gomez
+VE	5007	Palotal	Tachira	TA	Bolivar Tachira	BO	Palotal
+VE	5017	Palo Gordo	Tachira	TA	Cardenas Tachira	CA	Amenodoro Rangel Lamus
+VE	5017	Táriba	Tachira	TA	Cardenas Tachira	CA	Cardenas parroquia
+VE	5017	La Florida	Tachira	TA	Cardenas Tachira	CA	La Florida Tachira
+VE	5051	Santa Ana	Tachira	TA	Cordoba Tachira	CO	Cordoba Parroquia
+VE	5032	Puerto Teteo	Tachira	TA	Fernandez Feo	FF	Alberto Adriani
+VE	5032	San Rafael del Piñal	Tachira	TA	Fernandez Feo	FF	Fernandez Feo parroquia
+VE	5032	San Lorenzo	Tachira	TA	Fernandez Feo	FF	Santo Domingo Tachira
+VE	5026	San José de Bolívar	Tachira	TA	Francisco de Miranda Tachira	FM	Francisco de Miranda Parroquia
+VE	5020	Boca de Grita	Tachira	TA	Garcia de Hevia	GH	Boca de Grita
+VE	5020	La Fría	Tachira	TA	Garcia de Hevia	GH	Garcia de Hevia parroquia
+VE	5020	Orope	Tachira	TA	Garcia de Hevia	GH	Jose Antonio Paez Tachira
+VE	5015	Palmira	Tachira	TA	Guasimos	GU	Guasimos Parroquia
+VE	5009	Capacho Nuevo	Tachira	TA	Independencia Tachira	IN	Independencia Tachira parroquia
+VE	5009	El Valle	Tachira	TA	Independencia Tachira	IN	Juan German Roscio
+VE	5017	Peribeca	Tachira	TA	Independencia Tachira	IN	Roman Cardenas
+VE	5022	Pueblo Hondo	Tachira	TA	Jauregui	JA	Emilio Constantino Guerrero
+VE	5022	La Grita	Tachira	TA	Jauregui	JA	Jauregui parroquia
+VE	5022	Sabana Grande	Tachira	TA	Jauregui	JA	Monsenor Miguel Antonio Salas3
+VE	5021	El Cobre	Tachira	TA	Jose Maria Vargas	JV	Jose Maria Vargas Parroquia
+VE	5029	Bramón	Tachira	TA	Junin Tachira	JU	Bramon
+VE	5030	Rubio	Tachira	TA	Junin Tachira	JU	Junin parroquia
+VE	5030	Río Chiquito	Tachira	TA	Junin Tachira	JU	La Petrolea
+VE	5030	San Vicente de la Revancha	Tachira	TA	Junin Tachira	JU	Quinimari
+VE	5002	Puerto Nuevo	Tachira	TA	Libertador Tachira	LR	Don Emeterio Ochoa
+VE	5002	El Milagro	Tachira	TA	Libertador Tachira	LR	Doradas
+VE	5002	Abejales	Tachira	TA	Libertador Tachira	LR	Libertador Tachira parroquia
+VE	5002	San Joaquín de Navay	Tachira	TA	Libertador Tachira	LR	San Joaquin de Navay
+VE	5010	Hato de la Virgen	Tachira	TA	Libertad Tachira	LI	Cipriano Castro
+VE	5010	Capacho Viejo	Tachira	TA	Libertad Tachira	LI	Libertad Tachira parroquia
+VE	5010	El Pueblito	Tachira	TA	Libertad Tachira	LI	Manuel Felipe Rugeles
+VE	5033	Borotá	Tachira	TA	Lobatera Tachira	LO	Constitucion Tachira
+VE	5036	Lobatera	Tachira	TA	Lobatera Tachira	LO	Lobatera
+VE	5037	Michelena	Tachira	TA	Michelena	MI	Constitucion Michelena
+VE	5038	La Palmita	Tachira	TA	Panamericano	PA	La Palmita
+VE	5038	Coloncito	Tachira	TA	Panamericano	PA	Panamericano parroquia
+VE	5048	Aguas Calientes	Tachira	TA	Pedro Maria Urena	PU	Nueva Arcadia1
+VE	5048	Ureña	Tachira	TA	Pedro Maria Urena	PU	Pedro Maria Urena parroquia
+VE	5028	Delicias	Tachira	TA	Rafael Urdaneta Tachira	RU	Rafael Urdaneta Parroquia
+VE	5039	Boconó	Tachira	TA	Samuel Dario Maldonado	SM	Bocono Tachira
+VE	5043	Hernández	Tachira	TA	Samuel Dario Maldonado	SM	Hernandez1
+VE	5040	La Tendida	Tachira	TA	Samuel Dario Maldonado	SM	Samuel Dario Maldonado parroquia
+VE	5001	Macanillo	Tachira	TA	San Cristobal Tachira	SC	Dr Francisco Romero Lobo
+VE	5001	San Cristobál	Tachira	TA	San Cristobal Tachira	SC	La Concordia
+VE	5001	San Cristobál	Tachira	TA	San Cristobal Tachira	SC	Pedro Maria Morantes
+VE	5001	San Cristobál	Tachira	TA	San Cristobal Tachira	SC	San Juan Bautista San Cristobal
+VE	5017	San Cristóbal	Tachira	TA	San Cristobal Tachira	SC	San Sebastian Tachira
+VE	5044	Umuquena	Tachira	TA	San Judas Tadeo	SJ	San Judas Tadeo Parroquia
+VE	5027	Seboruco	Tachira	TA	Seboruco	SE	Monsenor Miguel Antonio Salas1
+VE	5043	San Simón	Tachira	TA	Simon Rodriguez Tachira	SR	Simon Rodriguez Parroquia
+VE	5054	Mesa del Tigre	Tachira	TA	Sucre Tachira	SU	Eleazar Lopez Contreras Tachira
+VE	5054	San Pablo	Tachira	TA	Sucre Tachira	SU	San Pablo Tachira
+VE	5054	Queniquea	Tachira	TA	Sucre Tachira	SU	Sucre Tachira parroquia
+VE	5034	San Josecito	Tachira	TA	Torbes	TO	Torbes Parroquia
+VE	5058	La Fundación	Tachira	TA	Uribante	UR	Cardenas Uribante
+VE	5058	Laguna de García	Tachira	TA	Uribante	UR	Juan Pablo Penaloza
+VE	5058	Patio Redondo	Tachira	TA	Uribante	UR	Potosi Tachira
+VE	5058	Pregonero	Tachira	TA	Uribante	UR	Uribante parroquia
+VE	3113	Araguaney	Trujillo Estado	TR	Andres Bello Trujillo	AB	Araguaney
+VE	3113	El Jagüito	Trujillo Estado	TR	Andres Bello Trujillo	AB	El Jaguito
+VE	3113	El Gallo	Trujillo Estado	TR	Andres Bello Trujillo	AB	La Esperanza Trujillo
+VE	3113	Santa Isabel	Trujillo Estado	TR	Andres Bello Trujillo	AB	Santa Isabel Andres Bello
+VE	3103	Batatal	Trujillo Estado	TR	Bocono Trujillo	BC	Ayacucho Trujillo
+VE	3103	Boconó	Trujillo Estado	TR	Bocono Trujillo	BC	Bocono Bocono
+VE	3115	Burbusay	Trujillo Estado	TR	Bocono Trujillo	BC	Burbusay
+VE	3103	El Carmen	Trujillo Estado	TR	Bocono Trujillo	BC	El Carmen Trujillo
+VE	3101	Las Mesitas	Trujillo Estado	TR	Bocono Trujillo	BC	General Rivas
+VE	3118	Guaramacal	Trujillo Estado	TR	Bocono Trujillo	BC	Guaramacal
+VE	3118	Niquitao	Trujillo Estado	TR	Bocono Trujillo	BC	Monsenor Jauregui
+VE	3103	Mosquey	Trujillo Estado	TR	Bocono Trujillo	BC	Mosquey
+VE	3103	San Rafael	Trujillo Estado	TR	Bocono Trujillo	BC	Rafael Rangel
+VE	3103	Tostós	Trujillo Estado	TR	Bocono Trujillo	BC	San Jose Bocono
+VE	3119	San Miguel	Trujillo Estado	TR	Bocono Trujillo	BC	San Miguel Trujillo
+VE	3103	Vega de Guaramacal	Trujillo Estado	TR	Bocono Trujillo	BC	Vega de Guaramacal
+VE	3110	Altamira de Caús	Trujillo Estado	TR	Bolivar Trujillo	BL	Cheregue
+VE	3110	Granados	Trujillo Estado	TR	Bolivar Trujillo	BL	Granados
+VE	3110	Sabana Grande	Trujillo Estado	TR	Bolivar Trujillo	BL	Sabana Grande Trujillo
+VE	3124	Minas	Trujillo Estado	TR	Candelaria Trujillo	CN	Arnoldo Gabaldon Candelaria
+VE	3157	Bolivia	Trujillo Estado	TR	Candelaria Trujillo	CN	Bolivia Trujillo
+VE	3129	Torococo	Trujillo Estado	TR	Candelaria Trujillo	CN	Carrillo
+VE	3129	Mitón	Trujillo Estado	TR	Candelaria Trujillo	CN	Cegarra
+VE	3124	Chejendé	Trujillo Estado	TR	Candelaria Trujillo	CN	Chejende
+VE	3129	Sabana Grande	Trujillo Estado	TR	Candelaria Trujillo	CN	Manuel Salvador Ulloa
+VE	3129	Las Llanadas	Trujillo Estado	TR	Candelaria Trujillo	CN	San Jose Candelaria
+VE	3123	Carache	Trujillo Estado	TR	Carache	CR	Carache parroquia
+VE	3125	Cuicas	Trujillo Estado	TR	Carache	CR	Cuicas
+VE	3150	La Concepción	Trujillo Estado	TR	Carache	CR	La Concepcion Carache
+VE	3123	El Zapatero	Trujillo Estado	TR	Carache	CR	Panamericana
+VE	3123	La Cuchilla	Trujillo Estado	TR	Carache	CR	Santa Cruz Trujillo
+VE	3105	Escuque	Trujillo Estado	TR	Escuque Trujillo	ES	Escuque
+VE	3105	El Alto	Trujillo Estado	TR	Escuque Trujillo	ES	La Union Trujillo
+VE	3135	Sabana Libre	Trujillo Estado	TR	Escuque Trujillo	ES	Sabana Libre
+VE	3105	La Mata	Trujillo Estado	TR	Escuque Trujillo	ES	Santa Rita Trujillo
+VE	3156	La Placita	Trujillo Estado	TR	Jose Felipe Marquez Canizales	JC	Antonio Jose de Sucre Trujillo
+VE	3156	El Paradero	Trujillo Estado	TR	Jose Felipe Marquez Canizales	JC	El Socorro Trujillo
+VE	3156	Los Caprichos	Trujillo Estado	TR	Jose Felipe Marquez Canizales	JC	Los Caprichos
+VE	3116	Las Quebradas	Trujillo Estado	TR	Juan Vicente Campo Elias Trujillo	JE	Arnoldo Gabaldon Juan Vicente Campo Elias
+VE	3116	Campo Elías	Trujillo Estado	TR	Juan Vicente Campo Elias Trujillo	JE	Campo Elias6
+VE	3127	Zona Rica	Trujillo Estado	TR	La Ceiba Trujillo	LC	El Progreso Trujillo
+VE	3108	La Ceiba	Trujillo Estado	TR	La Ceiba Trujillo	LC	La Ceiba
+VE	3127	Santa Apolonia	Trujillo Estado	TR	La Ceiba Trujillo	LC	Santa Apolonia
+VE	3127	Tres de Febrero	Trujillo Estado	TR	La Ceiba Trujillo	LC	Tres de Febrero parroquia
+VE	3110	Agua Caliente	Trujillo Estado	TR	Miranda Trujillo	MI	Aguas Calientes
+VE	3110	Agua Santa	Trujillo Estado	TR	Miranda Trujillo	MI	Agua Santa Trujillo
+VE	3110	El Cenizo	Trujillo Estado	TR	Miranda Trujillo	MI	El Cenizo
+VE	3107	El Dividive	Trujillo Estado	TR	Miranda Trujillo	MI	El Dividive
+VE	3110	Valerita	Trujillo Estado	TR	Miranda Trujillo	MI	Valerita
+VE	3134	Buena Vista	Trujillo Estado	TR	Monte Carmelo Trujillo	MC	Buena Vista Trujillo
+VE	3134	Monte Carmelo	Trujillo Estado	TR	Monte Carmelo Trujillo	MC	Monte Carmelo parroquia
+VE	3134	Casa de Tabla	Trujillo Estado	TR	Monte Carmelo Trujillo	MC	Santa Maria del Horcon
+VE	3140	El Baño	Trujillo Estado	TR	Motatan Trujillo	MO	El Bano
+VE	3140	Jalisco	Trujillo Estado	TR	Motatan Trujillo	MO	Jalisco Trujillo
+VE	3140	Motatán	Trujillo Estado	TR	Motatan Trujillo	MO	Motatan
+VE	3150	La Concepción	Trujillo Estado	TR	Pampanito Trujillo	PT	La Concepcion Pampanito
+VE	3152	Pampanito	Trujillo Estado	TR	Pampanito Trujillo	PT	Pampanito
+VE	3152	Pampanito	Trujillo Estado	TR	Pampanito Trujillo	PT	Pampanito
+VE	3152	Pampanito Ll	Trujillo Estado	TR	Pampanito Trujillo	PT	Pampanito
+VE	3151	Flor de Patria	Trujillo Estado	TR	Pampan Trujillo	PA	Flor de Patria
+VE	3153	Monay	Trujillo Estado	TR	Pampan Trujillo	PA	La Paz Trujillo
+VE	3151	Pampán	Trujillo Estado	TR	Pampan Trujillo	PA	Pampan
+VE	3156	Santa Ana	Trujillo Estado	TR	Pampan Trujillo	PA	Santa Ana Trujillo
+VE	3104	Betijoque	Trujillo Estado	TR	Rafael Rangel Trujillo	RR	Betijoque
+VE	3109	Isnotú	Trujillo Estado	TR	Rafael Rangel Trujillo	RR	Jose Gregorio Hernandez
+VE	3104	Las Rurales	Trujillo Estado	TR	Rafael Rangel Trujillo	RR	La Pueblita
+VE	3104	Los Cedros	Trujillo Estado	TR	Rafael Rangel Trujillo	RR	Los Cedros
+VE	3149	La Cejita	Trujillo Estado	TR	San Rafael de Carvajal	SR	Antonio Nicolas Briceno
+VE	3101	Campo Alegre	Trujillo Estado	TR	San Rafael de Carvajal	SR	Campo Alegre Trujillo
+VE	3102	Carvajal	Trujillo Estado	TR	San Rafael de Carvajal	SR	Carvajal
+VE	3101	Las Mesetas	Trujillo Estado	TR	San Rafael de Carvajal	SR	Jose Leonardo Suarez
+VE	3110	El Paraíso	Trujillo Estado	TR	Sucre Trujillo	SU	El Paraiso Trujillo
+VE	3110	Junín	Trujillo Estado	TR	Sucre Trujillo	SU	Junin Trujillo
+VE	3110	Sabana de Mendoza	Trujillo Estado	TR	Sucre Trujillo	SU	Sabana de Mendoza
+VE	3110	Valmore Rodríguez	Trujillo Estado	TR	Sucre Trujillo	SU	Valmore Rodriguez
+VE	3154	San Lázaro	Trujillo Estado	TR	Trujillo Trujillo	TR	Andres Linares
+VE	3150	Chiquinquirá	Trujillo Estado	TR	Trujillo Trujillo	TR	Chiquinquira Trujillo
+VE	3150	Santa Rosa	Trujillo Estado	TR	Trujillo Trujillo	TR	Cristobal Mendoza
+VE	3150	La Plazuela	Trujillo Estado	TR	Trujillo Trujillo	TR	Cruz Carrillo
+VE	3150	Matríz	Trujillo Estado	TR	Trujillo Trujillo	TR	Matriz Trujillo
+VE	3150	San Jacinto	Trujillo Estado	TR	Trujillo Trujillo	TR	Monsenor Carrillo
+VE	3150	Tres Esquinas	Trujillo Estado	TR	Trujillo Trujillo	TR	Tres Esquinas
+VE	3147	Cabimbú	Trujillo Estado	TR	Urdaneta Trujillo	UR	Cabimbu
+VE	3145	Jajó	Trujillo Estado	TR	Urdaneta Trujillo	UR	Jajo
+VE	3146	La Mesa de Esnujaque	Trujillo Estado	TR	Urdaneta Trujillo	UR	La Mesa Trujillo
+VE	3147	La Quebrada	Trujillo Estado	TR	Urdaneta Trujillo	UR	La Quebrada
+VE	3101	Santiago	Trujillo Estado	TR	Urdaneta Trujillo	UR	Santiago Trujillo
+VE	3145	Tuñame	Trujillo Estado	TR	Urdaneta Trujillo	UR	Tuname
+VE	3101	Juan Ignacio Montilla	Trujillo Estado	TR	Valera Trujillo	VA	Juan Ignacio Montilla
+VE	3101	La Beatríz	Trujillo Estado	TR	Valera Trujillo	VA	La Beatriz
+VE	3106	La Puerta	Trujillo Estado	TR	Valera Trujillo	VA	La Puerta
+VE	3122	Mendoza	Trujillo Estado	TR	Valera Trujillo	VA	Mendoza parroquia
+VE	3101	Mercedes Díaz	Trujillo Estado	TR	Valera Trujillo	VA	Mercedes Diaz
+VE	3106	San Luis	Trujillo Estado	TR	Valera Trujillo	VA	San Luis Trujillo
+VE	1165	Caraballeda	Vargas	VA	Vargas Vargas	VA	Caraballeda
+VE	1167	Carayaca	Vargas	VA	Vargas Vargas	VA	Carayaca
+VE	1161	Maiquetía	Vargas	VA	Vargas Vargas	VA	Carlos Soublette
+VE	1168	La Sabana	Vargas	VA	Vargas Vargas	VA	Caruao
+VE	1162	Catia la Mar	Vargas	VA	Vargas Vargas	VA	Catia La Mar
+VE	1160	La Guaira	Vargas	VA	Vargas Vargas	VA	La Guaira
+VE	1164	Macuto	Vargas	VA	Vargas Vargas	VA	Macuto
+VE	1161	Maiquetía	Vargas	VA	Vargas Vargas	VA	Maiquetia
+VE	1166	Naiguatá	Vargas	VA	Vargas Vargas	VA	Naiguata
+VE	1162	Catia la Mar	Vargas	VA	Vargas Vargas	VA	Urimare
+VE	3212	San Pablo	Yaracuy	YA	Aristides Bastidas	AB	Aristides Bastidas Parroquia
+VE	3210	Aroa	Yaracuy	YA	Bolivar Yaracuy	BO	Bolivar Aroa
+VE	3209	Campo Elías	Yaracuy	YA	Bruzual Yaracuy	BR	Campo Elias8
+VE	3202	Chivacoa	Yaracuy	YA	Bruzual Yaracuy	BR	Capital Bruzual
+VE	3208	Cocorote	Yaracuy	YA	Cocorote	CO	Campo Elias1
+VE	3221	Independencia	Yaracuy	YA	Independencia Yaracuy	IN	Campo Elias5
+VE	3211	Sabana de Parra	Yaracuy	YA	Jose Antonio Paez Yaracuy	JP	Jose Antonio Paez Parroquia
+VE	3219	Boraure	Yaracuy	YA	La Trinidad Yaracuy	LT	La Trinidad Parroquia
+VE	3216	Yumare	Yaracuy	YA	Manuel Monge	MM	Manuel Monge Parroquia
+VE	3205	Nirgua	Yaracuy	YA	Nirgua	NI	Capital Nirgua
+VE	3214	Salom	Yaracuy	YA	Nirgua	NI	Salom Yaracuy
+VE	3218	Temerla	Yaracuy	YA	Nirgua	NI	Temerla
+VE	3203	Yaritagua	Yaracuy	YA	Pena Yaracuy	PE	Capital Pena
+VE	3203	Cambural	Yaracuy	YA	Pena Yaracuy	PE	San Andres Yaracuy
+VE	3213	Albarico	Yaracuy	YA	San Felipe Yaracuy	SF	Albarico
+VE	3201	San Felipe	Yaracuy	YA	San Felipe Yaracuy	SF	Capital San Felipe
+VE	3206	Marín	Yaracuy	YA	San Felipe Yaracuy	SF	San Javier Yaracuy
+VE	3207	Guama	Yaracuy	YA	Sucre Yaracuy	SU	Sucre Guama
+VE	3204	Urachiche	Yaracuy	YA	Urachiche	UR	Albarico2
+VE	3222	Farriar	Yaracuy	YA	Veroes	VE	Capital Veroes
+VE	3223	Casimiro Vásquez	Yaracuy	YA	Veroes	VE	El Guayabo
+VE	4030	El Toro	Zulia	ZU	Almirante Padilla	AP	Isla de Toas
+VE	4030	San Carlos	Zulia	ZU	Almirante Padilla	AP	Monagas Zulia
+VE	4015	Ceuta	Zulia	ZU	Baralt	BA	General Urdaneta
+VE	4015	Mene Grande	Zulia	ZU	Baralt	BA	Libertad Zulia
+VE	4015	El Venado	Zulia	ZU	Baralt	BA	Manuel Guanipa Matos
+VE	4015	El Tigre	Zulia	ZU	Baralt	BA	Marcelino Briceno
+VE	4015	Pueblo Nuevo	Zulia	ZU	Baralt	BA	Pueblo Nuevo Zulia
+VE	4015	San Timoteo	Zulia	ZU	Baralt	BA	San Timoteo
+VE	4013	Cabimas	Zulia	ZU	Cabimas	CB	Ambrosio
+VE	4013	Palito Blanco	Zulia	ZU	Cabimas	CB	Aristides Calvani
+VE	4013	Cabimas	Zulia	ZU	Cabimas	CB	Carmen Herrera
+VE	4013	Cabimas	Zulia	ZU	Cabimas	CB	German Rios Linares
+VE	4013	Cabimas	Zulia	ZU	Cabimas	CB	Jorge Hernandez
+VE	4013	Cabimas	Zulia	ZU	Cabimas	CB	La Rosa
+VE	4013	Punta Gorda	Zulia	ZU	Cabimas	CB	Punta Gorda
+VE	4013	Cabimas	Zulia	ZU	Cabimas	CB	Romulo Betancourt Zulia
+VE	4013	Cabimas	Zulia	ZU	Cabimas	CB	San Benito Zulia
+VE	5101	Encontrados	Zulia	ZU	Catatumbo	CT	Encontrados
+VE	5101	El Guayabo	Zulia	ZU	Catatumbo	CT	Udon Perez El Guayabo
+VE	5147	San Carlos del Zulia	Zulia	ZU	Colon Zulia	CO	Moralito
+VE	5148	Santa Bárbara	Zulia	ZU	Colon Zulia	CO	Santa Barbara Zulia
+VE	5149	Santa Bárbara	Zulia	ZU	Colon Zulia	CO	Santa Cruz del Zulia
+VE	5147	San Carlos del Zulia	Zulia	ZU	Colon Zulia	CO	San Carlos del Zulia
+VE	5147	Concha	Zulia	ZU	Colon Zulia	CO	Uribarri
+VE	5145	Cuatro Esquinas	Zulia	ZU	Francisco Javier Pulgar Zulia	FP	Carlos Quevedo
+VE	5145	Los Naranjos	Zulia	ZU	Francisco Javier Pulgar Zulia	FP	Francisco Javier Pulgar
+VE	5145	Pueblo Nuevo El Chivo	Zulia	ZU	Francisco Javier Pulgar Zulia	FP	Simon Rodriguez
+VE	4037	Cojoro	Zulia	ZU	Indigena Bolivariano Guajira	PA	Alta Guajira
+VE	4053	El Molinete	Zulia	ZU	Indigena Bolivariano Guajira	PA	Elias Sanchez Rubio
+VE	4037	Paraguaipoa	Zulia	ZU	Indigena Bolivariano Guajira	PA	Guajira
+VE	4032	La Paz	Zulia	ZU	Jesus Enrique Lossada	JL	Jose Ramon Yepez
+VE	4032	La Concepción	Zulia	ZU	Jesus Enrique Lossada	JL	La Concepcion Zulia
+VE	4032	Jobo Alto (Kilómetro 25)	Zulia	ZU	Jesus Enrique Lossada	JL	Mariano Parra Leon
+VE	4032	San José	Zulia	ZU	Jesus Enrique Lossada	JL	San Jose Jesus Enrique Lossada
+VE	5068	El Cruce	Zulia	ZU	Jesus Maria Semprun	JS	Bari Zulia
+VE	5068	Casigua El Cubo	Zulia	ZU	Jesus Maria Semprun	JS	Udon Perez
+VE	4019	Ciudad Ojeda	Zulia	ZU	Lagunillas Zulia	LA	Alonso de Ojeda
+VE	4019	Campo Lara	Zulia	ZU	Lagunillas Zulia	LA	Campo Lara
+VE	4019	Picapica	Zulia	ZU	Lagunillas Zulia	LA	Eleazar Lopez Contreras Zulia
+VE	4019	Ciudad Ojeda	Zulia	ZU	Lagunillas Zulia	LA	Libertad Ciudad Ojeda
+VE	4016	Lagunillas	Zulia	ZU	Lagunillas Zulia	LA	Venezuela Zulia
+VE	4033	Kilómetro 48 (Santo Domingo)	Zulia	ZU	La Canada de Urdaneta	LU	Andres Bello Zulia
+VE	4033	La Ensenada	Zulia	ZU	La Canada de Urdaneta	LU	Chiquinquira La Canada de Urdaneta
+VE	4033	El Carmelo	Zulia	ZU	La Canada de Urdaneta	LU	El Carmelo
+VE	4033	La Concepción	Zulia	ZU	La Canada de Urdaneta	LU	La Concepcion parroquia
+VE	4033	Potreritos	Zulia	ZU	La Canada de Urdaneta	LU	Potreritos
+VE	4035	Las Piedras	Zulia	ZU	Machiques de Perija	MP	Bartolome de las Casas
+VE	4040	Machiques	Zulia	ZU	Machiques de Perija	MP	Libertad Machiques
+VE	4021	Río Negro	Zulia	ZU	Machiques de Perija	MP	Rio Negro Zulia
+VE	4040	San José	Zulia	ZU	Machiques de Perija	MP	San Jose de Perija
+VE	4005	Maracaibo	Zulia	ZU	Maracaibo	MC	Antonio Borjas Romero
+VE	4001	Maracaibo	Zulia	ZU	Maracaibo	MC	Bolivar Zulia
+VE	4001	Maracaibo	Zulia	ZU	Maracaibo	MC	Cacique Mara
+VE	4005	Maracaibo	Zulia	ZU	Maracaibo	MC	Caracciolo Parra Perez Zulia
+VE	4001	Maracaibo	Zulia	ZU	Maracaibo	MC	Cecilio Acosta Zulia
+VE	4005	Maracaibo	Zulia	ZU	Maracaibo	MC	Chiquinquira Maracaibo
+VE	4002	Maracaibo	Zulia	ZU	Maracaibo	MC	Coquivacoa
+VE	4001	Maracaibo	Zulia	ZU	Maracaibo	MC	Cristo de Aranza
+VE	4001	Maracaibo	Zulia	ZU	Maracaibo	MC	Francisco Eugenio Bustamante
+VE	4005	Maracaibo	Zulia	ZU	Maracaibo	MC	Idelfonso Vasquez
+VE	4005	Maracaibo	Zulia	ZU	Maracaibo	MC	Juana de Avila
+VE	4001	Maracaibo	Zulia	ZU	Maracaibo	MC	Manuel Dagnino
+VE	4002	Maracaibo	Zulia	ZU	Maracaibo	MC	Olegario Villalobos
+VE	4005	Maracaibo	Zulia	ZU	Maracaibo	MC	Raul Leoni Zulia
+VE	4001	Santa Lucía	Zulia	ZU	Maracaibo	MC	Santa Lucia Zulia
+VE	4001	San Isidro	Zulia	ZU	Maracaibo	MC	San Isidro Zulia
+VE	4005	Maracaibo	Zulia	ZU	Maracaibo	MC	Venancio Pulgar
+VE	4044	Las Parcelas	Zulia	ZU	Mara Zulia	MA	Las Parcelas
+VE	4044	La Sierrita	Zulia	ZU	Mara Zulia	MA	La Sierrita
+VE	4048	Carrasquero	Zulia	ZU	Mara Zulia	MA	Luis de Vicente
+VE	4027	Cachirí	Zulia	ZU	Mara Zulia	MA	Monsenor Marcos Sergio Godoy
+VE	4045	Santa Cruz de Mara	Zulia	ZU	Mara Zulia	MA	Ricaurte Zulia
+VE	4044	Tamare	Zulia	ZU	Mara Zulia	MA	Tamare
+VE	4036	Los Puertos de Altagracia	Zulia	ZU	Miranda Zulia	MI	Altagracia Zulia
+VE	4036	El Mecocal	Zulia	ZU	Miranda Zulia	MI	Ana Maria Campos
+VE	4036	Quisiro	Zulia	ZU	Miranda Zulia	MI	Faria Zulia
+VE	4036	El Consejo de Ciruma	Zulia	ZU	Miranda Zulia	MI	San Antonio Zulia
+VE	4036	Sabaneta de Palmas	Zulia	ZU	Miranda Zulia	MI	San Jose Miranda
+VE	4047	Barranquitas	Zulia	ZU	Rosario de Perija	RP	Donaldo Garcia
+VE	4047	La Villa del Rosario	Zulia	ZU	Rosario de Perija	RP	El Rosario parroquia
+VE	4047	El Corozo	Zulia	ZU	Rosario de Perija	RP	Raul Cuenca
+VE	4047	San Ignacio	Zulia	ZU	Rosario de Perija	RP	Sixto Zambrano
+VE	4020	El Mene	Zulia	ZU	Santa Rita Zulia	SR	El Mene
+VE	4020	Palmarejo	Zulia	ZU	Santa Rita Zulia	SR	Jose Cenovio Uribarri
+VE	4020	El Guanábano	Zulia	ZU	Santa Rita Zulia	SR	Pedro Lucas Uribarri
+VE	4020	Santa Rita	Zulia	ZU	Santa Rita Zulia	SR	Santa Rita Zulia parroquia
+VE	4004	El Silencio	Zulia	ZU	San Francisco Zulia	SF	Domitila Flores
+VE	4004	El Bajo	Zulia	ZU	San Francisco Zulia	SF	El Bajo
+VE	4004	Sierra Maestra	Zulia	ZU	San Francisco Zulia	SF	Francisco Ochoa
+VE	4004	Los Cortijos	Zulia	ZU	San Francisco Zulia	SF	Los Cortijos parroquia
+VE	4004	Maracaibo	Zulia	ZU	San Francisco Zulia	SF	Luis Hurtado Higuera SF
+VE	4004	Sur América	Zulia	ZU	San Francisco Zulia	SF	Marcial Hernandez
+VE	4004	San Francisco	Zulia	ZU	San Francisco Zulia	SF	San Francisco2
+VE	4017	Lagunillas	Zulia	ZU	Simon Bolivar Zulia	SB	Manuel Manrique
+VE	4017	San Isidro	Zulia	ZU	Simon Bolivar Zulia	SB	Rafael Maria Baralt
+VE	4017	Sabana de la Plata	Zulia	ZU	Simon Bolivar Zulia	SB	Rafael Urdaneta Simon Bolivar
+VE	3158	Gibraltar	Zulia	ZU	Sucre Zulia	SU	Gibraltar Zulia
+VE	3166	San Antonio	Zulia	ZU	Sucre Zulia	SU	Heras
+VE	3158	Santa María	Zulia	ZU	Sucre Zulia	SU	Monsenor Arturo Celestino Alvarez
+VE	3158	Caja Seca	Zulia	ZU	Sucre Zulia	SU	Romulo Gallegos Zulia
+VE	4014	Bachaquero	Zulia	ZU	Valmore Rodriguez Zulia	VR	La Victoria Zulia
+VE	4014	Bachaquero	Zulia	ZU	Valmore Rodriguez Zulia	VR	Rafael Urdaneta Valmore Rodriguez
+VE	4014	El Corozo	Zulia	ZU	Valmore Rodriguez Zulia	VR	Raul Cuenca2
+VE	6009	Guanape	Anzoategui	AN	Juan Antonio Sotillo	JS	Guanape Parroquia
+VE	6020	Píritu	Anzoategui	AN	Piritu Anzoategui	PI	Capital Piritu
+VE	7002	El Samán de Apure	Apure	AP	Achaguas	AC	Mucuritas
+VE	7005	Biruaca	Apure	AP	Biruaca	BI	Urbana Biruaca
+VE	2101	Maracay	Aragua	AR	Girardot Aragua	GI	Urbana Andres Eloy Blanco
+VE	2101	Maracay	Aragua	AR	Girardot Aragua	GI	Urbana Los Tacariguas
+VE	1052	Caracas	Caracas	DF	Libertador Caracas	LI	El Recreo Caracas
+VE	1050	Caracas	Caracas	DF	Libertador Caracas	LI	El Recreo Caracas
+VE	1040	Caracas	Caracas	DF	Libertador Caracas	LI	El Valle Caracas
+VE	1014	Caracas	Caracas	DF	Libertador Caracas	LI	Santa Rosalia Caracas
+VE	1012	Caracas	Caracas	DF	Libertador Caracas	LI	Santa Teresa Caracas
+VE	1014	Caracas	Caracas	DF	Libertador Caracas	LI	San Agustin Caracas
+VE	1010	Caracas	Caracas	DF	Libertador Caracas	LI	San Jose Caracas
+VE	1014	Caracas	Caracas	DF	Libertador Caracas	LI	San Juan Caracas
+VE	4123	Punta Cardón	Falcon	FA	Carirubana	CR	Punta Cardon
+VE	3028	La Escalera	Lara	LA	Andres Eloy Blanco Lara	AB	Yacambu
+VE	3025	El Eneal	Lara	LA	Crespo	CR	Jose Maria Blanco
+VE	3004	Bobare	Lara	LA	Iribarren	IR	Aguedo Felipe Alvarado
+VE	3009	Buena Vista	Lara	LA	Iribarren	IR	Buena Vista Lara
+VE	3009	Río Claro	Lara	LA	Iribarren	IR	Juarez Iribarren
+VE	3001	Barquisimeto	Lara	LA	Iribarren	IR	Union Lara
+VE	3061	Cubiro	Lara	LA	Jimenez Lara	JI	Diego de Lozada
+VE	3017	Azoátegui	Lara	LA	Moran Lara	MO	Anzoategui Lara
+VE	3057	Guárico	Lara	LA	Moran Lara	MO	Capital Bolivar
+VE	3022	Villanueva	Lara	LA	Moran Lara	MO	Hilario Luna y Luna
+VE	3023	Humocaro Bajo	Lara	LA	Moran Lara	MO	Humocaro Bajo
+VE	3017	Guaitó	Lara	LA	Moran Lara	MO	La Candelaria Lara
+VE	3023	Agua Viva	Lara	LA	Palavecino	PA	Agua Viva
+VE	3015	La Miel	Lara	LA	Simon Planas	SP	Gustavo Vegas Leon1
+VE	3050	Altagracia	Lara	LA	Torres Lara	TO	Altagracia Lara
+VE	3050	Atarigua	Lara	LA	Torres Lara	TO	Castaneda Lara
+VE	3050	Burere	Lara	LA	Torres Lara	TO	Las Mercedes Lara
+VE	3052	Palmarito	Lara	LA	Torres Lara	TO	Montana Verde
+VE	3050	San Francisco	Lara	LA	Torres Lara	TO	Montes de Oca Lara
+VE	3050	Parapara	Lara	LA	Torres Lara	TO	Reyes Vargas
+VE	3050	El Jabón	Lara	LA	Torres Lara	TO	Torres Parroquia
+VE	3031	Baragua	Lara	LA	Urdaneta Lara	UR	Xaquas
+VE	1080	Las Minas de Baruta	Miranda	MI	Baruta	BA	Las Minas de Baruta
+VE	1061	Las Minas de Baruta	Miranda	MI	Baruta	BA	Las Minas de Baruta
+VE	1202	San Diego	Miranda	MI	Carrizal Miranda	CA	Cecilio Acosta Parroquia
+VE	1062	Chacao	Miranda	MI	Chacao	CH	Chacao parroquia
+VE	1060	Chacao	Miranda	MI	Chacao	CH	Chacao parroquia
+VE	6317	La Plaza de Paraguachí	Nueva Esparta	NE	Antolin del Campo	AC	Antolin del Campo Parroquia
+VE	6305	El Maco	Nueva Esparta	NE	Gomez	GO	Bolivar Nueva Esparta
+VE	6326	Punta de Piedras	Nueva Esparta	NE	Tubores	TU	Capital Tubores
+VE	6318	Punta de Piedras	Nueva Esparta	NE	Tubores	TU	Capital Tubores
+VE	3353	Caño Delgadito	Portuguesa	PO	Papelon Portuguesa	PP	Cano Delgadito
+VE	5012	Táriba	Tachira	TA	Cardenas Tachira	CA	Cardenas parroquia
+VE	5001	Táriba	Tachira	TA	Cardenas Tachira	CA	Cardenas parroquia
+VE	5001	El Valle	Tachira	TA	Independencia Tachira	IN	Juan German Roscio
+VE	5009	Peribeca	Tachira	TA	Independencia Tachira	IN	Roman Cardenas
+VE	5001	San Cristóbal	Tachira	TA	San Cristobal Tachira	SC	San Sebastian Tachira
+VE	4021	Machiques	Zulia	ZU	Machiques de Perija	MP	Libertad Machiques
+VE	4001	Maracaibo	Zulia	ZU	Maracaibo	MC	Chiquinquira Maracaibo

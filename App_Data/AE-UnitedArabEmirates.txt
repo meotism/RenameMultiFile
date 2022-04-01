@@ -1,0 +1,870 @@
+AE	00000		Abu Dhabi	AZ	Abu Dhabi						
+AE	00000		Abu Dhabi	AZ	Abu Dhabi Airport						
+AE	00000		Abu Dhabi	AZ	Abu Dhabi Gate City						
+AE	00000		Abu Dhabi	AZ	Al Ain						
+AE	00000		Abu Dhabi	AZ	Al Aman						
+AE	00000		Abu Dhabi	AZ	Al Atir						
+AE	00000		Abu Dhabi	AZ	Al Ayn						
+AE	00000		Abu Dhabi	AZ	Al Bahia						
+AE	00000		Abu Dhabi	AZ	Al Baladiyah						
+AE	00000		Abu Dhabi	AZ	Al Bateen						
+AE	00000		Abu Dhabi	AZ	Al Dhafrah						
+AE	00000		Abu Dhabi	AZ	Al Falah City						
+AE	00000		Abu Dhabi	AZ	Al Falah New Community						
+AE	00000		Abu Dhabi	AZ	Al Ghadeer						
+AE	00000		Abu Dhabi	AZ	Al Hadhi						
+AE	00000		Abu Dhabi	AZ	Al Hayer						
+AE	00000		Abu Dhabi	AZ	Al Hisn						
+AE	00000		Abu Dhabi	AZ	Al Hosn						
+AE	00000		Abu Dhabi	AZ	Al Hudayriat Island						
+AE	00000		Abu Dhabi	AZ	Al Idd						
+AE	00000		Abu Dhabi	AZ	Al Ittihad						
+AE	00000		Abu Dhabi	AZ	Al Jahr						
+AE	00000		Abu Dhabi	AZ	Al Jami al Kabir						
+AE	00000		Abu Dhabi	AZ	Al Karamah						
+AE	00000		Abu Dhabi	AZ	Al Khabb						
+AE	00000		Abu Dhabi	AZ	Al Khaleej Al Arabi						
+AE	00000		Abu Dhabi	AZ	Al Khalidiya						
+AE	00000		Abu Dhabi	AZ	Al Khalidiyah						
+AE	00000		Abu Dhabi	AZ	Al Khatim						
+AE	00000		Abu Dhabi	AZ	Al Khazna						
+AE	00000		Abu Dhabi	AZ	Al Khaznah						
+AE	00000		Abu Dhabi	AZ	Al Khis						
+AE	00000		Abu Dhabi	AZ	Al Khubayrah						
+AE	00000		Abu Dhabi	AZ	Al Khubeirah						
+AE	00000		Abu Dhabi	AZ	Al Mafraq						
+AE	00000		Abu Dhabi	AZ	Al Manhal						
+AE	00000		Abu Dhabi	AZ	Al Maqta						
+AE	00000		Abu Dhabi	AZ	Al Marfa						
+AE	00000		Abu Dhabi	AZ	Al Mariah United Group						
+AE	00000		Abu Dhabi	AZ	Al Mariyah						
+AE	00000		Abu Dhabi	AZ	Al Mariyah al Gharbiyah						
+AE	00000		Abu Dhabi	AZ	Al Markaziyah						
+AE	00000		Abu Dhabi	AZ	Al Mashrub						
+AE	00000		Abu Dhabi	AZ	Al Mina						
+AE	00000		Abu Dhabi	AZ	Al Mirfa						
+AE	00000		Abu Dhabi	AZ	Al Mu'tarad						
+AE	00000		Abu Dhabi	AZ	Al Mughayra'						
+AE	00000		Abu Dhabi	AZ	Al Muqattarah						
+AE	00000		Abu Dhabi	AZ	Al Muroor						
+AE	00000		Abu Dhabi	AZ	Al Murur						
+AE	00000		Abu Dhabi	AZ	Al Musalla						
+AE	00000		Abu Dhabi	AZ	Al Mushrif						
+AE	00000		Abu Dhabi	AZ	Al Muwayqi'i						
+AE	00000		Abu Dhabi	AZ	Al Muzun						
+AE	00000		Abu Dhabi	AZ	Al Nahda						
+AE	00000		Abu Dhabi	AZ	Al Nahyan						
+AE	00000		Abu Dhabi	AZ	Al Najda						
+AE	00000		Abu Dhabi	AZ	Al Qaia						
+AE	00000		Abu Dhabi	AZ	Al Qimi						
+AE	00000		Abu Dhabi	AZ	Al Qurm						
+AE	00000		Abu Dhabi	AZ	Al Raha Beach						
+AE	00000		Abu Dhabi	AZ	Al Raha Corniche						
+AE	00000		Abu Dhabi	AZ	Al Raha Gardens						
+AE	00000		Abu Dhabi	AZ	Al Raha Golf Gardens						
+AE	00000		Abu Dhabi	AZ	Al Rahba						
+AE	00000		Abu Dhabi	AZ	Al Ras Al Akhdar						
+AE	00000		Abu Dhabi	AZ	Al Rawdah						
+AE	00000		Abu Dhabi	AZ	Al Reef						
+AE	00000		Abu Dhabi	AZ	Al Reem Island						
+AE	00000		Abu Dhabi	AZ	Al Rowdah						
+AE	00000		Abu Dhabi	AZ	Al Ruwais						
+AE	00000		Abu Dhabi	AZ	Al Samha						
+AE	00000		Abu Dhabi	AZ	Al Shahama						
+AE	00000		Abu Dhabi	AZ	Al Shamkha						
+AE	00000		Abu Dhabi	AZ	Al Sowwah						
+AE	00000		Abu Dhabi	AZ	Al Udayd						
+AE	00000		Abu Dhabi	AZ	Al Wahda						
+AE	00000		Abu Dhabi	AZ	Al Wahdah						
+AE	00000		Abu Dhabi	AZ	Al Wathba						
+AE	00000		Abu Dhabi	AZ	Al Wathbah						
+AE	00000		Abu Dhabi	AZ	Al Zaab						
+AE	00000		Abu Dhabi	AZ	An Nadi as Siyahi						
+AE	00000		Abu Dhabi	AZ	An Nashshash						
+AE	00000		Abu Dhabi	AZ	Aqbiyah						
+AE	00000		Abu Dhabi	AZ	Ar Ra's al Akhdar						
+AE	00000		Abu Dhabi	AZ	Ar Rawdah						
+AE	00000		Abu Dhabi	AZ	Ar Rihan						
+AE	00000		Abu Dhabi	AZ	Ar Ruways						
+AE	00000		Abu Dhabi	AZ	Aradah						
+AE	00000		Abu Dhabi	AZ	As Sad						
+AE	00000		Abu Dhabi	AZ	As Slabeikh						
+AE	00000		Abu Dhabi	AZ	As Sulaymat						
+AE	00000		Abu Dhabi	AZ	Ash Shahamah						
+AE	00000		Abu Dhabi	AZ	Ash Shibhanah						
+AE	00000		Abu Dhabi	AZ	Attab						
+AE	00000		Abu Dhabi	AZ	Ayn al Faydah						
+AE	00000		Abu Dhabi	AZ	Az Za'ab						
+AE	00000		Abu Dhabi	AZ	Az Zafrah						
+AE	00000		Abu Dhabi	AZ	Az Zahra						
+AE	00000		Abu Dhabi	AZ	Badiyah						
+AE	00000		Abu Dhabi	AZ	Baniyas						
+AE	00000		Abu Dhabi	AZ	Batin						
+AE	00000		Abu Dhabi	AZ	Bin Ahmad						
+AE	00000		Abu Dhabi	AZ	Bu Hasa						
+AE	00000		Abu Dhabi	AZ	Bu Lifiyat						
+AE	00000		Abu Dhabi	AZ	Bu Rays						
+AE	00000		Abu Dhabi	AZ	Capital District						
+AE	00000		Abu Dhabi	AZ	Corniche						
+AE	00000		Abu Dhabi	AZ	Da'sah						
+AE	00000		Abu Dhabi	AZ	Dahin						
+AE	00000		Abu Dhabi	AZ	Danet						
+AE	00000		Abu Dhabi	AZ	Downtown						
+AE	00000		Abu Dhabi	AZ	Fariq Tarif						
+AE	00000		Abu Dhabi	AZ	Ghantoot						
+AE	00000		Abu Dhabi	AZ	Ghurbah						
+AE	00000		Abu Dhabi	AZ	Golf Gardens						
+AE	00000		Abu Dhabi	AZ	Grand Mosque District						
+AE	00000		Abu Dhabi	AZ	Habshan						
+AE	00000		Abu Dhabi	AZ	Hadbat az Za'faranah						
+AE	00000		Abu Dhabi	AZ	Hafif						
+AE	00000		Abu Dhabi	AZ	Hamarur						
+AE	00000		Abu Dhabi	AZ	Hameem						
+AE	00000		Abu Dhabi	AZ	Hamim						
+AE	00000		Abu Dhabi	AZ	Hilli						
+AE	00000		Abu Dhabi	AZ	Humar						
+AE	00000		Abu Dhabi	AZ	Huwaylah						
+AE	00000		Abu Dhabi	AZ	Huwaytayn						
+AE	00000		Abu Dhabi	AZ	Hydra Village						
+AE	00000		Abu Dhabi	AZ	Istayhah						
+AE	00000		Abu Dhabi	AZ	Jayf						
+AE	00000		Abu Dhabi	AZ	Jebel Dhanna						
+AE	00000		Abu Dhabi	AZ	Jurayrah						
+AE	00000		Abu Dhabi	AZ	Kayyah						
+AE	00000		Abu Dhabi	AZ	Khalifa City B						
+AE	00000		Abu Dhabi	AZ	Khalifa Street						
+AE	00000		Abu Dhabi	AZ	Khannur						
+AE	00000		Abu Dhabi	AZ	Liwa						
+AE	00000		Abu Dhabi	AZ	Lulu Island						
+AE	00000		Abu Dhabi	AZ	Madinat ad Dubbat						
+AE	00000		Abu Dhabi	AZ	Madinat an Nahdah						
+AE	00000		Abu Dhabi	AZ	Madinat Khalifah A						
+AE	00000		Abu Dhabi	AZ	Madinat Khalifah B						
+AE	00000		Abu Dhabi	AZ	Madinat Zayed						
+AE	00000		Abu Dhabi	AZ	Madinat Zayid						
+AE	00000		Abu Dhabi	AZ	Mahdar Bin 'Usayyan						
+AE	00000		Abu Dhabi	AZ	Majra al Ghaf						
+AE	00000		Abu Dhabi	AZ	Marawwah						
+AE	00000		Abu Dhabi	AZ	Marina Village						
+AE	00000		Abu Dhabi	AZ	Mas'udi						
+AE	00000		Abu Dhabi	AZ	Masdar City						
+AE	00000		Abu Dhabi	AZ	Mawsil						
+AE	00000		Abu Dhabi	AZ	Mazyad						
+AE	00000		Abu Dhabi	AZ	Milqatah						
+AE	00000		Abu Dhabi	AZ	Mintaqah Bayn al Jisrayn						
+AE	00000		Abu Dhabi	AZ	Mintaqat al Matar						
+AE	00000		Abu Dhabi	AZ	Mohamed Bin Zayed City						
+AE	00000		Abu Dhabi	AZ	Mujib						
+AE	00000		Abu Dhabi	AZ	Mundafinah						
+AE	00000		Abu Dhabi	AZ	Muroor Area						
+AE	00000		Abu Dhabi	AZ	Mussafah						
+AE	00000		Abu Dhabi	AZ	Muzayri'						
+AE	00000		Abu Dhabi	AZ	Nafir						
+AE	00000		Abu Dhabi	AZ	Nahel						
+AE	00000		Abu Dhabi	AZ	Naqrah						
+AE	00000		Abu Dhabi	AZ	NPCC, Mussafa, Abu DHabi						
+AE	00000		Abu Dhabi	AZ	Nuqayrah						
+AE	00000		Abu Dhabi	AZ	Nurai Island						
+AE	00000		Abu Dhabi	AZ	Police Officers City						
+AE	00000		Abu Dhabi	AZ	Qaryat at Turath						
+AE	00000		Abu Dhabi	AZ	Qasr al Bahr						
+AE	00000		Abu Dhabi	AZ	Qasr ash Shati'						
+AE	00000		Abu Dhabi	AZ	Qasr El Bahr						
+AE	00000		Abu Dhabi	AZ	Qasr El Shatie						
+AE	00000		Abu Dhabi	AZ	Qattarah						
+AE	00000		Abu Dhabi	AZ	Qu'aysah						
+AE	00000		Abu Dhabi	AZ	Qurmidah						
+AE	00000		Abu Dhabi	AZ	Qutuf						
+AE	00000		Abu Dhabi	AZ	Ras Khumais						
+AE	00000		Abu Dhabi	AZ	Rowdat Al Reef Palace						
+AE	00000		Abu Dhabi	AZ	Saadiyat Island						
+AE	00000		Abu Dhabi	AZ	Sabkhah						
+AE	00000		Abu Dhabi	AZ	Sas Al Nakheel						
+AE	00000		Abu Dhabi	AZ	Sas an Nakhl						
+AE	00000		Abu Dhabi	AZ	Shah						
+AE	00000		Abu Dhabi	AZ	Shati' ar Rahah						
+AE	00000		Abu Dhabi	AZ	Sikkat al Khayl						
+AE	00000		Abu Dhabi	AZ	Suwayhan						
+AE	00000		Abu Dhabi	AZ	Sweihan						
+AE	00000		Abu Dhabi	AZ	Taraq						
+AE	00000		Abu Dhabi	AZ	Tarif						
+AE	00000		Abu Dhabi	AZ	Tharwaniyah						
+AE	00000		Abu Dhabi	AZ	Tourist Club Area						
+AE	00000		Abu Dhabi	AZ	Umm al Qurayn						
+AE	00000		Abu Dhabi	AZ	Wadhil						
+AE	00000		Abu Dhabi	AZ	Wafd						
+AE	00000		Abu Dhabi	AZ	Yafur						
+AE	00000		Abu Dhabi	AZ	Yas Island						
+AE	00000		Abu Dhabi	AZ	Yas Marina F1 Circuit						
+AE	00000		Abu Dhabi	AZ	Zafir						
+AE	00000		Abu Dhabi	AZ	Zayed Military City						
+AE	00000		Ajman	AJ	Ain Ajman						
+AE	00000		Ajman	AJ	Ajman						
+AE	00000		Ajman	AJ	Al Ameera Village						
+AE	00000		Ajman	AJ	Al Bustan						
+AE	00000		Ajman	AJ	Al Butain						
+AE	00000		Ajman	AJ	Al Hamidiyah						
+AE	00000		Ajman	AJ	Al Humaid City						
+AE	00000		Ajman	AJ	Al Ittihad Village						
+AE	00000		Ajman	AJ	Al Naimiya						
+AE	00000		Ajman	AJ	Al Nakhil						
+AE	00000		Ajman	AJ	Al Owan						
+AE	00000		Ajman	AJ	Al Rumailah						
+AE	00000		Ajman	AJ	Al Zahraa						
+AE	00000		Ajman	AJ	Bustan						
+AE	00000		Ajman	AJ	Corniche						
+AE	00000		Ajman	AJ	Downtown						
+AE	00000		Ajman	AJ	Emirates City						
+AE	00000		Ajman	AJ	Green City						
+AE	00000		Ajman	AJ	Hamideeyah						
+AE	00000		Ajman	AJ	Hasat al Bidiyah						
+AE	00000		Ajman	AJ	Helio						
+AE	00000		Ajman	AJ	Industrial Area						
+AE	00000		Ajman	AJ	Jurf						
+AE	00000		Ajman	AJ	Marina						
+AE	00000		Ajman	AJ	Musheirif						
+AE	00000		Ajman	AJ	Musheirif Commercial						
+AE	00000		Ajman	AJ	Muwayhat						
+AE	00000		Ajman	AJ	Nakheel						
+AE	00000		Ajman	AJ	Naymiyah						
+AE	00000		Ajman	AJ	Private Airfield						
+AE	00000		Ajman	AJ	Rashidiya						
+AE	00000		Ajman	AJ	Rumaylah						
+AE	00000		Ajman	AJ	Sawan						
+AE	00000		Ajman	AJ	Tala						
+AE	00000		Ajman	AJ	Uptown						
+AE	00000		Ajman	AJ	Zahra						
+AE	00000		Ajman	AJ	Zawra						
+AE	00000		Dubai	DU	Abu Hail						
+AE	00000		Dubai	DU	Abu Hayl						
+AE	00000		Dubai	DU	Academic City						
+AE	00000		Dubai	DU	Ad Daghayah						
+AE	00000		Dubai	DU	Airport Free Zone						
+AE	00000		Dubai	DU	Akoya						
+AE	00000		Dubai	DU	Al Aweer						
+AE	00000		Dubai	DU	Al Awir						
+AE	00000		Dubai	DU	Al Bada						
+AE	00000		Dubai	DU	Al Bada'a						
+AE	00000		Dubai	DU	Al Baharnah						
+AE	00000		Dubai	DU	Al Balush						
+AE	00000		Dubai	DU	Al Baraha						
+AE	00000		Dubai	DU	Al Barahah						
+AE	00000		Dubai	DU	Al Barari						
+AE	00000		Dubai	DU	Al Barsha 1						
+AE	00000		Dubai	DU	Al Barsha 2						
+AE	00000		Dubai	DU	Al Barsha 3						
+AE	00000		Dubai	DU	Al Barsha South 1						
+AE	00000		Dubai	DU	Al Barsha South 2						
+AE	00000		Dubai	DU	Al Barsha South 3						
+AE	00000		Dubai	DU	Al Faq						
+AE	00000		Dubai	DU	Al Furjan						
+AE	00000		Dubai	DU	Al Garhoud						
+AE	00000		Dubai	DU	Al Hajarayn						
+AE	00000		Dubai	DU	Al Hamriyah						
+AE	00000		Dubai	DU	Al Hudaba						
+AE	00000		Dubai	DU	Al Hudaiba						
+AE	00000		Dubai	DU	Al Hudaybah						
+AE	00000		Dubai	DU	Al Jadaf						
+AE	00000		Dubai	DU	Al Jafiliya						
+AE	00000		Dubai	DU	Al Jafliya						
+AE	00000		Dubai	DU	Al Karama						
+AE	00000		Dubai	DU	Al Khabasi						
+AE	00000		Dubai	DU	Al Khabeesi						
+AE	00000		Dubai	DU	Al Khail Gate Residential						
+AE	00000		Dubai	DU	Al Khawanij						
+AE	00000		Dubai	DU	Al Kifaf						
+AE	00000		Dubai	DU	Al Lusayli						
+AE	00000		Dubai	DU	Al Mahra						
+AE	00000		Dubai	DU	Al Manara						
+AE	00000		Dubai	DU	Al Mankhool						
+AE	00000		Dubai	DU	Al Marqadh						
+AE	00000		Dubai	DU	Al Matinah						
+AE	00000		Dubai	DU	Al Mina						
+AE	00000		Dubai	DU	Al Mizhar						
+AE	00000		Dubai	DU	Al Mizhar 1						
+AE	00000		Dubai	DU	Al Mizhar 2						
+AE	00000		Dubai	DU	Al Muhaisnah						
+AE	00000		Dubai	DU	Al Muraqqabat						
+AE	00000		Dubai	DU	Al Murar						
+AE	00000		Dubai	DU	Al Murar al Jadid						
+AE	00000		Dubai	DU	Al Murar al Qadim						
+AE	00000		Dubai	DU	Al Musalla						
+AE	00000		Dubai	DU	Al Nahda						
+AE	00000		Dubai	DU	Al Nassem						
+AE	00000		Dubai	DU	Al Qawz						
+AE	00000		Dubai	DU	Al Quoz						
+AE	00000		Dubai	DU	Al Quoz 1						
+AE	00000		Dubai	DU	Al Quoz 2						
+AE	00000		Dubai	DU	Al Quoz Industrial Area 1						
+AE	00000		Dubai	DU	Al Quoz Industrial Area 2						
+AE	00000		Dubai	DU	Al Quoz Industrial Area 3						
+AE	00000		Dubai	DU	Al Quoz Industrial Area 4						
+AE	00000		Dubai	DU	Al Qusais 1						
+AE	00000		Dubai	DU	Al Qusais 2						
+AE	00000		Dubai	DU	Al Qusais 3						
+AE	00000		Dubai	DU	Al Qusais Industrial Area 1						
+AE	00000		Dubai	DU	Al Qusais Industrial Area 2						
+AE	00000		Dubai	DU	Al Qusais Industrial Area 5						
+AE	00000		Dubai	DU	Al Qusays						
+AE	00000		Dubai	DU	Al Raffa						
+AE	00000		Dubai	DU	Al Ras						
+AE	00000		Dubai	DU	Al Rashidiya						
+AE	00000		Dubai	DU	Al Reem 1						
+AE	00000		Dubai	DU	Al Reem 2						
+AE	00000		Dubai	DU	Al Reem 3						
+AE	00000		Dubai	DU	Al Rigga						
+AE	00000		Dubai	DU	Al Safa 1						
+AE	00000		Dubai	DU	Al Safa 2						
+AE	00000		Dubai	DU	Al Salam						
+AE	00000		Dubai	DU	Al Satwa						
+AE	00000		Dubai	DU	Al Shindagah						
+AE	00000		Dubai	DU	Al Sufouh 1						
+AE	00000		Dubai	DU	Al Sufouh 2						
+AE	00000		Dubai	DU	Al Twar 1						
+AE	00000		Dubai	DU	Al Twar 2						
+AE	00000		Dubai	DU	Al Twar 3						
+AE	00000		Dubai	DU	Al Usbij						
+AE	00000		Dubai	DU	Al Waha Villas						
+AE	00000		Dubai	DU	Al Waheda						
+AE	00000		Dubai	DU	Al Warqa'a						
+AE	00000		Dubai	DU	Al Wasl						
+AE	00000		Dubai	DU	Al Wuheida						
+AE	00000		Dubai	DU	Alma 1						
+AE	00000		Dubai	DU	Alma 2						
+AE	00000		Dubai	DU	Alvorada						
+AE	00000		Dubai	DU	Alvorada 1						
+AE	00000		Dubai	DU	Alvorada 2						
+AE	00000		Dubai	DU	Alvorada 3						
+AE	00000		Dubai	DU	Alvorada 4						
+AE	00000		Dubai	DU	Amber Way						
+AE	00000		Dubai	DU	An Nakhl						
+AE	00000		Dubai	DU	Ar Ra's						
+AE	00000		Dubai	DU	Ar Rashidiyah						
+AE	00000		Dubai	DU	Ar Rifa'ah						
+AE	00000		Dubai	DU	Ar Riqqah						
+AE	00000		Dubai	DU	Ar Riqqah Gharb						
+AE	00000		Dubai	DU	Ar Riqqah Sharq						
+AE	00000		Dubai	DU	Arabella						
+AE	00000		Dubai	DU	Arabian Ranches						
+AE	00000		Dubai	DU	Arabian Ranches 2						
+AE	00000		Dubai	DU	Arjan						
+AE	00000		Dubai	DU	Armada towers						
+AE	00000		Dubai	DU	As Sabkhah						
+AE	00000		Dubai	DU	As Safa						
+AE	00000		Dubai	DU	As Satwah						
+AE	00000		Dubai	DU	Ash Shamal						
+AE	00000		Dubai	DU	Ash Shindaghah						
+AE	00000		Dubai	DU	At Tawar						
+AE	00000		Dubai	DU	Ayal Nasir						
+AE	00000		Dubai	DU	Azalea						
+AE	00000		Dubai	DU	Block 12K						
+AE	00000		Dubai	DU	Block 5A						
+AE	00000		Dubai	DU	Block 5B						
+AE	00000		Dubai	DU	Block 5C						
+AE	00000		Dubai	DU	Block 5D						
+AE	00000		Dubai	DU	Block 5E						
+AE	00000		Dubai	DU	Block 5F						
+AE	00000		Dubai	DU	Block 5G						
+AE	00000		Dubai	DU	Block 7C						
+AE	00000		Dubai	DU	Brookfield						
+AE	00000		Dubai	DU	Bu Kadra						
+AE	00000		Dubai	DU	Bur Dubai						
+AE	00000		Dubai	DU	Bur Sa'id						
+AE	00000		Dubai	DU	Burj Nahar						
+AE	00000		Dubai	DU	Business Bay						
+AE	00000		Dubai	DU	Calida Village						
+AE	00000		Dubai	DU	Carmen Village						
+AE	00000		Dubai	DU	Carmen Village North						
+AE	00000		Dubai	DU	Casa Villas						
+AE	00000		Dubai	DU	City of Arabia						
+AE	00000		Dubai	DU	Clubhouse Area						
+AE	00000		Dubai	DU	Corniche Deira						
+AE	00000		Dubai	DU	Culture Village						
+AE	00000		Dubai	DU	Dawwar Burj Nahar						
+AE	00000		Dubai	DU	Dayrah						
+AE	00000		Dubai	DU	Deema 1						
+AE	00000		Dubai	DU	Deema 2						
+AE	00000		Dubai	DU	Deema 3						
+AE	00000		Dubai	DU	Deema 4						
+AE	00000		Dubai	DU	Deira						
+AE	00000		Dubai	DU	Discovery Gardens						
+AE	00000		Dubai	DU	District 5						
+AE	00000		Dubai	DU	District 7						
+AE	00000		Dubai	DU	Downtown Burj Khalifa						
+AE	00000		Dubai	DU	Dubai Aid City						
+AE	00000		Dubai	DU	Dubai Airport Freezone Area						
+AE	00000		Dubai	DU	Dubai Autodrome						
+AE	00000		Dubai	DU	Dubai Design District						
+AE	00000		Dubai	DU	Dubai Festival City						
+AE	00000		Dubai	DU	Dubai Golf City						
+AE	00000		Dubai	DU	Dubai Healthcare City						
+AE	00000		Dubai	DU	Dubai Industrial City						
+AE	00000		Dubai	DU	Dubai International Academic City						
+AE	00000		Dubai	DU	Dubai International Financial Center (DIFC)						
+AE	00000		Dubai	DU	Dubai International Media Production Zone (IMPZ)						
+AE	00000		Dubai	DU	Dubai Internet City						
+AE	00000		Dubai	DU	Dubai Investments Park						
+AE	00000		Dubai	DU	Dubai Land						
+AE	00000		Dubai	DU	Dubai Lifestyle City						
+AE	00000		Dubai	DU	Dubai Marina						
+AE	00000		Dubai	DU	Dubai Media City						
+AE	00000		Dubai	DU	Dubai Media City 2						
+AE	00000		Dubai	DU	Dubai Outlet City						
+AE	00000		Dubai	DU	Dubai Pearl						
+AE	00000		Dubai	DU	Dubai Promenade						
+AE	00000		Dubai	DU	Dubai Residence Complex						
+AE	00000		Dubai	DU	Dubai Silicon Oasis						
+AE	00000		Dubai	DU	Dubai Sports City						
+AE	00000		Dubai	DU	Dubai Studio City						
+AE	00000		Dubai	DU	Dubai Sustainable City						
+AE	00000		Dubai	DU	Dubai Waterfront						
+AE	00000		Dubai	DU	Dubai World Central						
+AE	00000		Dubai	DU	DuBiotech						
+AE	00000		Dubai	DU	Emirates Hill 1						
+AE	00000		Dubai	DU	Emirates Hill 2						
+AE	00000		Dubai	DU	Emirates Hill 3						
+AE	00000		Dubai	DU	Emirates Hills						
+AE	00000		Dubai	DU	Esmeralda Village						
+AE	00000		Dubai	DU	Estella Village						
+AE	00000		Dubai	DU	Falcon City of Wonders 1						
+AE	00000		Dubai	DU	Falcon City of Wonders 2						
+AE	00000		Dubai	DU	Ferij al Muhadham						
+AE	00000		Dubai	DU	Fireside						
+AE	00000		Dubai	DU	Flame Tree Ridge						
+AE	00000		Dubai	DU	Forat						
+AE	00000		Dubai	DU	Ghadeer						
+AE	00000		Dubai	DU	Global Village						
+AE	00000		Dubai	DU	Golf Homes						
+AE	00000		Fujairah	FU	'Uqayr						
+AE	00000		Fujairah	FU	Abadilah						
+AE	00000		Fujairah	FU	Afarah						
+AE	00000		Fujairah	FU	Akamiyah						
+AE	00000		Fujairah	FU	Al Aqah						
+AE	00000		Fujairah	FU	Al Awdah						
+AE	00000		Fujairah	FU	Al Ayn al Ghumur						
+AE	00000		Fujairah	FU	Al Fuqait						
+AE	00000		Fujairah	FU	Al Ghurfa						
+AE	00000		Fujairah	FU	Al Ghurfah						
+AE	00000		Fujairah	FU	Al Gissemari						
+AE	00000		Fujairah	FU	Al Halah						
+AE	00000		Fujairah	FU	Al Hayl						
+AE	00000		Fujairah	FU	Al Hinya						
+AE	00000		Fujairah	FU	Al Kubus						
+AE	00000		Fujairah	FU	Al Manamah						
+AE	00000		Fujairah	FU	Al Qurayyah						
+AE	00000		Fujairah	FU	Al Uyaynah						
+AE	00000		Fujairah	FU	Aqqah						
+AE	00000		Fujairah	FU	Ar Rul						
+AE	00000		Fujairah	FU	Asamah						
+AE	00000		Fujairah	FU	Ashashah						
+AE	00000		Fujairah	FU	Badiyah						
+AE	00000		Fujairah	FU	Bitnah						
+AE	00000		Fujairah	FU	Corniche						
+AE	00000		Fujairah	FU	Dab'ah						
+AE	00000		Fujairah	FU	Dadna						
+AE	00000		Fujairah	FU	Dahir						
+AE	00000		Fujairah	FU	Diba						
+AE	00000		Fujairah	FU	Dibba						
+AE	00000		Fujairah	FU	Dub						
+AE	00000		Fujairah	FU	Faqi						
+AE	00000		Fujairah	FU	Far'ah						
+AE	00000		Fujairah	FU	Friday Market						
+AE	00000		Fujairah	FU	Fujairah						
+AE	00000		Fujairah	FU	Ghamarah						
+AE	00000		Fujairah	FU	Ghayl						
+AE	00000		Fujairah	FU	Ghurfah						
+AE	00000		Fujairah	FU	Girath						
+AE	00000		Fujairah	FU	Haqil						
+AE	00000		Fujairah	FU	Harat Zutut						
+AE	00000		Fujairah	FU	Harrah						
+AE	00000		Fujairah	FU	Hatiyah						
+AE	00000		Fujairah	FU	Hayat						
+AE	00000		Fujairah	FU	Jareef						
+AE	00000		Fujairah	FU	Kalba						
+AE	00000		Fujairah	FU	Khalba						
+AE	00000		Fujairah	FU	Khawr Kalba						
+AE	00000		Fujairah	FU	Khor Khalba						
+AE	00000		Fujairah	FU	Khulaybiyah						
+AE	00000		Fujairah	FU	Mawrid						
+AE	00000		Fujairah	FU	Maydaq						
+AE	00000		Fujairah	FU	Merbah						
+AE	00000		Fujairah	FU	Minazif						
+AE	00000		Fujairah	FU	Mu'taridah						
+AE	00000		Fujairah	FU	Mukhtaraqah						
+AE	00000		Fujairah	FU	Murbad						
+AE	00000		Fujairah	FU	Murbah						
+AE	00000		Fujairah	FU	Murrah						
+AE	00000		Fujairah	FU	Nuhayy						
+AE	00000		Fujairah	FU	Qidfa						
+AE	00000		Fujairah	FU	Ras Dibba						
+AE	00000		Fujairah	FU	Riyamah						
+AE	00000		Fujairah	FU	Rughaylat						
+AE	00000		Fujairah	FU	Rul Dadna						
+AE	00000		Fujairah	FU	Sa'if						
+AE	00000		Fujairah	FU	Safad						
+AE	00000		Fujairah	FU	Saqamqam						
+AE	00000		Fujairah	FU	Sharm						
+AE	00000		Fujairah	FU	Shawiyah						
+AE	00000		Fujairah	FU	Sinnah						
+AE	00000		Fujairah	FU	Sram						
+AE	00000		Fujairah	FU	Sumbrair						
+AE	00000		Fujairah	FU	Sur						
+AE	00000		Fujairah	FU	Tarif Kalba						
+AE	00000		Fujairah	FU	Tariqat Ja'd						
+AE	00000		Fujairah	FU	Tawi Siji						
+AE	00000		Fujairah	FU	Tawian						
+AE	00000		Fujairah	FU	Tayyibah						
+AE	00000		Fujairah	FU	Theeb						
+AE	00000		Fujairah	FU	Thoban						
+AE	00000		Fujairah	FU	Wa'bayn						
+AE	00000		Fujairah	FU	Wahala						
+AE	00000		Fujairah	FU	Wamm						
+AE	00000		Fujairah	FU	Yalah						
+AE	00000		Fujairah	FU	Zanhah						
+AE	00000		Fujairah	FU	Zikt						
+AE	00000		Ras al-Khaimah	RK	'Ayim						
+AE	00000		Ras al-Khaimah	RK	Adh Dharbaniyah						
+AE	00000		Ras al-Khaimah	RK	Adhan						
+AE	00000		Ras al-Khaimah	RK	Al Darbijaniyah						
+AE	00000		Ras al-Khaimah	RK	Al Dhait North						
+AE	00000		Ras al-Khaimah	RK	Al Dhait South						
+AE	00000		Ras al-Khaimah	RK	Al Duhaisah						
+AE	00000		Ras al-Khaimah	RK	Al Fahlayn						
+AE	00000		Ras al-Khaimah	RK	Al Fara						
+AE	00000		Ras al-Khaimah	RK	Al Fay						
+AE	00000		Ras al-Khaimah	RK	Al Fulayyah						
+AE	00000		Ras al-Khaimah	RK	Al Ghabah						
+AE	00000		Ras al-Khaimah	RK	Al Ghabam						
+AE	00000		Ras al-Khaimah	RK	Al Ghail						
+AE	00000		Ras al-Khaimah	RK	Al Ghashban						
+AE	00000		Ras al-Khaimah	RK	Al Ghubb						
+AE	00000		Ras al-Khaimah	RK	Al Hamra Village						
+AE	00000		Ras al-Khaimah	RK	Al Hamraniyah						
+AE	00000		Ras al-Khaimah	RK	Al Hayr						
+AE	00000		Ras al-Khaimah	RK	Al Hulaylah						
+AE	00000		Ras al-Khaimah	RK	Al Jaddah						
+AE	00000		Ras al-Khaimah	RK	Al Jazirah al Hamra						
+AE	00000		Ras al-Khaimah	RK	Al Jazirah Aviation Club						
+AE	00000		Ras al-Khaimah	RK	Al Juwais						
+AE	00000		Ras al-Khaimah	RK	Al Khari						
+AE	00000		Ras al-Khaimah	RK	Al Kharran						
+AE	00000		Ras al-Khaimah	RK	Al Khashfah						
+AE	00000		Ras al-Khaimah	RK	Al Mahamm						
+AE	00000		Ras al-Khaimah	RK	Al Mairid						
+AE	00000		Ras al-Khaimah	RK	Al Mamourah						
+AE	00000		Ras al-Khaimah	RK	Al Marjan Island						
+AE	00000		Ras al-Khaimah	RK	Al Masafirah						
+AE	00000		Ras al-Khaimah	RK	Al Mataf						
+AE	00000		Ras al-Khaimah	RK	Al Mu'amurah						
+AE	00000		Ras al-Khaimah	RK	Al Nadiyah						
+AE	00000		Ras al-Khaimah	RK	Al Nakheel						
+AE	00000		Ras al-Khaimah	RK	Al Nudood						
+AE	00000		Ras al-Khaimah	RK	Al Qir						
+AE	00000		Ras al-Khaimah	RK	Al Qurm						
+AE	00000		Ras al-Khaimah	RK	Al Qusaidat						
+AE	00000		Ras al-Khaimah	RK	Al Quwayz						
+AE	00000		Ras al-Khaimah	RK	Al Rams						
+AE	00000		Ras al-Khaimah	RK	Al Sall						
+AE	00000		Ras al-Khaimah	RK	Al Seer						
+AE	00000		Ras al-Khaimah	RK	Al Sharisha						
+AE	00000		Ras al-Khaimah	RK	Al Soor						
+AE	00000		Ras al-Khaimah	RK	Al Turfa						
+AE	00000		Ras al-Khaimah	RK	Al Uraibi						
+AE	00000		Ras al-Khaimah	RK	Al Usayli						
+AE	00000		Ras al-Khaimah	RK	Al Zahra						
+AE	00000		Ras al-Khaimah	RK	An Nakhil						
+AE	00000		Ras al-Khaimah	RK	Ar Rams						
+AE	00000		Ras al-Khaimah	RK	As Sur						
+AE	00000		Ras al-Khaimah	RK	Ash Sha'm						
+AE	00000		Ras al-Khaimah	RK	Athabat						
+AE	00000		Ras al-Khaimah	RK	Baqal						
+AE	00000		Ras al-Khaimah	RK	Bida						
+AE	00000		Ras al-Khaimah	RK	Bidiyah						
+AE	00000		Ras al-Khaimah	RK	Bulaydah						
+AE	00000		Ras al-Khaimah	RK	Corniche						
+AE	00000		Ras al-Khaimah	RK	Creek						
+AE	00000		Ras al-Khaimah	RK	Dafan Al Khor						
+AE	00000		Ras al-Khaimah	RK	Daftah						
+AE	00000		Ras al-Khaimah	RK	Darah						
+AE	00000		Ras al-Khaimah	RK	Dayah						
+AE	00000		Ras al-Khaimah	RK	Daynah						
+AE	00000		Ras al-Khaimah	RK	Dhad al Arab						
+AE	00000		Ras al-Khaimah	RK	Difan						
+AE	00000		Ras al-Khaimah	RK	Dihan						
+AE	00000		Ras al-Khaimah	RK	Diqdaqah						
+AE	00000		Ras al-Khaimah	RK	Fa'y						
+AE	00000		Ras al-Khaimah	RK	Fashrah						
+AE	00000		Ras al-Khaimah	RK	Fayyad						
+AE	00000		Ras al-Khaimah	RK	Furfar						
+AE	00000		Ras al-Khaimah	RK	Ghadf						
+AE	00000		Ras al-Khaimah	RK	Ghaghah						
+AE	00000		Ras al-Khaimah	RK	Ghalilah						
+AE	00000		Ras al-Khaimah	RK	Ghayl						
+AE	00000		Ras al-Khaimah	RK	Ghubb						
+AE	00000		Ras al-Khaimah	RK	Ghubbat Khawrah						
+AE	00000		Ras al-Khaimah	RK	Ghurah						
+AE	00000		Ras al-Khaimah	RK	Gragrah						
+AE	00000		Ras al-Khaimah	RK	Habhab						
+AE	00000		Ras al-Khaimah	RK	Ham Ham						
+AE	00000		Ras al-Khaimah	RK	Harat Awali						
+AE	00000		Ras al-Khaimah	RK	Hayl						
+AE	00000		Ras al-Khaimah	RK	Hudaybah						
+AE	00000		Ras al-Khaimah	RK	Huwaylat						
+AE	00000		Ras al-Khaimah	RK	Industrial & Technology Park						
+AE	00000		Ras al-Khaimah	RK	Khabakhib						
+AE	00000		Ras al-Khaimah	RK	Kharran						
+AE	00000		Ras al-Khaimah	RK	Khatt						
+AE	00000		Ras al-Khaimah	RK	Khawr Khuwayr						
+AE	00000		Ras al-Khaimah	RK	Khuzam						
+AE	00000		Ras al-Khaimah	RK	Kub						
+AE	00000		Ras al-Khaimah	RK	Liwa Badr						
+AE	00000		Ras al-Khaimah	RK	Ma'ali						
+AE	00000		Ras al-Khaimah	RK	Maghribiyah						
+AE	00000		Ras al-Khaimah	RK	Manqashah						
+AE	00000		Ras al-Khaimah	RK	Marhamid						
+AE	00000		Ras al-Khaimah	RK	Masafi						
+AE	00000		Ras al-Khaimah	RK	Masah						
+AE	00000		Ras al-Khaimah	RK	Mina Al Arab						
+AE	00000		Ras al-Khaimah	RK	Minha						
+AE	00000		Ras al-Khaimah	RK	Mu'ayrid						
+AE	00000		Ras al-Khaimah	RK	Munay'i						
+AE	00000		Ras al-Khaimah	RK	Muraytah						
+AE	00000		Ras al-Khaimah	RK	Old Market						
+AE	00000		Ras al-Khaimah	RK	Qabas						
+AE	00000		Ras al-Khaimah	RK	Qaf'ah						
+AE	00000		Ras al-Khaimah	RK	Qarat ad Dum						
+AE	00000		Ras al-Khaimah	RK	Quar Ah Qahlish						
+AE	00000		Ras al-Khaimah	RK	Qur						
+AE	00000		Ras al-Khaimah	RK	Qurm						
+AE	00000		Ras al-Khaimah	RK	Qusaydat						
+AE	00000		Ras al-Khaimah	RK	Rafaq						
+AE	00000		Ras al-Khaimah	RK	RAK airport						
+AE	00000		Ras al-Khaimah	RK	RAK City						
+AE	00000		Ras al-Khaimah	RK	Ramlah						
+AE	00000		Ras al-Khaimah	RK	Ras al Selaab						
+AE	00000		Ras al-Khaimah	RK	Rima						
+AE	00000		Ras al-Khaimah	RK	Sal Dora						
+AE	00000		Ras al-Khaimah	RK	Salihiyah						
+AE	00000		Ras al-Khaimah	RK	Samarat						
+AE	00000		Ras al-Khaimah	RK	Saraya Islands						
+AE	00000		Ras al-Khaimah	RK	Sayh						
+AE	00000		Ras al-Khaimah	RK	Sayh as Saqlah						
+AE	00000		Ras al-Khaimah	RK	Seih Al Burairat						
+AE	00000		Ras al-Khaimah	RK	Seih Al Ghubb						
+AE	00000		Ras al-Khaimah	RK	Seih Al Harf						
+AE	00000		Ras al-Khaimah	RK	Seih Al Hudaibah						
+AE	00000		Ras al-Khaimah	RK	Seih Al Qusaidat						
+AE	00000		Ras al-Khaimah	RK	Seih Al Uraibi						
+AE	00000		Ras al-Khaimah	RK	Seih Shihyar						
+AE	00000		Ras al-Khaimah	RK	Sha'am						
+AE	00000		Ras al-Khaimah	RK	Sha'biyat Naslah						
+AE	00000		Ras al-Khaimah	RK	Shabakah						
+AE	00000		Ras al-Khaimah	RK	Shah						
+AE	00000		Ras al-Khaimah	RK	Shahawat						
+AE	00000		Ras al-Khaimah	RK	Shamal Haqueel						
+AE	00000		Ras al-Khaimah	RK	Shamal Julphar						
+AE	00000		Ras al-Khaimah	RK	Sharyat						
+AE	00000		Ras al-Khaimah	RK	Shawkah						
+AE	00000		Ras al-Khaimah	RK	Shimal						
+AE	00000		Ras al-Khaimah	RK	Sidroh						
+AE	00000		Ras al-Khaimah	RK	Stan						
+AE	00000		Ras al-Khaimah	RK	Suhaybah						
+AE	00000		Ras al-Khaimah	RK	Uraybi						
+AE	00000		Ras al-Khaimah	RK	Wad Wid						
+AE	00000		Ras al-Khaimah	RK	Wadi Ammar						
+AE	00000		Ras al-Khaimah	RK	Wadi Sha'am						
+AE	00000		Ras al-Khaimah	RK	Waterfront						
+AE	00000		Ras al-Khaimah	RK	Wayb Hawf						
+AE	00000		Ras al-Khaimah	RK	Yasmin Village						
+AE	00000		Ras al-Khaimah	RK	Yinas						
+AE	00000		Sharjah	SH	Abu Sangara						
+AE	00000		Sharjah	SH	Adh Dhayd						
+AE	00000		Sharjah	SH	Al Aber						
+AE	00000		Sharjah	SH	Al Ardiyah						
+AE	00000		Sharjah	SH	Al Azrra						
+AE	00000		Sharjah	SH	Al Butina						
+AE	00000		Sharjah	SH	Al Darrare						
+AE	00000		Sharjah	SH	Al Dhaid						
+AE	00000		Sharjah	SH	Al Fallaj						
+AE	00000		Sharjah	SH	Al Fayha						
+AE	00000		Sharjah	SH	AL Ghafiya						
+AE	00000		Sharjah	SH	Al Ghuhaiba						
+AE	00000		Sharjah	SH	Al Ghuwair						
+AE	00000		Sharjah	SH	Al Goaz						
+AE	00000		Sharjah	SH	Al Hamriyah						
+AE	00000		Sharjah	SH	Al Hawayah						
+AE	00000		Sharjah	SH	Al Hayrah						
+AE	00000		Sharjah	SH	Al Hazana						
+AE	00000		Sharjah	SH	Al Heera Suburb						
+AE	00000		Sharjah	SH	Al Hutain						
+AE	00000		Sharjah	SH	Al Jazzat						
+AE	00000		Sharjah	SH	Al Khabba						
+AE	00000		Sharjah	SH	AL Khaildia Suburb						
+AE	00000		Sharjah	SH	Al Khaldeia						
+AE	00000		Sharjah	SH	Al Khan						
+AE	00000		Sharjah	SH	Al Khouzamiya						
+AE	00000		Sharjah	SH	Al Madam						
+AE	00000		Sharjah	SH	Al Mahatah						
+AE	00000		Sharjah	SH	Al Majaz						
+AE	00000		Sharjah	SH	Al Mamzar						
+AE	00000		Sharjah	SH	Al Mamzer						
+AE	00000		Sharjah	SH	Al Manakh						
+AE	00000		Sharjah	SH	Al Marijah						
+AE	00000		Sharjah	SH	Al Mirgab						
+AE	00000		Sharjah	SH	Al Mudaifi						
+AE	00000		Sharjah	SH	Al Mussalla						
+AE	00000		Sharjah	SH	Al Nabba						
+AE	00000		Sharjah	SH	Al Nahda 1						
+AE	00000		Sharjah	SH	Al Nahda 2						
+AE	00000		Sharjah	SH	Al Nasserya						
+AE	00000		Sharjah	SH	Al nekhailat						
+AE	00000		Sharjah	SH	Al Nud						
+AE	00000		Sharjah	SH	Al Qadsia						
+AE	00000		Sharjah	SH	Al Qasba						
+AE	00000		Sharjah	SH	Al Qasemiya						
+AE	00000		Sharjah	SH	Al Qusais Industrial Area 3						
+AE	00000		Sharjah	SH	Al Qusais Industrial Area 4						
+AE	00000		Sharjah	SH	Al Ramaqia						
+AE	00000		Sharjah	SH	Al Ramla						
+AE	00000		Sharjah	SH	Al Ramla East						
+AE	00000		Sharjah	SH	AL Ramla West						
+AE	00000		Sharjah	SH	Al Ramtha						
+AE	00000		Sharjah	SH	Al Rifa						
+AE	00000		Sharjah	SH	Al Rifah						
+AE	00000		Sharjah	SH	Al Riqa Suburb						
+AE	00000		Sharjah	SH	Al Shahab						
+AE	00000		Sharjah	SH	Al Sharq						
+AE	00000		Sharjah	SH	Al Shuwaiheen						
+AE	00000		Sharjah	SH	Al Subaikhi						
+AE	00000		Sharjah	SH	Al Swehat						
+AE	00000		Sharjah	SH	Al Talae						
+AE	00000		Sharjah	SH	Al Wahda						
+AE	00000		Sharjah	SH	Al Yarmook						
+AE	00000		Sharjah	SH	an-Nahwa						
+AE	00000		Sharjah	SH	Ar Rufaysah						
+AE	00000		Sharjah	SH	Ash Shu'ayb						
+AE	00000		Sharjah	SH	Bu Danig						
+AE	00000		Sharjah	SH	Bu Tina						
+AE	00000		Sharjah	SH	Corniche Al Buhaira						
+AE	00000		Sharjah	SH	Eliash						
+AE	00000		Sharjah	SH	Etisalat						
+AE	00000		Sharjah	SH	Ghunah						
+AE	00000		Sharjah	SH	Hajar						
+AE	00000		Sharjah	SH	Hamriya						
+AE	00000		Sharjah	SH	Hamriyah Free Zone						
+AE	00000		Sharjah	SH	Hiyawah						
+AE	00000		Sharjah	SH	Hizayib az Zanah						
+AE	00000		Sharjah	SH	Industrial Area 13						
+AE	00000		Sharjah	SH	Khawr Fakkan						
+AE	00000		Sharjah	SH	Khor Fakkan						
+AE	00000		Sharjah	SH	Layyah						
+AE	00000		Sharjah	SH	Lulayyah						
+AE	00000		Sharjah	SH	Madha						
+AE	00000		Sharjah	SH	Maysaloon						
+AE	00000		Sharjah	SH	Muwafjah						
+AE	00000		Sharjah	SH	Nahwa						
+AE	00000		Sharjah	SH	Nazwa						
+AE	00000		Sharjah	SH	Nedaifi						
+AE	00000		Sharjah	SH	New Shwaib						
+AE	00000		Sharjah	SH	Private airfield						
+AE	00000		Sharjah	SH	Rafa'						
+AE	00000		Sharjah	SH	Rolla Area						
+AE	00000		Sharjah	SH	Rollah Square						
+AE	00000		Sharjah	SH	Sa'd						
+AE	00000		Sharjah	SH	Sahanah						
+AE	00000		Sharjah	SH	Samnan						
+AE	00000		Sharjah	SH	Saruj						
+AE	00000		Sharjah	SH	Shargan						
+AE	00000		Sharjah	SH	Sharjah						
+AE	00000		Sharjah	SH	Sharjah Airport Free Zone (SAIF)						
+AE	00000		Sharjah	SH	Sharjah Industrial Area 1						
+AE	00000		Sharjah	SH	Sharjah Industrial Area 10						
+AE	00000		Sharjah	SH	Sharjah Industrial Area 12						
+AE	00000		Sharjah	SH	Sharjah Industrial Area 2						
+AE	00000		Sharjah	SH	Sharjah Industrial Area 3						
+AE	00000		Sharjah	SH	Sharjah Industrial Area 4						
+AE	00000		Sharjah	SH	Sharjah Industrial Area 5						
+AE	00000		Sharjah	SH	Sharjah Industrial Area 6						
+AE	00000		Sharjah	SH	Sharjah Industrial Area 7						
+AE	00000		Sharjah	SH	Sharjah Industrial Area 8						
+AE	00000		Sharjah	SH	Sharjah Industrial Area 9						
+AE	00000		Sharjah	SH	Shis						
+AE	00000		Sharjah	SH	Shwaib						
+AE	00000		Sharjah	SH	Turrfana						
+AE	00000		Sharjah	SH	Um Tarrafa						
+AE	00000		Sharjah	SH	Umm Khanoor						
+AE	00000		Sharjah	SH	Wadi Shi						
+AE	00000		Sharjah	SH	Wasit Suburb						
+AE	00000		Sharjah	SH	Zubarah						
+AE	00000		Umm al-Quwain	UQ	Al Abraq						
+AE	00000		Umm al-Quwain	UQ	Al Adhib						
+AE	00000		Umm al-Quwain	UQ	Al Dar Al Baida - A						
+AE	00000		Umm al-Quwain	UQ	Al Dar Al Baida - B						
+AE	00000		Umm al-Quwain	UQ	Al Haditha						
+AE	00000		Umm al-Quwain	UQ	Al Hamrah - B						
+AE	00000		Umm al-Quwain	UQ	Al Hamrah - D						
+AE	00000		Umm al-Quwain	UQ	Al Hawiyah						
+AE	00000		Umm al-Quwain	UQ	Al Hazaywah						
+AE	00000		Umm al-Quwain	UQ	Al Humrah - A						
+AE	00000		Umm al-Quwain	UQ	Al Khor						
+AE	00000		Umm al-Quwain	UQ	Al Labsah						
+AE	00000		Umm al-Quwain	UQ	Al Limghadar						
+AE	00000		Umm al-Quwain	UQ	Al Madar						
+AE	00000		Umm al-Quwain	UQ	Al Maidan						
+AE	00000		Umm al-Quwain	UQ	Al Quram						
+AE	00000		Umm al-Quwain	UQ	Al Ra'as - A						
+AE	00000		Umm al-Quwain	UQ	Al Ra'as - B						
+AE	00000		Umm al-Quwain	UQ	Al Ra'as - C						
+AE	00000		Umm al-Quwain	UQ	Al Ra'as - D						
+AE	00000		Umm al-Quwain	UQ	Al Raudah						
+AE	00000		Umm al-Quwain	UQ	Al Riqqah						
+AE	00000		Umm al-Quwain	UQ	Al Salam City						
+AE	00000		Umm al-Quwain	UQ	Ar Ra'fah						
+AE	00000		Umm al-Quwain	UQ	Ar Ramlah						
+AE	00000		Umm al-Quwain	UQ	Ar Rashidiyah						
+AE	00000		Umm al-Quwain	UQ	As Salamah						
+AE	00000		Umm al-Quwain	UQ	As Surrah						
+AE	00000		Umm al-Quwain	UQ	Barracuda						
+AE	00000		Umm al-Quwain	UQ	Barracuda Beach Resort						
+AE	00000		Umm al-Quwain	UQ	Biyatah						
+AE	00000		Umm al-Quwain	UQ	Defence Camp						
+AE	00000		Umm al-Quwain	UQ	Diwwan Al Amiri						
+AE	00000		Umm al-Quwain	UQ	Emirates Modern Industrial						
+AE	00000		Umm al-Quwain	UQ	Emirates Motorplex						
+AE	00000		Umm al-Quwain	UQ	Environmental Marine Research Center						
+AE	00000		Umm al-Quwain	UQ	Falaj al Moalla						
+AE	00000		Umm al-Quwain	UQ	Falaj al Mu'alla						
+AE	00000		Umm al-Quwain	UQ	Green Belt						
+AE	00000		Umm al-Quwain	UQ	Industrial Area A						
+AE	00000		Umm al-Quwain	UQ	Industrial Area B						
+AE	00000		Umm al-Quwain	UQ	Industrial Area C						
+AE	00000		Umm al-Quwain	UQ	Kabir						
+AE	00000		Umm al-Quwain	UQ	Lazimah						
+AE	00000		Umm al-Quwain	UQ	Mintaqah al Hadithah						
+AE	00000		Umm al-Quwain	UQ	Mintaqat ad Dar al Bayda A						
+AE	00000		Umm al-Quwain	UQ	Mintaqat ad Dar al Bayda B						
+AE	00000		Umm al-Quwain	UQ	Mintaqat al 'Ahd						
+AE	00000		Umm al-Quwain	UQ	Mintaqat al Hawiyah						
+AE	00000		Umm al-Quwain	UQ	Mintaqat al Humrah A						
+AE	00000		Umm al-Quwain	UQ	Mintaqat al Humrah B						
+AE	00000		Umm al-Quwain	UQ	Mintaqat al Humrah D						
+AE	00000		Umm al-Quwain	UQ	Mintaqat al Humrah J						
+AE	00000		Umm al-Quwain	UQ	Mintaqat al Khawr						
+AE	00000		Umm al-Quwain	UQ	Mintaqat al Madinah al Qadimah						
+AE	00000		Umm al-Quwain	UQ	Mintaqat al Maydan						
+AE	00000		Umm al-Quwain	UQ	Mintaqat ar Ra's A						
+AE	00000		Umm al-Quwain	UQ	Mintaqat ar Ra's B						
+AE	00000		Umm al-Quwain	UQ	Mintaqat ar Ra's D						
+AE	00000		Umm al-Quwain	UQ	Mintaqat ar Ra's J						
+AE	00000		Umm al-Quwain	UQ	Mintaqat ar Rawdah						
+AE	00000		Umm al-Quwain	UQ	Mintaqat ar Riqqah						
+AE	00000		Umm al-Quwain	UQ	Mintaqat Limghadar						
+AE	00000		Umm al-Quwain	UQ	Mintaqat Umm al Qaywayn at Tibbiyah						
+AE	00000		Umm al-Quwain	UQ	Muhadhdhib						
+AE	00000		Umm al-Quwain	UQ	Old Town						
+AE	00000		Umm al-Quwain	UQ	The settlement of fishermen						
+AE	00000		Umm al-Quwain	UQ	Umm Al Quwain						
+AE	00000		Umm al-Quwain	UQ	Umm Al Quwain Aviation & Parachute Club						
+AE	00000		Umm al-Quwain	UQ	Umm Al Quwain Hunting & Shooting Club						
+AE	00000		Umm al-Quwain	UQ	Umm Al Quwain Marina						
+AE	00000		Umm al-Quwain	UQ	Uwaynat						
